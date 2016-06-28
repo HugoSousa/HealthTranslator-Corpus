@@ -22,3 +22,5 @@ Later on, the terms that were annotated by the person in a group, but not by the
 Therefore, the gold standard corpus is the group of documents with annotations composed by the consensual concepts on both sides.  Although the lay group completed both annotation phases in 60 documents, only 38 documents were finished by the professional group. Thus, this corpus is constituted of 38 documents with a match on both groups, but there are 22 documents annotated by laypeople but without a matching professional annotation.
 
 Note: The annotator's identity have been anonimated. Thus, persons from the professional group are represented by a letter and from the lay group by a number.
+
+Note 2: [BratUtils](https://github.com/savkov/BratUtils) is a tool for calculating inter-annotator agreement in brat annotation files.
