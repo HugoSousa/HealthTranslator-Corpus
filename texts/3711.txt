@@ -1,0 +1,12 @@
+Esse eixo se refere à morfologia do tumor. Tem importância adicional, porque a Nomenclatura Sistematizada de Medicina ( SNOMED ) adotou a classificação morfológica do CID-O.
+
+(9690-9699) Linfoma maligno , folicular ou nodular, com ou sem áreas difusas
+
+( M 9983/3 ) Anemia refratária com excesso de blastos
+
+( M 9986/3 ) Síndrome mielodisplásica com deleção 5q (5q-)
+
+O eixo de topografia é para os códigos topográficos do local do tumor. Ele é padronizado com a seção C do CID-10
+
+Esta página foi modificada pela última vez à(s) 12h25min de 8 de maio de 2013.
+

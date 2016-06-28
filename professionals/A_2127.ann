@@ -1,0 +1,102 @@
+T1	Automatic-Concept 334 348	ondas de calor
+T2	Automatic-Concept 401 408	nu00E1usea
+T3	Automatic-Concept 71 80	ansiedade
+T4	Automatic-Concept 458 467	ansiedade
+T5	Automatic-Concept 734 743	ansiedade
+T6	Automatic-Concept 792 812	transtorno do pu00E2nico
+T7	Automatic-Concept 857 862	fobia
+T8	Automatic-Concept 1413 1419	cabeu00E7a
+T9	Automatic-Concept 1241 1256	hiperventilau00E7u00E3o
+T10	Automatic-Concept 1156 1163	nu00E1usea
+T11	Automatic-Concept 2136 2143	pescou00E7o
+T12	Automatic-Concept 1892 1917	sistema nervoso simpu00E1tico
+T13	Automatic-Concept 2012 2024	dor toru00E1cica
+T14	Automatic-Concept 1974 1982	dispneia
+T15	Automatic-Concept 2047 2061	ondas de calor
+T16	Automatic-Concept 2223 2238	hiperventilau00E7u00E3o
+T17	Automatic-Concept 2157 2164	nu00E1usea
+T18	Automatic-Concept 2241 2251	parestesia
+T19	Automatic-Concept 2180 2188	vertigem
+T20	Automatic-Concept 2732 2749	eletrocardiograma
+T21	Automatic-Concept 3031 3038	doenu00E7a
+T22	Automatic-Concept 3049 3055	doenu00E7a
+T23	Automatic-Concept 2857 2866	ansiedade
+T24	Automatic-Concept 2995 3004	ansiedade
+T25	Automatic-Concept 3244 3249	fobia
+T26	Automatic-Concept 3792 3798	fobia
+T27	Automatic-Concept 4391 4398	cu00E9rebro
+T28	Automatic-Concept 4244 4252	remissu00E3o
+T29	Medical-Concept 3 19	ataque de pu00E2nico
+T30	Medical-Concept 43 58	crise de pu00E2nico
+T31	Medical-Concept 62 67	crise
+T32	Medical-Concept 106 110	medo
+T33	Medical-Concept 114 125	desconforto
+T34	Medical-Concept 262 271	calafrios
+T35	Medical-Concept 297 310	desrealizau00E7u00E3o
+T36	Medical-Concept 314 331	despersonalizau00E7u00E3o
+T37	Medical-Concept 350 373	dificuldade em respirar
+T38	Medical-Concept 376 387	palpitau00E7u00F5es
+T39	Medical-Concept 411 418	tontura
+T40	Medical-Concept 487 503	ataque de pu00E2nico
+T41	Medical-Concept 636 652	ataque de pu00E2nico
+T42	Medical-Concept 1857 1873	ataque de pu00E2nico
+T43	Medical-Concept 2630 2646	ataque de pu00E2nico
+T44	Medical-Concept 2805 2821	ataque de pu00E2nico
+T45	Medical-Concept 3174 3190	ataque de pu00E2nico
+T46	Medical-Concept 3466 3482	ataque de pu00E2nico
+T47	Medical-Concept 903 909	crises
+T48	Medical-Concept 939 956	ataques de pu00E2nico
+T49	Medical-Concept 965 988	medo repentino da morte
+T50	Medical-Concept 994 1011	estado de loucura
+T51	Medical-Concept 1021 1069	perda de controle das emou00E7u00F5es e do comportamento
+T52	Medical-Concept 1072 1114	sensau00E7u00E3o de estar tendo um ataque cardu00EDaco
+T53	Medical-Concept 1118 1132	visu00E3o piscando
+T54	Medical-Concept 1165 1202	sensau00E7u00E3o de dormu00EAncia em todo o corpo
+T55	Medical-Concept 1205 1222	respirau00E7u00E3o pesada
+T56	Medical-Concept 1291 1305	visu00E3o de tu00FAnel
+T57	Medical-Concept 1308 1333	perda da visu00E3o perifu00E9rica
+T58	Medical-Concept 1389 1404	fluxo de sangue
+T59	Medical-Concept 1459 1465	ataque
+T60	Medical-Concept 1586 1610	reau00E7u00E3o de lutar ou fugir
+T61	Medical-Concept 1636 1650	dores no peito
+T62	Medical-Concept 1654 1665	falta de ar
+T63	Medical-Concept 1708 1716	urgu00EAncia
+T64	Medical-Concept 1757 1763	ataque
+T65	Medical-Concept 1798 1807	hormu00F4nios
+T66	Medical-Concept 1836 1846	adrenalina
+T67	Medical-Concept 1963 1971	tremores
+T68	Medical-Concept 1998 2009	palpitau00E7u00F5es
+T69	Medical-Concept 2064 2077	ondas de frio
+T70	Medical-Concept 2146 2154	sudorese
+T71	Medical-Concept 2167 2175	tonturas
+T72	Medical-Concept 2212 2220	tonturas
+T73	Medical-Concept 2268 2287	sensau00E7u00E3o de asfixia
+T74	Medical-Concept 2291 2302	sufocamento
+T75	Medical-Concept 2305 2332	dificuldade de movimentau00E7u00E3o
+T76	Medical-Concept 2335 2348	desrealizau00E7u00E3o
+T77	Medical-Concept 2369 2380	falta de ar
+T78	Medical-Concept 2383 2395	dor no peito
+T79	Medical-Concept 2496 2511	ataque cardu00EDaco
+T80	Medical-Concept 2602 2626	doenu00E7as cardiovasculares
+T81	Medical-Concept 2652 2675	diagnu00F3stico de exclusu00E3o
+T82	Medical-Concept 2756 2781	avaliau00E7u00E3o de sau00FAde mental
+T83	Medical-Concept 2895 2912	Ataques de pu00E2nico
+T84	Medical-Concept 3101 3116	desordem mental
+T85	Medical-Concept 3262 3279	ataques de pu00E2nico
+T86	Medical-Concept 3324 3331	ataques
+T87	Medical-Concept 3444 3461	ansiedade cru00F4nica
+T88	Medical-Concept 3517 3533	exaustu00E3o nervosa
+T89	Medical-Concept 3753 3765	medicamentos
+T90	Medical-Concept 3819 3844	terapia de acompanhamento
+T91	Medical-Concept 3964 3970	pu00E2nico
+T92	Medical-Concept 4106 4115	calmantes
+T93	Medical-Concept 4209 4227	neurotransmissores
+T94	Medical-Concept 4263 4291	sintomas fu00EDsicos e psu00EDquicos
+T95	Medical-Concept 4300 4315	antidepressivos
+T96	Medical-Concept 4329 4340	dependu00EAncia
+T97	Medical-Concept 4359 4365	nu00EDveis
+T98	Medical-Concept 4377 4387	serotonina
+T99	Medical-Concept 274 295	sensau00E7u00E3o de desespero
+T100	Medical-Concept 252 260	tremores
+T101	Medical-Concept 1135 1154	sensau00E7u00E3o de desmaio
+T102	Medical-Concept 2079 2100	sensau00E7u00E3o de queimau00E7u00E3o

@@ -1,0 +1,96 @@
+T1	Medical_Concept 19 24	tumor
+T2	Medical_Concept 283 288	tumor
+T3	Medical_Concept 0 13	osteossarcoma
+T4	Medical_Concept 133 146	osteossarcoma
+T5	Medical_Concept 224 237	osteossarcoma
+T6	Medical_Concept 37 42	osso
+T7	Medical_Concept 535 542	joelho
+T8	Medical_Concept 398 403	tumor
+T9	Medical_Concept 375 386	tumor u00F3sseo
+T10	Medical_Concept 670 683	osteossarcoma
+T11	Medical_Concept 827 837	amputau00E7u00E3o
+T12	Medical_Concept 854 867	osteossarcoma
+T13	Automatic-Concept 1224 1239	doenu00E7a de paget
+T14	Medical_Concept 1138 1148	incidu00EAncia
+T15	Medical_Concept 1400 1406	joelho
+T16	Medical_Concept 1416 1421	ombro
+T17	Medical_Concept 1620 1624	pele
+T18	Medical_Concept 1315 1320	tumor
+T19	Medical_Concept 1497 1501	osso
+T20	Medical_Concept 1574 1578	osso
+T21	Automatic-Concept 1555 1558	dor
+T22	Medical_Concept 1668 1681	osteossarcoma
+T23	Medical_Concept 1805 1811	doenu00E7a
+T24	Medical_Concept 1727 1732	osso
+T25	Medical_Concept 1739 1744	dor
+T26	Medical_Concept 1926 1931	u00FAmero
+T27	Medical_Concept 1818 1823	tumor
+T28	Medical_Concept 2067 2074	quadril
+T29	Medical_Concept 2098 2107	mandu00EDbula
+T30	Medical_Concept 2026 2032	joelho
+T31	Medical_Concept 2260 2269	periu00F3steo
+T32	Medical_Concept 2084 2089	ombro
+T33	Medical_Concept 2112 2117	tumor
+T34	Medical_Concept 1977 1990	osteossarcoma
+T35	Medical_Concept 2225 2236	radiografia
+T36	Medical_Concept 2351 2356	tumor
+T37	Medical_Concept 2435 2446	diagnu00F3stico
+T38	Medical_Concept 2471 2482	radiografia
+T39	Medical_Concept 2545 2550	osso
+T40	Medical_Concept 2486 2490	osso
+T41	Medical_Concept 2663 2673	metaplasia
+T42	Medical_Concept 2570 2583	osteossarcoma
+T43	Medical_Concept 2602 2614	radioterapia
+T44	Medical_Concept 2772 2781	amputau00E7u00E3o
+T45	Medical_Concept 2892 2901	amputau00E7u00E3o
+T46	Medical_Concept 2714 2718	osso
+T47	Medical_Concept 2943 2947	osso
+T48	Medical_Concept 3050 3058	cirurgia
+T49	Medical_Concept 78 85	pulmu00F5es
+T50	Medical_Concept 123 129	u00F3rgu00E3os
+T51	Medical_Concept 442 456	metu00E1fise u00F3ssea
+T52	Medical_Concept 460 482	ossos tubulares longos
+T53	Medical_Concept 643 649	cu00E2ncer
+T54	Medical_Concept 714 728	perna amputada
+T55	Medical_Concept 811 817	cu00E2ncer
+T56	Medical_Concept 889 895	cu00E2ncer
+T57	Medical_Concept 1193 1205	doenu00E7a u00F3ssea
+T58	Medical_Concept 331 346	doenu00E7a de Paget
+T59	Medical_Concept 1242 1257	infarto medular
+T60	Medical_Concept 1261 1271	irradiau00E7u00E3o
+T61	Medical_Concept 1352 1379	ossos compridos dos membros
+T62	Medical_Concept 1408 1412	anca
+T63	Medical_Concept 1434 1441	sintoma
+T64	Medical_Concept 1459 1478	tumefacu00E7u00E3o dolorosa
+T65	Medical_Concept 1555 1567	dor profunda
+T66	Medical_Concept 1649 1664	doenu00E7a da Paget
+T67	Medical_Concept 1859 1871	ossos longos
+T68	Medical_Concept 1892 1922	poru00E7u00E3o final superior da tu00EDbia
+T69	Medical_Concept 1939 1969	poru00E7u00E3o final inferior do fu00EAmur
+T70	Medical_Concept 2154 2172	espu00EDculas tumorais
+T71	Medical_Concept 2176 2192	osso calcificado
+T72	Medical_Concept 2287 2306	triu00E2ngulo de Codman
+T73	Medical_Concept 2312 2319	tecidos
+T74	Medical_Concept 2333 2344	infiltrados
+T75	Medical_Concept 2371 2388	metu00E1stases locais
+T76	Medical_Concept 2395 2411	via hematogu00EAnica
+T77	Medical_Concept 2420 2427	pulmu00F5es
+T78	Medical_Concept 2520 2540	exames imageolu00F3gicos
+T79	Medical_Concept 2559 2562	RMN
+T80	Medical_Concept 2638 2652	fator de risco
+T81	Medical_Concept 2688 2711	ressecar cirurgicamente
+T82	Medical_Concept 2788 2794	membro
+T83	Medical_Concept 2835 2846	endopru00F3tese
+T84	Medical_Concept 2872 2880	operau00E7u00E3o
+T85	Medical_Concept 2932 2940	ressecar
+T86	Medical_Concept 2979 2992	enxerto u00F3sseo
+T87	Medical_Concept 3009 3024	osso artificial
+T88	Medical_Concept 3026 3037	Endopru00F3tese
+T89	Medical_Concept 3081 3091	tratamento
+T90	Medical_Concept 3096 3121	fu00E1rmacos antineoplu00E1sticos
+T91	Medical_Concept 3162 3178	cu00E9lula cancerosa
+T92	Medical_Concept 3189 3200	metastizado
+T93	Medical_Concept 3221 3235	parte do corpo
+T94	Medical_Concept 3257 3267	tratamento
+T95	Medical_Concept 3298 3317	sobrevivu00EAncia mu00E9dia
+T96	Medical_Concept 3368 3387	sobrevivu00EAncia mu00E9dia

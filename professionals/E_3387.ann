@@ -1,0 +1,582 @@
+T1	Automatic-Concept 129 141	contracepu00E7u00E3o
+T2	Automatic-Concept 146 158	contracepu00E7u00E3o
+T3	Automatic-Concept 1289 1296	embriu00E3o
+T4	Automatic-Concept 741 747	aborto
+T5	Automatic-Concept 1320 1325	u00FAtero
+T6	Automatic-Concept 1352 1364	contracepu00E7u00E3o
+T7	Automatic-Concept 2162 2168	aborto
+T8	Automatic-Concept 2556 2562	aborto
+T9	Automatic-Concept 2132 2144	contracepu00E7u00E3o
+T10	Automatic-Concept 2444 2454	fecundau00E7u00E3o
+T11	Automatic-Concept 2876 2883	embriu00E3o
+T12	Automatic-Concept 2799 2804	u00F3vulo
+T13	Automatic-Concept 2780 2794	espermatozoide
+T14	Automatic-Concept 2834 2842	genu00E9tica
+T15	Automatic-Concept 2746 2756	fecundau00E7u00E3o
+T16	Automatic-Concept 2955 2965	endomu00E9trio
+T17	Automatic-Concept 2927 2932	u00F3vulo
+T18	Automatic-Concept 2919 2925	zigoto
+T19	Automatic-Concept 3091 3097	aborto
+T20	Automatic-Concept 2977 2982	u00FAtero
+T21	Automatic-Concept 3076 3088	contracepu00E7u00E3o
+T22	Automatic-Concept 3036 3044	medicina
+T23	Automatic-Concept 3154 3169	sistema nervoso
+T24	Automatic-Concept 3320 3327	cu00E9rebro
+T25	Automatic-Concept 3398 3418	sistema circulatu00F3rio
+T26	Automatic-Concept 3512 3518	sangue
+T27	Automatic-Concept 3601 3605	feto
+T28	Automatic-Concept 3630 3644	morte cerebral
+T29	Automatic-Concept 4328 4332	ceco
+T30	Automatic-Concept 4338 4347	intestino
+T31	Automatic-Concept 4523 4541	coito interrompido
+T32	Automatic-Concept 4468 4480	contracepu00E7u00E3o
+T33	Automatic-Concept 4575 4590	lavagem vaginal
+T34	Automatic-Concept 4660 4665	pu00EAnis
+T35	Automatic-Concept 5242 5257	espermatozoide
+T36	Automatic-Concept 5340 5355	espermatozoide
+T37	Automatic-Concept 4669 4675	vagina
+T38	Automatic-Concept 4839 4845	vagina
+T39	Automatic-Concept 4626 4644	coito interrompido
+T40	Automatic-Concept 4685 4695	ejaculau00E7u00E3o
+T41	Automatic-Concept 5278 5288	ejaculau00E7u00E3o
+T42	Automatic-Concept 5359 5369	ejaculau00E7u00E3o
+T43	Automatic-Concept 5696 5711	espermatozoide
+T44	Automatic-Concept 6181 6190	intestino
+T45	Automatic-Concept 5467 5478	supositu00F3rio
+T46	Automatic-Concept 6316 6328	contracepu00E7u00E3o
+T47	Automatic-Concept 6356 6363	su00EDfilis
+T48	Automatic-Concept 6490 6496	aborto
+T49	Automatic-Concept 6578 6584	aborto
+T50	Automatic-Concept 7341 7347	aborto
+T51	Automatic-Concept 7391 7395	rim
+T52	Automatic-Concept 6470 6476	droga
+T53	Automatic-Concept 7382 7388	fu00EDgado
+T54	Automatic-Concept 8979 8985	u00FAtero
+T55	Automatic-Concept 9275 9280	u00FAtero
+T56	Automatic-Concept 9414 9419	u00FAtero
+T57	Automatic-Concept 9263 9269	vagina
+T58	Automatic-Concept 10058 10069	fertilidade
+T59	Automatic-Concept 9806 9821	ciclo menstrual
+T60	Automatic-Concept 9921 9936	ciclo menstrual
+T61	Automatic-Concept 9757 9765	ovulau00E7u00E3o
+T62	Automatic-Concept 10334 10343	cirurgia
+T63	Automatic-Concept 11224 11236	contracepu00E7u00E3o
+T64	Automatic-Concept 11359 11374	espermatozoide
+T65	Automatic-Concept 11537 11542	pu00EAnis
+T66	Automatic-Concept 11805 11811	vagina
+T67	Automatic-Concept 11508 11519	poliuretano
+T68	Automatic-Concept 11617 11628	poliuretano
+T69	Automatic-Concept 11990 11996	cu00E9rvix
+T70	Automatic-Concept 12006 12011	u00FAtero
+T71	Automatic-Concept 11899 11905	vagina
+T72	Automatic-Concept 12027 12033	vagina
+T73	Automatic-Concept 12140 12149	diafragma
+T74	Automatic-Concept 12372 12381	diafragma
+T75	Automatic-Concept 12186 12194	membrana
+T76	Automatic-Concept 12242 12248	vagina
+T77	Automatic-Concept 12198 12206	borracha
+T78	Automatic-Concept 12590 12599	depressu00E3o
+T79	Automatic-Concept 12959 12967	ovulau00E7u00E3o
+T80	Automatic-Concept 13070 13082	progesterona
+T81	Automatic-Concept 13256 13263	injeu00E7u00E3o
+T82	Automatic-Concept 13330 13342	contracepu00E7u00E3o
+T83	Automatic-Concept 14091 14099	implante
+T84	Automatic-Concept 14165 14173	implante
+T85	Automatic-Concept 13755 13764	estradiol
+T86	Automatic-Concept 13462 13474	progesterona
+T87	Automatic-Concept 13979 13991	progesterona
+T88	Automatic-Concept 14325 14337	menstruau00E7u00E3o
+T89	Automatic-Concept 13816 13827	menstruau00E7u00E3o
+T90	Automatic-Concept 14741 14747	zigoto
+T91	Automatic-Concept 14557 14600	modulador seletivo do receptor de estru00F3geno
+T92	Automatic-Concept 14627 14635	ovulau00E7u00E3o
+T93	Automatic-Concept 15052 15058	brau00E7o
+T94	Automatic-Concept 15009 15014	u00FAtero
+T95	Automatic-Concept 15114 15119	u00FAtero
+T96	Automatic-Concept 15183 15188	u00FAtero
+T97	Automatic-Concept 16342 16348	aborto
+T98	Automatic-Concept 16413 16419	aborto
+T99	Automatic-Concept 16517 16523	aborto
+T100	Automatic-Concept 16539 16545	droga
+T101	Automatic-Concept 16683 16689	aborto
+T102	Automatic-Concept 16794 16800	aborto
+T103	Automatic-Concept 16923 16929	aborto
+T104	Automatic-Concept 17409 17417	cirurgia
+T105	Automatic-Concept 17289 17299	vasectomia
+T106	Automatic-Concept 17607 17614	ovu00E1rio
+T107	Automatic-Concept 17618 17623	u00FAtero
+T108	Automatic-Concept 17915 17921	u00F3vulo
+T109	Automatic-Concept 17991 18006	espermatozoide
+T110	Automatic-Concept 17883 17890	ovu00E1rio
+T111	Automatic-Concept 17897 17902	u00FAtero
+T112	Automatic-Concept 17958 17963	u00FAtero
+T113	Automatic-Concept 18039 18049	fecundau00E7u00E3o
+T114	Automatic-Concept 18586 18591	pu00EAnis
+T115	Automatic-Concept 18538 18553	espermatozoide
+T116	Automatic-Concept 18667 18682	espermatozoide
+T117	Automatic-Concept 18569 18579	testu00EDculo
+T118	Automatic-Concept 18817 18827	testu00EDculo
+T119	Automatic-Concept 18435 18443	cirurgia
+T120	Automatic-Concept 18601 18609	cirurgia
+T121	Automatic-Concept 18400 18410	vasectomia
+T122	Automatic-Concept 18733 18743	vasectomia
+T123	Automatic-Concept 18892 18900	cirurgia
+T124	Automatic-Concept 18961 18971	vasectomia
+T125	Automatic-Concept 19275 19287	contracepu00E7u00E3o
+T126	Automatic-Concept 19225 19238	esterilizau00E7u00E3o
+T127	Automatic-Concept 19291 19299	cirurgia
+T128	Automatic-Concept 19143 19153	vasectomia
+T129	Automatic-Concept 19719 19727	ovulau00E7u00E3o
+T130	Automatic-Concept 19770 19778	ovulau00E7u00E3o
+T131	Automatic-Concept 19825 19836	fertilidade
+T132	Automatic-Concept 19895 19906	fertilidade
+T133	Automatic-Concept 20276 20287	fertilidade
+T134	Automatic-Concept 20525 20536	fertilidade
+T135	Automatic-Concept 19990 20005	ciclo menstrual
+T136	Automatic-Concept 20843 20872	planejamento familiar natural
+T137	Automatic-Concept 21266 21295	planejamento familiar natural
+T138	Automatic-Concept 20953 20964	fertilidade
+T139	Automatic-Concept 21222 21233	fertilidade
+T140	Automatic-Concept 21094 21107	infertilidade
+T141	Automatic-Concept 21648 21659	fertilidade
+T142	Automatic-Concept 21759 21770	fertilidade
+T143	Automatic-Concept 21833 21844	fertilidade
+T144	Automatic-Concept 21981 21992	fertilidade
+T145	Automatic-Concept 22511 22516	pu00EAnis
+T146	Automatic-Concept 22434 22449	espermatozoide
+T147	Automatic-Concept 22640 22654	espermatozoide
+T148	Automatic-Concept 22084 22102	coito interrompido
+T149	Automatic-Concept 22266 22284	coito interrompido
+T150	Automatic-Concept 22233 22243	ejaculau00E7u00E3o
+T151	Automatic-Concept 22352 22362	ejaculau00E7u00E3o
+T152	Automatic-Concept 22556 22563	orgasmo
+T153	Automatic-Concept 23001 23004	mu00E3o
+T154	Automatic-Concept 22927 22933	vagina
+T155	Automatic-Concept 22828 22833	vulva
+T156	Automatic-Concept 23914 23927	infertilidade
+T157	Automatic-Concept 24324 24333	implante
+T158	Automatic-Concept 24337 24345	injeu00E7u00E3o
+T159	Automatic-Concept 24657 24670	esterilizau00E7u00E3o
+T160	Automatic-Concept 25145 25150	u00FAtero
+T161	Automatic-Concept 25511 25518	vagina
+T162	Automatic-Concept 24990 24996	vagina
+T163	Automatic-Concept 25759 25778	vaginose bacteriana
+T164	Automatic-Concept 25744 25751	doenu00E7a
+T165	Automatic-Concept 24755 24770	lavagem vaginal
+T166	Automatic-Concept 25703 25718	lavagem vaginal
+T167	Automatic-Concept 24966 24976	ejaculau00E7u00E3o
+T168	Automatic-Concept 26031 26041	candidu00EDase
+T169	Automatic-Concept 25880 25886	vagina
+T170	Automatic-Concept 25941 25951	ejaculau00E7u00E3o
+T171	Automatic-Concept 26216 26227	menstruau00E7u00E3o
+T172	Automatic-Concept 26779 26794	espermatozoide
+T173	Automatic-Concept 26576 26578	pu00E9
+T174	Automatic-Concept 26647 26652	u00FAtero
+T175	Automatic-Concept 26704 26709	u00FAtero
+T176	Automatic-Concept 26725 26740	prostaglandina
+T177	Automatic-Concept 26764 26774	habilidade
+T178	Automatic-Concept 26675 26685	ejaculau00E7u00E3o
+T179	Automatic-Concept 26944 26956	contracepu00E7u00E3o
+T180	Automatic-Concept 27122 27134	contracepu00E7u00E3o
+T181	Automatic-Concept 27591 27600	implante
+T182	Automatic-Concept 27799 27808	implante
+T183	Automatic-Concept 27784 27797	esterilizau00E7u00E3o
+T184	Automatic-Concept 28172 28183	fertilidade
+T185	Automatic-Concept 28416 28427	fertilidade
+T186	Automatic-Concept 28664 28673	diafragma
+T187	Automatic-Concept 29001 29006	pu00EAnis
+T188	Automatic-Concept 29010 29016	vagina
+T189	Automatic-Concept 28971 28989	coito interrompido
+T190	Automatic-Concept 29162 29180	coito interrompido
+T191	Automatic-Concept 29031 29041	ejaculau00E7u00E3o
+T192	Automatic-Concept 29982 29986	pele
+T193	Automatic-Concept 29991 29995	pele
+T194	Automatic-Concept 30058 30062	pele
+T195	Automatic-Concept 29601 29610	infecu00E7u00E3o
+T196	Automatic-Concept 29405 29417	contracepu00E7u00E3o
+T197	Automatic-Concept 29701 29708	doenu00E7a
+T198	Automatic-Concept 30407 30419	contracepu00E7u00E3o
+T199	Automatic-Concept 30490 30497	doenu00E7a
+T200	Automatic-Concept 30886 30894	injeu00E7u00E3o
+T201	Automatic-Concept 31222 31228	aborto
+T202	Automatic-Concept 31202 31217	educau00E7u00E3o sexual
+T203	Automatic-Concept 32195 32202	crianu00E7a
+T204	Automatic-Concept 32052 32067	educau00E7u00E3o sexual
+T205	Automatic-Concept 32492 32498	aborto
+T206	Automatic-Concept 32706 32718	contracepu00E7u00E3o
+T207	Automatic-Concept 32814 32826	contracepu00E7u00E3o
+T208	Automatic-Concept 33330 33345	educau00E7u00E3o sexual
+T209	Automatic-Concept 34100 34115	educau00E7u00E3o sexual
+T210	Automatic-Concept 34551 34558	doenu00E7a
+T211	Automatic-Concept 34194 34209	educau00E7u00E3o sexual
+T212	Automatic-Concept 34848 34863	educau00E7u00E3o sexual
+T213	Medical-Concept 187 198	contraceu00E7u00E3o
+T214	Medical-Concept 224 246	controlo de natalidade
+T215	Medical-Concept 272 294	controle de natalidade
+T216	Medical-Concept 353 365	dispositivos
+T217	Medical-Concept 369 381	medicamentos
+T218	Medical-Concept 448 455	gru00E1vida
+T219	Medical-Concept 508 533	mu00E9todos anticoncepcionais
+T220	Medical-Concept 571 592	planejamento familiar
+T221	Medical-Concept 600 622	controle de natalidade
+T222	Medical-Concept 934 952	abstinu00EAncia sexual
+T223	Medical-Concept 908 918	nascimento
+T224	Medical-Concept 1009 1019	nascimento
+T225	Medical-Concept 1192 1204	fertilizau00E7u00E3o
+T226	Medical-Concept 1337 1345	gravidez
+T227	Medical-Concept 1962 1975	preservativos
+T228	Medical-Concept 2202 2210	gravidez
+T229	Medical-Concept 1088 1106	natalidade natural
+T230	Medical-Concept 1166 1176	natalidade
+T231	Medical-Concept 1259 1269	natalidade
+T232	Medical-Concept 2888 2895	Nidau00E7u00E3o
+T233	Medical-Concept 3693 3705	medicamentos
+T234	Medical-Concept 3758 3772	contraceptivos
+T235	Medical-Concept 3782 3810	contraceptivos de emergu00EAncia
+T236	Medical-Concept 3817 3839	pu00EDlula do dia seguinte
+T237	Medical-Concept 3896 3918	medicamentos abortivos
+T238	Medical-Concept 4138 4163	mu00E9todos anticoncepcionais
+T239	Medical-Concept 4277 4290	preservativos
+T240	Medical-Concept 4497 4515	abstinu00EAncia sexual
+T241	Medical-Concept 4551 4570	mu00E9todos de barreira
+T242	Medical-Concept 4761 4771	natalidade
+T243	Medical-Concept 4821 4826	su00EAmen
+T244	Medical-Concept 4862 4870	gravidez
+T245	Medical-Concept 4977 4985	gravidez
+T246	Medical-Concept 5083 5099	relau00E7u00F5es sexuais
+T247	Medical-Concept 5137 5160	fluido pru00E9-ejaculatu00F3rio
+T248	Medical-Concept 5175 5183	gravidez
+T249	Medical-Concept 5454 5462	pessu00E1rio
+T250	Medical-Concept 5643 5654	espermicida
+T251	Medical-Concept 5717 5737	cu00E9lulas germinativas
+T252	Medical-Concept 5803 5814	microscu00F3pio
+T253	Medical-Concept 5840 5859	mu00E9todos de barreira
+T254	Medical-Concept 5936 5945	concepu00E7u00E3o
+T255	Medical-Concept 6022 6030	cervical
+T256	Medical-Concept 6091 6103	preservativo
+T257	Medical-Concept 6251 6264	preservativos
+T258	Medical-Concept 6277 6282	lu00E1tex
+T259	Medical-Concept 6445 6457	antibiu00F3ticos
+T260	Medical-Concept 6619 6629	natalidade
+T261	Medical-Concept 6847 6866	sistema reprodutivo
+T262	Medical-Concept 6899 6907	mercu00FArio
+T263	Medical-Concept 6912 6920	arsu00EAnico
+T264	Medical-Concept 6931 6950	substu00E2ncias tu00F3xicas
+T265	Medical-Concept 6975 6988	ginecologista
+T266	Medical-Concept 7199 7218	agentes abortu00EDferos
+T267	Medical-Concept 7295 7313	compostos quu00EDmicos
+T268	Medical-Concept 7405 7411	u00F3rgu00E3os
+T269	Medical-Concept 7483 7496	morte materna
+T270	Medical-Concept 7517 7526	pu00F3s-parto
+T271	Medical-Concept 7562 7579	efeitos colaterais
+T272	Medical-Concept 7585 7610	mu00E9todos anticoncepcionais
+T273	Medical-Concept 7613 7622	abortivos
+T274	Medical-Concept 7678 7699	planejamento familiar
+T275	Medical-Concept 7800 7810	natalidade
+T276	Medical-Concept 8066 8076	nascimento
+T277	Medical-Concept 8550 8560	natalidade
+T278	Medical-Concept 8648 8662	ginecologistas
+T279	Medical-Concept 8735 8749	ginecologistas
+T280	Medical-Concept 8783 8793	nascimento
+T281	Medical-Concept 8878 8899	planejamento familiar
+T282	Medical-Concept 9018 9026	gravidez
+T283	Medical-Concept 9057 9060	DIU
+T284	Medical-Concept 9223 9249	dispositivos interuterinos
+T285	Medical-Concept 9355 9380	dispositivo intra-uterino
+T286	Medical-Concept 9943 9952	hormu00F4nios
+T287	Medical-Concept 9995 10015	contraceptivos orais
+T288	Medical-Concept 10122 10147	mu00E9todos anticoncepcionais
+T289	Medical-Concept 10149 10163	contraceptivos
+T290	Medical-Concept 10223 10231	gravidez
+T291	Medical-Concept 10359 10382	mu00E9todo anticoncepcional
+T292	Medical-Concept 10565 10581	doenu00E7as cru00F4nicas
+T293	Medical-Concept 10944 10978	doenu00E7as sexualmente transmissu00EDveis
+T294	Medical-Concept 11018 11032	relau00E7u00E3o sexual
+T295	Medical-Concept 11083 11101	mu00E9todo de barreira
+T296	Medical-Concept 11154 11166	preservativo
+T297	Medical-Concept 11187 11209	preservativo masculino
+T298	Medical-Concept 11269 11288	mu00E9todos de barreira
+T299	Medical-Concept 11389 11415	trato reprodutivo feminino
+T300	Medical-Concept 11422 11440	mu00E9todo de barreira
+T301	Medical-Concept 11458 11480	preservativo masculino
+T302	Medical-Concept 11499 11504	lu00E1tex
+T303	Medical-Concept 11546 11558	preservativo
+T304	Medical-Concept 11632 11653	preservativo feminino
+T305	Medical-Concept 11719 11730	osso pu00FAbico
+T306	Medical-Concept 11743 11755	preservativo
+T307	Medical-Concept 11816 11835	Barreiras cervicais
+T308	Medical-Concept 11840 11852	dispositivos
+T309	Medical-Concept 11915 11923	cervical
+T310	Medical-Concept 11934 11951	barreira cervical
+T311	Medical-Concept 12059 12076	barreira cervical
+T312	Medical-Concept 12264 12277	colo do u00FAtero
+T313	Medical-Concept 12331 12342	espermicida
+T314	Medical-Concept 12411 12424	ginecologista
+T315	Medical-Concept 12486 12499	colo do u00FAtero
+T316	Medical-Concept 12514 12527	contraceptiva
+T317	Medical-Concept 12632 12644	colo uterino
+T318	Medical-Concept 12648 12659	espermicida
+T319	Medical-Concept 12766 12780	relau00E7u00E3o sexual
+T320	Medical-Concept 12826 12847	contracepu00E7u00E3o hormonal
+T321	Medical-Concept 12911 12920	hormu00F4nios
+T322	Medical-Concept 12866 12880	ciclo ovariano
+T323	Medical-Concept 13014 13033	estru00F3geno sintu00E9tico
+T324	Medical-Concept 13036 13047	progestinas
+T325	Medical-Concept 13089 13113	contraceptivos hormonais
+T326	Medical-Concept 13131 13154	pu00EDlula anticoncepcional
+T327	Medical-Concept 13171 13178	Adesivo
+T328	Medical-Concept 13185 13211	anel vaginal contraceptivo
+T329	Medical-Concept 13277 13298	adesivo contraceptivo
+T330	Medical-Concept 13311 13326	mu00E9todo hormonal
+T331	Medical-Concept 13381 13391	progestina
+T332	Medical-Concept 13396 13418	progestu00E1geno sintu00E9tico
+T333	Medical-Concept 13437 13443	pu00EDlula
+T334	Medical-Concept 13501 13513	Depo Provera
+T335	Medical-Concept 13516 13546	acetato de medroxiprogesterona
+T336	Medical-Concept 13573 13596	injeu00E7u00E3o intramuscular a
+T337	Medical-Concept 13629 13653	acetato de noretisterona
+T338	Medical-Concept 13694 13715	injeu00E7u00E3o intramuscular
+T339	Medical-Concept 13767 13776	algestona
+T340	Medical-Concept 13884 13907	contraceptivo injetu00E1vel
+T341	Medical-Concept 13954 13960	pu00EDlula
+T342	Medical-Concept 14051 14069	pu00EDlulas combinadas
+T343	Medical-Concept 14182 14190	Implanon
+T344	Medical-Concept 14301 14311	progestina
+T345	Medical-Concept 14410 14419	hormu00F4nios
+T346	Medical-Concept 14424 14451	anticoncepcional subcutu00E2neo
+T347	Medical-Concept 14675 14701	espessamento do endomu00E9trio
+T348	Medical-Concept 14949 14963	Intra-uterinos
+T349	Medical-Concept 14968 14980	dispositivos
+T350	Medical-Concept 15205 15213	gravidez
+T351	Medical-Concept 15233 15237	DIUs
+T352	Medical-Concept 15283 15287	DIUs
+T353	Medical-Concept 15290 15294	SIUs
+T354	Automatic-Concept 15371 15375	DIUs
+T355	Medical-Concept 15471 15507	pu00EDlulas anticoncepcionais combinadas
+T356	Medical-Concept 15510 15549	pu00EDlulas exclusivamente de progestu00E1genos
+T357	Medical-Concept 15634 15654	mu00E9todo contraceptivo
+T358	Medical-Concept 15713 15740	relau00E7u00E3o sexual desprotegida
+T359	Medical-Concept 15780 15795	mu00E9todo de Yuzpe
+T360	Medical-Concept 15800 15835	contracepu00E7u00E3o de emergu00EAncia hormonal
+T361	Medical-Concept 15864 15886	pu00EDlula do dia seguinte
+T362	Medical-Concept 15941 15955	relau00E7u00E3o sexual
+T363	Medical-Concept 16014 16028	relau00E7u00E3o sexual
+T364	Medical-Concept 16050 16056	pu00EDlula
+T365	Medical-Concept 16111 16147	dispositivos intra-uterinos de cobre
+T366	Medical-Concept 16177 16203	contracepu00E7u00E3o de emergu00EAncia
+T367	Medical-Concept 16282 16304	mu00E9todo de contracepu00E7u00E3o
+T368	Medical-Concept 16308 16334	relau00E7u00E3o sexual desprotegida
+T369	Medical-Concept 16375 16399	procedimentos ciru00FArgicos
+T370	Medical-Concept 16420 16430	via sucu00E7u00E3o
+T371	Medical-Concept 16434 16443	aspirau00E7u00E3o
+T372	Medical-Concept 16471 16492	dilatau00E7u00E3o e evacuau00E7u00E3o
+T373	Medical-Concept 16564 16572	gravidez
+T374	Medical-Concept 16627 16635	gestau00E7u00E3o
+T375	Medical-Concept 16846 16864	efeitos colaterais
+T376	Medical-Concept 16909 16919	natalidade
+T377	Medical-Concept 16951 16971	mu00E9todo contraceptivo
+T378	Medical-Concept 17005 17013	gestau00E7u00E3o
+T379	Medical-Concept 17021 17028	nidau00E7u00E3o
+T380	Medical-Concept 17065 17074	concepu00E7u00E3o
+T381	Medical-Concept 17086 17101	aborto induzido
+T382	Medical-Concept 17119 17129	natalidade
+T383	Medical-Concept 17188 17211	esterilizau00E7u00E3o ciru00FArgica
+T384	Medical-Concept 17240 17259	ligadura de trompas
+T385	Medical-Concept 17261 17271	laqueadura
+T386	Medical-Concept 17357 17379	capacidade reprodutiva
+T387	Medical-Concept 17457 17500	procedimento de esterilizau00E7u00E3o nu00E3o-ciru00FArgico
+T388	Medical-Concept 17557 17575	trompas de Falu00F3pio
+T389	Medical-Concept 17577 17591	tubas uterinas
+T390	Medical-Concept 17670 17689	mu00E9todo contraceptivo
+T391	Medical-Concept 17697 17707	laqueadura
+T392	Medical-Concept 17711 17730	ligadura de trompas
+T393	Medical-Concept 17735 17767	mu00E9todo de esterilizau00E7u00E3o feminina
+T394	Medical-Concept 17798 17817	ligamento ciru00FArgico
+T395	Medical-Concept 17822 17840	trompas de Falu00F3pio
+T396	Medical-Concept 17842 17856	tubas uterinas
+T397	Medical-Concept 18145 18160	anestesia geral
+T398	Medical-Concept 18164 18172	regional
+T399	Medical-Concept 18227 18235	cirurgia
+T400	Medical-Concept 18283 18306	mu00E9todo anticoncepcional
+T401	Medical-Concept 18458 18466	virilhas
+T402	Medical-Concept 18482 18512	ligadura dos canais deferentes
+T403	Medical-Concept 18518 18524	ductos
+T404	Medical-Concept 18686 18693	esperma
+T405	Medical-Concept 18761 18776	potu00EAncia sexual
+T406	Medical-Concept 18795 18812	hormu00F4nios sexuais
+T407	Medical-Concept 19254 19271	mu00E9todos femininos
+T408	Medical-Concept 19345 19367	mu00E9todos contraceptivos
+T409	Medical-Concept 19475 19494	gravidez indesejada
+T410	Medical-Concept 19545 19557	dispositivos
+T411	Medical-Concept 19561 19573	medicamentos
+T412	Medical-Concept 19590 19616	temperatura corporal basal
+T413	Medical-Concept 19627 19651	ciclo menstrual feminino
+T414	Medical-Concept 19957 19970	fases fu00E9rteis
+T415	Medical-Concept 19973 19982	infu00E9rteis
+T416	Medical-Concept 20009 20027	sexo nu00E3o-protegido
+T417	Medical-Concept 20064 20070	fu00E9rtil
+T418	Medical-Concept 20095 20101	fu00E9rtil
+T419	Medical-Concept 20106 20125	mu00E9todos de barreira
+T420	Medical-Concept 20197 20201	sexo
+T421	Medical-Concept 20304 20330	temperatura corporal basal
+T422	Medical-Concept 20336 20349	muco cervical
+T423	Medical-Concept 20351 20367	secreu00E7u00E3o vaginal
+T424	Medical-Concept 20374 20390	posiu00E7u00E3o cervical
+T425	Medical-Concept 20401 20417	posiu00E7u00E3o cervical
+T426	Medical-Concept 20570 20596	temperatura basal corporal
+T427	Medical-Concept 20692 20705	mittelschmerz
+T428	Medical-Concept 21074 21092	mu00E9todo lactacional
+T429	Medical-Concept 21118 21129	amamentau00E7u00E3o
+T430	Medical-Concept 21133 21161	abstinu00EAncia sexual periu00F3dica
+T431	Medical-Concept 21173 21189	peru00EDodos fu00E9rteis
+T432	Medical-Concept 21319 21335	peru00EDodos fu00E9rteis
+T433	Medical-Concept 21406 21423	ciclos menstruais
+T434	Medical-Concept 21483 21489	fu00E9rtil
+T435	Medical-Concept 21525 21539	Mu00E9todo Ru00EDtmico
+T436	Medical-Concept 22118 22135	sexo interrompido
+T437	Medical-Concept 22163 22181	mu00E9todo da retirada
+T438	Medical-Concept 22209 22223	relau00E7u00E3o sexual
+T439	Medical-Concept 22419 22427	gravidez
+T440	Medical-Concept 22462 22485	fluido pru00E9-ejaculatu00F3rio
+T441	Medical-Concept 22687 22695	gravidez
+T442	Medical-Concept 22699 22726	sexo sem penetrau00E7u00E3o vaginal
+T443	Medical-Concept 22736 22745	sexo anal
+T444	Medical-Concept 22749 22758	sexo oral
+T445	Medical-Concept 22807 22812	su00EAmen
+T446	Medical-Concept 22844 22863	sexo sem penetrau00E7u00E3o
+T447	Medical-Concept 22877 22886	sexo anal
+T448	Medical-Concept 23097 23126	relau00E7u00E3o sexual com penetrau00E7u00E3o
+T449	Medical-Concept 23142 23160	abstinu00EAncia sexual
+T450	Medical-Concept 23195 23213	atividades sexuais
+T451	Medical-Concept 23247 23264	relau00E7u00F5es vaginais
+T452	Medical-Concept 23386 23402	atividade sexual
+T453	Medical-Concept 23321 23329	gravidez
+T454	Medical-Concept 23472 23480	gravidez
+T455	Medical-Concept 23594 23602	gravidez
+T456	Medical-Concept 23534 23554	mu00E9todo contraceptivo
+T457	Medical-Concept 23608 23611	DST
+T458	Medical-Concept 23719 23729	genitu00E1lias
+T459	Medical-Concept 23755 23760	su00EAmen
+T460	Medical-Concept 23767 23785	genitu00E1lia feminina
+T461	Medical-Concept 23802 23824	amenorreia lactacional
+T462	Medical-Concept 23938 23949	amamentau00E7u00E3o
+T463	Medical-Concept 23995 24019	peru00EDodo de infertilidade
+T464	Medical-Concept 24064 24075	amamentau00E7u00E3o
+T465	Medical-Concept 24099 24119	meios contraceptivos
+T466	Medical-Concept 24141 24149	gravidez
+T467	Medical-Concept 24188 24201	leite materno
+T468	Medical-Concept 24291 24322	contraceptivos orais masculinos
+T469	Medical-Concept 24373 24408	contraceptivos hormonais masculinos
+T470	Medical-Concept 24515 24535	mu00E9todo contraceptivo
+T471	Medical-Concept 24699 24721	pu00EDlula do dia seguinte
+T472	Medical-Concept 24792 24808	atividade sexual
+T473	Medical-Concept 24821 24841	mu00E9todo contraceptivo
+T474	Medical-Concept 25061 25091	estrutura reprodutora feminina
+T475	Medical-Concept 25120 25125	su00EAmen
+T476	Medical-Concept 25167 25183	au00E7u00E3o espermicida
+T477	Medical-Concept 25558 25569	surfactante
+T478	Medical-Concept 25812 25845	doenu00E7as sexualmente transmissu00EDveis
+T479	Medical-Concept 25983 25993	natalidade
+T480	Medical-Concept 26087 26094	gru00E1vida
+T481	Medical-Concept 26129 26139	ato sexual
+T482	Medical-Concept 26187 26193	fu00E9rtil
+T483	Medical-Concept 26273 26280	gru00E1vida
+T484	Medical-Concept 26290 26294	sexo
+T485	Medical-Concept 26346 26350	sexo
+T486	Medical-Concept 26396 26404	gravidez
+T487	Medical-Concept 26433 26451	infecu00E7u00F5es vaginais
+T488	Medical-Concept 26507 26515	gravidez
+T489	Medical-Concept 26568 26572	sexo
+T490	Medical-Concept 26636 26643	esperma
+T491	Medical-Concept 26656 26671	foru00E7a de ejeu00E7u00E3o
+T492	Medical-Concept 26744 26749	su00EAmen
+T493	Medical-Concept 26856 26864	Espirrar
+T494	Medical-Concept 26868 26874	urinar
+T495	Medical-Concept 26882 26892	ato sexual
+T496	Medical-Concept 27008 27028	mu00E9todo contraceptivo
+T497	Medical-Concept 27070 27087	infecu00E7u00F5es vaginais
+T498	Medical-Concept 27186 27194	gru00E1vidas
+T499	Medical-Concept 27217 27237	mu00E9todo contraceptivo
+T500	Medical-Concept 27393 27403	engravidar
+T501	Medical-Concept 27550 27573	esterilizau00E7u00E3o ciru00FArgica
+T502	Medical-Concept 27576 27588	Depo-Provera
+T503	Medical-Concept 27633 27637	DIUs
+T504	Medical-Concept 27604 27631	dispositivos intra-uterinos
+T505	Medical-Concept 27713 27725	Depo-Provera
+T506	Medical-Concept 27811 27815	DIUs
+T507	Medical-Concept 28118 28142	contraceptivos hormonais
+T508	Medical-Concept 28198 28220	amenorreia lactacional
+T509	Medical-Concept 28335 28359	contraceptivos hormonais
+T510	Medical-Concept 28608 28621	preservativos
+T511	Medical-Concept 28637 28656	barreiras cervicais
+T512	Medical-Concept 28781 28793	preservativo
+T513	Medical-Concept 28909 28943	doenu00E7as sexualmente transmissu00EDveis
+T514	Medical-Concept 28952 28956	AIDS
+T515	Medical-Concept 29446 29482	infecu00E7u00F5es sexualmente transmissu00EDveis
+T516	Medical-Concept 29524 29544	comportamento sexual
+T517	Medical-Concept 29575 29593	transmissu00E3o sexual
+T518	Medical-Concept 29614 29645	preservativo masculino de lu00E1tex
+T519	Medical-Concept 29768 29789	preservativo feminino
+T520	Medical-Concept 29840 29852	sexo vaginal
+T521	Medical-Concept 29857 29878	preservativo feminino
+T522	Medical-Concept 29915 29951	infecu00E7u00F5es sexualmente transmissu00EDveis
+T523	Medical-Concept 30006 30034	anel externo do preservativo
+T524	Medical-Concept 30077 30099	preservativo masculino
+T525	Medical-Concept 30134 30143	sexo anal
+T526	Medical-Concept 30165 30201	infecu00E7u00F5es sexualmente transmissu00EDveis
+T527	Medical-Concept 30217 30238	preservativo feminino
+T528	Medical-Concept 30468 30486	transmissu00E3o sexual
+T529	Medical-Concept 30526 30562	infecu00E7u00F5es sexualmente transmissu00EDveis
+T530	Medical-Concept 30645 30667	comportamentos sexuais
+T531	Medical-Concept 30704 30739	infecu00E7u00F5es sexualmente transmissu00EDveis
+T532	Medical-Concept 30757 30766	vu00EDrus HIV
+T533	Medical-Concept 30770 30774	AIDS
+T534	Medical-Concept 30807 30814	agulhas
+T535	Medical-Concept 30945 30948	HIV
+T536	Medical-Concept 30911 30933	profissionais da sau00FAde
+T537	Medical-Concept 30990 31008	feridas acidentais
+T538	Medical-Concept 31013 31032	agulhas contaminadas
+T539	Medical-Concept 31326 31336	natalidade
+T540	Medical-Concept 31450 31478	planejamento familiar natural
+T541	Medical-Concept 31524 31538	amplo espectro
+T542	Medical-Concept 31716 31730	contraceptivos
+T543	Medical-Concept 31770 31775	sau00FAde
+T544	Medical-Concept 31789 31801	esterilidade
+T545	Medical-Concept 31871 31897	contraceptivos artificiais
+T546	Medical-Concept 32147 32159	preservativo
+T547	Medical-Concept 32208 32219	adolescente
+T548	Medical-Concept 32470 32487	anticoncepcionais
+T549	Medical-Concept 32875 32897	mu00E9todos contraceptivos
+T550	Medical-Concept 33051 33072	planejamento familiar
+T551	Medical-Concept 33137 33146	concepu00E7u00E3o
+T552	Medical-Concept 33156 33169	anticoncepu00E7u00E3o
+T553	Medical-Concept 33236 33241	sau00FAde
+T554	Medical-Concept 33253 33265	adolescentes
+T555	Medical-Concept 33521 33541	anatomia reprodutiva
+T556	Medical-Concept 33543 33570	comportamento sexual humano
+T557	Medical-Concept 33593 33626	doenu00E7as sexualmente transmissu00EDveis
+T558	Medical-Concept 33656 33672	interau00E7u00E3o sexual
+T559	Medical-Concept 33715 33727	adolescentes
+T560	Medical-Concept 33758 33769	abstinentes
+T561	Medical-Concept 33799 33812	contraceptivo
+T562	Medical-Concept 33835 33857	mu00E9todos contraceptivos
+T563	Medical-Concept 34016 34029	preservativos
+T564	Medical-Concept 34036 34048	adolescentes
+T565	Medical-Concept 34268 34286	abstinu00EAncia sexual
+T566	Medical-Concept 34356 34366	natalidade
+T567	Medical-Concept 34461 34475	contraceptivos
+T568	Medical-Concept 34522 34530	proteu00E7u00E3o
+T569	Medical-Concept 34540 34548	gravidez
+T570	Medical-Concept 34607 34629	mu00E9todos contraceptivos
+T571	Medical-Concept 34677 34688	abstinu00EAncia
+T572	Medical-Concept 34740 34766	gravidezes na adolescu00EAncia
+T573	Medical-Concept 34772 34789	infecu00E7u00F5es por DST
+T574	Medical-Concept 34884 34895	abstinu00EAncia
+T575	Medical-Concept 34919 34938	taxas de gravidezes
+T576	Medical-Concept 34941 34945	DSTs
+T577	Medical-Concept 34949 34970	populau00E7u00E3o adolescente
+T578	Medical-Concept 34988 34997	concepu00E7u00E3o
+T579	Medical-Concept 35025 35045	mu00E9todo contraceptivo
+T580	Medical-Concept 35048 35064	aborto ciru00FArgico
+T581	Medical-Concept 35067 35080	aborto mu00E9dico
+T582	Medical-Concept 35089 35104	pu00EDlula abortiva

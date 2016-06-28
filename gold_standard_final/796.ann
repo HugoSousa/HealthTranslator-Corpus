@@ -1,0 +1,30 @@
+T1	Medical-Concept 233 257	sistema nervoso entérico
+T2	Medical-Concept 275 279	ânus
+T3	Medical-Concept 0 22	Doença de Hirschsprung
+T4	Medical-Concept 322 331	intestino
+T5	Medical-Concept 124 144	obstrução intestinal
+T6	Medical-Concept 70 76	doença
+T7	Medical-Concept 448 455	mecônio
+T8	Medical-Concept 528 550	doença de Hirschsprung
+T9	Medical-Concept 568 574	doença
+T10	Medical-Concept 847 857	canal anal
+T11	Medical-Concept 936 941	fezes
+T12	Medical-Concept 1159 1163	reto
+T13	Medical-Concept 1021 1030	anestesia
+T14	Medical-Concept 106 111	cólon
+T15	Medical-Concept 481 494	íleo meconial
+T16	Medical-Concept 608 627	constipação crônica
+T17	Medical-Concept 696 716	manometria anorretal
+T18	Medical-Concept 790 801	toque retal
+T19	Medical-Concept 810 822	ampola retal
+T20	Medical-Concept 993 1000	biópsia
+T21	Medical-Concept 1004 1016	mucosa retal
+T22	Medical-Concept 1034 1041	sedação
+T23	Medical-Concept 1135 1155	células ganglionares
+T24	Medical-Concept 31 63	megacólon agangliônico congênito
+T25	Medical-Concept 176 229	células ganglionares do plexo mioentérico e submucoso
+T26	Medical-Concept 634 654	suspeita diagnóstica
+T27	Medical-Concept 745 765	suspeita diagnóstica
+T28	Medical-Concept 948 971	confirmação diagnóstica
+T29	Medical-Concept 1056 1072	tecido biopsiado
+T30	Medical-Concept 673 690	sinais e sintomas

@@ -1,0 +1,135 @@
+T1	Medical-Concept 121 136	sistema nervoso
+T2	Medical-Concept 601 608	cérebro
+T3	Medical-Concept 947 958	alucinações
+T4	Medical-Concept 513 519	drogas
+T5	Medical-Concept 929 935	drogas
+T6	Medical-Concept 884 892	psicoses
+T7	Medical-Concept 1314 1325	alucinações
+T8	Medical-Concept 1603 1614	alucinações
+T9	Medical-Concept 1557 1564	psicose
+T10	Medical-Concept 2800 2807	cérebro
+T11	Medical-Concept 2915 2926	analgésicos
+T12	Medical-Concept 4666 4676	incidência
+T13	Medical-Concept 4412 4429	psicofarmacologia
+T14	Medical-Concept 4489 4496	psicose
+T15	Medical-Concept 4615 4628	esquizofrenia
+T16	Medical-Concept 4908 4923	espermatozoides
+T17	Medical-Concept 5193 5200	abortos
+T18	Medical-Concept 4926 4937	fertilidade
+T19	Medical-Concept 5128 5139	cromossomos
+T20	Medical-Concept 7552 7559	vômitos
+T21	Medical-Concept 7814 7820	vômito
+T22	Medical-Concept 8052 8065	esquizofrenia
+T23	Medical-Concept 8551 8564	esquizofrenia
+T24	Medical-Concept 8654 8663	depressão
+T25	Medical-Concept 9266 9276	receptores
+T26	Medical-Concept 9430 9439	depressão
+T27	Medical-Concept 9442 9452	alcoolismo
+T28	Medical-Concept 10155 10167	Psicoterapia
+T29	Medical-Concept 10323 10329	drogas
+T30	Medical-Concept 10554 10564	psicologia
+T31	Medical-Concept 10464 10476	psicoterapia
+T32	Medical-Concept 10525 10532	Psicose
+T33	Medical-Concept 10627 10633	drogas
+T34	Medical-Concept 10823 10830	cérebro
+T35	Medical-Concept 11126 11138	psicoterapia
+T36	Medical-Concept 11188 11205	psicofarmacologia
+T37	Medical-Concept 11520 11526	drogas
+T38	Medical-Concept 14 33	drogas alucinógenas
+T39	Medical-Concept 244 267	substâncias psicoativas
+T40	Medical-Concept 319 330	Dislépticas
+T41	Medical-Concept 436 444	Lépticos
+T42	Medical-Concept 464 475	Analépticos
+T43	Medical-Concept 976 988	alucinógenos
+T44	Medical-Concept 1038 1059	intoxicação alcoólica
+T45	Medical-Concept 1159 1178	drogas alucinógenas
+T46	Medical-Concept 1193 1213	drogas alucinogénias
+T47	Medical-Concept 1348 1374	visões irreais ou oníricas
+T48	Medical-Concept 1489 1505	Psicotomiméticos
+T49	Medical-Concept 1508 1522	Psicotogênicos
+T50	Medical-Concept 1590 1600	alucinoses
+T51	Medical-Concept 1694 1707	psique oculta
+T52	Medical-Concept 1972 1984	concentração
+T53	Medical-Concept 2059 2084	alterações da consciência
+T54	Medical-Concept 2112 2131	eletroencefalograma
+T55	Medical-Concept 2262 2274	psicológicas
+T56	Medical-Concept 2278 2292	psicanalíticas
+T57	Medical-Concept 2324 2347	modificação das emoções
+T58	Medical-Concept 2634 2650	Psicodislépticos
+T59	Medical-Concept 2690 2702	estimulantes
+T60	Medical-Concept 2705 2716	depressores
+T61	Medical-Concept 2767 2785	neurotransmissores
+T62	Medical-Concept 2820 2855	anticonvulsivantes não barbitúricos
+T63	Medical-Concept 2858 2895	relaxantes da musculatura esquelética
+T64	Medical-Concept 2896 2912	narcoanalgésicos
+T65	Medical-Concept 2929 2956	antitérmicos psicotogênicos
+T66	Medical-Concept 3253 3262	muscarina
+T67	Medical-Concept 4212 4224	homeopáticos
+T68	Medical-Concept 4276 4290	farmacológicos
+T69	Medical-Concept 4817 4837	potencial mutagênico
+T70	Medical-Concept 4840 4852	teratogênico
+T71	Medical-Concept 5412 5424	alucinógenas
+T72	Medical-Concept 5432 5442	Serotonina
+T73	Medical-Concept 5452 5465	Noradrenalina
+T74	Medical-Concept 5575 5596	núcleo indoletilamina
+T75	Medical-Concept 5624 5650	derivado da feniletilamina
+T76	Medical-Concept 5527 5530	LSD
+T77	Medical-Concept 6024 6055	inibidores da monoamina-oxidase
+T78	Medical-Concept 6066 6083	composto indólico
+T79	Medical-Concept 6094 6111	Dimetiltriptamina
+T80	Medical-Concept 6466 6486	N-dimethyltryptamine
+T81	Medical-Concept 6699 6710	triptaminas
+T82	Medical-Concept 7333 7348	psicodisléptico
+T83	Medical-Concept 7492 7515	dependência fisiológica
+T84	Medical-Concept 7565 7581	efeito colateral
+T85	Medical-Concept 7823 7830	postura
+T86	Medical-Concept 7834 7839	bulbo
+T87	Medical-Concept 7883 7891	sedativo
+T88	Medical-Concept 7866 7880	neuro-hormônio
+T89	Medical-Concept 7897 7912	ação depressiva
+T90	Medical-Concept 7941 7954	clorpromazina
+T91	Medical-Concept 8082 8108	antagonistas da serotonina
+T92	Medical-Concept 8117 8129	alucinógenos
+T93	Medical-Concept 8380 8390	serotonina
+T94	Medical-Concept 8474 8496	receptores da Dopamina
+T95	Medical-Concept 8533 8547	dopaminérgicas
+T96	Medical-Concept 8589 8603	antipsicóticos
+T97	Medical-Concept 8639 8647	dopamina
+T98	Medical-Concept 8669 8702	Distúrbios Obsessivos Compulsivos
+T99	Medical-Concept 8747 8757	serotonina
+T100	Medical-Concept 8769 8793	quadros psicopatológicos
+T101	Medical-Concept 8870 8906	bloqueadores de recaptação sináptica
+T102	Medical-Concept 8908 8918	fluoxetina
+T103	Medical-Concept 8935 8945	serotonina
+T104	Medical-Concept 8998 9014	anti-depressivos
+T105	Medical-Concept 9154 9170	neurotransmissor
+T106	Medical-Concept 9232 9242	serotonina
+T107	Medical-Concept 9388 9412	substâncias alucinógenas
+T108	Medical-Concept 9462 9473	drogadições
+T109	Medical-Concept 804 842	confusão da noção de tempo e de espaço
+T110	Medical-Concept 7109 7123	betacarbolinas
+T111	Medical-Concept 8018 8043	teorias serontoninérgicas
+T112	Medical-Concept 8233 8251	receptores da 5-HT
+T113	Medical-Concept 8392 8417	receptores 5-HT1a e 5-HT2
+T114	Medical-Concept 5157 5169	LSD in vitro
+T115	Medical-Concept 7702 7751	células enterocromafins do trato gastrointestinal
+T116	Medical-Concept 7128 7159	inibidoras da monoamina-oxidase
+T117	Medical-Concept 8328 8343	efeito agonista
+T118	Medical-Concept 10772 10790	Neurotransmissores
+T119	Medical-Concept 6056 6061	I-MAO
+T120	Medical-Concept 707 723	Anticolinérgicos
+T121	Medical-Concept 5344 5368	substâncias psicodélicas
+T122	Medical-Concept 669 686	drogas sintéticas
+T123	Medical-Concept 7004 7056	composição molecular de triptaminas e betacarbolinas
+T124	Medical-Concept 6939 6973	alcalóide beta-carbolínico harmina
+T125	Medical-Concept 734 760	Metilenodioximetanfetamina
+T126	Medical-Concept 5535 5546	Psilocibina
+T127	Medical-Concept 7380 7391	Psilocibina
+T128	Medical-Concept 8208 8219	Psilocibina
+T129	Medical-Concept 9015 9030	anti-psicóticos
+T130	Medical-Concept 7311 7329	efeito psicodélico
+T131	Medical-Concept 7084 7101	efeito psicoativo
+T132	Medical-Concept 9338 9356	efeito psicodélico
+T133	Medical-Concept 1012 1023	visão dupla
+T134	Medical-Concept 4793 4802	gestantes
+T135	Medical-Concept 7459 7477	tolerância cruzada

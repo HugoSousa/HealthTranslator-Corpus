@@ -1,0 +1,16 @@
+T1	Automatic-Concept 36 41	tumor
+T2	Automatic-Concept 189 196	linfoma
+T3	Automatic-Concept 327 351	su00EDndrome mielodisplu00E1sica
+T4	Automatic-Concept 356 363	deleu00E7u00E3o
+T5	Automatic-Concept 440 445	tumor
+T6	Medical_Concept 22 32	morfologia
+T7	Medical_Concept 79 117	Nomenclatura Sistematizada de Medicina
+T8	Medical_Concept 120 126	SNOMED
+T9	Medical_Concept 152 163	morfolu00F3gica
+T10	Medical_Concept 197 204	maligno
+T11	Medical_Concept 207 216	folicular
+T12	Medical_Concept 220 227	nodular
+T13	Medical_Concept 303 310	blastos
+T14	Medical_Concept 270 287	Anemia refratu00E1ria
+T15	Medical_Concept 167 170	CID
+T16	Medical_Concept 482 485	CID

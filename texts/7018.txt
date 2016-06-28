@@ -1,0 +1,62 @@
+. Se tem algum conhecimento sobre o tema, por favor, verifique e melhore a consistência e o rigor deste artigo.
+
+Considere utilizar {{ revisão-sobre }} para associar este artigo com um WikiProjeto e colocar uma explicação mais detalhada na discussão .
+
+As células-tronco, células-mães ou células estaminais são células que possuem a melhor capacidade de se dividir dando origem a duas células semelhantes às progenitoras.
+
+As células-tronco de embriões têm ainda a capacidade de se transformar, num processo também conhecido por diferenciação celular , em outros tecidos do corpo, como ossos , nervos , músculos e sangue . Devido a essa característica, as células-tronco são importantes, principalmente na aplicação terapêutica, sendo potencialmente úteis em terapias de combate a doenças cardiovasculares , neurodegenerativas , Diabetes mellitus tipo 1 , acidentes vasculares cerebrais , doenças hematológicas, traumas na medula espinhal e nefropatias .
+
+O principal objetivo das pesquisas com células-tronco é usá-las para recuperar tecidos danificados por essas doenças e traumas. No Zoológico de Brasília ( Brasil ), uma fêmea de lobo-guará , vítima de atropelamento, recebeu tratamento com células-tronco. 1 Este foi o primeiro registro do uso de células-tronco para curar lesões num animal selvagem. 2
+
+São encontradas em células embrionárias e em vários locais do corpo, como no cordão umbilical , na medula óssea , no sangue , no fígado , na placenta e no líquido amniótico , conforme descoberta de pesquisadores da Escola de Medicina da Universidade de Wake Forest, no estado norte-americano da Carolina do Norte , noticiada pela imprensa mundial nos primeiros dias de 2007. 3
+
+O adjetivo estaminal refere-se aos estames e provém da palavra latina 'staminale', adjectivo relacionado com o substantivo latino ‘stamine’, do qual deriva a palavra portuguesa estame , que significa: fio de tecer e, em botânica , folha floral fértil que produz o pólen .
+
+O vocábulo provém do inglês "stem", que provém da palavra germânica "stamln", que significa caule ou tronco . Este conceito relaciona-se com o processo de diferenciação e especialização celulares, que "entronca" em células pluripotentes e se ramifica em células progressivamente unipotentes. Esta tradução literal do termo inglês não é adotada em Portugal.
+
+Há três possibilidades de extração das células-tronco. Podem ser adultas , mesenquimais ou embrionárias :
+
+Embrionárias – São encontradas no embrião humano e são classificadas como totipotentes ou pluripotentes , devido ao seu poder de diferenciação celular de outros tecidos . A utilização de células estaminais embrionárias para fins de investigação e tratamentos médicos varia de país para país, em que alguns a sua investigação e utilização é permitida, enquanto em outros países é ilegal. O STF autorizou as pesquisas no Brasil. 4
+
+Adultas – São encontradas em diversos tecidos, como a medula óssea , sangue , fígado , cordão umbilical , placenta , e outros. Estudos recentes mostram que estas células-tronco têm uma limitação na sua capacidade de diferenciação, o que dá uma limitação de obtenção de tecidos a partir delas. 5
+
+Mesenquimais – Células-tronco mesenquimais, uma população de células do estroma do tecido (parte que dá sustentação às células), têm a capacidade de se diferenciar em diversos tecidos. Por conta desta plasticidade, essas células têm sido utilizadas para reparar ou regenerar tecidos danificados como ósseo, cartilaginoso, hepático, cardíaco e neural. Além disso, essas células apresentam uma poderosa atividade imunossupressora, o que abre a possibilidade de sua aplicação clínica em doenças imunomediadas, como as auto-imunes e também nas rejeições aos transplantes. Em adultos, residem principalmente na medula óssea e no tecido adiposo .
+
+Segue-se uma lista das leis em vigor sobre a clonagem de células-tronco em alguns países:
+
+África do Sul - permite todas as pesquisas com embriões, inclusive a clonagem terapêutica. É o único país africano com legislação a respeito.
+
+Alemanha - permite a pesquisa com linhagens de células-tronco existentes e sua importação, mas proíbe a destruição de embriões.
+
+Brasil - permite a utilização de células-tronco produzidas a partir de embriões humanos para fins de pesquisa e terapia, desde que sejam embriões inviáveis ou estejam congelados por mais de três anos. 6 Em todos os casos, é necessário o consentimento dos pais. A comercialização do material biológico é crime. Em 29 de maio de 2008 o Supremo Tribunal Federal confirmou que a lei em questão é constitucional, ratificando assim o posicionamento normativo dessa nação.
+
+China - permite todas as pesquisas com embriões, inclusive a clonagem terapêutica.
+
+Coreia do Sul - permite todas as pesquisas com embriões, inclusive a clonagem terapêutica.
+
+Estados Unidos - proíbe a aplicação de verbas do governo federal a qualquer pesquisa envolvendo embriões humanos (a exceção é feita para 19 linhagens de células-tronco derivadas antes da aprovação da lei norte-americana ). Entretanto, estados como a Califórnia permitem e patrocinam esse tipo de pesquisa (inclusive a clonagem terapêutica ).
+
+França - não tem legislação específica, mas permite a pesquisa com linhagens existentes de células-tronco embrionárias e com embriões de descarte.
+
+Índia - proíbe a clonagem terapêutica, mas permite as outras pesquisas.
+
+Israel - permite todas as pesquisas com embriões , inclusive a clonagem terapêutica.
+
+Itália - proíbe totalmente qualquer tipo de pesquisa com células - tronco embrionárias humanas e sua importação.
+
+Japão - permite todas as pesquisas com embriões, inclusive a clonagem terapêutica.
+
+Reino Unido - tem uma das legislações mais liberais do mundo e permite a clonagem terapêutica.
+
+Rússia - permite todas as pesquisas com embriões, inclusive a clonagem terapêutica.
+
+Singapura - permite todas as pesquisas com embriões, inclusive a clonagem terapêutica.
+
+Turquia - permite pesquisas e uso de embriões de descarte, todavia, proíbe a clonagem terapêutica das células tronco.
+
+A doutrina da Igreja Católica condena o uso das células-tronco embrionárias porque essas técnicas muitas vezes envolvem a destruição de embriões humanos, considerado uma forma de assassinato gravemente pecaminoso pela Igreja Católica . 7 Investigações científicas com células-tronco embrionárias são chamadas de "um meio imoral para um bom fim" e "moralmente inaceitável." 7 A Igreja apoia o uso de células-tronco adultas, que são células obtidas com o consentimento de alguém e sem pôr em causa a vida do doador, afirmando que é um campo promissor de pesquisa e moralmente aceitável. 7
+
+↑ G1 - Lobo-guará sobrevive a atropelamento graças a tratamento com células-tronco
+
+Esta página foi modificada pela última vez à(s) 18h41min de 24 de setembro de 2013.
+

@@ -1,0 +1,271 @@
+T1	Automatic-Concept 355 361	nervo
+T2	Automatic-Concept 136 148	nociceptor
+T3	Automatic-Concept 0 10	nociceptor
+T4	Automatic-Concept 365 388	sistema nervoso central
+T5	Automatic-Concept 192 202	nocicepu00E7u00E3o
+T6	Automatic-Concept 207 217	nocicepu00E7u00E3o
+T7	Automatic-Concept 76 79	dor
+T8	Automatic-Concept 445 457	nociceptor
+T9	Automatic-Concept 462 472	receptor
+T10	Automatic-Concept 645 648	dor
+T11	Automatic-Concept 634 641	reflexo
+T12	Automatic-Concept 951 966	sistema nervoso
+T13	Automatic-Concept 656 668	nociceptor
+T14	Automatic-Concept 1039 1062	sistema nervoso central
+T15	Automatic-Concept 1530 1533	dor
+T16	Automatic-Concept 1702 1714	nociceptor
+T17	Automatic-Concept 1667 1677	receptor
+T18	Automatic-Concept 1618 1621	dor
+T19	Automatic-Concept 1722 1734	nociceptor
+T20	Automatic-Concept 1830 1833	dor
+T21	Automatic-Concept 2048 2055	mucosa
+T22	Automatic-Concept 1950 1954	pele
+T23	Automatic-Concept 2035 2041	cu00F3rnea
+T24	Automatic-Concept 1901 1904	dor
+T25	Automatic-Concept 2608 2617	dendrito
+T26	Automatic-Concept 2452 2456	face
+T27	Automatic-Concept 2427 2433	nervo
+T28	Automatic-Concept 2182 2188	bexiga
+T29	Automatic-Concept 2191 2200	intestino
+T30	Automatic-Concept 2167 2179	articulau00E7u00E3o
+T31	Automatic-Concept 2576 2602	sistema nervoso perifu00E9rico
+T32	Automatic-Concept 2146 2154	mu00FAsculo
+T33	Automatic-Concept 2063 2066	dor
+T34	Automatic-Concept 2824 2831	embriu00E3o
+T35	Automatic-Concept 2812 2820	epiderme
+T36	Automatic-Concept 2719 2732	crista neural
+T37	Automatic-Concept 3040 3053	crista neural
+T38	Automatic-Concept 2796 2807	tubo neural
+T39	Automatic-Concept 2847 2858	tubo neural
+T40	Automatic-Concept 3063 3074	tubo neural
+T41	Automatic-Concept 2669 2681	nociceptor
+T42	Automatic-Concept 3080 3092	nociceptor
+T43	Automatic-Concept 3364 3376	nociceptor
+T44	Automatic-Concept 3597 3609	nociceptor
+T45	Automatic-Concept 3301 3311	receptor
+T46	Automatic-Concept 3110 3113	dor
+T47	Automatic-Concept 3330 3333	dor
+T48	Automatic-Concept 3742 3754	nociceptor
+T49	Automatic-Concept 4701 4713	nociceptor
+T50	Automatic-Concept 3854 3864	receptor
+T51	Automatic-Concept 3917 3927	receptor
+T52	Automatic-Concept 3974 3984	receptor
+T53	Automatic-Concept 4746 4758	nociceptor
+T54	Automatic-Concept 5112 5124	nociceptor
+T55	Automatic-Concept 4924 4941	potencial de au00E7u00E3o
+T56	Automatic-Concept 5076 5079	dor
+T57	Automatic-Concept 5325 5337	nociceptor
+T58	Automatic-Concept 5368 5380	nociceptor
+T59	Automatic-Concept 5476 5488	nociceptor
+T60	Automatic-Concept 5600 5612	nociceptor
+T61	Automatic-Concept 5825 5837	nociceptor
+T62	Automatic-Concept 6755 6770	medula espinhal
+T63	Automatic-Concept 5965 5982	potencial de au00E7u00E3o
+T64	Automatic-Concept 6161 6164	dor
+T65	Automatic-Concept 6350 6353	dor
+T66	Automatic-Concept 6452 6455	dor
+T67	Automatic-Concept 6560 6563	dor
+T68	Automatic-Concept 6992 6995	dor
+T69	Automatic-Concept 7536 7544	sensau00E7u00E3o
+T70	Automatic-Concept 7357 7360	dor
+T71	Automatic-Concept 7688 7691	dor
+T72	Automatic-Concept 8178 8181	dor
+T73	Automatic-Concept 8392 8407	cu00F3rtex cerebral
+T74	Automatic-Concept 8335 8339	pele
+T75	Automatic-Concept 8599 8611	transdutor
+T76	Automatic-Concept 8383 8386	dor
+T77	Automatic-Concept 9540 9552	nociceptor
+T78	Automatic-Concept 9649 9661	nociceptor
+T79	Automatic-Concept 10052 10059	cu00E9rebro
+T80	Automatic-Concept 10250 10265	medula espinhal
+T81	Automatic-Concept 11103 11118	cu00F3rtex cerebral
+T82	Automatic-Concept 11122 11129	cu00E9rebro
+T83	Automatic-Concept 11177 11184	cu00E9rebro
+T84	Automatic-Concept 11303 11310	cu00E9rebro
+T85	Automatic-Concept 11477 11484	cu00E9rebro
+T86	Automatic-Concept 10994 11002	sensau00E7u00E3o
+T87	Automatic-Concept 11450 11458	sensau00E7u00E3o
+T88	Automatic-Concept 10630 10645	medula espinhal
+T89	Automatic-Concept 11546 11556	hipotu00E1lamo
+T90	Automatic-Concept 11407 11417	analgu00E9sico
+T91	Automatic-Concept 10936 10939	dor
+T92	Automatic-Concept 11006 11009	dor
+T93	Automatic-Concept 11227 11230	dor
+T94	Automatic-Concept 11296 11299	dor
+T95	Automatic-Concept 11462 11465	dor
+T96	Automatic-Concept 12067 12079	nociceptor
+T97	Automatic-Concept 11747 11757	nociceptor
+T98	Automatic-Concept 12451 12461	nociceptor
+T99	Automatic-Concept 12683 12693	nociceptor
+T100	Automatic-Concept 11987 11999	hiperalgesia
+T101	Automatic-Concept 12096 12108	hiperalgesia
+T102	Automatic-Concept 12004 12014	inflamau00E7u00E3o
+T103	Automatic-Concept 12124 12134	inflamau00E7u00E3o
+T104	Automatic-Concept 12719 12734	medula espinhal
+T105	Automatic-Concept 12266 12269	dor
+T106	Automatic-Concept 12406 12409	dor
+T107	Medical_Concept 16 34	receptor sensorial
+T108	Medical_Concept 97 105	estu00EDmulo
+T109	Medical_Concept 153 173	terminau00E7u00F5es nervosas
+T110	Medical_Concept 260 275	dor persistente
+T111	Medical_Concept 301 316	dor persistente
+T112	Medical_Concept 321 336	dor neuropu00E1tica
+T113	Medical_Concept 519 528	estu00EDmulos
+T114	Medical_Concept 596 605	organismo
+T115	Medical_Concept 742 754	Fisiologista
+T116	Medical_Concept 799 814	Neurofisiologia
+T117	Medical_Concept 817 825	Anatomia
+T118	Medical_Concept 1213 1233	estu00EDmulos sensoriais
+T119	Medical_Concept 1237 1252	resposta motora
+T120	Medical_Concept 1338 1352	u00E1rea receptiva
+T121	Medical_Concept 1489 1504	reflexo de fuga
+T122	Medical_Concept 1630 1648	reau00E7u00E3o nociceptiva
+T123	Medical_Concept 1739 1759	neuru00F4nios sensoriais
+T124	Medical_Concept 1935 1942	tecidos
+T125	Medical_Concept 1990 2011	nociceptores cutu00E2neos
+T126	Medical_Concept 2089 2110	nociceptores internos
+T127	Medical_Concept 2131 2137	u00F3rgu00E3os
+T128	Medical_Concept 2215 2230	trato digestivo
+T129	Medical_Concept 2236 2252	corpos celulares
+T130	Medical_Concept 2257 2290	neuru00F4nios sensoriais nociceptivos
+T131	Medical_Concept 2358 2378	ganglionar trigeminal
+T132	Medical_Concept 2383 2411	cadeia ganglionar trigeminal
+T133	Medical_Concept 2318 2340	raiz ganglionar dorsal
+T134	Medical_Concept 2542 2549	axu00F4nios
+T135	Medical_Concept 2645 2661	zonas sensoriais
+T136	Medical_Concept 2701 2715	cu00E9lulas-tronco
+T137	Medical_Concept 2765 2776	ectodu00E9rmico
+T138	Medical_Concept 3011 3017	neural
+T139	Medical_Concept 3022 3036	cu00E9lulas-tronco
+T140	Medical_Concept 3165 3176	neurogu00EAnese
+T141	Medical_Concept 3232 3247	proprioceptores
+T142	Medical_Concept 3251 3267	mecanoreceptores
+T143	Medical_Concept 3393 3404	neurogu00EAnese
+T144	Medical_Concept 3421 3443	capacidades sensoriais
+T145	Medical_Concept 3465 3488	receptores embrionu00E1rios
+T146	Medical_Concept 3501 3521	fator de crescimento
+T147	Medical_Concept 3501 3526	fator de crescimento TrkA
+T148	Medical_Concept 3528 3531	NGF
+T149	Medical_Concept 3549 3571	fatores de transcriu00E7u00E3o
+T150	Medical_Concept 3669 3690	neurogu00EAnese sensorial
+T151	Medical_Concept 3800 3813	peptidu00E9rgicos
+T152	Medical_Concept 3817 3833	nonpeptidu00E9rgicos
+T153	Medical_Concept 3900 3914	canais iu00F4nicos
+T154	Medical_Concept 3985 3995	enervassem
+T155	Medical_Concept 4105 4114	pu00F3s-natal
+T156	Medical_Concept 4119 4148	nociceptores nonpeptidu00E9rgicos
+T157	Medical_Concept 4160 4192	fator de crescimento neural TrkA
+T158	Medical_Concept 4218 4221	Ret
+T159	Medical_Concept 4231 4266	componente sinalizador transmembrana
+T160	Medical_Concept 4301 4321	fator de crescimento
+T161	Medical_Concept 4323 4327	GDNF
+T162	Medical_Concept 4361 4366	Runx1
+T163	Medical_Concept 4419 4447	nonpeptidu00E9rgico nociceptores
+T164	Medical_Concept 4466 4492	nociceptores peptidu00E9rgicos
+T165	Medical_Concept 4514 4518	TrkA
+T166	Medical_Concept 4722 4741	terminal perifu00E9rico
+T167	Medical_Concept 4780 4797	estu00EDmulos nocivos
+T168	Medical_Concept 4979 5001	Sistema Nervos
+T169	Medical_Concept 5004 5007	SNC
+T170	Medical_Concept 5083 5107	especificidade sensorial
+T171	Medical_Concept 5262 5280	estu00EDmulos quu00EDmicos
+T172	Medical_Concept 5568 5591	Nociceptores Polimodais
+T173	Medical_Concept 5701 5720	estado inflamatu00F3rio
+T174	Medical_Concept 5780 5804	Nociceptores Silenciosos
+T175	Medical_Concept 5871 5878	axu00F4nios
+T176	Medical_Concept 5899 5921	fibras axoniais ADelta
+T177	Medical_Concept 5932 5944	mielinizadas
+T178	Medical_Concept 6068 6071	SNC
+T179	Medical_Concept 6090 6109	fibras axoniais "C"
+T180	Medical_Concept 6250 6272	fibras axoniais ADelta
+T181	Medical_Concept 6394 6416	fibras axoniais ADelta
+T182	Medical_Concept 6223 6248	fibras de ru00E1pida conduu00E7u00E3o
+T183	Medical_Concept 6367 6392	fibras de ru00E1pida conduu00E7u00E3o
+T184	Medical_Concept 6302 6326	fibras de conduu00E7u00E3o lenta
+T185	Medical_Concept 6328 6344	fibras axoniais C
+T186	Medical_Concept 6485 6494	cruciante
+T187	Medical_Concept 6477 6482	aguda
+T188	Medical_Concept 6691 6708	fibras axoniais C
+T189	Medical_Concept 6798 6814	tetania muscular
+T190	Medical_Concept 6830 6837	wind-up
+T191	Medical_Concept 6971 6984	sensibilidade
+T192	Medical_Concept 7005 7026	nociceptores tu00E9rmicos
+T193	Medical_Concept 7119 7144	nociceptores transdutores
+T194	Medical_Concept 7184 7202	terminau00E7u00E3o nervosa
+T195	Medical_Concept 7228 7243	estu00EDmulo tu00E9rmico
+T196	Medical_Concept 7277 7282	TRPV1
+T197	Medical_Concept 9417 9422	TRPV1
+T198	Medical_Concept 7429 7438	canal TRP
+T199	Medical_Concept 7496 7513	fibras axoniais C
+T200	Medical_Concept 7776 7788	canais TRMP8
+T201	Medical_Concept 7817 7834	fibras axoniais C
+T202	Medical_Concept 10460 10477	fibras axoniais C
+T203	Medical_Concept 7496 7513	fibras axoniais C
+T204	Medical_Concept 7870 7874	TRPs
+T205	Medical_Concept 8105 8125	sensibilidade tactil
+T206	Medical_Concept 8195 8217	Nociceptores mecu00E2nicos
+T207	Medical_Concept 8459 8477	estu00EDmulos quu00EDmicos
+T208	Medical_Concept 8507 8529	nociceptores mecu00E2nicos
+T209	Medical_Concept 8617 8635	estu00EDmulos tu00E9rmicos
+T210	Medical_Concept 8657 8676	estu00EDmulos mecu00E2nicos
+T211	Medical_Concept 8707 8725	estu00EDmulos quu00EDmicos
+T212	Medical_Concept 8751 8756	TRPA1
+T213	Medical_Concept 8816 8837	Nociceptores quu00EDmicos
+T214	Medical_Concept 8846 8856	canais TRP
+T215	Medical_Concept 8997 9007	Capsaicina
+T216	Medical_Concept 9463 9473	Capsaicina
+T217	Medical_Concept 9016 9035	estimulante quu00EDmico
+T218	Medical_Concept 9088 9096	acrolein
+T219	Medical_Concept 9233 9254	nociceptores quu00EDmicos
+T220	Medical_Concept 9288 9309	substu00E2ncias endu00F3genas
+T221	Medical_Concept 9319 9331	u00E1cidos graxos
+T222	Medical_Concept 9335 9341	aminas
+T223	Medical_Concept 9394 9415	nociceptores tu00E9rmicos
+T224	Medical_Concept 9476 9483	toxinas
+T225	Medical_Concept 9682 9700	estu00EDmulos quu00EDmicos
+T226	Medical_Concept 9822 9846	Nociceptores Silenciosos
+T227	Medical_Concept 9919 9938	inflamau00E7u00E3o tecidual
+T228	Medical_Concept 9945 9974	Fibras nociceptivas aferentes
+T229	Medical_Concept 9976 9984	aferente
+T230	Medical_Concept 10076 10090	medula espinhal
+T231	Medical_Concept 10104 10112	sinapses
+T232	Medical_Concept 10136 10155	fibras nociceptivas
+T233	Medical_Concept 10209 10218	neuru00F4nios
+T234	Medical_Concept 1739 1748	neuru00F4nios
+T235	Medical_Concept 2257 2266	neuru00F4nios
+T236	Medical_Concept 10719 10728	neuru00F4nios
+T237	Medical_Concept 10775 10784	neuru00F4nios
+T238	Medical_Concept 10494 10503	neuru00F4nios
+T239	Medical_Concept 10223 10246	cu00E9lulas da borda dorsal
+T240	Medical_Concept 10401 10414	Fibras ADelta
+T241	Medical_Concept 10421 10429	sinapses
+T242	Medical_Concept 10518 10530	fibras ABeta
+T243	Medical_Concept 10668 10679	nociceptiva
+T244	Medical_Concept 10831 10837	tu00E1lamo
+T245	Medical_Concept 10842 10855	coluna dorsal
+T246	Medical_Concept 10857 10881	sistema medial-lemniscal
+T247	Medical_Concept 10884 10905	sistema u00E2ntero-lateral
+T248	Medical_Concept 11024 11030	tu00E1lamo
+T249	Medical_Concept 11061 11085	nu00FAcleo ventral posterior
+T250	Medical_Concept 11342 11363	hormu00F4nios especu00EDficos
+T251	Medical_Concept 11367 11387	substu00E2ncias quu00EDmicas
+T252	Medical_Concept 11532 11541	hormu00F4nios
+T253	Medical_Concept 11567 11589	neuru00F4nios nociceptivos
+T254	Medical_Concept 11631 11641	mediadores
+T255	Medical_Concept 11645 11665	espau00E7o extra celular
+T256	Medical_Concept 11671 11696	sensibilizau00E7u00E3o perifu00E9rica
+T257	Medical_Concept 11721 11743	plasticidade funcional
+T258	Medical_Concept 11802 11819	estu00EDmulos nocivos
+T259	Medical_Concept 11837 11856	estu00EDmulo nu00E3o-nocivo
+T260	Medical_Concept 11946 11963	sensau00E7u00E3o dolorosa
+T261	Medical_Concept 12048 12062	sensibilizau00E7u00E3o
+T262	Medical_Concept 12174 12192	defeitos genu00E9ticos
+T263	Medical_Concept 12198 12206	inju00FArias
+T264	Medical_Concept 12237 12245	alodinia
+T265	Medical_Concept 12328 12338	nu00E3o-nocivo
+T266	Medical_Concept 12414 12422	alodinia
+T267	Medical_Concept 12479 12497	nervos perifu00E9ricos
+T268	Medical_Concept 12521 12535	deaferenciau00E7u00E3o
+T269	Medical_Concept 12598 12612	nervo aferente
+T270	Medical_Concept 12645 12666	axu00F4nio da raiz dorsal
+T271	Medical_Concept 12753 12775	transmissu00E3o dos sinais

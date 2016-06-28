@@ -1,0 +1,172 @@
+T1	Automatic-Concept 391 398	abdu00F3men
+T2	Automatic-Concept 374 380	cabeu00E7a
+T3	Automatic-Concept 296 309	invertebrados
+T4	Automatic-Concept 2401 2407	cabeu00E7a
+T5	Automatic-Concept 2547 2557	mandu00EDbula
+T6	Automatic-Concept 2666 2671	lu00E1bio
+T7	Automatic-Concept 4131 4136	fezes
+T8	Automatic-Concept 3833 3837	u00E2nus
+T9	Automatic-Concept 3825 3829	boca
+T10	Automatic-Concept 4432 4440	artu00E9ria
+T11	Automatic-Concept 4393 4400	corau00E7u00E3o
+T12	Automatic-Concept 4487 4494	corau00E7u00E3o
+T13	Automatic-Concept 4315 4335	sistema circulatu00F3rio
+T14	Automatic-Concept 4670 4676	cabeu00E7a
+T15	Automatic-Concept 4567 4582	sistema nervoso
+T16	Automatic-Concept 5620 5628	embriu00E3o
+T17	Automatic-Concept 5665 5675	reproduu00E7u00E3o
+T18	Automatic-Concept 5762 5779	dimorfismo sexual
+T19	Automatic-Concept 5960 5971	cromossomo
+T20	Automatic-Concept 6085 6096	metamorfose
+T21	Automatic-Concept 6231 6242	metamorfose
+T22	Automatic-Concept 6399 6404	larva
+T23	Automatic-Concept 6587 6592	larva
+T24	Automatic-Concept 7451 7464	invertebrados
+T25	Automatic-Concept 7792 7800	mu00FAsculo
+T26	Automatic-Concept 7979 7987	mu00FAsculo
+T27	Automatic-Concept 8029 8037	mu00FAsculo
+T28	Automatic-Concept 8607 8612	larva
+T29	Automatic-Concept 9731 9738	doenu00E7a
+T30	Automatic-Concept 10186 10197	polinizau00E7u00E3o
+T31	Automatic-Concept 10288 10299	polinizau00E7u00E3o
+T32	Automatic-Concept 10317 10325	simbiose
+T33	Automatic-Concept 11277 11286	hospital
+T34	Automatic-Concept 11090 11096	larva
+T35	Automatic-Concept 12438 12446	medicina
+T36	Automatic-Concept 12758 12768	reproduu00E7u00E3o
+T37	Automatic-Concept 12892 12902	reproduu00E7u00E3o
+T38	Medical_Concept 314 336	exoesqueleto quitinoso
+T39	Medical_Concept 383 388	tu00F3rax
+T40	Medical_Concept 722 733	Entomologia
+T41	Medical_Concept 662 669	ciu00EAncia
+T42	Medical_Concept 596 611	filo Arthropoda
+T43	Medical_Concept 852 866	entomologistas
+T44	Medical_Concept 1505 1513	anatomia
+T45	Medical_Concept 1669 1682	filogenu00E9ticas
+T46	Medical_Concept 1706 1726	biologia comparativa
+T47	Medical_Concept 1777 1787	artru00F3podes
+T48	Medical_Concept 4369 4379	artru00F3podes
+T49	Medical_Concept 1798 1808	ectognatas
+T50	Medical_Concept 1826 1847	peu00E7as bucais externas
+T51	Medical_Concept 1860 1885	onze segmentos abdominais
+T52	Medical_Concept 1895 1916	artru00F3podes terrestres
+T53	Medical_Concept 2119 2146	corpo (anatu00F4mico segmentado
+T54	Medical_Concept 2166 2184	exosqueleto ru00EDgido
+T55	Medical_Concept 2215 2222	quitina
+T56	Medical_Concept 2332 2338	tagmas
+T57	Medical_Concept 2431 2449	antenas sensoriais
+T58	Medical_Concept 2462 2477	olhos compostos
+T59	Medical_Concept 2480 2506	dois ou tru00EAs olhos simples
+T60	Medical_Concept 2510 2516	ocelos
+T61	Medical_Concept 2522 2534	peu00E7as bucais
+T62	Medical_Concept 2570 2577	maxilas
+T63	Medical_Concept 258 2593	hipofaringe
+T64	Medical_Concept 2372 2378	cabeu00E7a
+T65	Medical_Concept 2381 2386	tu00F3rax
+T66	Medical_Concept 2389 2395	abdome
+T67	Medical_Concept 2633 2647	aparelho bucal
+T68	Medical_Concept 2675 2680	labro
+T69	Medical_Concept 2692 2706	palpos labiais
+T70	Medical_Concept 2718 2734	palpos maxilares
+T71	Medical_Concept 2739 2745	clu00EDpeo
+T72	Medical_Concept 2865 2881	aparelhos bucais
+T73	Medical_Concept 2933 2944	cefalotu00F3rax
+T74	Medical_Concept 3027 3035	protu00F3rax
+T75	Medical_Concept 3050 3059	mesotu00F3rax
+T76	Medical_Concept 3082 3091	metatu00F3rax
+T77	Medical_Concept 3129 3140	cefalotu00F3rax
+T78	Medical_Concept 3210 3219	mesotu00F3rax
+T79	Medical_Concept 3235 3244	metatu00F3rax
+T80	Medical_Concept 3427 3444	aparelho digestivo
+T81	Medical_Concept 3448 3460	respiratu00F3rio
+T82	Medical_Concept 3463 3471	excretor
+T83	Medical_Concept 3474 3506	estruturas internas reprodutivas
+T84	Medical_Concept 3522 3538	segmento genital
+T85	Medical_Concept 3557 3573	abertura genital
+T86	Medical_Concept 3612 3624	ovipositores
+T87	Medical_Concept 3717 3729	protostu00F4mios
+T88	Medical_Concept 3731 3743	triblu00E1sticos
+T89	Medical_Concept 3746 3755	celomados
+T90	Medical_Concept 3765 3782	sistema digestivo
+T91	Medical_Concept 3842 3858	sistema excretor
+T92	Medical_Concept 3871 3889	tu00FAbulos de Malpighi
+T93	Medical_Concept 3882 3890	Malpighi
+T94	Medical_Concept 3936 3955	intestino posterior
+T95	Medical_Concept 3963 3977	osmorregulau00E7u00E3o
+T96	Medical_Concept 3991 4010	intestino posterior
+T97	Medical_Concept 4215 4224	traquu00E9ias
+T98	Medical_Concept 4260 4271	espiru00E1culos
+T99	Medical_Concept 4229 4250	aberturas na cutu00EDcula
+T100	Medical_Concept 4411 4420	hemolinfa
+T101	Medical_Concept 4469 4475	u00F3rgu00E3os
+T102	Medical_Concept 4512 4521	hemolinfa
+T103	Medical_Concept 4617 4625	gu00E2nglios
+T104	Medical_Concept 4694 4708	massa cerebral
+T105	Medical_Concept 4737 4774	nga rede nervosa de gu00E2nglios ventrais
+T106	Medical_Concept 4862 4868	cu00F3pula
+T107	Medical_Concept 4959 4967	genitora
+T108	Medical_Concept 5063 5071	ovu00EDparos
+T109	Medical_Concept 5253 5265	ovovivu00EDparos
+T110	Medical_Concept 5323 5332	vivu00EDparas
+T111	Medical_Concept 5512 5525	poliembrionia
+T112	Medical_Concept 5542 5559	u00F3vulo fertilizado
+T113	Medical_Concept 5717 5731	haplodiploidia
+T114	Medical_Concept 5733 5745	polimorfismo
+T115	Medical_Concept 5748 5759	pedomorfose
+T116	Medical_Concept 5782 5795	partenogu00EAnese
+T117	Medical_Concept 5814 5829	hermafroditismo
+T118	Medical_Concept 5835 5849	haplodiploidia
+T119	Medical_Concept 5884 5888	sexo
+T120	Medical_Concept 5904 5908	sexo
+T121	Medical_Concept 6032 6044	Himenu00F3pteros
+T122	Medical_Concept 6246 6266	metamorfose completa
+T123	Medical_Concept 6271 6293	metamorfose incompleta
+T124	Medical_Concept 6338 6351	ciclo de vida
+T125	Medical_Concept 6434 6441	ecdises
+T126	Medical_Concept 6446 6460	trocas de pele
+T127	Medical_Concept 6495 6499	pupa
+T128	Medical_Concept 6504 6510	casulo
+T129	Medical_Concept 6648 6661	Holometu00E1bolos
+T130	Medical_Concept 6770 6782	Himenu00F3pteros
+T131	Medical_Concept 6788 6799	Coleu00F3pteros
+T132	Medical_Concept 6805 6813	Du00EDpteros
+T133	Medical_Concept 6943 6956	Hemimetu00E1bolos
+T134	Medical_Concept 7144 7150	ninfas
+T135	Medical_Concept 7186 7196	matmorfose
+T136	Medical_Concept 7201 7210	Himu00EDptero
+T137	Medical_Concept 7217 7226	Blatu00F3deos
+T138	Medical_Concept 7232 7240	Odonatas
+T139	Medical_Concept 7311 7319	libu00E9lula
+T140	Medical_Concept 7281 7303	metamorfose incompleta
+T141	Medical_Concept 7389 7427	segundo e terceiro segmentos toru00E1cicos
+T142	Medical_Concept 7541 7560	sucesso reprodutivo
+T143	Medical_Concept 7666 7675	Pterygota
+T144	Medical_Concept 7870 7878	Neoptera
+T145	Medical_Concept 8006 8020	parede do tu00F3rax
+T146	Medical_Concept 8016 8021	tu00F3rax
+T147	Medical_Concept 8103 8120	impulsos nervosos
+T148	Medical_Concept 8226 8230	ovos
+T149	Medical_Concept 3691 3695	ovos
+T150	Medical_Concept 4934 4938	ovos
+T151	Medical_Concept 5212 5216	ovos
+T152	Medical_Concept 5406 5410	ovos
+T153	Medical_Concept 8253 8269	mudas ou ecdises
+T154	Medical_Concept 8311 8322	exosqueleto
+T155	Medical_Concept 2166 2177	exosqueleto
+T156	Medical_Concept 8391 8413	metamorfose incompleta
+T157	Medical_Concept 8436 8442	ninfas
+T158	Medical_Concept 8522 8542	metamorfose completa
+T159	Medical_Concept 8563 8576	Endopterygota
+T160	Medical_Concept 8647 8654	lagarta
+T161	Medical_Concept 8700 8704	pupa
+T162	Medical_Concept 8739 8745	casulo
+T163	Medical_Concept 8756 8765	crisu00E1lida
+T164	Medical_Concept 8971 8986	superorganismos
+T165	Medical_Concept 9143 9150	olfacto
+T166	Medical_Concept 9180 9189	feromonas
+T167	Medical_Concept 10023 10034	biocontrole
+T168	Medical_Concept 10363 10375	reproduzirem
+T169	Medical_Concept 11140 11159	feridas gangrenadas
+T170	Medical_Concept 11377 11389	detritu00EDvoros
+T171	Medical_Concept 11617 11629	insectu00EDvoros
+T172	Medical_Concept 12478 12489	Entomologia

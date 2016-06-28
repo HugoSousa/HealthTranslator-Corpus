@@ -1,0 +1,135 @@
+T1	Medical-Concept 450 458	embriões
+T2	Medical-Concept 600 606	nervos
+T3	Medical-Concept 929 944	medula espinhal
+T4	Medical-Concept 918 925	traumas
+T5	Medical-Concept 765 773	terapias
+T6	Medical-Concept 592 597	ossos
+T7	Medical-Concept 535 556	diferenciação celular
+T8	Medical-Concept 620 626	sangue
+T9	Medical-Concept 609 617	músculos
+T10	Medical-Concept 1083 1090	traumas
+T11	Medical-Concept 1073 1080	doenças
+T12	Medical-Concept 1474 1491	líquido amniótico
+T13	Medical-Concept 1396 1412	cordão umbilical
+T14	Medical-Concept 1418 1430	medula óssea
+T15	Medical-Concept 1544 1552	medicina
+T16	Medical-Concept 1448 1454	fígado
+T17	Medical-Concept 1436 1442	sangue
+T18	Medical-Concept 1460 1468	placenta
+T19	Medical-Concept 2477 2484	embrião
+T20	Medical-Concept 2572 2593	diferenciação celular
+T21	Medical-Concept 2962 2978	cordão umbilical
+T22	Medical-Concept 2929 2941	medula óssea
+T23	Medical-Concept 2953 2959	fígado
+T24	Medical-Concept 2944 2950	sangue
+T25	Medical-Concept 2981 2989	placenta
+T26	Medical-Concept 3779 3791	medula óssea
+T27	Medical-Concept 3797 3811	tecido adiposo
+T28	Medical-Concept 3862 3870	clonagem
+T29	Medical-Concept 3957 3965	embriões
+T30	Medical-Concept 4173 4181	embriões
+T31	Medical-Concept 4257 4265	embriões
+T32	Medical-Concept 4323 4331	embriões
+T33	Medical-Concept 4298 4305	terapia
+T34	Medical-Concept 4694 4702	embriões
+T35	Medical-Concept 4788 4796	embriões
+T36	Medical-Concept 4741 4747	Coreia
+T37	Medical-Concept 4931 4939	embriões
+T38	Medical-Concept 5305 5313	embriões
+T39	Medical-Concept 5445 5453	embriões
+T40	Medical-Concept 5648 5656	embriões
+T41	Medical-Concept 5833 5841	embriões
+T42	Medical-Concept 5923 5931	embriões
+T43	Medical-Concept 6007 6015	embriões
+T44	Medical-Concept 6227 6235	embriões
+T45	Medical-Concept 260 274	células-tronco
+T46	Medical-Concept 432 446	células-tronco
+T47	Medical-Concept 662 676	células-tronco
+T48	Medical-Concept 1003 1017	células-tronco
+T49	Medical-Concept 1203 1217	células-tronco
+T50	Medical-Concept 1260 1274	células-tronco
+T51	Medical-Concept 3037 3051	células-tronco
+T52	Medical-Concept 2373 2387	células-tronco
+T53	Medical-Concept 3874 3888	células-tronco
+T54	Medical-Concept 4102 4116	células-tronco
+T55	Medical-Concept 4219 4233	células-tronco
+T56	Medical-Concept 4988 5002	células-tronco
+T57	Medical-Concept 6490 6504	células-tronco
+T58	Medical-Concept 6749 6763	células-tronco
+T59	Medical-Concept 276 288	células-mães
+T60	Medical-Concept 292 310	células estaminais
+T61	Medical-Concept 2630 2648	células estaminais
+T62	Medical-Concept 315 322	células
+T63	Medical-Concept 569 576	tecidos
+T64	Medical-Concept 814 832	neurodegenerativas
+T65	Medical-Concept 835 859	Diabetes mellitus tipo 1
+T66	Medical-Concept 862 892	acidentes vasculares cerebrais
+T67	Medical-Concept 947 958	nefropatias
+T68	Medical-Concept 1043 1050	tecidos
+T69	Medical-Concept 2604 2611	tecidos
+T70	Medical-Concept 2913 2920	tecidos
+T71	Medical-Concept 3144 3151	tecidos
+T72	Medical-Concept 3349 3356	tecidos
+T73	Medical-Concept 3448 3455	tecidos
+T74	Medical-Concept 1188 1198	tratamento
+T75	Medical-Concept 6734 6744	tratamento
+T76	Medical-Concept 1338 1358	células embrionárias
+T77	Medical-Concept 1710 1719	estaminal
+T78	Medical-Concept 2189 2210	células pluripotentes
+T79	Medical-Concept 2253 2264	unipotentes
+T80	Medical-Concept 2409 2421	mesenquimais
+T81	Medical-Concept 2425 2437	embrionárias
+T82	Medical-Concept 2399 2406	adultas
+T83	Medical-Concept 2443 2455	Embrionárias
+T84	Medical-Concept 2517 2529	totipotentes
+T85	Medical-Concept 2533 2546	pluripotentes
+T86	Medical-Concept 2649 2661	embrionárias
+T87	Medical-Concept 2690 2701	tratamentos
+T88	Medical-Concept 2875 2882	Adultas
+T89	Medical-Concept 6505 6512	Adultas
+T90	Medical-Concept 3091 3104	diferenciação
+T91	Medical-Concept 3173 3185	Mesenquimais
+T92	Medical-Concept 3245 3252	estroma
+T93	Medical-Concept 3256 3262	tecido
+T94	Medical-Concept 3374 3386	plasticidade
+T95	Medical-Concept 3394 3401	células
+T96	Medical-Concept 3473 3478	ósseo
+T97	Medical-Concept 3480 3493	cartilaginoso
+T98	Medical-Concept 3495 3503	hepático
+T99	Medical-Concept 3505 3513	cardíaco
+T100	Medical-Concept 3516 3522	neural
+T101	Medical-Concept 3542 3549	células
+T102	Medical-Concept 3584 3600	imunossupressora
+T103	Medical-Concept 3688 3699	auto-imunes
+T104	Medical-Concept 722 733	terapêutica
+T105	Medical-Concept 4089 4098	linhagens
+T106	Medical-Concept 4266 4273	humanos
+T107	Medical-Concept 4940 4947	humanos
+T108	Medical-Concept 6236 6243	humanos
+T109	Medical-Concept 4477 4486	biológico
+T110	Medical-Concept 4975 4984	linhagens
+T111	Medical-Concept 5247 5256	linhagens
+T112	Medical-Concept 5580 5587	humanas
+T113	Medical-Concept 6072 6086	células tronco
+T114	Medical-Concept 6597 6603	doador
+T115	Medical-Concept 3713 3739	rejeições aos transplantes
+T116	Medical-Concept 3979 3999	clonagem terapêutica
+T117	Medical-Concept 4810 4830	clonagem terapêutica
+T118	Medical-Concept 4716 4736	clonagem terapêutica
+T119	Medical-Concept 5153 5173	clonagem terapêutica
+T120	Medical-Concept 5347 5367	clonagem terapêutica
+T121	Medical-Concept 5468 5488	clonagem terapêutica
+T122	Medical-Concept 5670 5690	clonagem terapêutica
+T123	Medical-Concept 5768 5788	clonagem terapêutica
+T124	Medical-Concept 5855 5875	clonagem terapêutica
+T125	Medical-Concept 5945 5965	clonagem terapêutica
+T126	Medical-Concept 6047 6067	clonagem terapêutica
+T127	Medical-Concept 3657 3678	doenças imunomediadas
+T128	Medical-Concept 895 916	doenças hematológicas
+T129	Medical-Concept 787 811	doenças cardiovasculares
+T130	Medical-Concept 3188 3215	Células-tronco mesenquimais
+T131	Medical-Concept 5550 5579	células - tronco embrionárias
+T132	Medical-Concept 2129 2169	diferenciação e especialização celulares
+T133	Medical-Concept 6359 6386	células-tronco embrionárias
+T134	Medical-Concept 6139 6166	células-tronco embrionárias
+T135	Medical-Concept 5271 5298	células-tronco embrionárias

@@ -1,0 +1,107 @@
+T1	Medical-Concept 2 10	nefrónio
+T2	Medical-Concept 353 361	nefrónio
+T3	Medical-Concept 407 415	nefrónio
+T4	Medical-Concept 315 320	urina
+T5	Medical-Concept 37 40	rim
+T6	Medical-Concept 387 390	rim
+T7	Medical-Concept 117 123	sangue
+T8	Medical-Concept 102 113	metabolismo
+T9	Medical-Concept 256 272	pressão arterial
+T10	Medical-Concept 490 507	cápsula de Bowman
+T11	Medical-Concept 565 582	cápsula de Bowman
+T12	Medical-Concept 515 524	glomérulo
+T13	Medical-Concept 551 560	glomérulo
+T14	Medical-Concept 466 474	nefrónio
+T15	Medical-Concept 865 871	sangue
+T16	Medical-Concept 981 998	cápsula de Bowman
+T17	Medical-Concept 965 974	glomérulo
+T18	Medical-Concept 1097 1106	filtração
+T19	Medical-Concept 1380 1397	cápsula de Bowman
+T20	Medical-Concept 1539 1556	cápsula de Bowman
+T21	Medical-Concept 1123 1132	glomérulo
+T22	Medical-Concept 1482 1485	rim
+T23	Medical-Concept 1340 1346	sangue
+T24	Medical-Concept 1414 1420	sangue
+T25	Medical-Concept 1460 1466	sangue
+T26	Medical-Concept 1615 1621	sangue
+T27	Medical-Concept 1965 1982	cápsula de Bowman
+T28	Medical-Concept 2033 2042	glomérulo
+T29	Medical-Concept 2287 2296	glomérulo
+T30	Medical-Concept 2134 2143	podócitos
+T31	Medical-Concept 2341 2350	podócitos
+T32	Medical-Concept 2442 2447	urina
+T33	Medical-Concept 2277 2283	sangue
+T34	Medical-Concept 2543 2552	glomérulo
+T35	Medical-Concept 15 21	Néfron
+T36	Medical-Concept 59 71	microscópica
+T37	Medical-Concept 135 164	equilíbrio hidroelectrolítico
+T38	Medical-Concept 167 179	ácido-básico
+T39	Medical-Concept 284 293	hormônios
+T40	Medical-Concept 275 283	secretar
+T41	Medical-Concept 615 637	corpúsculo de Malpighi
+T42	Medical-Concept 648 654	néfron
+T43	Medical-Concept 1063 1069	néfron
+T44	Medical-Concept 1110 1116	néfron
+T45	Medical-Concept 2421 2427	néfron
+T46	Medical-Concept 2482 2488	néfron
+T47	Medical-Concept 2677 2683	néfron
+T48	Medical-Concept 3322 3328	néfron
+T49	Medical-Concept 3409 3415	néfron
+T50	Medical-Concept 683 692	filtrante
+T51	Medical-Concept 706 722	corpúsculo renal
+T52	Medical-Concept 805 821	corpúsculo renal
+T53	Medical-Concept 1003 1019	corpúsculo renal
+T54	Medical-Concept 772 780	secreção
+T55	Medical-Concept 759 769	reabsorção
+T56	Medical-Concept 786 798	túbulo renal
+T57	Medical-Concept 2455 2467	túbulo renal
+T58	Medical-Concept 2579 2591	túbulo renal
+T59	Medical-Concept 3052 3064	túbulo renal
+T60	Medical-Concept 914 928	túbulos renais
+T61	Medical-Concept 533 547	túbulos renais
+T62	Medical-Concept 2691 2705	túbulos renais
+T63	Medical-Concept 1024 1046	corpúsculo de Malpighi
+T64	Medical-Concept 1143 1150	capilar
+T65	Medical-Concept 1166 1186	suprimento sanguíneo
+T66	Medical-Concept 1665 1674	capilares
+T67	Medical-Concept 1675 1684	coletores
+T68	Medical-Concept 1704 1711	túbulos
+T69	Medical-Concept 1735 1754	espaço intersticial
+T70	Medical-Concept 1769 1780	substâncias
+T71	Medical-Concept 1781 1793	reabsorvidas
+T72	Medical-Concept 1859 1868	eferentes
+T73	Medical-Concept 1851 1858	vênulas
+T74	Medical-Concept 1879 1886	néfrons
+T75	Medical-Concept 3452 3459	néfrons
+T76	Medical-Concept 2003 2021	cápsula glomerular
+T77	Medical-Concept 2329 2337	visceral
+T78	Medical-Concept 2102 2109	células
+T79	Medical-Concept 2209 2216	células
+T80	Medical-Concept 2635 2651	ductos coletores
+T81	Medical-Concept 3264 3280	ductos coletores
+T82	Medical-Concept 2881 2894	Túbulo distal
+T83	Medical-Concept 2924 2934	pars recta
+T84	Medical-Concept 2988 3002	pars convoluta
+T85	Medical-Concept 3009 3022	alça de Henle
+T86	Medical-Concept 731 737	túbulo
+T87	Medical-Concept 3309 3318	anatômica
+T88	Medical-Concept 3345 3356	embrionária
+T89	Medical-Concept 2235 2260	epitélio escamoso simples
+T90	Medical-Concept 1928 1948	circulação sanguínea
+T91	Medical-Concept 3108 3123	túbulo proximal
+T92	Medical-Concept 3233 3246	túbulo distal
+T93	Medical-Concept 1237 1265	pressão sanguínea glomerular
+T94	Medical-Concept 1890 1900	veia renal
+T95	Medical-Concept 1508 1525	parede glomerular
+T96	Medical-Concept 2356 2375	filtrado glomerular
+T97	Medical-Concept 2502 2521	filtrado glomerular
+T98	Medical-Concept 1194 1212	arteríola aferente
+T99	Medical-Concept 1573 1591	arteríola eferente
+T100	Medical-Concept 2152 2175	camada externa parietal
+T101	Medical-Concept 1644 1655	vasos retos
+T102	Medical-Concept 2066 2089	camada interna visceral
+T103	Medical-Concept 235 244	organismo
+T104	Medical-Concept 1216 1232	circulação renal
+T105	Medical-Concept 2910 2920	parte reta
+T106	Medical-Concept 3130 3150	túbulo intermediário
+T107	Medical-Concept 445 459	funções renais

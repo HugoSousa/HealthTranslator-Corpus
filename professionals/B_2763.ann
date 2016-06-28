@@ -1,0 +1,53 @@
+T1	Automatic-Concept 739 744	urina
+T2	Automatic-Concept 730 736	sangue
+T3	Automatic-Concept 1106 1121	farmacocinu00E9tica
+T4	Automatic-Concept 756 762	saliva
+T5	Automatic-Concept 222 231	paciente
+T6	Automatic-Concept 1381 1390	cadu00E1ver
+T7	Automatic-Concept 1470 1479	paralisia
+T8	Automatic-Concept 2418 2423	tumor
+T9	Automatic-Concept 2953 2960	enzima
+T10	Automatic-Concept 3076 3082	enzima
+T11	Automatic-Concept 2934 2942	genu00E9tica
+T12	Automatic-Concept 2758 2764	fu00EDgado
+T13	Automatic-Concept 2818 2824	fu00EDgado
+T14	Automatic-Concept 2964 2970	fu00EDgado
+T15	Automatic-Concept 3086 3092	fu00EDgado
+T16	Automatic-Concept 3277 3284	enzima
+T17	Automatic-Concept 3288 3294	fu00EDgado
+T18	Automatic-Concept 3615 3620	testa
+T19	Medical-Concept 2 13	toxicologia
+T20	Medical-Concept 846 857	toxicologia
+T21	Medical-Concept 1532 1543	toxicologia
+T22	Medical-Concept 186 205	toxicologia clu00EDnica
+T23	Medical-Concept 310 333	toxicologia experimental
+T24	Medical-Concept 421 432	u00F3rgu00E3o alvos
+T25	Medical-Concept 478 482	DL50
+T26	Medical-Concept 603 624	toxicologia analu00EDtica
+T27	Medical-Concept 765 773	vu00EDsceras
+T28	Medical-Concept 918 929	ocupacional
+T29	Medical-Concept 932 946	ecotoxicologia
+T30	Medical-Concept 949 966	entomotoxicologia
+T31	Medical-Concept 969 980	veterinu00E1ria
+T32	Medical-Concept 1124 1139	farmacodinu00E2mica
+T33	Medical-Concept 1142 1149	clu00EDnica
+T34	Medical-Concept 1330 1344	bacterialmente
+T35	Medical-Concept 1345 1356	contaminado
+T36	Medical-Concept 1483 1499	mu00FAsculo cardu00EDaco
+T37	Medical-Concept 1760 1770	toxicidade
+T38	Medical-Concept 2980 2990	toxicidade
+T39	Medical-Concept 3624 3634	toxicidade
+T40	Medical-Concept 2283 2296	geneticamente
+T41	Medical-Concept 2297 2308	manipuladas
+T42	Medical-Concept 2374 2383	degenerar
+T43	Medical-Concept 2595 2602	tu00F3xicas
+T44	Medical-Concept 506 513	tu00F3xicas
+T45	Medical-Concept 2807 2814	tu00F3xicas
+T46	Medical-Concept 3157 3164	tu00F3xicas
+T47	Medical-Concept 2748 2754	tu00F3xico
+T48	Medical-Concept 2736 2747	formaldeu00EDdo
+T49	Medical-Concept 2786 2796	narcu00F3ticos
+T50	Medical-Concept 2849 2862	acetaminophen
+T51	Medical-Concept 2865 2876	paracetamol
+T52	Medical-Concept 3237 3248	toxicu00F3logos
+T53	Medical-Concept 3465 3469	LD50

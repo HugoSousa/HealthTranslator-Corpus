@@ -1,0 +1,44 @@
+T1	Automatic-Concept 2 10	hospital
+T2	Automatic-Concept 335 343	hospital
+T3	Automatic-Concept 764 772	hospital
+T4	Automatic-Concept 1231 1239	hospital
+T5	Automatic-Concept 1317 1325	hospital
+T6	Automatic-Concept 1503 1512	hospital
+T7	Automatic-Concept 1396 1404	hospital
+T8	Automatic-Concept 1697 1705	hospital
+T9	Automatic-Concept 1720 1728	hospital
+T10	Automatic-Concept 1819 1827	hospital
+T11	Automatic-Concept 1849 1857	hospital
+T12	Automatic-Concept 2063 2071	hospital
+T13	Automatic-Concept 2365 2373	hospital
+T14	Automatic-Concept 2433 2441	hospital
+T15	Automatic-Concept 2525 2533	hospital
+T16	Automatic-Concept 2676 2684	hospital
+T17	Automatic-Concept 2838 2846	hospital
+T18	Automatic-Concept 2927 2935	hospital
+T19	Automatic-Concept 2983 2991	hospital
+T20	Automatic-Concept 3037 3045	hospital
+T21	Automatic-Concept 2719 2727	urologia
+T22	Automatic-Concept 2801 2809	urologia
+T23	Automatic-Concept 3016 3024	urologia
+T24	Automatic-Concept 3067 3075	hospital
+T25	Medical-Concept 206 214	Hospital
+T26	Medical-Concept 1459 1469	hospitalar
+T27	Medical-Concept 1488 1498	hospitalar
+T28	Medical-Concept 282 294	hospitalares
+T29	Medical-Concept 1621 1638	Centro Hospitalar
+T30	Medical-Concept 1792 1815	Serviu00E7o de Dermatologia
+T31	Medical-Concept 1903 1922	dermatovenereologia
+T32	Medical-Concept 2035 2047	venereologia
+T33	Medical-Concept 2131 2143	venereologia
+T34	Medical-Concept 2213 2246	Molu00E9stias Syphiliticas e Venu00E9reas
+T35	Medical-Concept 2200 2208	consulta
+T36	Medical-Concept 2023 2031	consulta
+T37	Medical-Concept 2119 2127	consulta
+T38	Medical-Concept 2281 2289	consulta
+T39	Medical-Concept 2707 2715	consulta
+T40	Medical-Concept 2326 2338	dermatologia
+T41	Medical-Concept 2467 2490	serviu00E7o de dermatologia
+T42	Medical-Concept 2505 2517	dermatologia
+T43	Medical-Concept 2787 2797	enfermaria
+T44	Medical-Concept 3235 3252	Centro Hospitalar

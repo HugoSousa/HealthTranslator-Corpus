@@ -1,0 +1,131 @@
+T1	Automatic-Concept 50 57	ovu00F3cito
+T2	Automatic-Concept 14 28	espermatozoide
+T3	Automatic-Concept 163 170	ovu00F3cito
+T4	Automatic-Concept 178 185	ovu00F3cito
+T5	Automatic-Concept 269 274	u00F3vulo
+T6	Automatic-Concept 341 346	u00F3vulo
+T7	Automatic-Concept 136 150	espermatozoide
+T8	Automatic-Concept 381 391	reproduu00E7u00E3o
+T9	Automatic-Concept 562 566	muco
+T10	Automatic-Concept 638 643	u00F3vulo
+T11	Automatic-Concept 441 456	espermatozoide
+T12	Automatic-Concept 668 674	ovu00E1rio
+T13	Automatic-Concept 961 972	fecundau00E7u00E3o
+T14	Automatic-Concept 729 739	fecundau00E7u00E3o
+T15	Automatic-Concept 1622 1628	cabeu00E7a
+T16	Automatic-Concept 1765 1774	membrana
+T17	Automatic-Concept 1356 1363	ovu00F3cito
+T18	Automatic-Concept 1335 1340	u00F3vulo
+T19	Automatic-Concept 1415 1430	espermatozoide
+T20	Automatic-Concept 1573 1588	espermatozoide
+T21	Automatic-Concept 1975 1983	membrana
+T22	Automatic-Concept 2037 2052	espermatozoide
+T23	Automatic-Concept 1817 1827	fecundau00E7u00E3o
+T24	Automatic-Concept 1987 1997	fecundau00E7u00E3o
+T25	Automatic-Concept 2795 2802	embriu00E3o
+T26	Automatic-Concept 2331 2339	membrana
+T27	Automatic-Concept 2371 2379	membrana
+T28	Automatic-Concept 2067 2079	mitocu00F4ndria
+T29	Automatic-Concept 2187 2199	mitocu00F4ndria
+T30	Automatic-Concept 2714 2726	mitocu00F4ndria
+T31	Automatic-Concept 2810 2822	mitocu00F4ndria
+T32	Automatic-Concept 2912 2924	mitocu00F4ndria
+T33	Automatic-Concept 2264 2271	ovu00F3cito
+T34	Automatic-Concept 2343 2350	ovu00F3cito
+T35	Automatic-Concept 2383 2390	ovu00F3cito
+T36	Automatic-Concept 2432 2439	ovu00F3cito
+T37	Automatic-Concept 2656 2663	ovu00F3cito
+T38	Automatic-Concept 2887 2894	ovu00F3cito
+T39	Automatic-Concept 2203 2217	espermatozoide
+T40	Automatic-Concept 2278 2292	espermatozoide
+T41	Automatic-Concept 2489 2503	espermatozoide
+T42	Automatic-Concept 2865 2879	espermatozoide
+T43	Automatic-Concept 2540 2548	genu00E9tica
+T44	Automatic-Concept 2110 2128	respirau00E7u00E3o celular
+T45	Automatic-Concept 3894 3902	membrana
+T46	Automatic-Concept 3359 3363	muco
+T47	Automatic-Concept 3565 3572	ovu00F3cito
+T48	Automatic-Concept 3625 3632	ovu00F3cito
+T49	Automatic-Concept 3752 3759	ovu00F3cito
+T50	Automatic-Concept 3778 3785	ovu00F3cito
+T51	Automatic-Concept 3231 3246	espermatozoide
+T52	Automatic-Concept 3438 3453	espermatozoide
+T53	Automatic-Concept 3478 3493	espermatozoide
+T54	Automatic-Concept 3956 3971	espermatozoide
+T55	Automatic-Concept 3140 3145	u00FAtero
+T56	Automatic-Concept 3301 3306	u00FAtero
+T57	Automatic-Concept 3906 3916	fecundau00E7u00E3o
+T58	Automatic-Concept 3814 3820	meiose
+T59	Automatic-Concept 4032 4037	u00F3vulo
+T60	Automatic-Concept 4148 4153	gene
+T61	Automatic-Concept 4013 4019	meiose
+T62	Automatic-Concept 4417 4424	embriu00E3o
+T63	Automatic-Concept 4557 4564	embriu00E3o
+T64	Automatic-Concept 4710 4717	embriu00E3o
+T65	Automatic-Concept 4498 4508	endomu00E9trio
+T66	Automatic-Concept 4604 4611	ovu00E1rio
+T67	Automatic-Concept 4465 4470	u00FAtero
+T68	Automatic-Concept 4839 4850	estrogu00EAnio
+T69	Automatic-Concept 4824 4836	progesterona
+T70	Automatic-Concept 4774 4783	regressu00E3o
+T71	Automatic-Concept 4360 4375	divisu00E3o celular
+T72	Automatic-Concept 4381 4387	mitose
+T73	Automatic-Concept 5473 5490	lu00EDquido amniu00F3tico
+T74	Automatic-Concept 5084 5091	embriu00E3o
+T75	Automatic-Concept 5202 5209	embriu00E3o
+T76	Automatic-Concept 5188 5198	endomu00E9trio
+T77	Automatic-Concept 5235 5245	endomu00E9trio
+T78	Automatic-Concept 5423 5439	cordu00E3o umbilical
+T79	Automatic-Concept 5046 5051	u00FAtero
+T80	Automatic-Concept 5258 5265	enzima
+T81	Automatic-Concept 4917 4927	hipotu00E1lamo
+T82	Automatic-Concept 5413 5421	placenta
+T83	Automatic-Concept 5643 5653	endomu00E9trio
+T84	Automatic-Concept 5600 5611	estrogu00EAnio
+T85	Automatic-Concept 5616 5628	progesterona
+T86	Automatic-Concept 5700 5709	regressu00E3o
+T87	Automatic-Concept 5559 5567	placenta
+T88	Automatic-Concept 5777 5785	placenta
+T89	Medical-Concept 103 113	fecundau00E7u00E3o
+T90	Medical-Concept 87 99	fertilizau00E7u00E3o
+T91	Medical-Concept 507 521	tubas uterinas
+T92	Medical-Concept 698 712	tubas uterinas
+T93	Medical-Concept 549 556	esperma
+T94	Medical-Concept 838 848	fecundau00E7u00E3o
+T95	Medical-Concept 1195 1203	estu00E9reis
+T96	Medical-Concept 1285 1291	fu00E9rtil
+T97	Medical-Concept 1305 1323	cu00E9lula reprodutora
+T98	Medical-Concept 570 588	sistema reprodutor
+T99	Medical-Concept 1502 1515	zona pelu00FAcida
+T100	Medical-Concept 1517 1537	camada glicoprotu00E9ica
+T101	Medical-Concept 1553 1567	corona radiata
+T102	Medical-Concept 1335 1340	u00F3vulo
+T103	Medical-Concept 1356 1363	ovu00F3cito
+T104	Medical-Concept 1435 1449	corona radiata
+T105	Medical-Concept 1591 1609	gametas masculinos
+T106	Medical-Concept 1663 1683	enzimas hidrolu00EDticas
+T107	Medical-Concept 1784 1791	gametas
+T108	Medical-Concept 1832 1863	cu00E9lulas foliculares glandulares
+T109	Medical-Concept 1879 1897	cu00E9lula reprodutora
+T110	Medical-Concept 1945 1963	gru00E2nulos corticais
+T111	Medical-Concept 3864 3882	gru00E2nulos corticais
+T112	Medical-Concept 3062 3077	espermatozoides
+T113	Medical-Concept 3165 3178	muco cervical
+T114	Medical-Concept 3044 3058	peru00EDodo fu00E9rtil
+T115	Medical-Concept 3276 3290	peru00EDodo fu00E9rtil
+T116	Medical-Concept 3669 3682	zona pelu00FAcida
+T117	Medical-Concept 3705 3736	cu00E9lulas foliculares glandulares
+T118	Medical-Concept 4940 4944	GnRH
+T119	Medical-Concept 5002 5015	ciclo ovu00E1rico
+T120	Medical-Concept 5056 5069	zona pelu00FAcida
+T121	Medical-Concept 5336 5343	nidau00E7u00E3o
+T122	Medical-Concept 5441 5455	saco amniu00F3tico
+T123	Medical-Concept 5683 5686	HCG
+T124	Medical-Concept 4751 4754	HCG
+T125	Medical-Concept 5713 5726	corpo amarelo
+T126	Medical-Concept 5763 5771	hormu00F4nio
+T127	Medical-Concept 4727 4735	hormu00F4nio
+T128	Medical-Concept 5812 5830	glu00E2ndulas mamu00E1rias
+T129	Medical-Concept 5838 5849	aleitamento
+T130	Medical-Concept 5950 5960	fase fetal
+T131	Medical-Concept 5018 5031	ciclo uterino

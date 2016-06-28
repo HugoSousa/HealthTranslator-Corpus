@@ -1,0 +1,64 @@
+T1	Automatic-Concept 76 84	paciente
+T2	Automatic-Concept 663 673	incidu00EAncia
+T3	Automatic-Concept 677 686	ansiedade
+T4	Automatic-Concept 641 649	paciente
+T5	Automatic-Concept 748 756	paciente
+T6	Automatic-Concept 850 858	paciente
+T7	Automatic-Concept 1020 1032	respirador
+T8	Automatic-Concept 1451 1464	ar comprimido
+T9	Automatic-Concept 1501 1510	paciente
+T10	Automatic-Concept 1998 2003	maca
+T11	Automatic-Concept 2163 2176	sinais vitais
+T12	Automatic-Concept 1643 1653	enfermagem
+T13	Automatic-Concept 1793 1802	paciente
+T14	Automatic-Concept 2049 2058	paciente
+T15	Automatic-Concept 2180 2189	paciente
+T16	Automatic-Concept 2626 2632	doenu00E7a
+T17	Automatic-Concept 2676 2685	paciente
+T18	Automatic-Concept 2333 2341	paciente
+T19	Automatic-Concept 2443 2451	paciente
+T20	Automatic-Concept 2571 2579	paciente
+T21	Medical-Concept 2 28	Oxigenoterapia Hiperbu00E1rica
+T22	Medical-Concept 53 64	terapu00EAutica
+T23	Medical-Concept 99 107	inalau00E7u00E3o
+T24	Medical-Concept 2353 2361	inalau00E7u00E3o
+T25	Medical-Concept 111 119	oxigu00EAnio
+T26	Medical-Concept 1474 1482	oxigu00EAnio
+T27	Medical-Concept 2275 2283	oxigu00EAnio
+T28	Medical-Concept 293 311	cu00E2mara hiperbu00E1rica
+T29	Medical-Concept 350 368	cu00E2mara hiperbu00E1rica
+T30	Medical-Concept 906 924	cu00E2mara hiperbu00E1rica
+T31	Medical-Concept 704 717	claustrofobia
+T32	Medical-Concept 761 781	cu00E2maras hiperbu00E1ricas
+T33	Medical-Concept 939 952	monopacientes
+T34	Medical-Concept 956 970	multipacientes
+T35	Medical-Concept 1208 1222	multipacientes
+T36	Medical-Concept 996 1018	ventiladores mecu00E2nicos
+T37	Medical-Concept 1047 1063	infusu00F5es venosas
+T38	Medical-Concept 1065 1076	transfusu00F5es
+T39	Medical-Concept 1181 1192	hiperbu00E1rico
+T40	Medical-Concept 1327 1337	enfermeiro
+T41	Medical-Concept 1341 1347	mu00E9dico
+T42	Medical-Concept 1715 1721	mu00E9dico
+T43	Medical-Concept 1318 1325	tu00E9cnico
+T44	Medical-Concept 1632 1639	tu00E9cnico
+T45	Medical-Concept 1400 1410	tratamento
+T46	Medical-Concept 1522 1530	mu00E1scaras
+T47	Medical-Concept 1568 1595	oxigenioterapia hiperbu00E1rica
+T48	Medical-Concept 1690 1703	hiperbaristas
+T49	Medical-Concept 1678 1689	enfermeiras
+T50	Medical-Concept 1722 1734	hiperbarista
+T51	Medical-Concept 1886 1894	mu00E1scaras
+T52	Medical-Concept 2421 2429	mu00E1scaras
+T53	Medical-Concept 1923 1935	medicamentos
+T54	Medical-Concept 2059 2067	cru00EDticos
+T55	Medical-Concept 2118 2136	Cu00E2maras multiplace
+T56	Medical-Concept 1609 1627	Cu00E2maras multiplace
+T57	Medical-Concept 2190 2196	graves
+T58	Medical-Concept 2207 2217	tratamento
+T59	Medical-Concept 520 530	tratamento
+T60	Medical-Concept 2035 2045	tratamento
+T61	Medical-Concept 2548 2558	tratamento
+T62	Medical-Concept 2600 2610	tratamento
+T63	Medical-Concept 2511 2523	monopaciente
+T64	Medical-Concept 2708 2720	monopaciente

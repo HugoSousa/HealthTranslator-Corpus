@@ -1,0 +1,349 @@
+T1	Automatic-Concept 118 125	mucosa
+T2	Automatic-Concept 97 101	pele
+T3	Automatic-Concept 139 151	articulau00E7u00E3o
+T4	Automatic-Concept 0 8	psoru00EDase
+T5	Automatic-Concept 184 192	psoru00EDase
+T6	Automatic-Concept 483 491	psoru00EDase
+T7	Automatic-Concept 540 549	paciente
+T8	Automatic-Concept 765 773	genu00E9tica
+T9	Automatic-Concept 1066 1074	genu00E9tica
+T10	Automatic-Concept 1332 1341	cotovelo
+T11	Automatic-Concept 1322 1329	joelho
+T12	Automatic-Concept 1306 1320	couro cabeludo
+T13	Automatic-Concept 1081 1089	psoru00EDase
+T14	Automatic-Concept 1346 1354	psoru00EDase
+T15	Automatic-Concept 1744 1758	couro cabeludo
+T16	Automatic-Concept 1669 1677	psoru00EDase
+T17	Automatic-Concept 1936 1940	pele
+T18	Automatic-Concept 1918 1921	pus
+T19	Automatic-Concept 2357 2363	axila
+T20	Automatic-Concept 2433 2438	mama
+T21	Automatic-Concept 2254 2258	pele
+T22	Automatic-Concept 2284 2288	pele
+T23	Automatic-Concept 2335 2339	coxa
+T24	Automatic-Concept 2488 2492	suor
+T25	Automatic-Concept 2894 2901	joelho
+T26	Automatic-Concept 3115 3121	joelho
+T27	Automatic-Concept 2573 2583	inflamau00E7u00E3o
+T28	Automatic-Concept 2692 2704	articulau00E7u00E3o
+T29	Automatic-Concept 3092 3104	articulau00E7u00E3o
+T30	Automatic-Concept 2658 2669	articulau00E7u00E3o
+T31	Automatic-Concept 2963 2971	psoru00EDase
+T32	Automatic-Concept 2912 2923	espondilite
+T33	Automatic-Concept 3033 3036	dor
+T34	Automatic-Concept 3208 3212	pele
+T35	Automatic-Concept 3596 3600	pele
+T36	Automatic-Concept 3168 3178	inflamau00E7u00E3o
+T37	Automatic-Concept 3494 3504	inflamau00E7u00E3o
+T38	Automatic-Concept 3367 3373	placa
+T39	Automatic-Concept 3355 3363	psoru00EDase
+T40	Automatic-Concept 3462 3470	psoru00EDase
+T41	Automatic-Concept 3300 3303	dor
+T42	Automatic-Concept 3867 3871	pele
+T43	Automatic-Concept 3922 3931	onicu00F3lise
+T44	Automatic-Concept 3696 3705	paciente
+T45	Automatic-Concept 4025 4030	nariz
+T46	Automatic-Concept 4007 4013	cu00F3rnea
+T47	Automatic-Concept 4015 4021	orelha
+T48	Automatic-Concept 3990 3998	psoru00EDase
+T49	Automatic-Concept 4095 4103	paciente
+T50	Automatic-Concept 4139 4143	pele
+T51	Automatic-Concept 4264 4271	artrite
+T52	Automatic-Concept 4317 4321	pele
+T53	Automatic-Concept 4297 4303	doenu00E7a
+T54	Automatic-Concept 4354 4360	doenu00E7a
+T55	Automatic-Concept 4675 4681	doenu00E7a
+T56	Automatic-Concept 5009 5017	artrite
+T57	Automatic-Concept 4978 4990	articulau00E7u00E3o
+T58	Automatic-Concept 4789 4796	prurido
+T59	Automatic-Concept 4968 4973	dor
+T60	Automatic-Concept 4768 4777	paciente
+T61	Automatic-Concept 5070 5074	pele
+T62	Automatic-Concept 5565 5569	pele
+T63	Automatic-Concept 5044 5054	inflamau00E7u00E3o
+T64	Automatic-Concept 5482 5492	inflamau00E7u00E3o
+T65	Automatic-Concept 5195 5201	placa
+T66	Automatic-Concept 5628 5637	cotovelo
+T67	Automatic-Concept 5618 5625	joelho
+T68	Automatic-Concept 5639 5653	couro cabeludo
+T69	Automatic-Concept 5602 5610	psoru00EDase
+T70	Automatic-Concept 5704 5711	trauma
+T71	Automatic-Concept 5739 5747	psoru00EDase
+T72	Automatic-Concept 5990 5997	eritema
+T73	Automatic-Concept 5907 5915	psoru00EDase
+T74	Automatic-Concept 6032 6040	psoru00EDase
+T75	Automatic-Concept 6169 6180	linfu00F3cito t
+T76	Automatic-Concept 6550 6559	depressu00E3o
+T77	Automatic-Concept 6277 6285	psoru00EDase
+T78	Automatic-Concept 6347 6352	gene
+T79	Automatic-Concept 6979 6994	doenu00E7a de crohn
+T80	Automatic-Concept 6654 6663	depressu00E3o
+T81	Automatic-Concept 6937 6946	faringite
+T82	Automatic-Concept 7108 7116	psoru00EDase
+T83	Automatic-Concept 8084 8096	sobrancelha
+T84	Automatic-Concept 8044 8058	couro cabeludo
+T85	Automatic-Concept 7284 7288	pele
+T86	Automatic-Concept 8070 8077	orelha
+T87	Automatic-Concept 7425 7437	articulau00E7u00E3o
+T88	Automatic-Concept 7793 7801	psoru00EDase
+T89	Automatic-Concept 7935 7951	coluna vertebral
+T90	Automatic-Concept 8020 8027	ferida
+T91	Automatic-Concept 7720 7731	artroscopia
+T92	Automatic-Concept 7219 7230	diagnu00F3stico
+T93	Automatic-Concept 7495 7506	diagnu00F3stico
+T94	Automatic-Concept 7594 7601	doenu00E7a
+T95	Automatic-Concept 7841 7848	doenu00E7a
+T96	Automatic-Concept 8441 8445	pele
+T97	Automatic-Concept 8984 8993	paciente
+T98	Automatic-Concept 9195 9203	psoru00EDase
+T99	Automatic-Concept 9317 9325	psoru00EDase
+T100	Automatic-Concept 9427 9435	psoru00EDase
+T101	Automatic-Concept 9615 9623	psoru00EDase
+T102	Automatic-Concept 9909 9917	paciente
+T103	Automatic-Concept 10195 10205	adipu00F3cito
+T104	Automatic-Concept 10221 10229	psoru00EDase
+T105	Automatic-Concept 10613 10621	psoru00EDase
+T106	Automatic-Concept 10408 10416	insulina
+T107	Automatic-Concept 10420 10428	pu00E2ncreas
+T108	Automatic-Concept 10468 10474	fu00EDgado
+T109	Automatic-Concept 10761 10767	doenu00E7a
+T110	Automatic-Concept 10973 10977	pele
+T111	Automatic-Concept 10989 10999	inflamau00E7u00E3o
+T112	Automatic-Concept 11103 11107	pele
+T113	Automatic-Concept 11241 11245	pele
+T114	Automatic-Concept 11414 11418	pele
+T115	Automatic-Concept 11499 11503	pele
+T116	Automatic-Concept 11351 11359	psoru00EDase
+T117	Automatic-Concept 11314 11320	trauma
+T118	Automatic-Concept 11846 11854	psoru00EDase
+T119	Automatic-Concept 12124 12132	psoru00EDase
+T120	Automatic-Concept 12229 12236	glicose
+T121	Automatic-Concept 12163 12169	doenu00E7a
+T122	Automatic-Concept 11757 11770	automedicau00E7u00E3o
+T123	Automatic-Concept 11917 11930	automedicau00E7u00E3o
+T124	Automatic-Concept 12240 12246	sangue
+T125	Automatic-Concept 12530 12536	droga
+T126	Automatic-Concept 12684 12695	analgu00E9sico
+T127	Automatic-Concept 12807 12813	doenu00E7a
+T128	Automatic-Concept 12815 12827	psicoterapia
+T129	Automatic-Concept 12795 12803	evoluu00E7u00E3o
+T130	Automatic-Concept 12754 12763	paciente
+T131	Automatic-Concept 12927 12933	doenu00E7a
+T132	Automatic-Concept 13229 13243	doenu00E7a cru00F4nica
+T133	Automatic-Concept 13150 13158	psoru00EDase
+T134	Automatic-Concept 13320 13326	doenu00E7a
+T135	Automatic-Concept 13266 13274	paciente
+T136	Automatic-Concept 13624 13635	fototerapia
+T137	Automatic-Concept 13920 13924	pele
+T138	Automatic-Concept 13968 13975	doenu00E7a
+T139	Automatic-Concept 13779 13790	fototerapia
+T140	Automatic-Concept 13957 13965	paciente
+T141	Automatic-Concept 14249 14258	imunidade
+T142	Automatic-Concept 14502 14510	psoru00EDase
+T143	Automatic-Concept 14869 14873	puva
+T144	Automatic-Concept 14791 14800	paciente
+T145	Automatic-Concept 14905 14925	terapia fotodinu00E2mica
+T146	Automatic-Concept 15001 15010	paciente
+T147	Automatic-Concept 15115 15123	psoru00EDase
+T148	Automatic-Concept 15209 15217	medicina
+T149	Automatic-Concept 15140 15146	doenu00E7a
+T150	Automatic-Concept 15484 15492	psoru00EDase
+T151	Automatic-Concept 15583 15591	psoru00EDase
+T152	Automatic-Concept 15595 15603	paciente
+T153	Medical-Concept 66 93	doenu00E7a inflamatu00F3ria cru00F4nica
+T154	Medical-Concept 127 132	unhas
+T155	Medical-Concept 701 717	corticosteroides
+T156	Medical-Concept 1355 1361	palmar
+T157	Medical-Concept 1364 1371	plantar
+T158	Medical-Concept 1418 1433	palmas das mu00E3os
+T159	Medical-Concept 1440 1465	"plantas" (solas) dos pu00E9s
+T160	Medical-Concept 1470 1485	Psoru00EDase gutata
+T161	Medical-Concept 1583 1606	diagnu00F3stico diferencial
+T162	Medical-Concept 1607 1622	pitiru00EDase rosea
+T163	Medical-Concept 1726 1732	tronco
+T164	Medical-Concept 1734 1741	membros
+T165	Medical-Concept 1762 1777	psoru00EDase gutata
+T166	Medical-Concept 1801 1836	infecu00E7u00E3o estreptocu00F3cica da garganta
+T167	Medical-Concept 1841 1859	Psoru00EDase pustulosa
+T168	Medical-Concept 1891 1913	lesu00F5es nu00E3o-infecciosas
+T169	Medical-Concept 1923 1931	pu00FAstulas
+T170	Medical-Concept 1964 1972	pu00FAstulas
+T171	Medical-Concept 1996 2014	Psoru00EDase pustulosa
+T172	Medical-Concept 2055 2059	mu00E3os
+T173	Medical-Concept 2062 2065	pu00E9s
+T174	Medical-Concept 2067 2089	pustulose palmoplantar
+T175	Medical-Concept 2164 2181	Psoru00EDase flexural
+T176	Medical-Concept 2185 2201	psoru00EDase inversa
+T177	Medical-Concept 2317 2325	genitais
+T178	Medical-Concept 2343 2350	virilha
+T179	Medical-Concept 2399 2416	gordura abdominal
+T180	Medical-Concept 2440 2460	pregas inframamu00E1rias
+T181	Medical-Concept 2511 2529	infecu00E7u00F5es fu00FAngicas
+T182	Medical-Concept 2534 2554	Psoru00EDase artropu00E1tica
+T183	Medical-Concept 2587 2603	tecido articular
+T184	Medical-Concept 2606 2616	conjuntivo
+T185	Medical-Concept 2618 2636	Artrite psoriu00E1tica
+T186	Medical-Concept 2709 2723	dedos das mu00E3os
+T187	Medical-Concept 2730 2733	pu00E9s
+T188	Medical-Concept 2793 2807	dedos das mu00E3os
+T189	Medical-Concept 2814 2817	pu00E9s
+T190	Medical-Concept 2833 2842	dactilite
+T191	Medical-Concept 2844 2862	Artrite psoriu00E1tica
+T192	Medical-Concept 2885 2891	quadri
+T193	Medical-Concept 2904 2910	coluna
+T194	Medical-Concept 3001 3010	articular
+T195	Medical-Concept 3052 3066	dedos das mu00E3os
+T196	Medical-Concept 3073 3076	pu00E9s
+T197	Medical-Concept 3126 3148	Psoru00EDase eritrodu00E9rmica
+T198	Medical-Concept 3250 3255	corpo
+T199	Medical-Concept 3340 3351	exacerbau00E7u00E3o
+T200	Medical-Concept 3426 3446	tratamento sistu00EAmico
+T201	Medical-Concept 3615 3633	funu00E7u00F5es de barreira
+T202	Medical-Concept 3639 3655	Psoru00EDase Ungueal
+T203	Medical-Concept 3757 3762	unhas
+T204	Medical-Concept 3765 3768	pu00E9s
+T205	Medical-Concept 3843 3848	unhas
+T206	Medical-Concept 3882 3886	unha
+T207	Medical-Concept 3938 3943	unhas
+T208	Medical-Concept 4212 4218	u00F3rgu00E3os
+T209	Medical-Concept 4222 4230	sistemas
+T210	Medical-Concept 4324 4329	u00F3rgu00E3o
+T211	Medical-Concept 4834 4843	articular
+T212	Medical-Concept 4877 4894	abscesso de Munro
+T213	Medical-Concept 4921 4944	exames histopatolu00F3gicos
+T214	Medical-Concept 5059 5066	cu00E9lulas
+T215	Medical-Concept 5085 5099	queratonu00F3citos
+T216	Medical-Concept 5275 5296	processo inflamatu00F3rio
+T217	Medical-Concept 5299 5310	imunolu00F3gico
+T218	Medical-Concept 5358 5370	linfu00F3citos T
+T219	Medical-Concept 5400 5407	cutu00E2nea
+T220	Medical-Concept 5503 5512	citocinas
+T221	Medical-Concept 5554 5561	cu00E9lulas
+T222	Medical-Concept 5656 5674	regiu00E3o lombossacra
+T223	Medical-Concept 5713 5732	fenu00F4meno de koebner
+T224	Medical-Concept 6050 6061	enfermidade
+T225	Medical-Concept 6062 6074	imunomediada
+T226	Medical-Concept 6077 6092	imunoestimulada
+T227	Medical-Concept 6097 6106	citocinas
+T228	Medical-Concept 6119 6122	Th1
+T229	Medical-Concept 6125 6129	Th17
+T230	Medical-Concept 6187 6193	cu00E9lula
+T231	Medical-Concept 6207 6216	organismo
+T232	Medical-Concept 6237 6253	doenu00E7a autoimune
+T233	Medical-Concept 6380 6385	PSORS
+T234	Medical-Concept 6416 6422	PSORS1
+T235	Medical-Concept 6456 6465	genu00E9ticos
+T236	Medical-Concept 6531 6539	diabetes
+T237	Medical-Concept 6577 6588	hipertensu00E3o
+T238	Medical-Concept 6744 6752	sintomas
+T239	Medical-Concept 6812 6820	sintomas
+T240	Medical-Concept 6865 6875	contagioso
+T241	Medical-Concept 6879 6898	Fenu00F4meno de Koebner
+T242	Medical-Concept 7001 7039	doenu00E7a cru00F4nica inflamatu00F3ria intestinal
+T243	Medical-Concept 7055 7069	fator genu00E9tico
+T244	Medical-Concept 7086 7100	gu00EAmeo idu00EAntico
+T245	Medical-Concept 7190 7208	gu00EAmeo nu00E3o-idu00EAntico
+T246	Medical-Concept 7251 7258	clu00EDnico
+T247	Medical-Concept 7305 7323	artrite psoriu00E1tica
+T248	Medical-Concept 7328 7346	artrite psoriu00E1sica
+T249	Medical-Concept 7368 7372	gota
+T250	Medical-Concept 7398 7406	sintomas
+T251	Medical-Concept 7544 7558	reumatologista
+T252	Medical-Concept 7664 7682	doenu00E7a hereditu00E1ria
+T253	Medical-Concept 7781 7789	sintomas
+T254	Medical-Concept 7863 7877	dores lombares
+T255	Medical-Concept 7881 7887	igidez
+T256	Medical-Concept 7969 7974	unhas
+T257	Medical-Concept 8012 8018	fungos
+T258	Medical-Concept 8123 8143	dermatite seborru00E9ica
+T259	Medical-Concept 8711 8719	sintomas
+T260	Medical-Concept 8894 8916	predisposiu00E7u00E3o genu00E9tica
+T261	Medical-Concept 9022 9037	ideau00E7u00E3o suicida
+T262	Medical-Concept 9508 9521	soropositivos
+T263	Medical-Concept 9537 9546	organismo
+T264	Medical-Concept 9561 9577	linfu00F3citos T CD8
+T265	Medical-Concept 9653 9670	imunossupressores
+T266	Medical-Concept 9638 9648	tratamento
+T267	Medical-Concept 9674 9686	medicamentos
+T268	Medical-Concept 9698 9714	reau00E7u00F5es cruzadas
+T269	Medical-Concept 9718 9728	tratamento
+T270	Medical-Concept 9754 9770	u00E1cido salicu00EDlico
+T271	Medical-Concept 9773 9786	triancinolona
+T272	Medical-Concept 9853 9876	terapia antirretroviral
+T273	Medical-Concept 9733 9740	pomadas
+T274	Medical-Concept 9744 9751	coaltar
+T275	Medical-Concept 9919 9929	Etretinato
+T276	Medical-Concept 9941 9946	P UVA
+T277	Medical-Concept 9985 10002	terapia sistu00EAmica
+T278	Medical-Concept 10014 10030	efeitos adversos
+T279	Medical-Concept 10034 10044	etretinato
+T280	Medical-Concept 10059 10077	efeitos colaterais
+T281	Medical-Concept 10078 10086	cefalu00E9ia
+T282	Medical-Concept 10119 10136	enzimas hepu00E1ticas
+T283	Medical-Concept 10088 10101	dor de cabeu00E7a
+T284	Medical-Concept 10156 10166	tratamento
+T285	Medical-Concept 10288 10297	citocinas
+T286	Medical-Concept 10300 10323	molu00E9culas inflamatu00F3rias
+T287	Medical-Concept 10331 10340	citocinas
+T288	Medical-Concept 10381 10393	cu00E9lulas beta
+T289	Medical-Concept 10456 10464	insulina
+T290	Medical-Concept 10533 10541	diabetes
+T291	Medical-Concept 10680 10688	diabetes
+T292	Medical-Concept 10780 10784	cura
+T293	Medical-Concept 10822 10830	recau00EDdas
+T294	Medical-Concept 11047 11062	antibacterianos
+T295	Medical-Concept 11272 11290	superfu00EDcie cutu00E2nea
+T296	Medical-Concept 11396 11410	microrganismos
+T297	Medical-Concept 11783 11791	remu00E9dios
+T298	Medical-Concept 11817 11828	tratamentos
+T299	Medical-Concept 11952 11960	remu00E9dios
+T300	Medical-Concept 12013 12023	tratamento
+T301	Medical-Concept 12062 12071	sobrepeso
+T302	Medical-Concept 12270 12280	colesterol
+T303	Medical-Concept 12283 12296	triglicu00E9rides
+T304	Medical-Concept 12332 12341	cardu00EDacos
+T305	Medical-Concept 12574 12591	drogas injetu00E1veis
+T306	Medical-Concept 12593 12609	betabloqueadores
+T307	Medical-Concept 12612 12630	anti-hipertensivos
+T308	Medical-Concept 12634 12647	antimalu00E1ricos
+T309	Medical-Concept 12657 12674	antiinflamatu00F3rios
+T310	Medical-Concept 12940 12948	remu00E9dios
+T311	Medical-Concept 12986 12998	odontolu00F3gica
+T312	Medical-Concept 13419 13429	tratamento
+T313	Medical-Concept 13440 13460	inibidor de TNF alfa
+T314	Medical-Concept 13495 13517	tratamento psicolu00F3gico
+T315	Medical-Concept 13561 13568	pomadas
+T316	Medical-Concept 13571 13582	hidratantes
+T317	Medical-Concept 13673 13693	tratamento sistu00EAmico
+T318	Medical-Concept 13709 13727	efeitos colaterais
+T319	Medical-Concept 13795 13798	UVA
+T320	Medical-Concept 13838 13841	UVB
+T321	Medical-Concept 14046 14057	metotrexato
+T322	Medical-Concept 14063 14078	imunossupressor
+T323	Medical-Concept 14081 14098	anti-inflamatu00F3rio
+T324	Medical-Concept 14166 14174	classe D
+T325	Medical-Concept 14206 14218	ciclosporina
+T326	Medical-Concept 14225 14240	imunossupressor
+T327	Medical-Concept 14287 14302	pru00E9-operatu00F3rios
+T328	Medical-Concept 14316 14326	retinu00F3ides
+T329	Medical-Concept 14329 14339	vitamina A
+T330	Medical-Concept 14354 14371	terapia biolu00F3gica
+T331	Medical-Concept 14376 14398	anticorpos monoclonais
+T332	Medical-Concept 14401 14405	MCAs
+T333	Medical-Concept 14426 14435	Alefacept
+T334	Medical-Concept 14438 14447	Inflimabe
+T335	Medical-Concept 14450 14461	Etanercepte
+T336	Medical-Concept 14478 14495	terapia biolu00F3gica
+T337	Medical-Concept 14634 14642	sintomas
+T338	Medical-Concept 14657 14667	tratamento
+T339	Medical-Concept 14728 14747	opu00E7u00F5es terapu00EAuticas
+T340	Medical-Concept 14816 14824	psoralen
+T341	Medical-Concept 14827 14841	ultravioleta A
+T342	Medical-Concept 14843 14853	tratamento
+T343	Medical-Concept 14950 14960	tratamento
+T344	Medical-Concept 14964 14980	lesu00F5es em placas
+T345	Medical-Concept 15043 15050	sintoma
+T346	Medical-Concept 15161 15173	terapu00EAuticas
+T347	Medical-Concept 15278 15290	Dermatologia
+T348	Medical-Concept 15604 15616	HIV-positivo
+T349	Medical-Concept 15622 15645	terapia anti-retroviral

@@ -1,0 +1,313 @@
+T1	Medical-Concept 134 137	dor
+T2	Medical-Concept 273 276	dor
+T3	Medical-Concept 456 459	dor
+T4	Medical-Concept 668 674	nervos
+T5	Medical-Concept 761 771	receptores
+T6	Medical-Concept 1566 1584	formação reticular
+T7	Medical-Concept 1280 1288	sensação
+T8	Medical-Concept 2033 2051	formação reticular
+T9	Medical-Concept 2056 2073	colículo superior
+T10	Medical-Concept 1824 1827	dor
+T11	Medical-Concept 2244 2261	tecido conjuntivo
+T12	Medical-Concept 2526 2530	feto
+T13	Medical-Concept 2280 2290	receptores
+T14	Medical-Concept 2294 2297	dor
+T15	Medical-Concept 2304 2307	dor
+T16	Medical-Concept 2491 2494	dor
+T17	Medical-Concept 2513 2516	dor
+T18	Medical-Concept 2547 2550	dor
+T19	Medical-Concept 3387 3402	tronco cerebral
+T20	Medical-Concept 2774 2789	córtex cerebral
+T21	Medical-Concept 3365 3383	Formação Reticular
+T22	Medical-Concept 3061 3070	sensações
+T23	Medical-Concept 3213 3222	síndromes
+T24	Medical-Concept 2901 2904	dor
+T25	Medical-Concept 2927 2930	dor
+T26	Medical-Concept 3232 3235	dor
+T27	Medical-Concept 3465 3468	dor
+T28	Medical-Concept 3687 3702	sistema límbico
+T29	Medical-Concept 3681 3684	dor
+T30	Medical-Concept 3821 3824	dor
+T31	Medical-Concept 4190 4205	córtex cerebral
+T32	Medical-Concept 4255 4273	formação reticular
+T33	Medical-Concept 3866 3869	dor
+T34	Medical-Concept 4427 4430	dor
+T35	Medical-Concept 4563 4566	dor
+T36	Medical-Concept 4839 4842	dor
+T37	Medical-Concept 5694 5709	medula espinhal
+T38	Medical-Concept 5737 5740	dor
+T39	Medical-Concept 6072 6087	sistema límbico
+T40	Medical-Concept 6051 6058	cérebro
+T41	Medical-Concept 5895 5898	dor
+T42	Medical-Concept 6030 6033	dor
+T43	Medical-Concept 6386 6389	dor
+T44	Medical-Concept 6686 6693	cérebro
+T45	Medical-Concept 6600 6608	hipófise
+T46	Medical-Concept 6665 6671	sangue
+T47	Medical-Concept 6988 7002	interneurônios
+T48	Medical-Concept 7303 7311	massagem
+T49	Medical-Concept 7296 7299	dor
+T50	Medical-Concept 7407 7410	dor
+T51	Medical-Concept 7606 7609	dor
+T52	Medical-Concept 7650 7653	dor
+T53	Medical-Concept 7748 7756	sensação
+T54	Medical-Concept 7905 7908	dor
+T55	Medical-Concept 8002 8005	dor
+T56	Medical-Concept 8194 8197	dor
+T57	Medical-Concept 8225 8228	dor
+T58	Medical-Concept 8680 8690	nociceptor
+T59	Medical-Concept 8509 8512	dor
+T60	Medical-Concept 8546 8549	dor
+T61	Medical-Concept 8603 8606	dor
+T62	Medical-Concept 8637 8640	dor
+T63	Medical-Concept 8737 8740	dor
+T64	Medical-Concept 8816 8819	dor
+T65	Medical-Concept 8907 8910	dor
+T66	Medical-Concept 9143 9146	dor
+T67	Medical-Concept 10040 10055	sistema límbico
+T68	Medical-Concept 9835 9838	dor
+T69	Medical-Concept 10102 10105	dor
+T70	Medical-Concept 10431 10438	doenças
+T71	Medical-Concept 10148 10151	dor
+T72	Medical-Concept 10363 10366	dor
+T73	Medical-Concept 10397 10400	dor
+T74	Medical-Concept 10481 10484	dor
+T75	Medical-Concept 10680 10683	dor
+T76	Medical-Concept 10809 10816	doenças
+T77	Medical-Concept 10894 10897	dor
+T78	Medical-Concept 11039 11042	dor
+T79	Medical-Concept 11645 11648	dor
+T80	Medical-Concept 11735 11738	dor
+T81	Medical-Concept 11988 12003	sistema nervoso
+T82	Medical-Concept 11976 11983	cérebro
+T83	Medical-Concept 11948 11956	sensação
+T84	Medical-Concept 12049 12052	dor
+T85	Medical-Concept 12293 12300	cérebro
+T86	Medical-Concept 12421 12428	cérebro
+T87	Medical-Concept 12408 12417	sensações
+T88	Medical-Concept 12330 12338	sensação
+T89	Medical-Concept 12377 12392	medula espinhal
+T90	Medical-Concept 12730 12737	cérebro
+T91	Medical-Concept 12483 12492	sensações
+T92	Medical-Concept 12977 12983	drogas
+T93	Medical-Concept 13036 13046	analgésico
+T94	Medical-Concept 13201 13210	cirurgias
+T95	Medical-Concept 12914 12921	cocaína
+T96	Medical-Concept 13217 13220	dor
+T97	Medical-Concept 13668 13671	dor
+T98	Medical-Concept 13818 13821	dor
+T99	Medical-Concept 13936 13939	dor
+T100	Medical-Concept 13943 13952	pacientes
+T101	Medical-Concept 95 100	corpo
+T102	Medical-Concept 176 206	integração central de impulsos
+T103	Medical-Concept 244 260	estímulos locais
+T104	Medical-Concept 211 229	nervos periféricos
+T105	Medical-Concept 295 304	sensorial
+T106	Medical-Concept 307 316	emocional
+T107	Medical-Concept 346 351	lesão
+T108	Medical-Concept 514 529	dor nociceptiva
+T109	Medical-Concept 534 549	dor neuropática
+T110	Medical-Concept 557 572	dor nociceptiva
+T111	Medical-Concept 630 648	potenciais de ação
+T112	Medical-Concept 653 660	axônios
+T113	Medical-Concept 702 710	térmicas
+T114	Medical-Concept 737 757	terminações nervosas
+T115	Medical-Concept 776 792	Fatores químicos
+T116	Medical-Concept 815 833	terminação nervosa
+T117	Medical-Concept 880 896	células íntegras
+T118	Medical-Concept 926 944	meio extra-celular
+T119	Medical-Concept 956 962	lesões
+T120	Medical-Concept 971 975	íons
+T121	Medical-Concept 976 984	Potássio
+T122	Medical-Concept 987 993	ácidos
+T123	Medical-Concept 1001 1011	via rápida
+T124	Medical-Concept 1018 1041	trato neoespinotalâmico
+T125	Medical-Concept 1090 1109	estímulos mecânicos
+T126	Medical-Concept 1150 1159	neurônios
+T127	Medical-Concept 1163 1178	axônios rápidos
+T128	Medical-Concept 1211 1225	fibras A-delta
+T129	Medical-Concept 1292 1301	dor aguda
+T130	Medical-Concept 1326 1334	neurônio
+T131	Medical-Concept 1430 1447	substância branca
+T132	Medical-Concept 1483 1490	sinapse
+T133	Medical-Concept 1509 1515	Tálamo
+T134	Medical-Concept 1517 1549	núcleos póstero-lateral-ventrais
+T135	Medical-Concept 1592 1601	via lenta
+T136	Medical-Concept 1608 1634	tracto paleoespinotalâmico
+T137	Medical-Concept 1693 1709	fatores químicos
+T138	Medical-Concept 1761 1784	velocidades de condução
+T139	Medical-Concept 1876 1884	neurônio
+T140	Medical-Concept 1970 1991	tracto antero-lateral
+T141	Medical-Concept 2022 2029	sinapse
+T142	Medical-Concept 2079 2113	substância cinzenta periaqueductal
+T143	Medical-Concept 2391 2407	conteúdo celular
+T144	Medical-Concept 2466 2487	células inflamatórias
+T145	Medical-Concept 2581 2600	sensações corporais
+T146	Medical-Concept 2602 2608	táteis
+T147	Medical-Concept 2610 2618	térmicas
+T148	Medical-Concept 2621 2630	dolorosas
+T149	Medical-Concept 2648 2654	tálamo
+T150	Medical-Concept 2699 2708	sensitiva
+T151	Medical-Concept 2728 2735	núcleos
+T152	Medical-Concept 2821 2832	consciência
+T153	Medical-Concept 2836 2853	sensação dolorosa
+T154	Medical-Concept 2880 2886	neural
+T155	Medical-Concept 2968 2979	terapêutico
+T156	Medical-Concept 3036 3046	via rápida
+T157	Medical-Concept 3074 3088	dor localizada
+T158	Medical-Concept 3138 3147	organismo
+T159	Medical-Concept 3162 3180	agente nociceptivo
+T160	Medical-Concept 3265 3276	terapêutica
+T161	Medical-Concept 3280 3291	dor crônica
+T162	Medical-Concept 3313 3321	impulsos
+T163	Medical-Concept 3337 3346	via lenta
+T164	Medical-Concept 3408 3414	Tálamo
+T165	Medical-Concept 3446 3456	consciente
+T166	Medical-Concept 3520 3526	córtex
+T167	Medical-Concept 3534 3540	Tálamo
+T168	Medical-Concept 3550 3558	impulsos
+T169	Medical-Concept 3566 3585	Córtex somatosensor
+T170	Medical-Concept 3595 3609	Giro Cingulado
+T171	Medical-Concept 3615 3631	córtex cingulado
+T172	Medical-Concept 3657 3666	emocional
+T173	Medical-Concept 3670 3677	afetiva
+T174	Medical-Concept 3715 3723	impulsos
+T175	Medical-Concept 3740 3759	córtex somatosensor
+T176	Medical-Concept 3887 3898	estimulação
+T177	Medical-Concept 3914 3933	circuitos neuronais
+T178	Medical-Concept 4036 4057	formações reticulares
+T179	Medical-Concept 4064 4081	axônios de tipo C
+T180	Medical-Concept 4227 4243	lobo pré-central
+T181	Medical-Concept 4313 4330	estado de vigília
+T182	Medical-Concept 4370 4386	estado de alerta
+T183	Medical-Concept 4338 4349	estimulação
+T184	Medical-Concept 4389 4403	excitabilidade
+T185	Medical-Concept 4457 4462	aguda
+T186	Medical-Concept 4407 4413	doente
+T187	Medical-Concept 4648 4659	vias da dor
+T188	Medical-Concept 4722 4738	vias analgésicas
+T189	Medical-Concept 4809 4818	modulação
+T190	Medical-Concept 4847 4857	ser humano
+T191	Medical-Concept 4961 4981	aqueducto de Sylvius
+T192	Medical-Concept 4989 4996	axônios
+T193	Medical-Concept 5010 5021	encefalinas
+T194	Medical-Concept 5032 5049	opióides naturais
+T195	Medical-Concept 5060 5081	receptor dos opióides
+T196	Medical-Concept 5087 5108	Núcleos Magno da Rafe
+T197	Medical-Concept 5111 5135	Reticular Gigantocelular
+T198	Medical-Concept 5152 5166	ponte inferior
+T199	Medical-Concept 5169 5184	medula superior
+T200	Medical-Concept 5197 5204	axônios
+T201	Medical-Concept 5209 5229	áreas periaquedutais
+T202	Medical-Concept 5311 5321	serotonina
+T203	Medical-Concept 5395 5416	substância gelatinosa
+T204	Medical-Concept 5439 5457	potenciais de ação
+T205	Medical-Concept 5469 5480	encefalinas
+T206	Medical-Concept 5483 5493	endorfinas
+T207	Medical-Concept 5497 5510	sinapse local
+T208	Medical-Concept 5551 5560	analgesia
+T209	Medical-Concept 5632 5649	inibição do sinal
+T210	Medical-Concept 5787 5806	núcleos reticulares
+T211	Medical-Concept 5809 5818	talâmicos
+T212	Medical-Concept 5902 5911	excitação
+T213	Medical-Concept 5978 5992	nível talâmico
+T214	Medical-Concept 6100 6118	controle emocional
+T215	Medical-Concept 6200 6239	núcleos paraventriculares do hipotálamo
+T216	Medical-Concept 6253 6273	áreas periaquedutais
+T217	Medical-Concept 6312 6329	opióides naturais
+T218	Medical-Concept 6348 6362	lesão tecidual
+T219	Medical-Concept 6577 6596	segmentos espinhais
+T220	Medical-Concept 6623 6638	beta-endorfinas
+T221	Medical-Concept 6737 6756	sensações dolorosas
+T222	Medical-Concept 6775 6795	síndromes sistêmicas
+T223	Medical-Concept 6922 6941	fibras aferentes Aβ
+T224	Medical-Concept 6947 6963	estímulos táteis
+T225	Medical-Concept 7017 7028	encefalinas
+T226	Medical-Concept 7188 7199	inconsiente
+T227	Medical-Concept 7324 7343	fibras aferentes Aβ
+T228	Medical-Concept 7373 7382	analgesia
+T229	Medical-Concept 7519 7525	lesões
+T230	Medical-Concept 7625 7639	lesão tecidual
+T231	Medical-Concept 7694 7708	lesão tecidual
+T232	Medical-Concept 8044 8054	diestesias
+T233	Medical-Concept 8073 8082	dolorosas
+T234	Medical-Concept 8244 8258	lesão tecidual
+T235	Medical-Concept 8280 8301	causa fisiopatológica
+T236	Medical-Concept 8341 8361	motivos psicológicos
+T237	Medical-Concept 8423 8437	lesão tecidual
+T238	Medical-Concept 8562 8576	lesão tecidual
+T239	Medical-Concept 8697 8714	vias nociceptivas
+T240	Medical-Concept 8768 8786	estado psicológico
+T241	Medical-Concept 8855 8867	causa física
+T242	Medical-Concept 8949 8964	biopsicossocial
+T243	Medical-Concept 8999 9017	fatores biológicos
+T244	Medical-Concept 9019 9031	psicológicos
+T245	Medical-Concept 9033 9048	comportamentais
+T246	Medical-Concept 9195 9220	limiar de dor fisiológico
+T247	Medical-Concept 9345 9353	doloroso
+T248	Medical-Concept 9380 9400	fator de estimulação
+T249	Medical-Concept 9404 9419	limiar doloroso
+T250	Medical-Concept 9522 9542	Limiar de tolerância
+T251	Medical-Concept 9692 9703	fisiológico
+T252	Medical-Concept 9804 9816	psicológicos
+T253	Medical-Concept 9910 9930	estimulação dolorosa
+T254	Medical-Concept 10063 10084	modulação da resposta
+T255	Medical-Concept 10257 10265	crônicas
+T256	Medical-Concept 10466 10474	crônicas
+T257	Medical-Concept 10569 10585	lesões teciduais
+T258	Medical-Concept 10725 10740	sinal de alarme
+T259	Medical-Concept 10762 10767	lesão
+T260	Medical-Concept 10754 10758	dano
+T261	Medical-Concept 10824 10834	hanseníase
+T262	Medical-Concept 10969 10975	lesões
+T263	Medical-Concept 11220 11227	doentes
+T264	Medical-Concept 11265 11270	corpo
+T265	Medical-Concept 11306 11327	estado de consciência
+T266	Medical-Concept 12105 12128	sistema nervoso central
+T267	Medical-Concept 12307 12312	órgão
+T268	Medical-Concept 12471 12476	corpo
+T269	Medical-Concept 12822 12841	avanços científicos
+T270	Medical-Concept 12863 12870	Médicos
+T271	Medical-Concept 12887 12891	ópio
+T272	Medical-Concept 12894 12901	morfina
+T273	Medical-Concept 12904 12911	codeína
+T274	Medical-Concept 12949 12959	tratamento
+T275	Medical-Concept 13014 13022	aspirina
+T276	Medical-Concept 13258 13268	tratamento
+T277	Medical-Concept 13563 13573	sofrimento
+T278	Medical-Concept 13590 13610	experiência dolorosa
+T279	Medical-Concept 13676 13695	questionário McGill
+T280	Medical-Concept 13774 13791	cuidados de saúde
+T281	Medical-Concept 13870 13887	qualidade de vida
+T282	Medical-Concept 13957 13971	Sequela de AVC
+T283	Medical-Concept 14078 14104	Tratamento de Reabilitação
+T284	Medical-Concept 14000 14026	ACIDENTE VASCULAR CEREBRAL
+T285	Medical-Concept 14049 14075	Diagnóstico Neurofuncional
+T286	Medical-Concept 5256 5296	colunas dorsolaterais da medula espinhal
+T287	Medical-Concept 4752 4776	via analgésica principal
+T288	Medical-Concept 1893 1920	lâmina V da Medula Espinhal
+T289	Medical-Concept 7145 7165	teoria das comportas
+T290	Medical-Concept 1343 1370	lâmina I da Medula Espinhal
+T291	Medical-Concept 2166 2181	sensação de dor
+T292	Medical-Concept 12751 12766	sensação de dor
+T293	Medical-Concept 3997 4029	núcleos intralaminares do Tálamo
+T294	Medical-Concept 13115 13134	seringa hipodérmica
+T295	Medical-Concept 6170 6195	vias analgésicas naturais
+T296	Medical-Concept 12847 12861	terapia da dor
+T297	Medical-Concept 5957 5975	sinais analgésicos
+T298	Medical-Concept 13137 13160	anestesia geral e local
+T299	Medical-Concept 4865 4947	áreas cinzentas periaquedutais e periventriculares do Mesencefalo e Ponte superior
+T300	Medical-Concept 5861 5882	regulação em feedback
+T301	Medical-Concept 5518 5544	neurônios aferentes da dor
+T302	Medical-Concept 7044 7059	fibras C da dor
+T303	Medical-Concept 10849 10880	lesões nas terminações nervosas
+T304	Medical-Concept 1723 1737	axônios lentos
+T305	Medical-Concept 6285 6310	liberação de β-endorfinas
+T306	Medical-Concept 3840 3859	ansiedade emocional
+T307	Medical-Concept 13438 13456	intensidade da dor
+T308	Medical-Concept 11778 11781	dor
+T309	Medical-Concept 5327 5378	Núcleos de interneurônios na medula espinhal dorsal
+T310	Medical-Concept 5925 5935	via da dor
+T311	Medical-Concept 12637 12647	via da dor
+T312	Medical-Concept 4129 4161	fibras das formações reticulares
+T313	Medical-Concept 6808 6828	mecanismo analgésico

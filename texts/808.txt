@@ -1,0 +1,82 @@
+Por favor, melhore este artigo introduzindo notas de rodapé citando as fontes, inserindo-as no corpo do texto quando necessário.
+
+A dor é mais que uma resposta resultante da integração central de impulsos dos nervos periféricos, ativados por estímulos locais. De facto a dor é uma experiência sensorial e emocional desagradável associada a uma lesão real ou potencial, ou descrita em termos de tal (definição da Associação Internacional para o Estudo da Dor - IASP). Distinguem-se básicamente duas categorias: A dor nociceptiva e a dor neuropática.
+
+Na dor nociceptiva há três tipos de estímulos que podem levar à geração dos potenciais de ação nos axônios desses nervos.
+
+Variações mecânicas ou térmicas que ativam diretamente as terminações nervosas ou receptores.
+
+Fatores químicos libertados na área da terminação nervosa . Estes incluem compostos presentes apenas em células íntegras, e que são libertados para o meio extra-celular aquando de lesões como os íons Potássio , ácidos .
+
+A via rápida ou do trato neoespinotalâmico é a mais recente evolutivamente. É iniciada por estímulos mecânicos ou térmicos principalmente. Ela utiliza neurônios de axônios rápidos (isto é de grande diâmetro), as fibras A-delta (12-30 metros por segundo). Esta é a via que produz a sensação da dor aguda e bem localizada. O seu neurônio ocupa a lâmina I da Medula Espinhal e cruza imediatamente para o lado contrário. Aí ascende na substância branca na região antero-lateral até fazer sinapse principalmente no Tálamo (núcleos póstero-lateral-ventrais), mas também na formação reticular .
+
+A via lenta ou do tracto paleoespinotalâmico é a mais primitiva em termos evolutivos. É iniciada pelos fatores químicos. Ela utiliza axônios lentos de diâmetro reduzido e velocidades de condução de apenas 0,5 a 2 m/s. Esta via produz dor mal localizada pelo indivíduo e contínua. O seu neurônio ocupa a lâmina V da Medula Espinhal e ascende depois de cruzar para o lado oposto no tracto antero-lateral, às vezes não cruzando. Fazem sinapse na formação reticular, no colículo superior e na substância cinzenta periaqueductal .
+
+Se por exemplo um indivíduo sofrer um golpe, a sensação de dor imediata é a rápida, devido às forças mecânicas que estiram o tecido conjuntivo onde se localizam receptores de dor. Esta dor dura apenas um tempo muito limitado. Mas à medida que o tecido morre e extravasa o conteúdo celular com diversas substâncias, e chegam à região danificada as células inflamatórias, a dor que permanece é a dor lenta. o feto começa a sentir dor a partir da 28° semana.
+
+As sensações corporais, táteis, térmicas e dolorosas convergem para o tálamo, que funciona como um rede de interpretação sensitiva, em alguns de seus núcleos, alguns dos quais emitem projeções ao córtex cerebral, a partir do qual é possível a consciência da sensação dolorosa ou seja, este é o momento neural após o qual a dor pode ser percebida. A dor mais significativa do ponto de vista terapêutico é quase sempre aquela que é produzida pela via lenta. A via rápida produz apenas sensações de dor localizada e de duração relativamente curta que permitem ao organismo afastar-se do agente nociceptivo , mas geralmente não é causa de síndromes em que a dor seja a principal preocupação terapêutica. A dor crônica tem origem quando os impulsos recebidos pela via lenta são integrados na Formação Reticular do tronco cerebral e no Tálamo . Já a este nível há percepção consciente vaga da dor, como demonstrado em animais a quem foi retirado o córtex .
+
+O Tálamo envia os impulsos para o Córtex somatosensor e para o Giro Cingulado . No córtex cingulado é processada a qualidade emocional ou afetiva da dor ( sistema límbico ), enviando impulsos de volta para o córtex somatosensor. É aí que se originam qualidades mais precisas, como tipo de dor, localização e ansiedade emocional.
+
+A dor tem um efeito de estimulação da maioria dos circuitos neuronais. Estes efeitos são devidos à ativação de circuitos a nível dos núcleos intralaminares do Tálamo e das formações reticulares pelos axônios de tipo C (lentos) que aí terminam. A ativação por estas fibras das formações reticulares leva à ativação em spray do córtex cerebral, e principalmente do lobo pré-central , já que a formação reticular também é responsável pela regulação do estado de vigília . Esta estimulação traduz-se num maior estado de alerta e excitabilidade do doente que sofre de dor, principalmente se esta é aguda .
+
+A intensidade com que pessoas diferentes sentem e reagem a situações semelhantes causadoras de dor é bastante variada. Esta variação deve-se não tanto a uma ativação diferente das vias da dor mas a uma facilidade diferente nos indivíduos na ativação das vias analgésicas naturais . A via analgésica principal tem 4 componentes principais de modulação para a percepção da dor, no ser humano:
+
+As áreas cinzentas periaquedutais e periventriculares do Mesencefalo e Ponte superior, em volta do aqueducto de Sylvius enviam axônios que secretam encefalinas , que são opióides naturais (atuam no receptor dos opióides).
+
+Núcleos Magno da Rafe e Reticular Gigantocelular, localizados na ponte inferior e medula superior, recebem os axônios das áreas periaquedutais, e enviam os seus para as colunas dorsolaterais da medula espinhal, onde liberam serotonina .
+
+Núcleos de interneurônios na medula espinhal dorsal, localizados na substância gelatinosa , inibem a criação de potenciais de ação ao liberar encefalinas e endorfinas na sinapse local com os neurônios aferentes da dor.
+
+A analgesia produzida por esta via, que é total, dura de alguns minutos a horas. A inibição do sinal dá-se principalmente a nível do segmento da medula espinhal correspondente à origem da dor, mas também a outros níveis como nos próprios núcleos reticulares e talâmicos.
+
+Julga-se que este sistema permite uma regulação em feedback do nível da dor. A excitação excessiva da via da dor induz um aumento dos sinais analgésicos a nível talâmico reduzindo a intensidade percebida da dor. Outras áreas do cérebro , como as do sistema límbico , que faz o controle emocional, também estão envolvidas em estimular ou inibir as vias analgésicas naturais. Os núcleos paraventriculares do hipotálamo estimulam as áreas periaquedutais através da liberação de β-endorfinas (opióides naturais). Assim uma mesma lesão tecidual pode causar muito mais dor se for de causa desconhecida ou considerada pelo indivíduo como significativa, do que se for de causa conhecida ou tida por pouco perigosa.
+
+Além desta via específica para determinados segmentos espinhais, a hipófise produz também beta-endorfinas, que são liberadas para o sangue e para todo o cérebro, e podem ter importância na diminuição das sensações dolorosas em indivíduos com síndromes sistêmicas.
+
+É outro mecanismo analgésico, proposto por Melzack & Wall (1965), de importância local. A estimulação de grande número de fibras aferentes Aβ após estímulos táteis no mesmo segmento ativa interneurônios produtores de encefalinas, que inibem as fibras C da dor.
+
+Virtualmente todas as pessoas conhecem e fazem uso do mecanismo contemplado pela teoria das comportas, mesmo que de maneira inconsiente. Quem nunca instintivamente massageou um local onde, em virtude de uma pancada, estava sentindo dor? A massagem estimula as fibras aferentes Aβ, que por sua vez levam a uma analgesia no local dolorido.
+
+A dor é sempre subjetiva. Cada indivíduo apreende a aplicação da palavra através de experiências relacionadas com lesões nos primeiros anos de vida. Os biologistas sabem que os estímulos causadores de dor são capazes de lesão tecidual. Assim, a dor é aquela experiência que associamos com lesão tecidual real ou potencial.
+
+Sem dúvida é uma sensação em uma ou mais partes do organismo mas sempre é desagradável, e portanto representa uma experiência emocional. Experiências que se assemelham com a dor, por exemplo: picadas de insetos , mas que não são desagradáveis, não devem ser rotuladas de dor. Experiências anormais desagradáveis (diestesias) também podem ser dolorosas, porém não o são necessariamente porque subjetivamente podem não apresentar as qualidades sensitivas usuais da dor.
+
+Muitas pessoas relatam dor na ausência de lesão tecidual ou de qualquer outra causa fisiopatológica provável: geralmente isto acontece por motivos psicológicos. É impossível distinguir a sua experiência da que é devido à lesão tecidual se aceitarmos o relato subjetivo.
+
+Caso encarem sua experiência como dor e a relatem da mesma forma que a dor causada por lesão tecidual, ela deve ser aceita como dor. Esta definição evita ligar a dor ao estímulo . A atividade provocada no nociceptor e nas vias nociceptivas por um estímulo não é dor. Esta sempre representa um estado psicológico, muito embora saibamos que a dor na maioria das vezes apresenta uma causa física imediata.
+
+A abordagem que se faz da dor, atualmente, é que ela é um fenômeno ‘biopsicossocial’ que resulta de uma combinação de fatores biológicos, psicológicos, comportamentais, sociais e culturais e não uma entidade dicotômica.
+
+A respeito da terminologia referente à dor, pode-se esclarecer os seguintes aspectos:
+
+O limiar de dor fisiológico, estável de um indivíduo para o outro, pode ser definido como o ponto ou momento em que um dado estímulo é reconhecido como doloroso. Quando se usa calor como fator de estimulação, o limiar doloroso situa-se em torno dos 44°, não só para o homem como também para diferentes mamíferos (símios, ratos). Limiar de tolerância é o ponto em que o estímulo alcança tal intensidade que não mais pode ser aceitavelmente tolerado e, na mesma experiência, alcança os 48°. Difere do fisiológico porque varia conforme o indivíduo, em diferentes ocasiões, e é influenciado por fatores culturais e psicológicos.
+
+Resistência à dor seria a diferença entre os dois liminares. Expressa a amplitude de uma estimulação dolorosa à qual o indivíduo pode aceitavelmente resistir. É também modificada por traços culturais e emocionais, e ao sistema límbico cabe a modulação da resposta comportamental à dor.
+
+Para efeito de classificação médica a dor é dividida em duas categorias: as agudas, que têm duração limitadas e causas geralmente conhecidas, e as crônicas, que duram mais de três meses e têm causa desconhecida ou mal definida. Esta última categoria de dor aparece quando o mecanismo de dor não funciona adequadamente ou doenças associadas a ele tornam-se crônicas.
+
+A dor é uma qualidade sensorial fundamental que alerta os indivíduos para a ocorrência de lesões teciduais, permitindo que mecanismos de defesa ou fuga sejam adotados. Embora possa parecer estranho, a dor é um efeito extremamente necessário. É o sinal de alarme de que algum dano ou lesão está ocorrendo.
+
+Por exemplo em certas doenças como a hanseníase podem ocorrer lesões nas terminações nervosas, tais, que a dor deixa de ser percebida. Isto faz com que com o passar do tempo ocorram lesões que podem vir a desfigurar o portador. Como o doente não sente dor, acontece por exemplo de cortar um dedo com a faca sem o perceber. Ou, em lugares onde as condições de vida são muito precárias (como nos tempos antigos eram os lugares onde os doentes eram confinados) ter-se uma parte do corpo comida por ratos.
+
+É no fundo um estado de consciência com um tom afetivo de desagrado, às vezes muito elevado, acompanhado de reações que tendem a remover ou evadir as causas que a provocam. Ela é produzida por alterações na normalidade estrutural e funcional de alguma parte do organismo.
+
+As civilizações antigas escreveram em placas de pedra os primeiros relatos de dor e o tratamento utilizado: pressão, água , calor e sol . O homem primitivo relacionava dor ao mal, magia e demônios . O alívio da dor era responsabilidade de feiticeiros, shamans e sacerdotes, que utilizavam ervas, rituais e cerimônias no manejo.
+
+Os gregos e romanos foram os primeiros a teorizar sensação e a ideia de que o cérebro e o sistema nervoso tivessem um papel na produção e percepção da dor. Aristóteles foi quem estabeleceu sua ligação com o sistema nervoso central .
+
+Apenas durante o Renascimento , entre 1400 e 1500 que foram encontradas evidências para esta teoria. Leonardo Da Vinci e seus contemporâneos acreditavam que o cérebro era o órgão responsável pela sensação. Da Vinci também acreditava que era a medula espinhal que transmitia sensações ao cérebro.
+
+Nos séculos XVII e XVIII, o estudo do corpo e das sensações continuou a ser uma fonte de descobrimento para os filósofos. Em 1664 o filósofo francês René Descartes descreveu o que hoje é conhecido como a via da dor. Descartes ilustrou como estímulos como fogo , em contato com o pé , viajam até o cérebro e comparou a sensação de dor com o soar de um sino.
+
+No século 19 iniciaram-se os avanços científicos para terapia da dor. Médicos descobriram que ópio , morfina , codeína e cocaína poderiam ser utilizados no tratamento do quadro. Essas drogas levaram ao desenvolvimento da aspirina , até hoje o analgésico mais comumente utilizado. No mesmo século, com o desenvolvimento da seringa hipodérmica a anestesia geral e local foram aperfeiçoadas e aplicadas durante cirurgias.
+
+A dor deve ser quantificada para um melhor tratamento, para tal existem vários instrumentos de avaliação sendo que os mais usuais são:
+
+Estes instrumentos de avaliação são unidimensionais, permitindo quantificar apenas a intensidade da dor. Os mecanismos ideais de avaliação são multidimensionais, levando em conta a intensidade, localização e o sofrimento ocasionado pela experiência dolorosa. Um exemplo de método multidimensional para avaliação da dor é o questionário McGill, proposto por Melzack. Hoje em dia e cada vez mais nos locais onde se prestam cuidados de saúde se pretende quantificar a dor de modo a sua eliminação tornando assim maior a qualidade de vida dos utentes..
+
+Gropen C, Sobral DC, Tosi DDT. Dor em Pacientes com Sequela de AVC. In: Gropen C, Khan P, eds. ACIDENTE VASCULAR CEREBRAL. As Bases Clínicas do Diagnóstico Neurofuncional e Tratamento de Reabilitação. Brasília: Medbook Press, 2008.
+
+Esta página foi modificada pela última vez à(s) 05h45min de 8 de julho de 2013.
+

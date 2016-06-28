@@ -1,0 +1,105 @@
+T1	Medical-Concept 334 348	ondas de calor
+T2	Medical-Concept 401 408	náuseas
+T3	Medical-Concept 71 80	ansiedade
+T4	Medical-Concept 458 467	ansiedade
+T5	Medical-Concept 734 743	ansiedade
+T6	Medical-Concept 792 812	transtorno do pânico
+T7	Medical-Concept 857 862	fobia
+T8	Medical-Concept 1413 1419	cabeça
+T9	Medical-Concept 1241 1256	hiperventilação
+T10	Medical-Concept 1156 1163	náuseas
+T11	Medical-Concept 2136 2143	pescoço
+T12	Medical-Concept 1892 1917	sistema nervoso simpático
+T13	Medical-Concept 2012 2024	dor torácica
+T14	Medical-Concept 1974 1982	dispneia
+T15	Medical-Concept 2047 2061	ondas de calor
+T16	Medical-Concept 2223 2238	hiperventilação
+T17	Medical-Concept 2157 2164	náuseas
+T18	Medical-Concept 2241 2251	parestesia
+T19	Medical-Concept 2180 2188	vertigem
+T20	Medical-Concept 2732 2749	eletrocardiograma
+T21	Medical-Concept 3031 3038	doenças
+T22	Medical-Concept 3049 3055	doença
+T23	Medical-Concept 2857 2866	ansiedade
+T24	Medical-Concept 2995 3004	ansiedade
+T25	Medical-Concept 3244 3249	fobia
+T26	Medical-Concept 3792 3798	fobias
+T27	Medical-Concept 4391 4398	cérebro
+T28	Medical-Concept 4244 4252	remissão
+T29	Medical-Concept 3 19	ataque de pânico
+T30	Medical-Concept 43 58	crise de pânico
+T31	Medical-Concept 62 67	crise
+T32	Medical-Concept 106 110	medo
+T33	Medical-Concept 114 125	desconforto
+T34	Medical-Concept 262 271	calafrios
+T35	Medical-Concept 297 310	desrealização
+T36	Medical-Concept 314 331	despersonalização
+T37	Medical-Concept 350 373	dificuldade em respirar
+T38	Medical-Concept 411 418	tontura
+T39	Medical-Concept 487 503	ataque de pânico
+T40	Medical-Concept 636 652	ataque de pânico
+T41	Medical-Concept 1857 1873	ataque de pânico
+T42	Medical-Concept 2630 2646	ataque de pânico
+T43	Medical-Concept 2805 2821	ataque de pânico
+T44	Medical-Concept 3174 3190	ataque de pânico
+T45	Medical-Concept 3466 3482	ataque de pânico
+T46	Medical-Concept 903 909	crises
+T47	Medical-Concept 939 956	ataques de pânico
+T48	Medical-Concept 994 1011	estado de loucura
+T49	Medical-Concept 1118 1132	visão piscando
+T50	Medical-Concept 1205 1222	respiração pesada
+T51	Medical-Concept 1291 1305	visão de túnel
+T52	Medical-Concept 1308 1333	perda da visão periférica
+T53	Medical-Concept 1389 1404	fluxo de sangue
+T54	Medical-Concept 1459 1465	ataque
+T55	Medical-Concept 1586 1610	reação de lutar ou fugir
+T56	Medical-Concept 1636 1650	dores no peito
+T57	Medical-Concept 1654 1665	falta de ar
+T58	Medical-Concept 1708 1716	urgência
+T59	Medical-Concept 1757 1763	ataque
+T60	Medical-Concept 1798 1807	hormônios
+T61	Medical-Concept 1836 1846	adrenalina
+T62	Medical-Concept 1963 1971	tremores
+T63	Medical-Concept 1998 2009	palpitações
+T64	Medical-Concept 2146 2154	sudorese
+T65	Medical-Concept 2167 2175	tonturas
+T66	Medical-Concept 2212 2220	tonturas
+T67	Medical-Concept 2268 2287	sensação de asfixia
+T68	Medical-Concept 2291 2302	sufocamento
+T69	Medical-Concept 2335 2348	desrealização
+T70	Medical-Concept 2369 2380	falta de ar
+T71	Medical-Concept 2383 2395	dor no peito
+T72	Medical-Concept 2496 2511	ataque cardíaco
+T73	Medical-Concept 2602 2627	doenças cardiovasculares,
+T74	Medical-Concept 2652 2675	diagnóstico de exclusão
+T75	Medical-Concept 2756 2781	avaliação de saúde mental
+T76	Medical-Concept 2895 2912	Ataques de pânico
+T77	Medical-Concept 3101 3116	desordem mental
+T78	Medical-Concept 3262 3279	ataques de pânico
+T79	Medical-Concept 3324 3331	ataques
+T80	Medical-Concept 3444 3461	ansiedade crônica
+T81	Medical-Concept 3517 3533	exaustão nervosa
+T82	Medical-Concept 3753 3765	medicamentos
+T83	Medical-Concept 3819 3844	terapia de acompanhamento
+T84	Medical-Concept 3964 3970	pânico
+T85	Medical-Concept 4106 4115	calmantes
+T86	Medical-Concept 4209 4227	neurotransmissores
+T87	Medical-Concept 4300 4315	antidepressivos
+T88	Medical-Concept 4329 4340	dependência
+T89	Medical-Concept 4359 4365	níveis
+T90	Medical-Concept 4377 4387	serotonina
+T91	Medical-Concept 274 295	sensação de desespero
+T92	Medical-Concept 252 260	tremores
+T93	Medical-Concept 1135 1154	sensação de desmaio
+T94	Medical-Concept 2079 2100	sensação de queimação
+T95	Medical-Concept 376 398	palpitações do coração
+T96	Medical-Concept 4143 4158	sintomas agudos
+T97	Medical-Concept 4263 4291	sintomas físicos e psíquicos
+T98	Medical-Concept 151 159	sintomas
+T99	Medical-Concept 1724 1732	sintomas
+T100	Medical-Concept 1928 1936	sintomas
+T101	Medical-Concept 2403 2411	sintomas
+T102	Medical-Concept 2566 2574	sintomas
+T103	Medical-Concept 3733 3741	sintomas
+T104	Medical-Concept 423 431	desordem
+T105	Medical-Concept 1165 1186	sensação de dormência

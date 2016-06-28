@@ -1,0 +1,74 @@
+T1	Automatic-Concept 114 122	crianu00E7a
+T2	Automatic-Concept 2125 2131	trauma
+T3	Automatic-Concept 2243 2254	diagnu00F3stico
+T4	Automatic-Concept 2736 2744	crianu00E7a
+T5	Automatic-Concept 3370 3379	paciente
+T6	Automatic-Concept 3400 3425	transtornos dissociativos
+T7	Automatic-Concept 3436 3445	paciente
+T8	Automatic-Concept 4077 4085	crianu00E7a
+T9	Automatic-Concept 5224 5231	insu00F4nia
+T10	Automatic-Concept 5319 5326	placebo
+T11	Automatic-Concept 5170 5179	ansiedade
+T12	Automatic-Concept 5333 5342	paciente
+T13	Automatic-Concept 5473 5484	diagnu00F3stico
+T14	Automatic-Concept 5705 5716	psiquiatria
+T15	Medical_Concept 55 71	estresse intenso
+T16	Medical_Concept 99 103	TEPT
+T17	Medical_Concept 79 93	grupo de risco
+T18	Medical_Concept 186 190	TEPT
+T19	Medical_Concept 243 280	transtorno de estresse pu00F3s-traumu00E1tico
+T20	Medical_Concept 282 286	TEPT
+T21	Medical_Concept 289 320	estado de stress pu00F3s-traumu00E1tico
+T22	Medical_Concept 330 353	su00EDndrome pu00F3s-traumu00E1tica
+T23	Medical_Concept 360 382	transtorno psicolu00F3gico
+T24	Medical_Concept 424 442	evento estressante
+T25	Medical_Concept 779 783	TEPT
+T26	Medical_Concept 1062 1066	TEPT
+T27	Medical_Concept 1194 1198	TEPT
+T28	Medical_Concept 1212 1236	Reexperiu00EAncia traumu00E1tica
+T29	Medical_Concept 1238 1247	Pesadelos
+T30	Medical_Concept 1449 1477	Hiperexcitabilidade psu00EDquica
+T31	Medical_Concept 1504 1523	episu00F3dios de pu00E2nico
+T32	Medical_Concept 1525 1542	corau00E7u00E3o acelerado
+T33	Medical_Concept 1544 1556	transpirau00E7u00E3o
+T34	Medical_Concept 1558 1563	calor
+T35	Medical_Concept 1585 1603	distu00FArbios do sono
+T36	Medical_Concept 1605 1632	dificuldade de concentrau00E7u00E3o
+T37	Medical_Concept 1634 1648	irritabilidade
+T38	Medical_Concept 1650 1665	hipervigilu00E2ncia
+T39	Medical_Concept 1744 1754	traumu00E1tico
+T40	Medical_Concept 1887 1911	reau00E7u00E3o aguda ao estresse
+T41	Medical_Concept 2137 2165	transtorno de estresse agudo
+T42	Medical_Concept 2474 2479	temor
+T43	Medical_Concept 2481 2489	angu00FAstia
+T44	Medical_Concept 2493 2499	horror
+T45	Medical_Concept 2957 2980	transtorno dissociativo
+T46	Medical_Concept 3018 3038	amnu00E9sia dissociativa
+T47	Medical_Concept 3205 3241	transtorno dissociativo de identidade
+T48	Medical_Concept 3384 3388	TEPT
+T49	Medical_Concept 3486 3507	hospital psiquiu00E1trico
+T50	Medical_Concept 3512 3516	TEPT
+T51	Medical_Concept 3651 3655	TEPT
+T52	Medical_Concept 4290 4294	TEPT
+T53	Medical_Concept 4311 4335	transtornos psicolu00F3gicos
+T54	Medical_Concept 4683 4715	Terapia cognitivo-comportamental
+T55	Medical_Concept 4737 4749	medicamentos
+T56	Medical_Concept 4755 4767	medicamentos
+T57	Medical_Concept 4816 4824	sintomas
+T58	Medical_Concept 4878 4910	Terapia cognitivo-comportamental
+T59	Medical_Concept 4912 4915	TCC
+T60	Medical_Concept 4982 5003	fu00E1rmacos ansiolu00EDticos
+T61	Medical_Concept 5005 5014	calmantes
+T62	Medical_Concept 5044 5069	tratamento com sertralina
+T63	Medical_Concept 5075 5089	antidepressivo
+T64	Medical_Concept 5107 5117	serotonina
+T65	Medical_Concept 5122 5135	noradrenalina
+T66	Medical_Concept 5149 5154	humor
+T67	Medical_Concept 5198 5216	efeitos colaterais
+T68	Medical_Concept 5285 5295	sertralina
+T69	Medical_Concept 5347 5351	TEPT
+T70	Medical_Concept 5365 5375	sertralina
+T71	Medical_Concept 5408 5416	sintomas
+T72	Medical_Concept 5502 5521	Transtornos Mentais
+T73	Medical_Concept 5613 5650	Transtorno de estresse pu00F3s-traumu00E1tico
+T74	Medical_Concept 5653 5680	transtorno de humor bipolar

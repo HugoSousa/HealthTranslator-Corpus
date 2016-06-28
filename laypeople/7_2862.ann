@@ -1,0 +1,12 @@
+T1	Automatic-Concept 32 40	hospital
+T2	Automatic-Concept 725 738	febre amarela
+T3	Automatic-Concept 1015 1028	febre amarela
+T4	Automatic-Concept 947 955	hospital
+T5	Automatic-Concept 1400 1408	hospital
+T6	Automatic-Concept 1714 1722	hospital
+T7	Medical_Concept 628 646	atendimento mu00E9dico
+T8	Medical_Concept 649 661	farmacu00EAutico
+T9	Medical_Concept 713 721	epidemia
+T10	Medical_Concept 1002 1011	epidemias
+T11	Medical_Concept 1264 1272	pandemia
+T12	Medical_Concept 1277 1292	gripe espanhola

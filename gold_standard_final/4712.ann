@@ -1,0 +1,70 @@
+T1	Medical-Concept 2125 2131	trauma
+T2	Medical-Concept 2243 2254	diagnóstico
+T3	Medical-Concept 3205 3242	transtorno dissociativo de identidade
+T4	Medical-Concept 3370 3379	pacientes
+T5	Medical-Concept 3400 3425	transtornos dissociativos
+T6	Medical-Concept 3436 3445	pacientes
+T7	Medical-Concept 5224 5231	insônia
+T8	Medical-Concept 5319 5326	placebo
+T9	Medical-Concept 5170 5179	ansiedade
+T10	Medical-Concept 5333 5342	pacientes
+T11	Medical-Concept 5473 5484	diagnóstico
+T12	Medical-Concept 5705 5716	psiquiatria
+T13	Medical-Concept 99 103	TEPT
+T14	Medical-Concept 186 190	TEPT
+T15	Medical-Concept 282 286	TEPT
+T16	Medical-Concept 779 783	TEPT
+T17	Medical-Concept 1062 1066	TEPT
+T18	Medical-Concept 1194 1198	TEPT
+T19	Medical-Concept 3384 3388	TEPT
+T20	Medical-Concept 3512 3516	TEPT
+T21	Medical-Concept 3651 3655	TEPT
+T22	Medical-Concept 4290 4294	TEPT
+T23	Medical-Concept 5347 5351	TEPT
+T24	Medical-Concept 243 280	transtorno de estresse pós-traumático
+T25	Medical-Concept 5613 5650	transtorno de estresse pós-traumático
+T26	Medical-Concept 289 320	estado de stress pós-traumático
+T27	Medical-Concept 330 353	síndrome pós-traumática
+T28	Medical-Concept 1449 1477	Hiperexcitabilidade psíquica
+T29	Medical-Concept 1504 1523	episódios de pânico
+T30	Medical-Concept 1479 1491	Reações fuga
+T31	Medical-Concept 1585 1603	distúrbios do sono
+T32	Medical-Concept 1650 1665	hipervigilância
+T33	Medical-Concept 1887 1911	reação aguda ao estresse
+T34	Medical-Concept 1913 1919	CID-10
+T35	Medical-Concept 2137 2165	transtorno de estresse agudo
+T36	Medical-Concept 2957 2980	transtorno dissociativo
+T37	Medical-Concept 3018 3038	amnésia dissociativa
+T38	Medical-Concept 4022 4032	tratamento
+T39	Medical-Concept 4850 4860	tratamento
+T40	Medical-Concept 5044 5054	tratamento
+T41	Medical-Concept 4683 4715	Terapia cognitivo-comportamental
+T42	Medical-Concept 4816 4824	sintomas
+T43	Medical-Concept 4737 4749	medicamentos
+T44	Medical-Concept 4755 4767	medicamentos
+T45	Medical-Concept 4878 4910	Terapia cognitivo-comportamental
+T46	Medical-Concept 4991 5003	ansiolíticos
+T47	Medical-Concept 4982 4990	fármacos
+T48	Medical-Concept 5059 5069	sertralina
+T49	Medical-Concept 5285 5295	sertralina
+T50	Medical-Concept 5365 5375	sertralina
+T51	Medical-Concept 5075 5089	antidepressivo
+T52	Medical-Concept 5107 5117	serotonina
+T53	Medical-Concept 5122 5135	noradrenalina
+T54	Medical-Concept 5198 5216	efeitos colaterais
+T55	Medical-Concept 5408 5416	sintomas
+T56	Medical-Concept 1166 1174	sintomas
+T57	Medical-Concept 3929 3937	sintomas
+T58	Medical-Concept 5653 5680	transtorno de humor bipolar
+T59	Medical-Concept 55 63	estresse
+T60	Medical-Concept 431 442	estressante
+T61	Medical-Concept 4311 4335	transtornos psicológicos
+T62	Medical-Concept 360 382	transtorno psicológico
+T63	Medical-Concept 5502 5521	Transtornos Mentais
+T64	Medical-Concept 1525 1542	coração acelerado
+T65	Medical-Concept 1544 1556	transpiração
+T66	Medical-Concept 1605 1632	dificuldade de concentração
+T67	Medical-Concept 5005 5014	calmantes
+T68	Medical-Concept 3716 3728	estressantes
+T69	Medical-Concept 3486 3507	hospital psiquiátrico
+T70	Medical-Concept 79 93	grupo de risco

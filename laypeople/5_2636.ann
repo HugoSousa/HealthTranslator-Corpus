@@ -1,0 +1,84 @@
+T1	Medical_Concept 626 637	analgu00E9sico
+T2	Medical_Concept 8 20	criocirurgia
+T3	Medical_Concept 220 232	criocirurgia
+T4	Medical_Concept 409 421	criocirurgia
+T5	Medical_Concept 725 737	criocirurgia
+T6	Medical_Concept 164 175	crioterapia
+T7	Medical_Concept 264 275	crioterapia
+T8	Medical_Concept 568 579	crioterapia
+T9	Medical_Concept 1716 1724	embriu00E3o
+T10	Medical_Concept 1448 1456	corau00E7u00E3o
+T11	Medical_Concept 1009 1020	hemorragia
+T12	Medical_Concept 1030 1036	edema
+T13	Medical_Concept 1315 1330	criopreservau00E7u00E3o
+T14	Medical_Concept 1675 1690	criopreservau00E7u00E3o
+T15	Medical_Concept 940 948	medicina
+T16	Medical_Concept 1578 1584	sangue
+T17	Medical_Concept 1799 1812	infertilidade
+T18	Medical_Concept 1966 1978	criocirurgia
+T19	Medical_Concept 2056 2064	paciente
+T20	Medical_Concept 2552 2564	criocirurgia
+T21	Medical_Concept 2775 2787	criocirurgia
+T22	Medical_Concept 2968 2975	corau00E7u00E3o
+T23	Medical_Concept 2953 2957	pele
+T24	Medical_Concept 2931 2935	rim
+T25	Medical_Concept 2903 2911	pru00F3stata
+T26	Medical_Concept 2913 2921	pu00E2ncreas
+T27	Medical_Concept 2794 2806	criocirurgia
+T28	Medical_Concept 2862 2870	medicina
+T29	Medical_Concept 2946 2951	osso
+T30	Medical_Concept 2923 2929	fu00EDgado
+T31	Medical_Concept 3152 3164	criocirurgia
+T32	Medical_Concept 3427 3431	pele
+T33	Medical_Concept 3391 3403	criocirurgia
+T34	Medical_Concept 3476 3484	medicina
+T35	Medical_Concept 128 144	criocauterizau00E7u00E3o
+T36	Medical_Concept 146 162	criocongelamento
+T37	Medical_Concept 177 195	terapia criogu00EAnica
+T38	Medical_Concept 198 217	cirurgia criogu00EAnica
+T39	Medical_Concept 510 518	malignas
+T40	Medical_Concept 476 506	doenu00E7as dermatolu00F3gicas benignas
+T41	Medical_Concept 639 656	antiinflamatu00F3rios
+T42	Medical_Concept 687 706	destruiu00E7u00E3o tecidual
+T43	Medical_Concept 2663 2682	destruiu00E7u00E3o tecidual
+T44	Medical_Concept 779 800	destruiu00E7u00E3o de tecidos
+T45	Medical_Concept 847 859	Criobiologia
+T46	Medical_Concept 1360 1366	orgu00E3os
+T47	Medical_Concept 1436 1442	orgu00E3os
+T48	Medical_Concept 1368 1375	tecidos
+T49	Medical_Concept 1604 1611	tecidos
+T50	Medical_Concept 1378 1385	cu00E9lulas
+T51	Medical_Concept 1559 1570	transplante
+T52	Medical_Concept 1572 1577	Semen
+T53	Medical_Concept 1184 1189	Semen
+T54	Medical_Concept 1693 1698	Semen
+T55	Medical_Concept 1707 1713	ou00F3cito
+T56	Medical_Concept 1901 1907	ou00F3cito
+T57	Medical_Concept 1882 1894	fertilizau00E7u00E3o
+T58	Medical_Concept 1882 1894	fertilizau00E7u00E3o
+T59	Medical_Concept 1930 1944	espermatozu00F3ide
+T60	Medical_Concept 2069 2075	cancro
+T61	Medical_Concept 2289 2311	desequilu00EDbrio osmu00F3tico
+T62	Medical_Concept 2373 2386	dano tecidual
+T63	Medical_Concept 2451 2466	estase vascular
+T64	Medical_Concept 2474 2493	reau00E7u00E3o inflamatu00F3ria
+T65	Medical_Concept 2525 2538	dano tecidual
+T66	Medical_Concept 2598 2606	tecidual
+T67	Medical_Concept 2633 2645	extracelular
+T68	Medical_Concept 2625 2630	intra
+T69	Medical_Concept 2695 2716	processo inflamatu00F3rio
+T70	Medical_Concept 2721 2727	estase
+T71	Medical_Concept 2730 2746	oclusu00E3o vascular
+T72	Medical_Concept 2937 2944	pulmu00F5es
+T73	Medical_Concept 2959 2966	ouvidos
+T74	Medical_Concept 2977 2989	neurolu00F3gicas
+T75	Medical_Concept 2991 3005	oftalmolu00F3gicas
+T76	Medical_Concept 3008 3021	ginecolu00F3gicas
+T77	Medical_Concept 3040 3063	Procedimentos Estu00E9ticos
+T78	Medical_Concept 3104 3128	Procedimentos Ciru00FArgicos
+T79	Medical_Concept 3168 3183	lesu00F5es cutu00E2neas
+T80	Medical_Concept 3224 3247	Procedimentos Estu00E9ticos
+T81	Medical_Concept 3299 3318	Experiu00EAncia Clu00EDnica
+T82	Medical_Concept 3321 3335	Visu00E3o Estu00E9tica
+T83	Medical_Concept 3343 3367	Procedimentos Ciru00FArgicos
+T84	Medical_Concept 3407 3423	Tumores Malignos

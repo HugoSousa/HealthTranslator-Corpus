@@ -1,0 +1,80 @@
+. Se tem algum conhecimento sobre o tema, por favor, verifique e melhore a consistência e o rigor deste artigo.
+
+Considere utilizar {{ revisão-sobre }} para associar este artigo com um WikiProjeto e colocar uma explicação mais detalhada na discussão .
+
+Os insetos ( AO 1945 : insectos) 1 são invertebrados com exoesqueleto quitinoso , corpo dividido em três segmentos ( cabeça , tórax e abdómen ), três pares de patas articuladas , olhos compostos e duas antenas . Seu nome vem do latim insectum. Pertencem à classe Insecta e compõem o maior e mais largamente distribuído grupo de animais do filo Arthropoda e, consequentemente, dentre todos os animais. 2 A ciência que se dedica a estudar os insetos é conhecida como Entomologia . 3
+
+Os insetos são o grupo de animais mais diversificado existente na Terra . Embora não haja um consenso entre os entomologistas, estima-se que existam de 5 a 10 milhões de espécies diferentes, sendo que quase 1 milhão destas espécies já foram catalogadas. 4 Os insectos podem ser encontrados em quase todos os ecossistemas do planeta, mas só um pequeno número de espécies se adaptaram à vida nos oceanos . Existem aproximadamente 5 mil espécies de Odonata ( libelinhas ), 20 mil de Orthoptera ( gafanhotos e grilos ), 170 mil de Lepidópteros ( borboletas ), 120 mil de Dípteros ( moscas ), 82 mil de Hemipteros ( percevejos e afídeos ), 350 mil de Coleópteros ( besouros ) e 110 mil de Hymenópteros ( abelhas , vespas e formigas ).
+
+Alguns grupos menores, com uma anatomia semelhante, como os colêmbolos , eram agrupados com os insectos no grupo Hexapoda , mas atualmente seguem um grupo parafilético Ellipura, tendo discussões filogenéticas relevantes no campo da biologia comparativa. Os verdadeiros insectos distinguem-se dos outros artrópodes por serem ectognatas, ou seja, com as peças bucais externas e por terem onze segmentos abdominais . Muitos artrópodes terrestres , como as centopeias , mil-pés , escorpiões , aranhas , como também microartrópodes colêmbolos são muitas vezes considerados erroneamente insectos.
+
+Os insetos atuais são geralmente pequenos e têm o [corpo (anatômico segmentado , protegido por um exosqueleto rígido de um material conhecido como quitina. Podem ser caracterizados como animais de simetria bilateral. O corpo é dividido em três partes distintas ou tagmas , que são interligadas entre sí: cabeça , tórax e abdome . Na cabeça encontram-se um par de antenas sensoriais , um par de olhos compostos , dois ou três olhos simples ou ocelos e as peças bucais : um par de mandíbulas , um par de maxilas e a hipofaringe . Outras estruturas que fazem parte do aparelho bucal dos insetos são o lábio, o labro, um par de palpos labiais, um par de palpos maxilares e o clípeo. Essas peças são modificadas em cada grupo para atender aos diferentes hábitos alimentares, formando diversos tipos de aparelhos bucais (sugador, mastigador, triturador e lambedor).
+
+O cefalotórax dos insetos possui seis segmentadas pernas distribuídas por três pares: um para o protórax, outro para o mesotórax e o último par para o metatórax — que são os segmentos que compõem o cefalotórax. Em determinadas espécies podemos encontrar também um par de asas no mesotórax e outro par no metatórax. O abdômen é composto por onze segmentos, embora em algumas espécies de insetos esses segmentos possam ser fundidos ou reduzidos de tamanho. O abdômen também contém a maior parte do aparelho digestivo , respiratório , excretor e estruturas internas reprodutivas . Nos machos o segmento genital é o 9°, onde há a abertura genital. As fêmeas de muitos insectos possuem ovipositores , que são extensões dos segmentos genitais adaptados à postura de ovos .
+
+Os insectos são protostômios, triblásticos e celomados . Têm um sistema digestivo completo, consistindo num tubo que vai da boca ao ânus . O sistema excretor consiste em túbulos de Malpighi para a remoção dos dejetos nitrogenados e no intestino posterior para a osmorregulação : através do intestino posterior, os insectos são capazes de reabsorver água com os Íons K+ e Na+ e, por isso, eles normalmente não excretam água com as fezes, permitindo-lhes conservá-la e, assim, sobreviver em ambientes áridos .
+
+As traquéias têm aberturas na cutícula chamadas espiráculos , por onde são feitas as trocas gasosas. O sistema circulatório dos insectos, como nos restantes artrópodes, é aberto: o coração bombeia a hemolinfa através de artérias para espaços que rodeiam os órgãos ; quando o coração se descontrai, a hemolinfa volta para dentro deste órgão.
+
+O complexo sistema nervoso é constituído por vários pares de gânglios ligados, fundidos, que se unem na região da cabeça e que formam uma massa cerebral . Esta massa se une a uma longa rede nervosa de gânglios ventrais que vai até a extremidade do abdome.
+
+Um casal de moscas (Dípteros) realizando a sua cópula em pleno voo.
+
+A grande maioria dos insetos nascem a partir de ovos depositados por sua genitora em locais propícios ao seu desenvolvimento (como em plantas ) — o que os classifica como sendo ovíparos . 5 Entretanto, existem casos em que certas espécies de insetos (como a barata Blatella germanica ) nascem imediatamente após a postura dos ovos, o que classifica a tais como sendo ovovivíparos . 6 Também existem algumas espécies que são consideradas vivíparas , como é frequente nos pulgões , onde os insetos recém-nascidos saem dos ovos ainda dentro do corpo da mãe. 7 Em certas espécies de vespas parasitas , identifica-se o fenômeno da poliembrionia , onde um único óvulo fertilizado se divide em muitos, em alguns casos, até mesmo milhares de embriões distintos. 8
+
+Outras variações de reprodução e desenvolvimento nos insetos podem ser: haplodiploidia, polimorfismo , pedomorfose , dimorfismo sexual , partenogênese e, mais raramente hermafroditismo . Em haplodiploidia, que é um tipo de determinação do sexo num sistema, o sexo da prole é determinado pelo número de conjuntos de cromossomos que um indivíduo recebe. Este sistema peculiar é típico nos Himenópteros ( abelhas , formigas e vespas ). 9
+
+A metamorfose nos insetos é um processo biológico de desenvolvimento pela qual as espécies crescem e mudam de forma. Existem duas formas básicas de metamorfose: a metamorfose completa e a metamorfose incompleta. 10
+
+A maioria dos insetos grandes têm um ciclo de vida típico que se inicia num ovo , que origina uma larva que se alimenta, ocasionando ecdises (ou trocas de pele) onde cresce, transformando-se em pupa (ou casulo) e em seguida, surge como um inseto adulto que se parece muito diferente da larva original. Esses insetos são freqüentemente chamados de Holometábolos , o que significa que passam por uma completa(holo = total) mudança (metábolos = mudança). Estes incluem os Himenópteros , os Coleópteros , os Dípteros , etc. 10
+
+Aqueles insetos que nos estágios imaturos têm formas semelhantes aos adultos (com exceção das asas) são chamados de Hemimetábolos , significando que eles sofrem uma mudança parcial ou simplesmente incompleta (hemi = parcial). Durante a fase em que tais insetos ainda não atingiram o sua maturidade, recebem o nome de ninfas . São representantes deste tipo de matmorfose: os Himípteros , os Blatódeos , as Odonatas , etc. 10
+
+Fotografias do processo de metamorfose incompleta de uma libélula .
+
+Muitos insectos possuem um ou dois pares de asas localizadas no segundo e terceiro segmentos torácicos e são o único grupo de invertebrados que desenvolveu a capacidade de voar, o que teve um importante papel no seu sucesso reprodutivo . Os insectos alados e as espécies relacionadas que perderam secundariamente as asas estão agrupadas nos Pterygota .
+
+Em alguns insectos, o vôo depende muito da turbulência atmosférica , mas nos mais “primitivos” está baseado em músculos que fazem bater as asas. Noutras espécies mais “avançadas”, do grupo Neoptera , as asas podem ser dobradas sobre o dorso, e quando em uso são acionadas por uma ação indirecta de músculos que atuam sobre a parede do tórax. Estes músculos contraem-se quando se encontram distendidos, sem necessitarem de impulsos nervosos , permitindo ao animal bater as asas muito mais rapidamente.
+
+Os insectos jovens, depois de sairem dos ovos , sofrem uma série de mudas ou ecdises a fim de poderem crescer – uma vez que o exosqueleto não lhes permite crescer sem o mudarem. Nas espécies que apresentam metamorfose incompleta, os juvenis, chamados ninfas , não possuem asas, e são basicamente iguais aos adultos na forma do corpo; na metamorfose completa, característica dos Endopterygota , a eclosão do ovo produz uma larva , geralmente em forma de verme (a lagarta ) que, depois de crescer, se transforma numa pupa que, muitas vezes, se encerra num casulo , ou numa crisálida , que muda consideravelmente de forma, antes de emergir como adulto.
+
+Algumas espécies de insectos, como as formigas e as abelhas , vivem em sociedades tão bem organizadas que são por vezes consideradas superorganismos .
+
+Muitos insectos possuem órgãos dos sentidos muito refinados; por exemplo, as abelhas podem ver a luz ultravioleta e os machos das falenas têm um forte olfacto que lhes permite detectar as feromonas de fêmeas a quilómetros de distância.
+
+O papel dos insectos no meio ambiente e na sociedade humana[ editar ]
+
+Esta página ou secção foi marcada para revisão, devido a inconsistências e/ou dados de confiabilidade duvidosa. Se tem algum conhecimento sobre o tema, por favor, verifique e melhore a consistência e o rigor deste artigo.
+
+Considere utilizar {{ revisão-sobre }} para associar este artigo com um WikiProjeto e colocar uma explicação mais detalhada na discussão .
+
+Muitos insectos são considerados daninhos porque transmitem doenças ( mosquitos , moscas ), danificam construções ( térmitas ) ou destróem colheitas ( gafanhotos , gorgulhos ) e muitos entomologistas econômistas ou agrônomos se preocupam com várias formas de lutar contra eles, por vezes usando insecticidas mas, cada vez mais, investigando métodos de biocontrole .
+
+Apesar destes insectos prejudiciais terem mais atenção, a maioria das espécies é benéfica para o homem ou para o meio ambiente . Muitos ajudam na polinização das plantas (como as vespas , abelhas e borboletas ) e evoluíram em conjunto com elas – a polinização é uma espécie de simbiose que dá às plantas a capacidade de se reproduzirem com mais eficiência, enquanto que os polinizadores ficam com o néctar e pólen . De fato, o declínio das populações de insetos polinizadores constitui um sério problema ambiental e há muitas espécies de insectos que são criados para esse fim perto de campos agrícolas .
+
+Alguns insectos também produzem substâncias úteis para o homem, como o mel , a cera , a laca e a seda . As abelhas e os bichos-da-seda têm sido criados pelo homem há milhares de anos e pode dizer-se que a seda afectou a história da humanidade, através do estabelecimento de relações entre a China e o resto do mundo. Em alguns lugares do mundo, os insectos são usados na alimentação humana, enquanto que noutros são considerados tabu .
+
+As larvas da mosca doméstica eram usadas para tratar feridas gangrenadas , uma vez que elas apenas consomem carne morta e este tipo de tratamento está a ganhar terreno actualmente em muitos hospitais[ carece de fontes ?].
+
+Além disso, muitos insectos, especialmente os escaravelhos , são detritívoros , alimentando-se de animais e plantas mortas, contribuindo assim para a remineralização dos produtos orgânicos.
+
+Embora a maior parte das pessoas não saiba, provavelmente a maior utilidade dos insectos é que muitos deles são insectívoros , ou seja, alimentam-se de outros insectos, ajudando a manter o seu equilíbrio na natureza. Para qualquer espécie de insecto daninha existe uma espécie de vespa que é, ou parasitóide ou predadora dela[ carece de fontes ?]. Por essa razão, o uso de inseticidas pode ter o efeito contrário ao desejado, uma vez que matam, não só os insetos que se pretendem eliminar, mas também os seus inimigos.
+
+Existem divergências entre os diversos autores a respeito da classificação dos Insectos. Portanto esta pode se apresentar ligeiramente diferente de acordo com a fonte consultada.
+
+↑ Livro: "Biologia - Volume Único". Sônia Lopes, Sérgio Rosso, 2005. Capítulo 23: "Arthropoda e Echinodermata" abaixo do subtópico: "Classe Insecta", na página 328. Publicado pela editora Saraiva S.A.
+
+↑ Página da "Fundação de Medicina Tropical". abaixo do artigo: " Entomologia ". Acessado no dia 18 de Agosto de 2011.
+
+↑ Página do "Departamento de Zoologia da Universidade Federal do Paraná", no artigo: " Encyrtidae Walker, 1837 ", abaixo do sub-tópico: "Biologia e Coleta". Acessado em 24 de Agosto de 2011.
+
+↑ "Baratas.net", no artigo: " Reprodução das Baratas ". Acessado em 25 de Agosto de 2011.
+
+↑ Página da "BioMania", no artigo: " INSETOS ", abaixo do sub-tópico: "Reprodução". Acessado em 24 de Agosto de 2011.
+
+↑ Página da "National Geographic", no artigo: " Abandonados para viver ". Acessado em 25 de Agosto de 2011.
+
+↑ a b c Pagina do Australian Museum (em inglês), no artigo: " Metamorphosis: a remarkable change ". Acessado em 25 de Agosto de 2011.
+
+Esta página foi modificada pela última vez à(s) 20h31min de 27 de setembro de 2013.
+

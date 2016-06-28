@@ -1,0 +1,309 @@
+T1	Medical-Concept 114 121	coração
+T2	Medical-Concept 240 246	sangue
+T3	Medical-Concept 309 315	sangue
+T4	Medical-Concept 336 352	pressão arterial
+T5	Medical-Concept 470 482	desidratação
+T6	Medical-Concept 598 609	endotoxinas
+T7	Medical-Concept 448 459	hemorragias
+T8	Medical-Concept 502 508	sangue
+T9	Medical-Concept 621 634	vasodilatação
+T10	Medical-Concept 536 552	pressão arterial
+T11	Medical-Concept 1187 1212	sistema nervoso simpático
+T12	Medical-Concept 884 895	taquicardia
+T13	Medical-Concept 1110 1118	hormonas
+T14	Medical-Concept 903 912	ansiedade
+T15	Medical-Concept 1072 1086	vasoconstrição
+T16	Medical-Concept 1318 1323	olhos
+T17	Medical-Concept 1309 1315	lábios
+T18	Medical-Concept 1338 1344	sangue
+T19	Medical-Concept 1382 1398	pressão arterial
+T20	Medical-Concept 1232 1240	paciente
+T21	Medical-Concept 2176 2183	coração
+T22	Medical-Concept 1659 1663	pele
+T23	Medical-Concept 2156 2163	cérebro
+T24	Medical-Concept 1689 1693	rins
+T25	Medical-Concept 2147 2151	rins
+T26	Medical-Concept 2225 2231	fígado
+T27	Medical-Concept 1544 1560	pressão arterial
+T28	Medical-Concept 2513 2535	insuficiência cardíaca
+T29	Medical-Concept 2489 2499	hemorragia
+T30	Medical-Concept 2480 2486	trauma
+T31	Medical-Concept 2571 2582	hemorragias
+T32	Medical-Concept 2625 2638	trauma físico
+T33	Medical-Concept 2645 2657	desidratação
+T34	Medical-Concept 2816 2820	suor
+T35	Medical-Concept 2948 2954	cólera
+T36	Medical-Concept 2852 2860	diarreia
+T37	Medical-Concept 2927 2934	doenças
+T38	Medical-Concept 3006 3010	pele
+T39	Medical-Concept 3154 3163	intestino
+T40	Medical-Concept 3092 3112	obstrução intestinal
+T41	Medical-Concept 3324 3349	sistema nervoso simpático
+T42	Medical-Concept 3595 3600	urina
+T43	Medical-Concept 3547 3549	pé
+T44	Medical-Concept 3472 3482	hipotensão
+T45	Medical-Concept 3620 3624	rins
+T46	Medical-Concept 3313 3320	palidez
+T47	Medical-Concept 3281 3292	taquicardia
+T48	Medical-Concept 3915 3926	taquicardia
+T49	Medical-Concept 3409 3418	ansiedade
+T50	Medical-Concept 3513 3519	sangue
+T51	Medical-Concept 3656 3667	hematócrito
+T52	Medical-Concept 4643 4650	pescoço
+T53	Medical-Concept 4428 4432	pele
+T54	Medical-Concept 4458 4468	dedo do pé
+T55	Medical-Concept 4634 4639	veias
+T56	Medical-Concept 4359 4366	palidez
+T57	Medical-Concept 4609 4620	diagnóstico
+T58	Medical-Concept 4490 4498	paciente
+T59	Medical-Concept 4918 4922	soro
+T60	Medical-Concept 4963 4974	hemorragias
+T61	Medical-Concept 5032 5038	sangue
+T62	Medical-Concept 5072 5078	sangue
+T63	Medical-Concept 5282 5302	hipertensão arterial
+T64	Medical-Concept 5185 5211	infarto agudo do miocárdio
+T65	Medical-Concept 5421 5428	pescoço
+T66	Medical-Concept 5412 5417	veias
+T67	Medical-Concept 5675 5682	coração
+T68	Medical-Concept 5726 5737	hipertrofia
+T69	Medical-Concept 5443 5454	diagnóstico
+T70	Medical-Concept 5638 5653	ecocardiografia
+T71	Medical-Concept 5475 5492	eletrocardiograma
+T72	Medical-Concept 5561 5568	doenças
+T73	Medical-Concept 5623 5634	radiografia
+T74	Medical-Concept 6066 6088	insuficiência cardíaca
+T75	Medical-Concept 6110 6117	coração
+T76	Medical-Concept 6305 6310	veias
+T77	Medical-Concept 6190 6196	sangue
+T78	Medical-Concept 6233 6239	sangue
+T79	Medical-Concept 6273 6289	pressão arterial
+T80	Medical-Concept 6620 6627	coração
+T81	Medical-Concept 6665 6669	veia
+T82	Medical-Concept 6657 6662	aorta
+T83	Medical-Concept 6432 6438	pleura
+T84	Medical-Concept 6357 6368	pneumotórax
+T85	Medical-Concept 6739 6747	paciente
+T86	Medical-Concept 6836 6843	coração
+T87	Medical-Concept 6908 6915	coração
+T88	Medical-Concept 6813 6823	pericárdio
+T89	Medical-Concept 6847 6857	pericárdio
+T90	Medical-Concept 6754 6775	tamponamento cardíaco
+T91	Medical-Concept 6780 6790	hemorragia
+T92	Medical-Concept 6931 6940	diafragma
+T93	Medical-Concept 7068 7075	pescoço
+T94	Medical-Concept 7059 7064	veias
+T95	Medical-Concept 7171 7178	coração
+T96	Medical-Concept 7591 7595	pele
+T97	Medical-Concept 7243 7267	sistema nervoso autônomo
+T98	Medical-Concept 7288 7313	sistema nervoso simpático
+T99	Medical-Concept 7776 7786	hipotensão
+T100	Medical-Concept 7716 7722	sangue
+T101	Medical-Concept 7645 7658	vasodilatação
+T102	Medical-Concept 7598 7606	músculos
+T103	Medical-Concept 7842 7866	lesão da medula espinhal
+T104	Medical-Concept 8150 8154	pele
+T105	Medical-Concept 8199 8210	bradicardia
+T106	Medical-Concept 8118 8125	palidez
+T107	Medical-Concept 8010 8021	taquicardia
+T108	Medical-Concept 8169 8180	taquicardia
+T109	Medical-Concept 8034 8048	vasoconstrição
+T110	Medical-Concept 8083 8096	vasodilatação
+T111	Medical-Concept 7987 7995	paciente
+T112	Medical-Concept 8261 8269	paciente
+T113	Medical-Concept 8443 8451	infecção
+T114	Medical-Concept 8551 8559	infecção
+T115	Medical-Concept 8488 8494	sangue
+T116	Medical-Concept 8774 8792	sistema imunitário
+T117	Medical-Concept 8759 8769	endotoxina
+T118	Medical-Concept 8922 8932	inflamação
+T119	Medical-Concept 8913 8918	edema
+T120	Medical-Concept 9363 9368	edema
+T121	Medical-Concept 8621 8629	síndrome
+T122	Medical-Concept 8844 8853	infecções
+T123	Medical-Concept 8897 8910	vasodilatação
+T124	Medical-Concept 9035 9048	vasodilatação
+T125	Medical-Concept 9513 9517	pele
+T126	Medical-Concept 9544 9555	taquicardia
+T127	Medical-Concept 10341 10354	catecolaminas
+T128	Medical-Concept 10670 10683	catecolaminas
+T129	Medical-Concept 10375 10385	receptores
+T130	Medical-Concept 11291 11295	feto
+T131	Medical-Concept 11344 11354	hipotermia
+T132	Medical-Concept 11389 11399	hipotermia
+T133	Medical-Concept 11572 11582	hipotermia
+T134	Medical-Concept 11418 11425	traumas
+T135	Medical-Concept 11489 11496	terapia
+T136	Medical-Concept 11357 11366	pacientes
+T137	Medical-Concept 11772 11783	taquicardia
+T138	Medical-Concept 11843 11854	taquicardia
+T139	Medical-Concept 11682 11690	paciente
+T140	Medical-Concept 12088 12104	Artéria Pulmonar
+T141	Medical-Concept 124 129	vasos
+T142	Medical-Concept 166 173	tecidos
+T143	Medical-Concept 1958 1965	tecidos
+T144	Medical-Concept 265 272	tecidos
+T145	Medical-Concept 9128 9135	tecidos
+T146	Medical-Concept 9330 9337	tecidos
+T147	Medical-Concept 177 182	corpo
+T148	Medical-Concept 187 195	oxigénio
+T149	Medical-Concept 327 332	vasos
+T150	Medical-Concept 647 652	vasos
+T151	Medical-Concept 4879 4884	vasos
+T152	Medical-Concept 6642 6647	vasos
+T153	Medical-Concept 10427 10432	vasos
+T154	Medical-Concept 360 366	choque
+T155	Medical-Concept 2 8	Choque
+T156	Medical-Concept 42 48	choque
+T157	Medical-Concept 1448 1454	choque
+T158	Medical-Concept 796 802	choque
+T159	Medical-Concept 1802 1808	choque
+T160	Medical-Concept 2004 2010	choque
+T161	Medical-Concept 2262 2268	choque
+T162	Medical-Concept 2386 2392	choque
+T163	Medical-Concept 4597 4603	choque
+T164	Medical-Concept 4945 4951	choque
+T165	Medical-Concept 5790 5796	choque
+T166	Medical-Concept 7799 7805	choque
+T167	Medical-Concept 8229 8235	choque
+T168	Medical-Concept 9146 9152	choque
+T169	Medical-Concept 9642 9648	choque
+T170	Medical-Concept 9927 9933	choque
+T171	Medical-Concept 9986 9992	choque
+T172	Medical-Concept 10197 10203	choque
+T173	Medical-Concept 10503 10509	choque
+T174	Medical-Concept 11138 11144	choque
+T175	Medical-Concept 11858 11864	choque
+T176	Medical-Concept 579 588	bactérias
+T177	Medical-Concept 8456 8465	bactérias
+T178	Medical-Concept 8593 8602	bactérias
+T179	Medical-Concept 9764 9773	bactérias
+T180	Medical-Concept 680 699	choque cardiogénico
+T181	Medical-Concept 710 718	cardíaca
+T182	Medical-Concept 738 743	órgão
+T183	Medical-Concept 830 847	sinais e sintomas
+T184	Medical-Concept 976 984	sintomas
+T185	Medical-Concept 3235 3243	sintomas
+T186	Medical-Concept 7000 7008	sintomas
+T187	Medical-Concept 5353 5361	sintomas
+T188	Medical-Concept 1046 1063	pressão sanguínea
+T189	Medical-Concept 756 773	pressão sanguínea
+T190	Medical-Concept 1127 1137	adrenalina
+T191	Medical-Concept 1142 1145	ADH
+T192	Medical-Concept 1512 1532	colapso hemodinâmico
+T193	Medical-Concept 1568 1587	freqüência cardíaca
+T194	Medical-Concept 10219 10238	freqüência cardíaca
+T195	Medical-Concept 9879 9898	freqüência cardíaca
+T196	Medical-Concept 10935 10954	freqüência cardíaca
+T197	Medical-Concept 11029 11048	freqüência cardíaca
+T198	Medical-Concept 11269 11288	freqüência cardíaca
+T199	Medical-Concept 1599 1619	batimentos cardíacos
+T200	Medical-Concept 10763 10783	batimentos cardíacos
+T201	Medical-Concept 1711 1716	pulso
+T202	Medical-Concept 9574 9579	pulso
+T203	Medical-Concept 1975 1983	isquémia
+T204	Medical-Concept 2114 2120	órgãos
+T205	Medical-Concept 2188 2212	sistema gastrointestinal
+T206	Medical-Concept 2278 2290	hemorrágicos
+T207	Medical-Concept 2297 2309	hemorrágicos
+T208	Medical-Concept 2408 2414	doente
+T209	Medical-Concept 3695 3701	doente
+T210	Medical-Concept 3852 3858	doente
+T211	Medical-Concept 4236 4244	cardíaca
+T212	Medical-Concept 7534 7542	cardíaca
+T213	Medical-Concept 2841 2848	vómitos
+T214	Medical-Concept 2897 2908	eletrólitos
+T215	Medical-Concept 2979 2990	queimaduras
+T216	Medical-Concept 3083 3087	Íleo
+T217	Medical-Concept 3205 3221	volume sanguíneo
+T218	Medical-Concept 3295 3308	vasocontrição
+T219	Medical-Concept 3378 3388	adrenalina
+T220	Medical-Concept 12126 12133	pressão
+T221	Medical-Concept 3566 3574	tonturas
+T222	Medical-Concept 3672 3691	análises sanguíneas
+T223	Medical-Concept 3707 3717	consciente
+T224	Medical-Concept 3995 4006	hipertensão
+T225	Medical-Concept 73 101	insuficiência cardiovascular
+T226	Medical-Concept 10910 10927	resposta cardíaca
+T227	Medical-Concept 424 443	choque hipovolêmico
+T228	Medical-Concept 4074 4093	choque hipovolémico
+T229	Medical-Concept 5385 5404	choque hipovolémico
+T230	Medical-Concept 7032 7051	choque hipovolémico
+T231	Medical-Concept 9443 9462	choque hipovolémico
+T232	Medical-Concept 7662 7686	vasodilatação periférica
+T233	Medical-Concept 7916 7927	anestésicos
+T234	Medical-Concept 11660 11680	marca-passo cardíaco
+T235	Medical-Concept 11695 11715	marca-passo cardíaco
+T236	Medical-Concept 6959 6979	vísceras intestinais
+T237	Medical-Concept 6690 6707	drenagem torácica
+T238	Medical-Concept 7752 7767	ritmo cardíacos
+T239	Medical-Concept 5954 5969	vasodilatadores
+T240	Medical-Concept 8692 8708	membrana externa
+T241	Medical-Concept 1462 1481	choque circulatório
+T242	Medical-Concept 5869 5877	fármacos
+T243	Medical-Concept 6033 6041	fármacos
+T244	Medical-Concept 7902 7910	fármacos
+T245	Medical-Concept 10629 10640	propranolol
+T246	Medical-Concept 10591 10620	medicamentos betabloqueadores
+T247	Medical-Concept 11649 11659	pace-maker
+T248	Medical-Concept 1149 1165	reflexo neuronal
+T249	Medical-Concept 5237 5249	cardiopatias
+T250	Medical-Concept 5710 5721	cardiopatia
+T251	Medical-Concept 4218 4233	função cerebral
+T252	Medical-Concept 5214 5231	arritmia cardiaca
+T253	Medical-Concept 5917 5926	arritmias
+T254	Medical-Concept 4749 4763	catéter venoso
+T255	Medical-Concept 12001 12008	cateter
+T256	Medical-Concept 11912 11919	Cateter
+T257	Medical-Concept 8720 8738	lipopolissacarídeo
+T258	Medical-Concept 9836 9852	vasoconstritores
+T259	Medical-Concept 9340 9360	líquido intersticial
+T260	Medical-Concept 8286 8306	anestesia raquidiana
+T261	Medical-Concept 1257 1279	palidez cutâneo-mucosa
+T262	Medical-Concept 5139 5157	disfunção cardíaca
+T263	Medical-Concept 1281 1292	pele pálida
+T264	Medical-Concept 5260 5280	problemas valvulares
+T265	Medical-Concept 8872 8881	citocinas
+T266	Medical-Concept 8814 8823	citocinas
+T267	Medical-Concept 9607 9628	resposta inflamatória
+T268	Medical-Concept 8310 8319	peridural
+T269	Medical-Concept 4267 4274	volémia
+T270	Medical-Concept 9395 9402	volémia
+T271	Medical-Concept 11816 11823	doentes
+T272	Medical-Concept 6418 6424	pulmão
+T273	Medical-Concept 6513 6519	pulmão
+T274	Medical-Concept 6533 6539	pulmão
+T275	Medical-Concept 6609 6615	pulmão
+T276	Medical-Concept 7955 7965	medicações
+T277	Medical-Concept 7470 7487	estimulação basal
+T278	Medical-Concept 8353 8373	drogas vasopressoras
+T279	Medical-Concept 10263 10290	atividade simpaticomimética
+T280	Medical-Concept 6563 6568	tórax
+T281	Medical-Concept 6987 6992	tórax
+T282	Medical-Concept 12107 12123	Capilar Pulmonar
+T283	Medical-Concept 5998 6015	trabalho cardíaco
+T284	Medical-Concept 8422 8432	septicémia
+T285	Medical-Concept 8976 8986	septicémia
+T286	Medical-Concept 9204 9214	microvasos
+T287	Medical-Concept 12050 12063	átrio Direito
+T288	Medical-Concept 7555 7586	ação vasoconstritora periférica
+T289	Medical-Concept 4163 4170	sedação
+T290	Medical-Concept 3929 3944	palidez cutânea
+T291	Medical-Concept 11193 11217	hipervolemia fisiológica
+T292	Medical-Concept 5517 5534	condução cardíaca
+T293	Medical-Concept 10399 10420	complacência cardíaca
+T294	Medical-Concept 9719 9731	antibióticos
+T295	Medical-Concept 7373 7393	contrações cardíacas
+T296	Medical-Concept 9315 9321	plasma
+T297	Medical-Concept 4684 4703	choque cardiogênico
+T298	Medical-Concept 5885 5899	antiarrítmicos
+T299	Medical-Concept 4435 4454	tecidos subcutâneos
+T300	Medical-Concept 4018 4033	tensão arterial
+T301	Medical-Concept 9070 9085	tensão arterial
+T302	Medical-Concept 12065 12083	Ventrículo Direito
+T303	Medical-Concept 5577 5594	ausculta cardíaca
+T304	Medical-Concept 7812 7824	dano nervoso
+T305	Medical-Concept 556 570	choque séptico
+T306	Medical-Concept 8380 8394	choque séptico
+T307	Medical-Concept 9665 9677	hipovolémico
+T308	Medical-Concept 5830 5842	hipovolémico
+T309	Medical-Concept 9179 9186	trombos

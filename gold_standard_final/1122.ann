@@ -1,0 +1,71 @@
+T1	Medical-Concept 2 9	insônia
+T2	Medical-Concept 678 685	insônia
+T3	Medical-Concept 150 158	sensação
+T4	Medical-Concept 73 81	dissonia
+T5	Medical-Concept 357 364	indução
+T6	Medical-Concept 138 142	sono
+T7	Medical-Concept 400 404	sono
+T8	Medical-Concept 524 528	sono
+T9	Medical-Concept 664 673	pacientes
+T10	Medical-Concept 750 761	diagnóstico
+T11	Medical-Concept 737 745	paciente
+T12	Medical-Concept 974 981	insônia
+T13	Medical-Concept 1167 1174	insônia
+T14	Medical-Concept 1067 1073	doença
+T15	Medical-Concept 1119 1125	doença
+T16	Medical-Concept 1508 1515	insônia
+T17	Medical-Concept 1927 1934	insônia
+T18	Medical-Concept 2080 2087	insônia
+T19	Medical-Concept 2284 2293	depressão
+T20	Medical-Concept 2398 2405	insônia
+T21	Medical-Concept 2439 2446	insônia
+T22	Medical-Concept 2643 2650	insônia
+T23	Medical-Concept 2755 2762	insônia
+T24	Medical-Concept 2905 2912	insônia
+T25	Medical-Concept 3166 3175	depressão
+T26	Medical-Concept 3112 3119	insônia
+T27	Medical-Concept 3264 3271	insônia
+T28	Medical-Concept 3203 3215	psicoterapia
+T29	Medical-Concept 38 45	insónia
+T30	Medical-Concept 307 323	polissonográfico
+T31	Medical-Concept 173 187	sono reparador
+T32	Medical-Concept 510 520	transtorno
+T33	Medical-Concept 611 621	tratamento
+T34	Medical-Concept 625 642	problemas do sono
+T35	Medical-Concept 697 712	depressão maior
+T36	Medical-Concept 765 781	insônia primária
+T37	Medical-Concept 883 889	queixa
+T38	Medical-Concept 901 919	sono não reparador
+T39	Medical-Concept 963 969	DSM IV
+T40	Medical-Concept 1102 1109	sintoma
+T41	Medical-Concept 1180 1187	sintoma
+T42	Medical-Concept 1197 1220	transtorno psiquiátrico
+T43	Medical-Concept 1269 1307	Classificação Internacional de Doenças
+T44	Medical-Concept 1310 1316	CID 10
+T45	Medical-Concept 1346 1360	causa orgânica
+T46	Medical-Concept 1376 1398	causa psicofisiológica
+T47	Medical-Concept 1432 1439	clínico
+T48	Medical-Concept 1442 1458	polissonográfico
+T49	Medical-Concept 1546 1563	psicofisiológicas
+T50	Medical-Concept 1731 1739	estresse
+T51	Medical-Concept 2042 2062	insônia intermitente
+T52	Medical-Concept 1980 1984	sono
+T53	Medical-Concept 2265 2273	estresse
+T54	Medical-Concept 2296 2321	abuso de álcool ou drogas
+T55	Medical-Concept 2324 2343	hábitos inadequados
+T56	Medical-Concept 3089 3099	tratamento
+T57	Medical-Concept 3124 3152	medicamentos antidepressivos
+T58	Medical-Concept 3187 3199	medicamentos
+T59	Medical-Concept 3255 3260	causa
+T60	Medical-Concept 3312 3328	Insônia primária
+T61	Medical-Concept 3330 3353	diagnóstico diferencial
+T62	Medical-Concept 3356 3366	tratamento
+T63	Medical-Concept 2987 2997	tratamento
+T64	Medical-Concept 1610 1618	insônias
+T65	Medical-Concept 1129 1145	efeito colateral
+T66	Medical-Concept 1785 1790	saúde
+T67	Medical-Concept 948 960	saúde mental
+T68	Medical-Concept 479 502	desenvolvimento crônico
+T69	Medical-Concept 1527 1543	causas orgânicas
+T70	Medical-Concept 1152 1163	medicamento
+T71	Medical-Concept 2163 2171	insônias

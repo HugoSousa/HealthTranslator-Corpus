@@ -1,0 +1,16 @@
+A espectroscopia de fluorescência, também chamada espectrofluorometria ou simplesmente fluorometria é um tipo de espectroscopia eletromagnética a qual analisa a fluorescência de uma amostra. Isto envolve o resultado da absorção de energia radiante e emissão de parte desta energia na forma de luz de baixa energia, normalmente, mas não necessariamente luz visível . a emissão de luz se dá pela excitação de elétrons nas moléculas de certos compostos, normalmente usando luz ultravioleta .
+
+Seu princípio teórico é que luz emitida ou fluorescência é proporcional à concentração do composto analisado. A forma de luz emitida tem, quase sempre, comprimento de onda maior de que a luz absorvida ( lei de Stokes ).
+
+É relativamente caro e difícil de manter, muito sensível, permitindo a análise de certos metais por poderem ser transformados em complexos orgânicos associados com íons ou quelatos fluorescentes. Exemplos de compostos que são usados em espectroscopia de fluorescência para a formação de quelatos são os corantes fluoresceína e rodamina , assim como seus derivados. 1
+
+Equipamentos que medem a fluorescência são chamados fluorômetros ou fluorímetros.
+
+É utilizado frequentemente em análises de amostras de alimentos e biológicas na determinação de elementos traço que sejam mais difíceis de analisar por outras técnicas. Um exemplo de um mineral analisado é o selênio . 2 3
+
+↑ VOGEL, A.R.; MENDHAM, J.; DENNEY, R.C.; BARNES, J.D.; THOMAS, M. Análise Química Quantitativa, 6ª edição, Editora LTC, 2002, 462p.
+
+Este artigo sobre física é um esboço . Você pode ajudar a Wikipédia expandindo-o .
+
+Esta página foi modificada pela última vez à(s) 00h25min de 29 de março de 2013.
+

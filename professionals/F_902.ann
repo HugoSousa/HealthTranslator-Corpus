@@ -1,0 +1,90 @@
+T1	Automatic-Concept 19 24	tumor
+T2	Automatic-Concept 283 288	tumor
+T3	Automatic-Concept 0 13	osteossarcoma
+T4	Automatic-Concept 133 146	osteossarcoma
+T5	Automatic-Concept 224 237	osteossarcoma
+T6	Automatic-Concept 331 346	doenu00E7a de paget
+T7	Automatic-Concept 37 42	osso
+T8	Automatic-Concept 535 542	joelho
+T9	Automatic-Concept 398 403	tumor
+T10	Automatic-Concept 375 386	tumor u00F3sseo
+T11	Automatic-Concept 670 683	osteossarcoma
+T12	Automatic-Concept 827 837	amputau00E7u00E3o
+T13	Automatic-Concept 854 867	osteossarcoma
+T14	Automatic-Concept 1224 1239	doenu00E7a de paget
+T15	Automatic-Concept 899 907	crianu00E7a
+T16	Automatic-Concept 979 987	crianu00E7a
+T17	Automatic-Concept 1400 1406	joelho
+T18	Automatic-Concept 1416 1421	ombro
+T19	Automatic-Concept 1620 1624	pele
+T20	Automatic-Concept 1315 1320	tumor
+T21	Automatic-Concept 1352 1357	osso
+T22	Automatic-Concept 1497 1501	osso
+T23	Automatic-Concept 1574 1578	osso
+T24	Automatic-Concept 1555 1558	dor
+T25	Automatic-Concept 1668 1681	osteossarcoma
+T26	Automatic-Concept 1805 1811	doenu00E7a
+T27	Automatic-Concept 1727 1732	osso
+T28	Automatic-Concept 1739 1744	dor
+T29	Automatic-Concept 1964 1969	fu00EAmur
+T30	Automatic-Concept 1926 1931	u00FAmero
+T31	Automatic-Concept 1917 1922	tu00EDbia
+T32	Automatic-Concept 1818 1823	tumor
+T33	Automatic-Concept 1859 1864	osso
+T34	Automatic-Concept 2067 2074	quadril
+T35	Automatic-Concept 2098 2107	mandu00EDbula
+T36	Automatic-Concept 2026 2032	joelho
+T37	Automatic-Concept 2260 2269	periu00F3steo
+T38	Automatic-Concept 2084 2089	ombro
+T39	Automatic-Concept 2112 2117	tumor
+T40	Automatic-Concept 1977 1990	osteossarcoma
+T41	Automatic-Concept 2225 2236	radiografia
+T42	Automatic-Concept 2176 2180	osso
+T43	Automatic-Concept 2351 2356	tumor
+T44	Automatic-Concept 2435 2446	diagnu00F3stico
+T45	Automatic-Concept 2471 2482	radiografia
+T46	Automatic-Concept 2545 2550	osso
+T47	Automatic-Concept 2486 2490	osso
+T48	Automatic-Concept 2663 2673	metaplasia
+T49	Automatic-Concept 2570 2583	osteossarcoma
+T50	Automatic-Concept 2602 2614	radioterapia
+T51	Automatic-Concept 2772 2781	amputau00E7u00E3o
+T52	Automatic-Concept 2892 2901	amputau00E7u00E3o
+T53	Automatic-Concept 2714 2718	osso
+T54	Automatic-Concept 2943 2947	osso
+T55	Automatic-Concept 3050 3058	cirurgia
+T56	Medical-Concept 78 85	pulmu00F5es
+T57	Medical-Concept 123 129	u00F3rgu00E3os
+T58	Medical-Concept 442 456	metu00E1fise u00F3ssea
+T59	Medical-Concept 460 482	ossos tubulares longos
+T60	Medical-Concept 720 728	amputada
+T61	Medical-Concept 811 817	cu00E2ncer
+T62	Medical-Concept 889 895	cu00E2ncer
+T63	Medical-Concept 1193 1205	doenu00E7a u00F3ssea
+T64	Medical-Concept 1242 1257	infarto medular
+T65	Medical-Concept 1261 1271	irradiau00E7u00E3o
+T66	Medical-Concept 1372 1379	membros
+T67	Medical-Concept 1408 1412	anca
+T68	Medical-Concept 1434 1441	sintoma
+T69	Medical-Concept 1459 1469	tumefacu00E7u00E3o
+T70	Medical-Concept 1649 1664	doenu00E7a da Paget
+T71	Medical-Concept 2154 2172	espu00EDculas tumorais
+T72	Medical-Concept 2287 2306	triu00E2ngulo de Codman
+T73	Medical-Concept 2371 2381	metu00E1stases
+T74	Medical-Concept 2395 2411	via hematogu00EAnica
+T75	Medical-Concept 2420 2427	pulmu00F5es
+T76	Medical-Concept 2520 2540	exames imageolu00F3gicos
+T77	Medical-Concept 2559 2562	RMN
+T78	Medical-Concept 2638 2652	fator de risco
+T79	Medical-Concept 2697 2711	cirurgicamente
+T80	Medical-Concept 2788 2794	membro
+T81	Medical-Concept 2835 2846	endopru00F3tese
+T82	Medical-Concept 2872 2880	operau00E7u00E3o
+T83	Medical-Concept 2979 2992	enxerto u00F3sseo
+T84	Medical-Concept 3026 3037	Endopru00F3tese
+T85	Medical-Concept 3009 3024	osso artificial
+T86	Medical-Concept 3081 3091	tratamento
+T87	Medical-Concept 3096 3121	fu00E1rmacos antineoplu00E1sticos
+T88	Medical-Concept 3162 3178	cu00E9lula cancerosa
+T89	Medical-Concept 3189 3200	metastizado
+T90	Medical-Concept 3257 3267	tratamento

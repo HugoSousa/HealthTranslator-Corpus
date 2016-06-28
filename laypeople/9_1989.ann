@@ -1,0 +1,163 @@
+T1	Automatic-Concept 276 283	mu00FAsculo
+T2	Automatic-Concept 616 635	membrana plasmu00E1tica
+T3	Automatic-Concept 561 578	potencial de au00E7u00E3o
+T4	Automatic-Concept 810 829	membrana plasmu00E1tica
+T5	Automatic-Concept 783 792	proteu00EDna
+T6	Automatic-Concept 884 894	receptor
+T7	Automatic-Concept 1199 1206	enzima
+T8	Automatic-Concept 1064 1073	proteu00EDna
+T9	Automatic-Concept 1553 1560	cu00E9rebro
+T10	Automatic-Concept 2498 2505	cu00E9rebro
+T11	Automatic-Concept 2447 2455	proteu00EDna
+T12	Automatic-Concept 2756 2763	cocau00EDna
+T13	Automatic-Concept 2705 2714	paciente
+T14	Automatic-Concept 3100 3107	insu00F4nia
+T15	Automatic-Concept 3069 3078	enxaqueca
+T16	Automatic-Concept 3037 3047	patologia
+T17	Automatic-Concept 3412 3427	cu00F3rtex cerebral
+T18	Automatic-Concept 3434 3440	droga
+T19	Automatic-Concept 3506 3515	paciente
+T20	Automatic-Concept 3625 3640	sistema nervoso
+T21	Automatic-Concept 3678 3688	receptor
+T22	Medical-Concept 0 18	Neurotransmissores
+T23	Medical-Concept 296 314	Neurotransmissores
+T24	Medical-Concept 651 669	Neurotransmissores
+T25	Medical-Concept 718 736	Neurotransmissores
+T26	Medical-Concept 1323 1341	Neurotransmissores
+T27	Medical-Concept 1637 1655	Neurotransmissores
+T28	Medical-Concept 1233 1251	Neurotransmissores
+T29	Medical-Concept 61 70	neuru00F4nios
+T30	Medical-Concept 76 92	cu00E9lulas nervosas
+T31	Medical-Concept 109 124	biossinalizau00E7u00E3o
+T32	Medical-Concept 177 184	cu00E9lulas
+T33	Medical-Concept 76 83	cu00E9lulas
+T34	Medical-Concept 1410 1417	cu00E9lulas
+T35	Medical-Concept 267 272	u00F3rgu00E3o
+T36	Medical-Concept 337 356	cu00E9lula transmissora
+T37	Medical-Concept 1087 1106	cu00E9lula transmissora
+T38	Medical-Concept 381 390	vesu00EDculas
+T39	Medical-Concept 590 599	vesu00EDculas
+T40	Medical-Concept 395 415	vesu00EDculas sinu00E1pticas
+T41	Medical-Concept 490 498	hormu00F4nio
+T42	Medical-Concept 507 542	receptores celulares pru00E9-sinu00E1pticos
+T43	Medical-Concept 673 688	fenda sinu00E1ptica
+T44	Medical-Concept 1137 1152	fenda sinu00E1ptica
+T45	Medical-Concept 2829 2844	fenda sinu00E1ptica
+T46	Medical-Concept 694 703	exocitose
+T47	Medical-Concept 938 954	cu00E9lula receptora
+T48	Medical-Concept 750 766	cu00E9lula receptora
+T49	Medical-Concept 1053 1059	celula
+T50	Medical-Concept 1117 1133	neurotransmissor
+T51	Medical-Concept 2037 2053	neurotransmissor
+T52	Medical-Concept 2998 3014	neurotransmissor
+T53	Medical-Concept 3152 3168	neurotransmissor
+T54	Medical-Concept 2854 2870	neurotransmissor
+T55	Medical-Concept 3593 3609	neurotransmissor
+T56	Medical-Concept 1175 1185	recaptau00E7u00E3o
+T57	Medical-Concept 1438 1455	neurotransmisores
+T58	Medical-Concept 1462 1489	substu00E2ncia quu00EDmica cerebral
+T59	Medical-Concept 1757 1769	acetilcolina
+T60	Medical-Concept 3222 3234	acetilcolina
+T61	Medical-Concept 1814 1829	u00E1reas cerebrais
+T62	Medical-Concept 1899 1918	junu00E7u00E3o neuromuscular
+T63	Medical-Concept 1928 1945	aminas biogu00EAnicas
+T64	Medical-Concept 1948 1958	adrenalina
+T65	Medical-Concept 1960 1970	serotonina
+T66	Medical-Concept 1972 1985	noradrenalina
+T67	Medical-Concept 2009 2022	noradrenalina
+T68	Medical-Concept 2119 2132	noradrenalina
+T69	Medical-Concept 1987 1995	dopamina
+T70	Medical-Concept 2817 2825	dopamina
+T71	Medical-Concept 1998 2002	DOPA
+T72	Medical-Concept 2057 2094	sistema autu00F4nomo perifu00E9rico simpu00E1tico
+T73	Medical-Concept 2096 2105	Neuronios
+T74	Medical-Concept 2149 2171	neuru00F4nios adrenu00E9rgicos
+T75	Medical-Concept 2177 2186	glutamato
+T76	Medical-Concept 3644 3653	glutamato
+T77	Medical-Concept 3873 3882	glutamato
+T78	Medical-Concept 2191 2200	aspartato
+T79	Medical-Concept 2208 2234	transmissores excitatu00F3rios
+T80	Medical-Concept 2266 2290	u00E1cido gama-aminobutu00EDrico
+T81	Medical-Concept 2301 2308	glicina
+T82	Medical-Concept 2313 2320	taurina
+T83	Medical-Concept 2325 2353	neurotransmissores inibidores
+T84	Medical-Concept 2405 2416	aminou00E1cidos
+T85	Medical-Concept 2575 2592	informau00E7u00E3o neural
+T86	Medical-Concept 2691 2700	Parkinson
+T87	Medical-Concept 2768 2776	nicotina
+T88	Medical-Concept 3054 3067	emagrecimento
+T89	Medical-Concept 3259 3274	u00E1reas cerebrais
+T90	Medical-Concept 3355 3364	Alzheimer
+T91	Medical-Concept 3405 3408	ACh
+T92	Medical-Concept 3480 3496	sistema digestivo
+T93	Medical-Concept 3533 3559	sistema autu00F4nomo simpu00E1tico
+T94	Medical-Concept 3562 3576	parassimpu00E1tico
+T95	Medical-Concept 3694 3706	ionotru00F3picos
+T96	Medical-Concept 3857 3869	ionotru00F3picos
+T97	Medical-Concept 3782 3796	metabotru00F3picos
+T98	Medical-Concept 3891 3895	NMDA
+T99	Medical-Concept 3983 3990	celulas
+T100	Medical-Concept 0 18	Neurotransmissores
+T101	Medical-Concept 61 70	neuru00F4nios
+T102	Medical-Concept 177 184	cu00E9lulas
+T103	Medical-Concept 296 314	neurotransmissores
+T104	Medical-Concept 381 390	vesu00EDculas
+T105	Medical-Concept 395 415	vesu00EDculas sinu00E1pticas
+T106	Medical-Concept 490 498	hormu00F4nio
+T107	Medical-Concept 507 542	receptores celulares pru00E9-sinu00E1pticos
+T108	Medical-Concept 590 599	vesu00EDculas
+T109	Medical-Concept 651 669	neurotransmissores
+T110	Medical-Concept 673 688	fenda sinu00E1ptica
+T111	Medical-Concept 694 703	exocitose
+T112	Medical-Concept 718 736	neurotransmissores
+T113	Medical-Concept 840 875	receptores celulares pu00F3s-sinu00E1pticos
+T114	Medical-Concept 1117 1133	neurotransmissor
+T115	Medical-Concept 1137 1152	fenda sinu00E1ptica
+T116	Medical-Concept 1233 1251	neurotransmissores
+T117	Medical-Concept 1323 1341	neurotransmissores
+T118	Medical-Concept 1346 1355	molu00E9culas
+T119	Medical-Concept 1438 1455	neurotransmisores
+T120	Medical-Concept 1637 1655	neurotransmissores
+T121	Medical-Concept 1757 1769	acetilcolina
+T122	Medical-Concept 1899 1919	junu00E7u00E3o neuromuscular
+T123	Medical-Concept 1928 1945	aminas biogu00EAnicas
+T124	Medical-Concept 1948 1958	adrenalina
+T125	Medical-Concept 1960 1970	serotonina
+T126	Medical-Concept 1972 1985	noradrenalina
+T127	Medical-Concept 1987 1995	dopamina
+T128	Medical-Concept 1998 2002	DOPA
+T129	Medical-Concept 2009 2022	noradrenalina
+T130	Medical-Concept 2037 2053	neurotransmissor
+T131	Medical-Concept 2057 2094	sistema autu00F4nomo perifu00E9rico simpu00E1tico
+T132	Medical-Concept 2096 2105	Neuronios
+T133	Medical-Concept 2119 2132	noradrenalina
+T134	Medical-Concept 2149 2171	neuru00F4nios adrenu00E9rgicos
+T135	Medical-Concept 2177 2186	glutamato
+T136	Medical-Concept 2191 2200	aspartato
+T137	Medical-Concept 2208 2234	transmissores excitatu00F3rios
+T138	Medical-Concept 2266 2290	u00E1cido gama-aminobutu00EDrico
+T139	Medical-Concept 2292 2296	GABA
+T140	Medical-Concept 2301 2308	glicina
+T141	Medical-Concept 2313 2320	taurina
+T142	Medical-Concept 2325 2354	neurotransmissores inibidores
+T143	Medical-Concept 2405 2416	aminou00E1cidos
+T144	Medical-Concept 2435 2443	molu00E9cula
+T145	Medical-Concept 2691 2700	Parkinson
+T146	Medical-Concept 2768 2776	nicotina
+T147	Medical-Concept 2817 2825	dopamina
+T148	Medical-Concept 2829 2844	fenda sinu00E1ptica
+T149	Medical-Concept 2854 2870	neurotransmissor
+T150	Medical-Concept 2998 3014	neurotransmissor
+T151	Medical-Concept 3054 3067	emagrecimento
+T152	Medical-Concept 3080 3098	depressu00E3o profunda
+T153	Medical-Concept 3152 3168	neurotransmissor
+T154	Medical-Concept 3222 3234	acetilcolina
+T155	Medical-Concept 3345 3364	doenu00E7a de Alzheimer
+T156	Medical-Concept 3405 3408	ACh
+T157	Medical-Concept 3480 3497	sistema digestivo
+T158	Medical-Concept 3533 3559	sistema autu00F4nomo simpu00E1tico
+T159	Medical-Concept 3593 3621	neurotransmissor excitatu00F3rio
+T160	Medical-Concept 3644 3653	glutamato
+T161	Medical-Concept 3694 3706	ionotru00F3picos
+T162	Medical-Concept 3782 3796	metabotru00F3picos
+T163	Medical-Concept 3846 3895	receptores ionotru00F3picos de glutamato do tipo NMDA

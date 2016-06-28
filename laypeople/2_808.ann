@@ -1,0 +1,247 @@
+T1	Automatic-Concept 134 137	dor
+T2	Automatic-Concept 273 276	dor
+T3	Automatic-Concept 456 459	dor
+T4	Automatic-Concept 668 674	nervo
+T5	Automatic-Concept 761 771	receptor
+T6	Automatic-Concept 1566 1584	formau00E7u00E3o reticular
+T7	Automatic-Concept 1292 1295	dor
+T8	Automatic-Concept 2033 2051	formau00E7u00E3o reticular
+T9	Automatic-Concept 2056 2073	colu00EDculo superior
+T10	Automatic-Concept 1824 1827	dor
+T11	Automatic-Concept 2244 2261	tecido conjuntivo
+T12	Automatic-Concept 2526 2530	feto
+T13	Automatic-Concept 2280 2290	receptor
+T14	Automatic-Concept 2178 2181	dor
+T15	Automatic-Concept 2294 2297	dor
+T16	Automatic-Concept 2304 2307	dor
+T17	Automatic-Concept 2491 2494	dor
+T18	Automatic-Concept 2513 2516	dor
+T19	Automatic-Concept 2547 2550	dor
+T20	Automatic-Concept 3387 3402	tronco cerebral
+T21	Automatic-Concept 3365 3383	formau00E7u00E3o reticular
+T22	Automatic-Concept 3280 3291	dor cru00F4nica
+T23	Automatic-Concept 3213 3222	su00EDndrome
+T24	Automatic-Concept 2901 2904	dor
+T25	Automatic-Concept 2927 2930	dor
+T26	Automatic-Concept 3074 3077	dor
+T27	Automatic-Concept 3232 3235	dor
+T28	Automatic-Concept 3465 3468	dor
+T29	Automatic-Concept 3687 3702	sistema lu00EDmbico
+T30	Automatic-Concept 3681 3684	dor
+T31	Automatic-Concept 3821 3824	dor
+T32	Automatic-Concept 4190 4205	cu00F3rtex cerebral
+T33	Automatic-Concept 4255 4273	formau00E7u00E3o reticular
+T34	Automatic-Concept 3866 3869	dor
+T35	Automatic-Concept 4427 4430	dor
+T36	Automatic-Concept 4563 4566	dor
+T37	Automatic-Concept 5060 5068	receptor
+T38	Automatic-Concept 5694 5709	medula espinhal
+T39	Automatic-Concept 5737 5740	dor
+T40	Automatic-Concept 6072 6087	sistema lu00EDmbico
+T41	Automatic-Concept 6051 6058	cu00E9rebro
+T42	Automatic-Concept 5895 5898	dor
+T43	Automatic-Concept 6030 6033	dor
+T44	Automatic-Concept 6386 6389	dor
+T45	Automatic-Concept 6686 6693	cu00E9rebro
+T46	Automatic-Concept 6600 6608	hipu00F3fise
+T47	Automatic-Concept 6665 6671	sangue
+T48	Automatic-Concept 6988 7002	interneuru00F4nio
+T49	Automatic-Concept 7303 7311	massagem
+T50	Automatic-Concept 7296 7299	dor
+T51	Automatic-Concept 7407 7410	dor
+T52	Automatic-Concept 7606 7609	dor
+T53	Automatic-Concept 7650 7653	dor
+T54	Automatic-Concept 7748 7756	sensau00E7u00E3o
+T55	Automatic-Concept 7905 7908	dor
+T56	Automatic-Concept 8002 8005	dor
+T57	Automatic-Concept 8194 8197	dor
+T58	Automatic-Concept 8225 8228	dor
+T59	Automatic-Concept 8680 8690	nociceptor
+T60	Automatic-Concept 8509 8512	dor
+T61	Automatic-Concept 8546 8549	dor
+T62	Automatic-Concept 8603 8606	dor
+T63	Automatic-Concept 8637 8640	dor
+T64	Automatic-Concept 8737 8740	dor
+T65	Automatic-Concept 8816 8819	dor
+T66	Automatic-Concept 8907 8910	dor
+T67	Automatic-Concept 9143 9146	dor
+T68	Automatic-Concept 10040 10055	sistema lu00EDmbico
+T69	Automatic-Concept 9835 9838	dor
+T70	Automatic-Concept 10102 10105	dor
+T71	Automatic-Concept 10431 10438	doenu00E7a
+T72	Automatic-Concept 10148 10151	dor
+T73	Automatic-Concept 10363 10366	dor
+T74	Automatic-Concept 10397 10400	dor
+T75	Automatic-Concept 10481 10484	dor
+T76	Automatic-Concept 10680 10683	dor
+T77	Automatic-Concept 10809 10816	doenu00E7a
+T78	Automatic-Concept 10894 10897	dor
+T79	Automatic-Concept 11039 11042	dor
+T80	Automatic-Concept 11645 11648	dor
+T81	Automatic-Concept 11735 11738	dor
+T82	Automatic-Concept 11988 12003	sistema nervoso
+T83	Automatic-Concept 11976 11983	cu00E9rebro
+T84	Automatic-Concept 12105 12128	sistema nervoso central
+T85	Automatic-Concept 12049 12052	dor
+T86	Automatic-Concept 12293 12300	cu00E9rebro
+T87	Automatic-Concept 12421 12428	cu00E9rebro
+T88	Automatic-Concept 12377 12392	medula espinhal
+T89	Automatic-Concept 12730 12737	cu00E9rebro
+T90	Automatic-Concept 12977 12983	droga
+T91	Automatic-Concept 13036 13046	analgu00E9sico
+T92	Automatic-Concept 13201 13210	cirurgia
+T93	Automatic-Concept 12914 12921	cocau00EDna
+T94	Automatic-Concept 13217 13220	dor
+T95	Automatic-Concept 13668 13671	dor
+T96	Automatic-Concept 13818 13821	dor
+T97	Automatic-Concept 13936 13939	dor
+T98	Automatic-Concept 13943 13952	paciente
+T99	Medical_Concept 514 529	dor nociceptiva
+T100	Medical_Concept 534 549	dor neuropu00E1tica
+T101	Medical_Concept 211 229	nervos perifu00E9ricos
+T102	Medical_Concept 557 572	dor nociceptiva
+T103	Medical_Concept 630 648	potenciais de au00E7u00E3o
+T104	Medical_Concept 653 660	axu00F4nios
+T105	Medical_Concept 737 757	terminau00E7u00F5es nervosas
+T106	Medical_Concept 815 833	terminau00E7u00E3o nervosa
+T107	Medical_Concept 880 887	cu00E9lulas
+T108	Medical_Concept 926 944	meio extra-celular
+T109	Medical_Concept 1001 1011	via ru00E1pida
+T110	Medical_Concept 1018 1041	trato neoespinotalu00E2mico
+T111	Medical_Concept 1150 1178	neuru00F4nios de axu00F4nios ru00E1pidos
+T112	Medical_Concept 1211 1225	fibras A-delta
+T113	Medical_Concept 1211 1225	fibras A-delta
+T114	Medical_Concept 1326 1334	neuru00F4nio
+T115	Medical_Concept 1343 1370	lu00E2mina I da Medula Espinhal
+T116	Medical_Concept 1430 1447	substu00E2ncia branca
+T117	Medical_Concept 1483 1490	sinapse
+T118	Medical_Concept 1509 1515	Tu00E1lamo
+T119	Medical_Concept 1517 1549	nu00FAcleos pu00F3stero-lateral-ventrais
+T120	Medical_Concept 1592 1601	via lenta
+T121	Medical_Concept 1608 1634	tracto paleoespinotalu00E2mico
+T122	Medical_Concept 1723 1737	axu00F4nios lentos
+T123	Medical_Concept 1876 1884	neuru00F4nio
+T124	Medical_Concept 1893 1920	lu00E2mina V da Medula Espinhal
+T125	Medical_Concept 1970 1991	tracto antero-lateral
+T126	Medical_Concept 2022 2029	sinapse
+T127	Medical_Concept 5497 5504	sinapse
+T128	Medical_Concept 2079 2113	substu00E2ncia cinzenta periaqueductal
+T129	Medical_Concept 2466 2487	cu00E9lulas inflamatu00F3rias
+T130	Medical_Concept 2581 2630	sensau00E7u00F5es corporais, tu00E1teis, tu00E9rmicas e dolorosas
+T131	Medical_Concept 2648 2654	tu00E1lamo
+T132	Medical_Concept 2677 2708	rede de interpretau00E7u00E3o sensitiva
+T133	Medical_Concept 2761 2789	projeu00E7u00F5es ao cu00F3rtex cerebral
+T134	Medical_Concept 2821 2853	consciu00EAncia da sensau00E7u00E3o dolorosa
+T135	Medical_Concept 2872 2886	momento neural
+T136	Medical_Concept 3138 3147	organismo
+T137	Medical_Concept 3162 3180	agente nociceptivo
+T138	Medical_Concept 3253 3276	preocupau00E7u00E3o terapu00EAutica
+T139	Medical_Concept 3408 3414	Tu00E1lamo
+T140	Medical_Concept 3436 3461	percepu00E7u00E3o consciente vaga
+T141	Medical_Concept 3520 3526	cu00F3rtex
+T142	Medical_Concept 3534 3540	Tu00E1lamo
+T143	Medical_Concept 3550 3558	impulsos
+T144	Medical_Concept 198 206	impulsos
+T145	Medical_Concept 3313 3321	impulsos
+T146	Medical_Concept 3715 3723	impulsos
+T147	Medical_Concept 3566 3585	Cu00F3rtex somatosensor
+T148	Medical_Concept 3740 3759	Cu00F3rtex somatosensor
+T149	Medical_Concept 3595 3609	Giro Cingulado
+T150	Medical_Concept 3615 3631	cu00F3rtex cingulado
+T151	Medical_Concept 3840 3859	ansiedade emocional
+T152	Medical_Concept 3914 3933	circuitos neuronais
+T153	Medical_Concept 3997 4029	nu00FAcleos intralaminares do Tu00E1lamo
+T154	Medical_Concept 4036 4057	formau00E7u00F5es reticulares
+T155	Medical_Concept 4064 4081	axu00F4nios de tipo C
+T156	Medical_Concept 4129 4161	fibras das formau00E7u00F5es reticulares
+T157	Medical_Concept 4227 4243	lobo pru00E9-central
+T158	Medical_Concept 4313 4330	estado de vigu00EDlia
+T159	Medical_Concept 4370 4386	estado de alerta
+T160	Medical_Concept 4389 4403	excitabilidade
+T161	Medical_Concept 4407 4413	doente
+T162	Medical_Concept 4648 4659	vias da dor
+T163	Medical_Concept 4722 4747	vias analgu00E9sicas naturais
+T164	Medical_Concept 4752 4776	via analgu00E9sica principal
+T165	Medical_Concept 4826 4842	percepu00E7u00E3o da dor
+T166	Medical_Concept 4865 4947	u00E1reas cinzentas periaquedutais e periventriculares do Mesencefalo e Ponte superior
+T167	Medical_Concept 4961 4981	aqueducto de Sylvius
+T168	Medical_Concept 4989 4996	axu00F4nios
+T169	Medical_Concept 1163 1170	axu00F4nios
+T170	Medical_Concept 1723 1730	axu00F4nios
+T171	Medical_Concept 5197 5204	axu00F4nios
+T172	Medical_Concept 5209 5229	u00E1reas periaquedutais
+T173	Medical_Concept 5311 5321	serotonina
+T174	Medical_Concept 5327 5378	Nu00FAcleos de interneuru00F4nios na medula espinhal dorsal
+T175	Medical_Concept 5395 5416	substu00E2ncia gelatinosa
+T176	Medical_Concept 5439 5457	potenciais de au00E7u00E3o
+T177	Medical_Concept 5469 5480	encefalinas
+T178	Medical_Concept 5483 5493	endorfinas
+T179	Medical_Concept 5518 5544	neuru00F4nios aferentes da dor
+T180	Medical_Concept 5551 5560	analgesia
+T181	Medical_Concept 5787 5817	nu00FAcleos reticulares e talu00E2micos
+T182	Medical_Concept 5809 5818	talu00E2micos
+T183	Medical_Concept 5861 5882	regulau00E7u00E3o em feedback
+T184	Medical_Concept 5902 5935	excitau00E7u00E3o excessiva da via da dor
+T185	Medical_Concept 5957 5975	sinais analgu00E9sicos
+T186	Medical_Concept 5978 5992	nu00EDvel talu00E2mico
+T187	Medical_Concept 6170 6195	vias analgu00E9sicas naturais
+T188	Medical_Concept 6200 6239	nu00FAcleos paraventriculares do hipotu00E1lamo
+T189	Medical_Concept 6253 6273	u00E1reas periaquedutais
+T190	Medical_Concept 6285 6310	liberau00E7u00E3o de u03B2-endorfinas
+T191	Medical_Concept 6312 6329	opiu00F3ides naturais
+T192	Medical_Concept 6348 6362	lesu00E3o tecidual
+T193	Medical_Concept 6577 6596	segmentos espinhais
+T194	Medical_Concept 6623 6638	beta-endorfinas
+T195	Medical_Concept 6737 6756	sensau00E7u00F5es dolorosas
+T196	Medical_Concept 6775 6795	su00EDndromes sistu00EAmicas
+T197	Medical_Concept 6808 6828	mecanismo analgu00E9sico
+T198	Medical_Concept 6922 6941	fibras aferentes Au03B2
+T199	Medical_Concept 6947 6963	estu00EDmulos tu00E1teis
+T200	Medical_Concept 7017 7028	encefalinas
+T201	Medical_Concept 7044 7059	fibras C da dor
+T202	Medical_Concept 7145 7165	teoria das comportas
+T203	Medical_Concept 7324 7343	fibras aferentes Au03B2
+T204	Medical_Concept 7373 7382	analgesia
+T205	Medical_Concept 7694 7726	lesu00E3o tecidual real ou potencial
+T206	Medical_Concept 7782 7791	organismo
+T207	Medical_Concept 11553 11562	organismo
+T208	Medical_Concept 7845 7866	experiu00EAncia emocional
+T209	Medical_Concept 8044 8054	diestesias
+T210	Medical_Concept 8423 8437	lesu00E3o tecidual
+T211	Medical_Concept 7625 7639	lesu00E3o tecidual
+T212	Medical_Concept 8562 8576	lesu00E3o tecidual
+T213	Medical_Concept 8244 8258	lesu00E3o tecidual
+T214	Medical_Concept 8697 8714	vias nociceptivas
+T215	Medical_Concept 8768 8786	estado psicolu00F3gico
+T216	Medical_Concept 8948 8964	u2018biopsicossocial
+T217	Medical_Concept 9404 9419	limiar doloroso
+T218	Medical_Concept 9195 9220	limiar de dor fisiolu00F3gico
+T219	Medical_Concept 9522 9542	Limiar de toleru00E2ncia
+T220	Medical_Concept 10125 10145	classificau00E7u00E3o mu00E9dica
+T221	Medical_Concept 10569 10585	lesu00F5es teciduais
+T222	Medical_Concept 10602 10630	mecanismos de defesa ou fuga
+T223	Medical_Concept 10824 10834	hansenu00EDase
+T224	Medical_Concept 10849 10880	lesu00F5es nas terminau00E7u00F5es nervosas
+T225	Medical_Concept 11306 11327	estado de consciu00EAncia
+T226	Medical_Concept 11653 11663	tratamento
+T227	Medical_Concept 11768 11781	alu00EDvio da dor
+T228	Medical_Concept 12637 12647	via da dor
+T229	Medical_Concept 12751 12766	sensau00E7u00E3o de dor
+T230	Medical_Concept 12847 12861	terapia da dor
+T231	Medical_Concept 12887 12891	u00F3pio
+T232	Medical_Concept 12894 12901	morfina
+T233	Medical_Concept 12904 12911	codeu00EDna
+T234	Medical_Concept 12949 12959	tratamento
+T235	Medical_Concept 13258 13268	tratamento
+T236	Medical_Concept 13014 13022	aspirina
+T237	Medical_Concept 13115 13134	seringa hipodu00E9rmica
+T238	Medical_Concept 13137 13160	anestesia geral e local
+T239	Medical_Concept 13438 13456	intensidade da dor
+T240	Medical_Concept 13590 13610	experiu00EAncia dolorosa
+T241	Medical_Concept 13774 13791	cuidados de sau00FAde
+T242	Medical_Concept 13870 13887	qualidade de vida
+T243	Medical_Concept 13957 13971	Sequela de AVC
+T244	Medical_Concept 14000 14026	ACIDENTE VASCULAR CEREBRAL
+T245	Medical_Concept 14049 14075	Diagnu00F3stico Neurofuncional
+T246	Medical_Concept 14078 14104	Tratamento de Reabilitau00E7u00E3o
+T247	Medical-Concept 5256 5296	colunas dorsolaterais da medula espinhal

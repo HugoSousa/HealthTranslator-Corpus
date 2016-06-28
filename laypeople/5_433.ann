@@ -1,0 +1,131 @@
+T1	Medical_Concept 953 963	daltonismo
+T2	Automatic-Concept 433 441	su00EDndrome
+T3	Medical_Concept 859 867	su00EDndrome
+T4	Medical_Concept 506 513	doenu00E7a
+T5	Medical_Concept 775 790	acuidade visual
+T6	Medical_Concept 1778 1786	cegueira
+T7	Medical_Concept 1433 1442	genu00E9tica
+T8	Medical_Concept 1266 1271	gene
+T9	Medical_Concept 1666 1681	acuidade visual
+T10	Medical_Concept 2064 2072	su00EDndrome
+T11	Medical_Concept 3321 3326	olho
+T12	Medical_Concept 3392 3396	olho
+T13	Automatic-Concept 3058 3067	ambliopia
+T14	Medical_Concept 3490 3498	cegueira
+T15	Medical_Concept 3756 3761	olho
+T16	Medical_Concept 3511 3519	nistagmo
+T17	Medical_Concept 3884 3893	fotofobia
+T18	Medical_Concept 4314 4319	olho
+T19	Medical_Concept 4105 4113	nistagmo
+T20	Medical_Concept 4117 4125	nistagmo
+T21	Medical_Concept 3972 3980	su00EDndrome
+T22	Medical_Concept 4189 4197	su00EDndrome
+T23	Medical_Concept 4434 4440	doenu00E7a
+T24	Medical_Concept 4025 4033	crianu00E7a
+T25	Medical_Concept 4262 4277	acuidade visual
+T26	Medical_Concept 4815 4819	olho
+T27	Medical_Concept 4773 4781	nistagmo
+T28	Medical_Concept 4786 4795	fotofobia
+T29	Medical_Concept 4712 4727	acuidade visual
+T30	Medical_Concept 5062 5070	nistagmo
+T31	Medical_Concept 5074 5083	fotofobia
+T32	Medical_Concept 5026 5041	acuidade visual
+T33	Medical_Concept 5373 5388	cu00F3rtex cerebral
+T34	Medical_Concept 5313 5323	diencu00E9falo
+T35	Medical_Concept 5353 5364	mesencu00E9falo
+T36	Medical_Concept 5397 5404	cu00E9rebro
+T37	Medical_Concept 5492 5507	tronco cerebral
+T38	Medical_Concept 5717 5732	cu00F3rtex cerebral
+T39	Medical_Concept 5786 5790	olho
+T40	Medical_Concept 5882 5887	tumor
+T41	Medical_Concept 5668 5678	daltonismo
+T42	Medical_Concept 5841 5851	hemorragia
+T43	Medical_Concept 5776 5782	retina
+T44	Medical_Concept 5826 5839	trauma fu00EDsico
+T45	Medical_Concept 6220 6228	mutau00E7u00E3o
+T46	Medical_Concept 406 418	acromatopsia
+T47	Medical_Concept 463 471	sintomas
+T48	Medical_Concept 560 570	distu00FArbios
+T49	Medical_Concept 593 600	agnosia
+T50	Medical_Concept 1317 1325	sintomas
+T51	Medical_Concept 1529 1541	diagnosticar
+T52	Medical_Concept 1763 1774	hemeralopia
+T53	Medical_Concept 1813 1820	sintoma
+T54	Medical_Concept 1833 1845	acromatopsia
+T55	Medical_Concept 2076 2088	acromatopsia
+T56	Medical_Concept 2558 2570	acromatopsia
+T57	Medical_Concept 4578 4590	acromatopsia
+T58	Medical_Concept 4883 4895	acromatopsia
+T59	Medical_Concept 4930 4942	acromatopsia
+T60	Medical_Concept 4998 5010	acromatopsia
+T61	Medical_Concept 5238 5250	acromatopsia
+T62	Medical_Concept 5927 5939	acromatopsia
+T63	Medical_Concept 1952 1966	sistema visual
+T64	Medical_Concept 2089 2103	discromatopsia
+T65	Medical_Concept 1846 1860	discromatopsia
+T66	Medical_Concept 5261 5275	discromatopsia
+T67	Medical_Concept 5434 5448	discromatopsia
+T68	Medical_Concept 2138 2145	mu00E9dicos
+T69	Medical_Concept 2148 2168	neuro-oftalmolu00F3gicos
+T70	Medical_Concept 2343 2353	daltu00F4nicos
+T71	Medical_Concept 2375 2384	acromatas
+T72	Medical_Concept 1118 1127	acromatas
+T73	Medical_Concept 1225 1234	acromatas
+T74	Medical_Concept 2388 2399	acromatopes
+T75	Medical_Concept 2483 2493	protanopes
+T76	Medical_Concept 2495 2507	deuteranopes
+T77	Medical_Concept 2511 2523	tetartanopes
+T78	Medical_Concept 2540 2550	tritanopes
+T79	Medical_Concept 2601 2613	monocromacia
+T80	Medical_Concept 2619 2645	daltonismo total congu00EAnito
+T81	Medical_Concept 2671 2680	congu00EAnita
+T82	Medical_Concept 5940 5949	congu00EAnita
+T83	Medical_Concept 2764 2783	eletrorretinografia
+T84	Medical_Concept 2857 2866	congu00EAnito
+T85	Medical_Concept 2911 2932	nucleotu00EDdeos cu00EDclicos
+T86	Medical_Concept 6252 6273	nucleotu00EDdeos cu00EDclicos
+T87	Medical_Concept 2893 2907	canais iu00F4nicos
+T88	Medical_Concept 6233 6247	canais iu00F4nicos
+T89	Medical_Concept 2978 3005	fotorreceptoras transducina
+T90	Medical_Concept 3126 3155	du00E9ficit da acuidade monocular
+T91	Medical_Concept 3182 3191	refrativo
+T92	Medical_Concept 3204 3225	anormalidade orgu00E2nica
+T93	Medical_Concept 3232 3252	condiu00E7u00E3o neurolu00F3gica
+T94	Medical_Concept 3283 3297	servomecanismo
+T95	Medical_Concept 3310 3316	u00F3ptico
+T96	Medical_Concept 3321 3326	olhos
+T97	Medical_Concept 3340 3358	iluminau00E7u00E3o nominal
+T98	Medical_Concept 3379 3390	morfolu00F3gica
+T99	Medical_Concept 3413 3424	Hemeralopia
+T100	Medical_Concept 3953 3964	Hemeralopia
+T101	Medical_Concept 4759 4770	Hemeralopia
+T102	Medical_Concept 3426 3443	Capacidade visual
+T103	Medical_Concept 3607 3618	patolu00F3gicos
+T104	Medical_Concept 3635 3653	sistema oculomotor
+T105	Medical_Concept 4085 4095	fotofu00F3bica
+T106	Medical_Concept 4177 4185	sintomas
+T107	Medical_Concept 4871 4879	sintomas
+T108	Medical_Concept 4420 4430	congu00EAnitas
+T109	Medical_Concept 5170 5182	cu00E9lulas cone
+T110	Medical_Concept 6095 6107	cu00E9lulas cone
+T111	Medical_Concept 6278 6290	cu00E9lulas cone
+T112	Medical_Concept 5220 5230	bastonetes
+T113	Medical_Concept 5343 5349	tu00E1lamo
+T114	Medical_Concept 5471 5477	tu00E1lamo
+T115	Medical_Concept 5580 5586	tu00E1lamo
+T116	Medical_Concept 5412 5433	acromatopsia talu00E2mica
+T117	Medical_Concept 5544 5563	crescimento tumoral
+T118	Medical_Concept 5631 5652	acromatopsia cerebral
+T119	Medical_Concept 614 635	acromatopsia cerebral
+T120	Medical_Concept 5747 5760	anormalidades
+T121	Medical_Concept 5765 5772	cu00E9lulas
+T122	Medical_Concept 2746 2753	cu00E9lulas
+T123	Medical_Concept 5170 5177	cu00E9lulas
+T124	Medical_Concept 5872 5887	tecido do tumor
+T125	Medical_Concept 5998 6019	fototransduu00E7u00E3o retinal
+T126	Medical_Concept 6078 6090	incapacidade
+T127	Medical_Concept 732 744	incapacidade
+T128	Medical_Concept 6157 6173	hiperpolarizau00E7u00E3o
+T129	Medical_Concept 6179 6195	causas genu00E9ticas
+T130	Medical_Concept 2832 2848	causas genu00E9ticas
+T131	Medical_Concept 6334 6360	transducina da cu00E9lula cone

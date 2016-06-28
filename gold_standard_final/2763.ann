@@ -1,0 +1,67 @@
+T1	Medical-Concept 739 744	urina
+T2	Medical-Concept 730 736	sangue
+T3	Medical-Concept 1106 1121	farmacocinética
+T4	Medical-Concept 756 762	saliva
+T5	Medical-Concept 1381 1390	cadáveres
+T6	Medical-Concept 1470 1479	paralisia
+T7	Medical-Concept 2418 2423	tumor
+T8	Medical-Concept 2953 2960	enzimas
+T9	Medical-Concept 3076 3082	enzima
+T10	Medical-Concept 2934 2942	genética
+T11	Medical-Concept 2758 2764	fígado
+T12	Medical-Concept 2818 2824	fígado
+T13	Medical-Concept 2964 2970	fígado
+T14	Medical-Concept 3086 3092	fígado
+T15	Medical-Concept 3277 3284	enzimas
+T16	Medical-Concept 3288 3294	fígado
+T17	Medical-Concept 2 13	toxicologia
+T18	Medical-Concept 846 857	toxicologia
+T19	Medical-Concept 1532 1543	toxicologia
+T20	Medical-Concept 186 205	toxicologia clínica
+T21	Medical-Concept 310 334	toxicologia experimental
+T22	Medical-Concept 421 432	órgão alvos
+T23	Medical-Concept 478 482	DL50
+T24	Medical-Concept 603 624	toxicologia analítica
+T25	Medical-Concept 765 773	vísceras
+T26	Medical-Concept 918 929	ocupacional
+T27	Medical-Concept 932 946	ecotoxicologia
+T28	Medical-Concept 949 966	entomotoxicologia
+T29	Medical-Concept 969 980	veterinária
+T30	Medical-Concept 1124 1139	farmacodinâmica
+T31	Medical-Concept 1142 1149	clínica
+T32	Medical-Concept 1330 1344	bacterialmente
+T33	Medical-Concept 1345 1356	contaminado
+T34	Medical-Concept 1483 1499	músculo cardíaco
+T35	Medical-Concept 1760 1770	toxicidade
+T36	Medical-Concept 2980 2990	toxicidade
+T37	Medical-Concept 3624 3634	toxicidade
+T38	Medical-Concept 2374 2383	degenerar
+T39	Medical-Concept 2595 2602	tóxicas
+T40	Medical-Concept 506 513	tóxicas
+T41	Medical-Concept 2807 2814	tóxicas
+T42	Medical-Concept 3157 3164	tóxicas
+T43	Medical-Concept 2748 2754	tóxico
+T44	Medical-Concept 2736 2747	formaldeído
+T45	Medical-Concept 2786 2796	narcóticos
+T46	Medical-Concept 2849 2862	acetaminophen
+T47	Medical-Concept 2865 2876	paracetamol
+T48	Medical-Concept 3237 3248	toxicólogos
+T49	Medical-Concept 3465 3469	LD50
+T50	Medical-Concept 1656 1671	efeitos nocivos
+T51	Medical-Concept 747 753	cabelo
+T52	Medical-Concept 1623 1643	funções fisiológicas
+T53	Medical-Concept 3497 3514	substância tóxica
+T54	Medical-Concept 1961 1966	corpo
+T55	Medical-Concept 1440 1445	morte
+T56	Medical-Concept 2388 2394	célula
+T57	Medical-Concept 1505 1528	musculatura esquelética
+T58	Medical-Concept 403 418	efeitos tóxicos
+T59	Medical-Concept 443 456	agente tóxico
+T60	Medical-Concept 2102 2109	dosagem
+T61	Medical-Concept 2516 2523	dosagem
+T62	Medical-Concept 3482 3489	dosagem
+T63	Medical-Concept 3348 3364	produtos tóxicos
+T64	Medical-Concept 222 243	pacientes intoxicados
+T65	Medical-Concept 3580 3597	animais de testes
+T66	Medical-Concept 890 902	medicamentos
+T67	Medical-Concept 2274 2308	matérias geneticamente manipuladas

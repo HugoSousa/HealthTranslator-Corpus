@@ -1,0 +1,712 @@
+T1	Automatic-Concept 170 176	doenu00E7a
+T2	Automatic-Concept 300 307	glicose
+T3	Automatic-Concept 336 353	diabetes mellitus
+T4	Automatic-Concept 809 828	insuficiu00EAncia renal
+T5	Automatic-Concept 428 435	glicose
+T6	Automatic-Concept 451 458	glicose
+T7	Automatic-Concept 439 445	sangue
+T8	Automatic-Concept 599 603	sono
+T9	Automatic-Concept 1167 1175	paciente
+T10	Automatic-Concept 1551 1562	diagnu00F3stico
+T11	Automatic-Concept 1204 1210	doenu00E7a
+T12	Automatic-Concept 1647 1661	envelhecimento
+T13	Automatic-Concept 1635 1644	obesidade
+T14	Automatic-Concept 1878 1884	doenu00E7a
+T15	Automatic-Concept 1933 1947	envelhecimento
+T16	Automatic-Concept 1907 1916	obesidade
+T17	Automatic-Concept 2514 2524	incidu00EAncia
+T18	Automatic-Concept 2776 2793	diabetes mellitus
+T19	Automatic-Concept 3160 3167	doenu00E7a
+T20	Automatic-Concept 3695 3701	doenu00E7a
+T21	Automatic-Concept 4269 4275	fadiga
+T22	Automatic-Concept 4049 4057	crianu00E7a
+T23	Automatic-Concept 3946 3959	perda de peso
+T24	Automatic-Concept 4216 4229	perda de peso
+T25	Automatic-Concept 4342 4351	paciente
+T26	Automatic-Concept 4613 4621	cegueira
+T27	Automatic-Concept 4591 4599	catarata
+T28	Automatic-Concept 4602 4610	glaucoma
+T29	Automatic-Concept 4645 4651	doenu00E7a
+T30	Automatic-Concept 4688 4697	paciente
+T31	Automatic-Concept 4768 4792	u00EDndice de massa corporal
+T32	Automatic-Concept 4737 4746	obesidade
+T33	Automatic-Concept 4990 4997	glicose
+T34	Automatic-Concept 4904 4915	diagnu00F3stico
+T35	Automatic-Concept 5011 5016	jejum
+T36	Automatic-Concept 5001 5007	sangue
+T37	Automatic-Concept 5273 5280	glicose
+T38	Automatic-Concept 5301 5308	glicose
+T39	Automatic-Concept 5443 5450	glicose
+T40	Automatic-Concept 5166 5171	jejum
+T41	Automatic-Concept 5138 5146	paciente
+T42	Automatic-Concept 5471 5479	paciente
+T43	Automatic-Concept 5533 5550	diabetes mellitus
+T44	Automatic-Concept 5719 5724	jejum
+T45	Automatic-Concept 6177 6184	glicose
+T46	Automatic-Concept 6505 6512	glicose
+T47	Automatic-Concept 6526 6531	jejum
+T48	Automatic-Concept 6516 6522	sangue
+T49	Automatic-Concept 6113 6121	paciente
+T50	Automatic-Concept 6341 6349	paciente
+T51	Automatic-Concept 6669 6676	glicose
+T52	Automatic-Concept 6729 6736	glicose
+T53	Automatic-Concept 6693 6698	jejum
+T54	Automatic-Concept 6631 6639	paciente
+T55	Automatic-Concept 7063 7071	insulina
+T56	Automatic-Concept 7087 7095	pu00E2ncreas
+T57	Automatic-Concept 6948 6957	obesidade
+T58	Automatic-Concept 7225 7233	mutau00E7u00E3o
+T59	Automatic-Concept 7325 7346	ilhotas de langerhans
+T60	Automatic-Concept 7351 7359	pu00E2ncreas
+T61	Automatic-Concept 7726 7734	crianu00E7a
+T62	Automatic-Concept 7957 7962	gene
+T63	Automatic-Concept 8021 8026	gene
+T64	Automatic-Concept 8328 8334	gu00EAmeos
+T65	Automatic-Concept 8665 8671	doenu00E7a
+T66	Automatic-Concept 8577 8585	genu00E9tica
+T67	Automatic-Concept 8899 8907	pu00E2ncreas
+T68	Automatic-Concept 9045 9053	glucagon
+T69	Automatic-Concept 8954 8961	glicose
+T70	Automatic-Concept 9063 9070	glicose
+T71	Automatic-Concept 8936 8944	insulina
+T72	Automatic-Concept 9106 9111	jejum
+T73	Automatic-Concept 9301 9308	glicose
+T74	Automatic-Concept 9437 9444	glicose
+T75	Automatic-Concept 9488 9495	glicose
+T76	Automatic-Concept 9662 9669	glicose
+T77	Automatic-Concept 9765 9772	glicose
+T78	Automatic-Concept 9213 9221	insulina
+T79	Automatic-Concept 9145 9153	pu00E2ncreas
+T80	Automatic-Concept 9312 9318	sangue
+T81	Automatic-Concept 9776 9782	sangue
+T82	Automatic-Concept 9971 9979	glucagon
+T83	Automatic-Concept 10019 10027	glucagon
+T84	Automatic-Concept 10097 10105	glucagon
+T85	Automatic-Concept 10072 10079	glicose
+T86	Automatic-Concept 9949 9957	insulina
+T87	Automatic-Concept 10181 10189	insulina
+T88	Automatic-Concept 9898 9906	pu00E2ncreas
+T89	Automatic-Concept 10148 10153	jejum
+T90	Automatic-Concept 10591 10608	diabetes mellitus
+T91	Automatic-Concept 10323 10330	glicose
+T92	Automatic-Concept 10264 10272	insulina
+T93	Automatic-Concept 10526 10536	receptor
+T94	Automatic-Concept 10378 10384	sangue
+T95	Automatic-Concept 10824 10831	frutose
+T96	Automatic-Concept 11132 11140	celulose
+T97	Automatic-Concept 10901 10908	glicose
+T98	Automatic-Concept 10975 10982	glicose
+T99	Automatic-Concept 11043 11050	glicose
+T100	Automatic-Concept 10964 10972	insulina
+T101	Automatic-Concept 10749 10755	sangue
+T102	Automatic-Concept 11257 11264	glicose
+T103	Automatic-Concept 11375 11382	glicose
+T104	Automatic-Concept 11569 11576	glicose
+T105	Automatic-Concept 11715 11722	glicose
+T106	Automatic-Concept 11841 11848	glicose
+T107	Automatic-Concept 11869 11876	glicose
+T108	Automatic-Concept 11147 11155	insulina
+T109	Automatic-Concept 11311 11319	insulina
+T110	Automatic-Concept 11501 11509	insulina
+T111	Automatic-Concept 11211 11219	pu00E2ncreas
+T112	Automatic-Concept 11170 11176	sangue
+T113	Automatic-Concept 11268 11274	sangue
+T114	Automatic-Concept 11386 11392	sangue
+T115	Automatic-Concept 11907 11915	insulina
+T116	Automatic-Concept 12011 12027	su00EDntese proteica
+T117	Automatic-Concept 12501 12508	acidose
+T118	Automatic-Concept 12255 12262	glicose
+T119	Automatic-Concept 12419 12426	glicose
+T120	Automatic-Concept 12078 12086	insulina
+T121	Automatic-Concept 12157 12165	insulina
+T122	Automatic-Concept 12227 12235	insulina
+T123	Automatic-Concept 12351 12357	fu00EDgado
+T124	Automatic-Concept 12430 12436	sangue
+T125	Automatic-Concept 12438 12454	su00EDntese proteica
+T126	Automatic-Concept 12186 12208	resistu00EAncia u00E0 insulina
+T127	Automatic-Concept 12360 12368	mu00FAsculo
+T128	Automatic-Concept 12690 12695	urina
+T129	Automatic-Concept 12747 12752	urina
+T130	Automatic-Concept 12845 12850	urina
+T131	Automatic-Concept 12999 13011	desidratau00E7u00E3o
+T132	Automatic-Concept 12698 12708	glicosu00FAria
+T133	Automatic-Concept 12852 12860	poliu00FAria
+T134	Automatic-Concept 12539 12546	glicose
+T135	Automatic-Concept 12667 12674	glicose
+T136	Automatic-Concept 12550 12556	sangue
+T137	Automatic-Concept 12907 12913	sangue
+T138	Automatic-Concept 13204 13225	retinopatia diabu00E9tica
+T139	Automatic-Concept 13059 13066	glicose
+T140	Automatic-Concept 13101 13108	glicose
+T141	Automatic-Concept 13282 13293	diagnu00F3stico
+T142	Automatic-Concept 13898 13902	coma
+T143	Automatic-Concept 13804 13812	confusu00E3o
+T144	Automatic-Concept 14198 14210	desidratau00E7u00E3o
+T145	Automatic-Concept 14348 14360	desidratau00E7u00E3o
+T146	Automatic-Concept 13511 13532	cetoacidose diabu00E9tica
+T147	Automatic-Concept 13968 13989	cetoacidose diabu00E9tica
+T148	Automatic-Concept 13731 13744	dor abdominal
+T149	Automatic-Concept 14476 14488	hipoglicemia
+T150	Automatic-Concept 13713 13719	nu00E1usea
+T151	Automatic-Concept 13703 13711	poliu00FAria
+T152	Automatic-Concept 13722 13728	vu00F4mito
+T153	Automatic-Concept 14862 14870	glucagon
+T154	Automatic-Concept 14575 14582	glicose
+T155	Automatic-Concept 14443 14451	insulina
+T156	Automatic-Concept 14563 14571	absoru00E7u00E3o
+T157	Automatic-Concept 13441 13450	paciente
+T158	Automatic-Concept 14400 14409	paciente
+T159	Automatic-Concept 13634 13642	paciente
+T160	Automatic-Concept 14264 14272	paciente
+T161	Automatic-Concept 15201 15205	rim
+T162	Automatic-Concept 15129 15138	proteu00EDna
+T163	Automatic-Concept 15411 15428	diabetes mellitus
+T164	Automatic-Concept 15683 15700	diabetes mellitus
+T165	Automatic-Concept 15747 15751	rim
+T166	Automatic-Concept 15628 15635	glicose
+T167	Automatic-Concept 15842 15860	sistema imunitu00E1rio
+T168	Automatic-Concept 15920 15928	confusu00E3o
+T169	Automatic-Concept 15998 16010	constipau00E7u00E3o
+T170	Automatic-Concept 15896 15904	pu00E2ncreas
+T171	Automatic-Concept 16020 16027	doenu00E7a
+T172	Automatic-Concept 16596 16604	insulina
+T173	Automatic-Concept 16814 16822	insulina
+T174	Automatic-Concept 16972 16980	insulina
+T175	Automatic-Concept 17188 17196	insulina
+T176	Automatic-Concept 16283 16291	pu00E2ncreas
+T177	Automatic-Concept 16838 16846	pu00E2ncreas
+T178	Automatic-Concept 16449 16457	crianu00E7a
+T179	Automatic-Concept 16183 16195	adolescu00EAncia
+T180	Automatic-Concept 18179 18191	hipoglicemia
+T181	Automatic-Concept 18170 18176	cetose
+T182	Automatic-Concept 18095 18103	insulina
+T183	Automatic-Concept 17958 17967	paciente
+T184	Automatic-Concept 18432 18441	paciente
+T185	Automatic-Concept 18808 18816	insulina
+T186	Automatic-Concept 18916 18924	insulina
+T187	Automatic-Concept 18841 18863	resistu00EAncia u00E0 insulina
+T188	Automatic-Concept 18949 18971	resistu00EAncia u00E0 insulina
+T189	Automatic-Concept 19113 19122	obesidade
+T190	Automatic-Concept 19402 19424	lactogu00EAnio placentu00E1rio
+T191	Automatic-Concept 19815 19819	feto
+T192	Automatic-Concept 20415 20438	sistema nervoso central
+T193	Automatic-Concept 20627 20635	hemu00E1cia
+T194	Automatic-Concept 20999 21008	amputau00E7u00E3o
+T195	Automatic-Concept 21194 21199	jejum
+T196	Automatic-Concept 21133 21139	sangue
+T197	Automatic-Concept 21356 21365	proteu00EDna
+T198	Automatic-Concept 21894 21899	urina
+T199	Automatic-Concept 21655 21675	hipertensu00E3o arterial
+T200	Automatic-Concept 21882 21890	proteu00EDna
+T201	Automatic-Concept 21815 21824	obesidade
+T202	Automatic-Concept 21934 21948	doenu00E7a cru00F4nica
+T203	Automatic-Concept 21910 21927	diabetes mellitus
+T204	Automatic-Concept 22163 22171	paciente
+T205	Automatic-Concept 22284 22292	paciente
+T206	Automatic-Concept 22436 22443	glicose
+T207	Automatic-Concept 22483 22490	glicose
+T208	Automatic-Concept 22337 22345	paciente
+T209	Automatic-Concept 22889 22910	doenu00E7a cardiovascular
+T210	Automatic-Concept 22767 22775	insulina
+T211	Automatic-Concept 22684 22697	perda de peso
+T212	Automatic-Concept 22982 22998	pressu00E3o arterial
+T213	Automatic-Concept 23517 23526	intestino
+T214	Automatic-Concept 23321 23334	gastroplastia
+T215	Automatic-Concept 23505 23513	cirurgia
+T216	Automatic-Concept 23735 23743	insulina
+T217	Automatic-Concept 23875 23883	insulina
+T218	Automatic-Concept 24032 24039	doenu00E7a
+T219	Automatic-Concept 24668 24674	doenu00E7a
+T220	Automatic-Concept 24606 24616	amputau00E7u00E3o
+T221	Automatic-Concept 26065 26078	perda de peso
+T222	Automatic-Concept 26302 26309	glicose
+T223	Automatic-Concept 26575 26582	glicose
+T224	Automatic-Concept 26360 26368	insulina
+T225	Automatic-Concept 26461 26469	insulina
+T226	Automatic-Concept 26315 26322	mu00FAsculo
+T227	Automatic-Concept 27455 27463	proteu00EDna
+T228	Automatic-Concept 28182 28187	ronco
+T229	Automatic-Concept 28295 28304	obesidade
+T230	Automatic-Concept 27975 27983	paciente
+T231	Automatic-Concept 28097 28105	paciente
+T232	Automatic-Concept 28752 28769	diabetes mellitus
+T233	Automatic-Concept 29163 29167	rim
+T234	Automatic-Concept 29454 29458	rim
+T235	Automatic-Concept 29252 29262	polidipsia
+T236	Automatic-Concept 29265 29273	poliu00FAria
+T237	Automatic-Concept 29016 29022	doenu00E7a
+T238	Automatic-Concept 29294 29300	doenu00E7a
+T239	Automatic-Concept 29918 29923	urina
+T240	Automatic-Concept 29944 29961	diabetes mellitus
+T241	Automatic-Concept 30134 30139	urina
+T242	Automatic-Concept 30272 30277	urina
+T243	Automatic-Concept 30211 30228	diabetes mellitus
+T244	Automatic-Concept 30123 30130	glicose
+T245	Automatic-Concept 30560 30569	proteu00EDna
+T246	Automatic-Concept 30482 30488	doenu00E7a
+T247	Automatic-Concept 30825 30830	urina
+T248	Automatic-Concept 30814 30821	glicose
+T249	Automatic-Concept 30675 30686	metabolismo
+T250	Automatic-Concept 30957 30966	obesidade
+T251	Automatic-Concept 31443 31464	ilhotas de langerhans
+T252	Automatic-Concept 31737 31745	insulina
+T253	Automatic-Concept 31478 31486	pu00E2ncreas
+T254	Automatic-Concept 32390 32411	ilhotas de langerhans
+T255	Automatic-Concept 32576 32585	cadu00E1ver
+T256	Automatic-Concept 32132 32140	insulina
+T257	Automatic-Concept 32058 32081	transplante de pu00E2ncreas
+T258	Automatic-Concept 32202 32225	transplante de pu00E2ncreas
+T259	Automatic-Concept 32681 32698	diabetes mellitus
+T260	Automatic-Concept 32944 32955	diagnu00F3stico
+T261	Automatic-Concept 33231 33241	enfermagem
+T262	Medical_Concept 97 113	nu00EDvel de glicose
+T263	Medical_Concept 132 142	diabu00E9ticos
+T264	Medical_Concept 214 222	au00E7u00FAcares
+T265	Medical_Concept 226 237	betaglucano
+T266	Medical_Concept 311 329	corrente sangu00FCu00EDnea
+T267	Medical_Concept 360 377	doenu00E7a metabu00F3lica
+T268	Medical_Concept 399 424	aumento anormal do au00E7u00FAcar
+T269	Medical_Concept 493 502	organismo
+T270	Medical_Concept 647 672	problemas fu00EDsicos-tu00E1ticos
+T271	Medical_Concept 772 787	Ataque cardu00EDaco
+T272	Medical_Concept 790 806	derrame cerebral
+T273	Medical_Concept 831 849	problemas na visu00E3o
+T274	Medical_Concept 852 867	amputau00E7u00E3o do pu00E9
+T275	Medical_Concept 870 900	lesu00F5es de difu00EDcil cicatrizau00E7u00E3o
+T276	Medical_Concept 962 977	cura definitiva
+T277	Medical_Concept 987 995	diabetes
+T278	Medical_Concept 1058 1069	tratamentos
+T279	Medical_Concept 1142 1159	qualidade de vida
+T280	Medical_Concept 1189 1197	Diabetes
+T281	Medical_Concept 1364 1373	gestantes
+T282	Medical_Concept 1389 1409	toleru00E2ncia u00E0 glicose
+T283	Medical_Concept 1467 1475	gru00E1vidas
+T284	Medical_Concept 1528 1536	diabetes
+T285	Medical_Concept 1621 1633	sedentarismo
+T286	Medical_Concept 1699 1707	diabetes
+T287	Medical_Concept 1918 1930	sedentarismo
+T288	Medical_Concept 2220 2235	diabetes tipo 1
+T289	Medical_Concept 2687 2695	diabetes
+T290	Medical_Concept 2971 2981	diabu00E9ticos
+T291	Medical_Concept 3025 3033	diabetes
+T292	Medical_Concept 3131 3139	diabetes
+T293	Medical_Concept 3293 3303	diabu00E9ticos
+T294	Medical_Concept 3412 3420	diabetes
+T295	Medical_Concept 3617 3631	pru00E9-diabu00E9ticas
+T296	Medical_Concept 3707 3716	epidu00EAmico
+T297	Medical_Concept 3889 3897	diabetes
+T298	Medical_Concept 3968 3976	sintomas
+T299	Medical_Concept 4241 4255	fome aumentada
+T300	Medical_Concept 4284 4292	sintomas
+T301	Medical_Concept 4323 4338	diabetes tipo 2
+T302	Medical_Concept 4357 4365	diabetes
+T303	Medical_Concept 4422 4452	diabu00E9ticos insulinodependentes
+T304	Medical_Concept 4465 4499	diabu00E9ticos nu00E3o insulinodependentes
+T305	Medical_Concept 4653 4671	problemas de visu00E3o
+T306	Medical_Concept 4831 4850	populau00E7u00F5es de risco
+T307	Medical_Concept 4919 4927	diabetes
+T308	Medical_Concept 5053 5059	au00E7u00FAcar
+T309	Medical_Concept 5127 5135	Diabetes
+T310	Medical_Concept 5221 5237	coleta de sangue
+T311	Medical_Concept 5391 5407	coleta de sangue
+T312	Medical_Concept 5489 5494	fumar
+T313	Medical_Concept 5516 5523	repouso
+T314	Medical_Concept 5572 5611	hiperglicemia recorrente ou persistente
+T315	Medical_Concept 5688 5715	Nu00EDvel plasmu00E1tico de glicose
+T316	Medical_Concept 5791 5818	Nu00EDvel plasmu00E1tico de glicose
+T317	Medical_Concept 5904 5918	glicose anidra
+T318	Medical_Concept 5940 5967	Nu00EDvel plasmu00E1tico de glicose
+T319	Medical_Concept 6040 6068	sintomas tu00EDpicos de diabetes
+T320	Medical_Concept 6135 6159	sintomas caracteru00EDsticos
+T321	Medical_Concept 6227 6241	glicose anidra
+T322	Medical_Concept 6262 6292	toleru00E2ncia u00E0 glicose diminuu00EDda
+T323	Medical_Concept 6310 6322	pru00E9-diabetes
+T324	Medical_Concept 6355 6378	atividade fu00EDsica regular
+T325	Medical_Concept 6387 6391	peso
+T326	Medical_Concept 6422 6434	carboidratos
+T327	Medical_Concept 6456 6464	diabetes
+T328	Medical_Concept 6580 6616	glicose plasmu00E1tica de jejum alterada
+T329	Medical_Concept 6647 6654	gru00E1vida
+T330	Medical_Concept 6766 6786	diabetes gestacional
+T331	Medical_Concept 6794 6809	Infecu00E7u00E3o virais
+T332	Medical_Concept 6828 6849	respostas auto-imunes
+T333	Medical_Concept 6866 6890	Diabetes Mellitus tipo 1
+T334	Medical_Concept 6965 6992	aumento do tecido gorduroso
+T335	Medical_Concept 7103 7154	Transmissu00E3o autossu00F4mica dominante de inu00EDcio precoce
+T336	Medical_Concept 7202 7220	Poliendocrinopatia
+T337	Medical_Concept 7237 7268	gene regulador da autoimunidade
+T338	Medical_Concept 7270 7274	AIRE
+T339	Medical_Concept 7282 7290	Insulite
+T340	Medical_Concept 7296 7320	infiltrau00E7u00E3o inflamatu00F3ria
+T341	Medical_Concept 7395 7414	diabetes auto-imune
+T342	Medical_Concept 7444 7461	fatores genu00E9ticos
+T343	Medical_Concept 7567 7582	diabetes tipo 2
+T344	Medical_Concept 7600 7622	predisposiu00E7u00E3o genu00E9tica
+T345	Medical_Concept 7634 7655	disfunu00E7u00E3o do pu00E2ncreas
+T346	Medical_Concept 7659 7679	produu00E7u00E3o de insulina
+T347	Medical_Concept 7683 7689	tipo 1
+T348	Medical_Concept 7737 7749	adolescentes
+T349	Medical_Concept 7813 7827	fator genu00E9tico
+T350	Medical_Concept 7844 7861	origem monogu00EAnica
+T351	Medical_Concept 7872 7887	gene defeituoso
+T352	Medical_Concept 7891 7929	u00E1reas centrais da produu00E7u00E3o de insulina
+T353	Medical_Concept 7938 7948	poligu00EAnica
+T354	Medical_Concept 8156 8203	genes favoru00E1veis ao desenvolvimento de diabetes
+T355	Medical_Concept 8213 8228	diabetes tipo 2
+T356	Medical_Concept 8230 8254	Diabetes Mellitus tipo 2
+T357	Medical_Concept 8270 8284	fator genu00E9tico
+T358	Medical_Concept 8447 8471	Diabetes Mellitus tipo 2
+T359	Medical_Concept 8705 8711	obesos
+T360	Medical_Concept 8713 8724	hipertensos
+T361	Medical_Concept 8727 8741	dislipidu00EAmicos
+T362	Medical_Concept 8797 8805	Diabetes
+T363	Medical_Concept 8835 8855	secreu00E7u00E3o de insulina
+T364	Medical_Concept 8883 8895	cu00E9lulas beta
+T365	Medical_Concept 8914 8926	cu00E9lulas beta
+T366	Medical_Concept 9004 9016	carboidratos
+T367	Medical_Concept 9023 9035	cu00E9lulas alfa
+T368	Medical_Concept 9118 9138	situau00E7u00E3o estressante
+T369	Medical_Concept 9193 9201	hormu00F4nio
+T370	Medical_Concept 9229 9237	hormu00F4nio
+T371	Medical_Concept 9257 9278	regulau00E7u00E3o da glicemia
+T372	Medical_Concept 9281 9289	glicemia
+T373	Medical_Concept 9407 9426	respirau00E7u00E3o aeru00F3bica
+T374	Medical_Concept 9515 9521	cu00E9lula
+T375	Medical_Concept 9537 9544	cu00E9lulas
+T376	Medical_Concept 9333 9340	cu00E9lulas
+T377	Medical_Concept 9553 9575	receptores de insulina
+T378	Medical_Concept 9577 9593	tirosina quu00EDnase
+T379	Medical_Concept 9627 9643	membrana celular
+T380	Medical_Concept 9682 9702	circulau00E7u00E3o sanguu00EDnea
+T381	Medical_Concept 9717 9737	produu00E7u00E3o de insulina
+T382	Medical_Concept 9847 9854	cu00E9lulas
+T383	Medical_Concept 9876 9884	glicemia
+T384	Medical_Concept 9927 9946	hormu00F4nio antagu00F4nico
+T385	Medical_Concept 10000 10008	glicemia
+T386	Medical_Concept 10083 10093	circulau00E7u00E3o
+T387	Medical_Concept 10110 10131	hormu00F4nio predominante
+T388	Medical_Concept 10160 10168	estresse
+T389	Medical_Concept 10287 10295	hormu00F4nio
+T390	Medical_Concept 10358 10365	cu00E9lulas
+T391	Medical_Concept 10401 10419	cu00E9lulas musculares
+T392	Medical_Concept 10425 10432	gordura
+T393	Medical_Concept 10442 10475	cu00E9lulas do sistema nervoso central
+T394	Medical_Concept 10629 10640	carboidrato
+T395	Medical_Concept 10687 10709	monossacaru00EDdeo glicose
+T396	Medical_Concept 10723 10734	carboidrato
+T397	Medical_Concept 10764 10776	carboidratos
+T398	Medical_Concept 10856 10875	combustu00EDvel celular
+T399	Medical_Concept 10928 10960	mecanismo regulatu00F3rio metabu00F3lico
+T400	Medical_Concept 11002 11022	carboidrato celulose
+T401	Medical_Concept 11095 11110	vias digestivas
+T402	Medical_Concept 11183 11195	cu00E9lulas beta
+T403	Medical_Concept 11197 11206	cu00E9lulas u03B2
+T404	Medical_Concept 11343 11350	cu00E9lulas
+T405	Medical_Concept 11453 11462	molu00E9culas
+T406	Medical_Concept 11580 11586	au00E7u00FAcar
+T407	Medical_Concept 11621 11631	glicogu00EAnio
+T408	Medical_Concept 11663 11680	cu00E9lulas do fu00EDgado
+T409	Medical_Concept 11755 11775	secreu00E7u00E3o de insulina
+T410	Medical_Concept 11789 11801	cu00E9lulas beta
+T411	Medical_Concept 11807 11838	conversu00E3o reversa de glicogu00EAnio
+T412	Medical_Concept 11932 11952	processos anabu00F3licos
+T413	Medical_Concept 11977 12009	crescimento e duplicau00E7u00E3o celular
+T414	Medical_Concept 12030 12054	armazenamento de gordura
+T415	Medical_Concept 12120 12127	cu00E9lulas
+T416	Medical_Concept 12304 12311	cu00E9lulas
+T417	Medical_Concept 12470 12492	distu00FArbios metabu00F3licos
+T418	Medical_Concept 12577 12589	limiar renal
+T419	Medical_Concept 12594 12615	reabsoru00E7u00E3o de glicose
+T420	Medical_Concept 12619 12641	tu00FAbulo proximal do rim
+T421	Medical_Concept 12727 12743	pressu00E3o osmu00F3tica
+T422	Medical_Concept 12780 12807	reabsoru00E7u00E3o de u00E1gua pelo rim
+T423	Medical_Concept 12935 12948	osmoticamente
+T424	Medical_Concept 12972 12979	cu00E9lulas
+T425	Medical_Concept 13124 13154	sistema circulatu00F3rio da retina
+T426	Medical_Concept 13166 13187	dificuldades de visu00E3o
+T427	Medical_Concept 13297 13305	diabetes
+T428	Medical_Concept 13309 13315	tipo 1
+T429	Medical_Concept 13388 13394	tipo 2
+T430	Medical_Concept 13470 13485	diabetes tipo 1
+T431	Medical_Concept 13556 13579	desregulau00E7u00E3o metabu00F3lica
+T432	Medical_Concept 13599 13630	cheiro de acetona na respirau00E7u00E3o
+T433	Medical_Concept 13644 13666	respirau00E7u00E3o de Kussmaul
+T434	Medical_Concept 13814 13822	letargia
+T435	Medical_Concept 13824 13835	hostilidade
+T436	Medical_Concept 13837 13842	mania
+T437	Medical_Concept 13853 13881	cetoacidose diabu00E9tica severa
+T438	Medical_Concept 13904 13917	inconsciu00EAncia
+T439	Medical_Concept 13939 13944	morte
+T440	Medical_Concept 13996 14013	emergu00EAncia mu00E9dica
+T441	Medical_Concept 14096 14126	coma hiperosmolar nu00E3o-cetu00F3tico
+T442	Medical_Concept 14148 14163	diabetes tipo 2
+T443	Medical_Concept 14220 14245	perda de lu00EDquido corporal
+T444	Medical_Concept 14326 14332	au00E7u00FAcar
+T445	Medical_Concept 14379 14395	perda de lu00EDquido
+T446	Medical_Concept 14423 14439	hipoglicemiantes
+T447	Medical_Concept 14589 14596	cu00E9lulas
+T448	Medical_Concept 14601 14609	sintomas
+T449	Medical_Concept 14628 14643	confusu00E3o mental
+T450	Medical_Concept 14645 14653	agitau00E7u00E3o
+T451	Medical_Concept 14657 14665	letargia
+T452	Medical_Concept 14667 14675	sudorese
+T453	Medical_Concept 14678 14698	perda de consciu00EAncia
+T454	Medical_Concept 14738 14772	administrau00E7u00E3o oral de soluu00E7u00E3o doce
+T455	Medical_Concept 14825 14842	emergu00EAncia mu00E9dica
+T456	Medical_Concept 14874 14892	glicose endovenosa
+T457	Medical_Concept 14899 14914	Diabetes tipo 1
+T458	Medical_Concept 14961 14967	tipo 2
+T459	Medical_Concept 15005 15011	obesos
+T460	Medical_Concept 15173 15181	glicemia
+T461	Medical_Concept 15231 15249	gorduras saturadas
+T462	Medical_Concept 15252 15267	colesterol ruim
+T463	Medical_Concept 15327 15332	dieta
+T464	Medical_Concept 15378 15386	diabetes
+T465	Medical_Concept 15504 15512	diabetes
+T466	Medical_Concept 15517 15534	diabetes insu00EDpida
+T467	Medical_Concept 15585 15596	doenu00E7a rara
+T468	Medical_Concept 15707 15715	diabetes
+T469	Medical_Concept 15757 15776	glu00E2ndula pituitu00E1ria
+T470	Medical_Concept 15793 15817	Diabetes mellitus tipo 1
+T471	Medical_Concept 15880 15892	cu00E9lulas beta
+T472	Medical_Concept 16133 16141	diabetes
+T473	Medical_Concept 16171 16179	infu00E2ncia
+T474	Medical_Concept 16222 16241	du00E9ficit de insulina
+T475	Medical_Concept 16252 16279	destruiu00E7u00E3o das cu00E9lulas beta
+T476	Medical_Concept 16296 16316	processos autoimunes
+T477	Medical_Concept 16320 16331	idiopu00E1ticos
+T478	Medical_Concept 16354 16372	pessoas diabu00E9ticas
+T479	Medical_Concept 16377 16392	diabetes tipo 1
+T480	Medical_Concept 16440 16446	jovens
+T481	Medical_Concept 16472 16480	diabetes
+T482	Medical_Concept 16498 16535	diabetes mellitus insulino-dependente
+T483	Medical_Concept 16539 16556	diabetes infantil
+T484	Medical_Concept 16648 16676	injeu00E7u00F5es diu00E1rias de insulina
+T485	Medical_Concept 16694 16710	injeu00E7u00F5es diu00E1rias
+T486	Medical_Concept 16761 16777	endocrinologista
+T487	Medical_Concept 16850 16868	insulina sintu00E9tica
+T488	Medical_Concept 17134 17142	diabetes
+T489	Medical_Concept 17216 17225	exercu00EDcio
+T490	Medical_Concept 17373 17381	diabetes
+T491	Medical_Concept 17490 17505	plano alimentar
+T492	Medical_Concept 17580 17585	dieta
+T493	Medical_Concept 17633 17639	doente
+T494	Medical_Concept 17691 17718	carboidratos de au00E7u00E3o ru00E1pida
+T495	Medical_Concept 17821 17838	picos de glicemia
+T496	Medical_Concept 17931 17950	controle metabu00F3lico
+T497	Medical_Concept 18018 18026	aeru00F3bica
+T498	Medical_Concept 18030 18051	treinamento resistido
+T499	Medical_Concept 18220 18239	problemas cardu00EDacos
+T500	Medical_Concept 18253 18271	controle glicu00EAmico
+T501	Medical_Concept 18276 18291	perfil lipu00EDdico
+T502	Medical_Concept 18548 18558	diabu00E9ticos
+T503	Medical_Concept 18586 18618	Diabetes Nu00E3o Insulino-dependente
+T504	Medical_Concept 18622 18637	Diabetes Tardio
+T505	Medical_Concept 18643 18677	mecanismo fisiopatolu00F3gico complexo
+T506	Medical_Concept 18753 18774	receptores de glicose
+T507	Medical_Concept 18788 18805	tecido perifu00E9rico
+T508	Medical_Concept 18868 18892	cu00E9lulas beta do pu00E2ncreas
+T509	Medical_Concept 18991 19003	cu00E9lulas beta
+T510	Medical_Concept 19125 19131	idosos
+T511	Medical_Concept 19140 19148	fu00E1rmacos
+T512	Medical_Concept 19201 19209	diabetes
+T513	Medical_Concept 19231 19246	diabetes tipo 2
+T514	Medical_Concept 19278 19289	corticoides
+T515	Medical_Concept 19318 19343	hemocromatose nu00E3o tratada
+T516	Medical_Concept 19373 19382	hormu00F4nios
+T517	Medical_Concept 19452 19468	insulina materna
+T518	Medical_Concept 19478 19498	diabetes gestacional
+T519	Medical_Concept 19532 19540	secreu00E7u00E3o
+T520	Medical_Concept 19543 19569	responsividade de insulina
+T521	Medical_Concept 19601 19616	diabetes tipo 2
+T522	Medical_Concept 19667 19675	gravidez
+T523	Medical_Concept 19714 19732	nascimento do bebu00EA
+T524	Medical_Concept 19765 19785	diabetes gestacional
+T525	Medical_Concept 19871 19891	diabetes gestacional
+T526	Medical_Concept 19904 19919	diabetes tipo 2
+T527	Medical_Concept 19951 19980	diabetes mellitus gestacional
+T528	Medical_Concept 19982 19985	DMG
+T529	Medical_Concept 20026 20036	gravidezes
+T530	Medical_Concept 20072 20080	tratu00E1vel
+T531	Medical_Concept 20130 20138	gravidez
+T532	Medical_Concept 20150 20167	macrossomia fetal
+T533	Medical_Concept 20185 20189	bebu00EA
+T534	Medical_Concept 20202 20221	malformau00E7u00F5es fetais
+T535	Medical_Concept 20224 20248	doenu00E7a cardu00EDaca congu00EAnita
+T536	Medical_Concept 20262 20279	supervisu00E3o mu00E9dica
+T537	Medical_Concept 20300 20308	gravidez
+T538	Medical_Concept 20320 20326	fetais
+T539	Medical_Concept 20327 20336	neonatais
+T540	Medical_Concept 20350 20353	DMG
+T541	Medical_Concept 20362 20382	anomalias congu00EAnitas
+T542	Medical_Concept 20388 20410	malformau00E7u00F5es cardu00EDacas
+T543	Medical_Concept 20444 20465	mu00FAsculos esquelu00E9ticos
+T544	Medical_Concept 20469 20493	insulina fetal aumentada
+T545	Medical_Concept 20520 20537	surfactante fetal
+T546	Medical_Concept 20552 20575	problemas respiratu00F3rios
+T547	Medical_Concept 20579 20598	hiperbilirrubinemia
+T548	Medical_Concept 20656 20671	morte perinatal
+T549	Medical_Concept 20725 20745	profusu00E3o placentu00E1ria
+T550	Medical_Concept 20758 20775	prejuu00EDzo vascular
+T551	Medical_Concept 607 622	estu00E1gio inicial
+T552	Medical_Concept 624 644	problemas de cansau00E7o
+T553	Medical_Concept 20803 20826	diabetes imuno-mediadas
+T554	Medical_Concept 20828 20854	su00EDndrome do "Homem Ru00EDgido"
+T555	Medical_Concept 20856 20880	anticorpos anti-insulina
+T556	Medical_Concept 20941 20951	ferimentos
+T557	Medical_Concept 20956 20959	pu00E9s
+T558	Medical_Concept 21032 21040	diabetes
+T559	Medical_Concept 21101 21118	nu00EDveis glicu00EAmicos
+T560	Medical_Concept 21123 21129	au00E7u00FAcar
+T561	Medical_Concept 21240 21248	diabetes
+T562	Medical_Concept 21273 21301	excesso de glicose no sangue
+T563	Medical_Concept 21374 21412	retenu00E7u00E3o de u00E1gua na corrente sanguu00EDnea
+T564	Medical_Concept 21437 21456	espau00E7o intercelular
+T565	Medical_Concept 21477 21496	problemas cardu00EDacos
+T566	Medical_Concept 21502 21528	acidente vascular cerebral
+T567	Medical_Concept 21530 21533	AVC
+T568	Medical_Concept 21537 21552	ataque cardu00EDaco
+T569	Medical_Concept 21597 21605	diabetes
+T570	Medical_Concept 21631 21649	problemas cru00F4nicos
+T571	Medical_Concept 21678 21715	alterau00E7u00E3o do metabolismo das gorduras
+T572	Medical_Concept 21717 21743	aumento do colesterol ruim
+T573	Medical_Concept 21746 21771	aumento dos triglicu00E9rides
+T574	Medical_Concept 21774 21799	reduu00E7u00E3o do colesterol bom
+T575	Medical_Concept 21803 21812	tabagismo
+T576	Medical_Concept 21864 21880	microalbuminu00FAria
+T577	Medical_Concept 21954 21958	cura
+T578	Medical_Concept 22096 22104	diabetes
+T579	Medical_Concept 22223 22228	dieta
+T580	Medical_Concept 22256 22264	diabetes
+T581	Medical_Concept 22371 22376	dieta
+T582	Medical_Concept 22378 22396	exercu00EDcios fu00EDsicos
+T583	Medical_Concept 22663 22669	dietas
+T584	Medical_Concept 22715 22738	drogas diabu00E9ticas orais
+T585	Medical_Concept 22822 22836	medicau00E7u00E3o oral
+T586	Medical_Concept 23006 23016	colesterol
+T587	Medical_Concept 23094 23104	diabu00E9ticos
+T588	Medical_Concept 23131 23143	medicamentos
+T589	Medical_Concept 23287 23318	cirurgia de reduu00E7u00E3o de estomago
+T590	Medical_Concept 23360 23377	obesidade mu00F3rbida
+T591	Medical_Concept 23398 23422	diabetes mellitus tipo 2
+T592	Medical_Concept 23568 23583	diabetes tipo 2
+T593	Medical_Concept 23589 23607	pessoas nu00E3o obesas
+T594	Medical_Concept 23940 23948	diabetes
+T595	Medical_Concept 24269 24283	auxu00EDlio-doenu00E7a
+T596	Medical_Concept 24304 24326	invalidez sem caru00EAncia
+T597	Medical_Concept 24353 24363	diabu00E9ticos
+T598	Medical_Concept 24685 24708	insulina de au00E7u00E3o ru00E1pida
+T599	Medical_Concept 24710 24726	insulina regular
+T600	Medical_Concept 25079 25087	diabetes
+T601	Medical_Concept 25169 25188	suspensu00E3o injetu00E1vel
+T602	Medical_Concept 25285 25302	soluu00E7u00E3o injetu00E1vel
+T603	Medical_Concept 25250 25273	Insulina Humana Regular
+T604	Medical_Concept 25137 25156	Insulina Humana NPH
+T605	Medical_Concept 25364 25382	Exercu00EDcios fu00EDsicos
+T606	Medical_Concept 25455 25463	diabetes
+T607	Medical_Concept 25490 25508	nu00EDveis de glicemia
+T608	Medical_Concept 25559 25577	controle glicu00EAmico
+T609	Medical_Concept 25635 25644	diabu00E9tico
+T610	Medical_Concept 25696 25704	diabetes
+T611	Medical_Concept 25741 25746	dieta
+T612	Medical_Concept 25749 25777	atividades fu00EDsicas regulares
+T613	Medical_Concept 25796 25826	toleru00E2ncia diminuu00EDda u00E0 glicose
+T614	Medical_Concept 25828 25831	TDG
+T615	Medical_Concept 25835 25861	glicemia de jejum alterada
+T616	Medical_Concept 25863 25866	GJA
+T617	Medical_Concept 25884 25896	dieta ru00EDgida
+T618	Medical_Concept 25907 25923	atividade fu00EDsica
+T619	Medical_Concept 25992 26000	remu00E9dios
+T620	Medical_Concept 26030 26048	Atividades fu00EDsicas
+T621	Medical_Concept 26050 26062	dieta ru00EDgida
+T622	Medical_Concept 26143 26158	Diabetes tipo 2
+T623	Medical_Concept 26191 26209	exercu00EDcios fu00EDsicos
+T624	Medical_Concept 26254 26262	oxigu00EAnio
+T625	Medical_Concept 26268 26277	organismo
+T626	Medical_Concept 26336 26357	sensibilidade celular
+T627	Medical_Concept 26517 26525	diabetes
+T628	Medical_Concept 26611 26630	pru00E9-diabetes tipo 2
+T629	Medical_Concept 26657 26670	rosiglitazona
+T630	Medical_Concept 26680 26690	metformina
+T631	Medical_Concept 26745 26753	diabetes
+T632	Medical_Concept 26856 26871	diabetes tipo 1
+T633	Medical_Concept 26883 26898	auto anticorpos
+T634	Medical_Concept 26916 26938	antu00EDgenos pancreu00E1ticos
+T635	Medical_Concept 27009 27024	auto anticorpos
+T636	Medical_Concept 27048 27056	diabetes
+T637	Medical_Concept 27090 27100	diabu00E9ticos
+T638	Medical_Concept 27137 27154	imunossupressores
+T639	Medical_Concept 27160 27171	azatioprina
+T640	Medical_Concept 27174 27191	corticoesteru00F3ides
+T641	Medical_Concept 27194 27206	ciclosporina
+T642	Medical_Concept 27253 27273	reposiu00E7u00E3o insulu00EDnica
+T643	Medical_Concept 27339 27356	imunossupressores
+T644	Medical_Concept 27476 27484	zonulina
+T645	Medical_Concept 27542 27561	doenu00E7as auto-imunes
+T646	Medical_Concept 27628 27640	cu00E9lulas beta
+T647	Medical_Concept 27712 27720	zonulina
+T648	Medical_Concept 27759 27784	cu00E9lulas beta pancreu00E1ticas
+T649	Medical_Concept 27833 27840	AT-1001
+T650	Medical_Concept 28058 28066	diabetes
+T651	Medical_Concept 28158 28166	diabetes
+T652	Medical_Concept 28190 28204	apneia do sono
+T653	Medical_Concept 28207 28216	tabagismo
+T654	Medical_Concept 28219 28237	colesterol elevado
+T655	Medical_Concept 28262 28267	dieta
+T656	Medical_Concept 28269 28279	exercu00EDcios
+T657	Medical_Concept 28282 28292	medicau00E7u00F5es
+T658	Medical_Concept 28358 28379	pressu00E3o sanguu00EDnea alta
+T659	Medical_Concept 28382 28391	exercu00EDcio
+T660	Medical_Concept 28394 28404	medicau00E7u00F5es
+T661	Medical_Concept 28423 28435	sedentarismo
+T662	Medical_Concept 28463 28476	peso saudu00E1vel
+T663	Medical_Concept 28545 28552	gordura
+T664	Medical_Concept 28584 28590	fibras
+T665	Medical_Concept 28911 28919	sintomas
+T666	Medical_Concept 28947 28955	diabetes
+T667	Medical_Concept 29034 29042	diabetes
+T668	Medical_Concept 29223 29232	diabu00E9tico
+T669	Medical_Concept 29412 29420	diabetes
+T670	Medical_Concept 29773 29781	diabetes
+T671	Medical_Concept 29836 29850	sintomatologia
+T672	Medical_Concept 30186 30194	diabetes
+T673	Medical_Concept 30343 30352	diabu00E9tico
+T674	Medical_Concept 30327 30336	necropsia
+T675	Medical_Concept 30493 30507	causa gu00E1strica
+T676	Medical_Concept 30572 30580	gorduras
+T677	Medical_Concept 30595 30614	hidratos de carbono
+T678	Medical_Concept 30691 30700	glicu00EDdios
+T679	Medical_Concept 30769 30788	glicogu00EAnio hepu00E1tico
+T680	Medical_Concept 30844 30860	centros bulbares
+T681	Medical_Concept 30972 30987	vida sedentu00E1ria
+T682	Medical_Concept 31001 31009	diabetes
+T683	Medical_Concept 31036 31056	tratamento dietu00E9tico
+T684	Medical_Concept 31086 31095	glicu00EDdios
+T685	Medical_Concept 31125 31130	dieta
+T686	Medical_Concept 31101 31121	baixo valor calu00F3rico
+T687	Medical_Concept 31135 31153	trabalhos clu00EDnicos
+T688	Medical_Concept 31156 31177	anatu00F4mico-patolu00F3gicos
+T689	Medical_Concept 31327 31342	pancreatectomia
+T690	Medical_Concept 31418 31426	hormu00F4nio
+T691	Medical_Concept 31763 31783	efeito hipoglicu00EAmico
+T692	Medical_Concept 31910 31920	diabu00E9ticos
+T693	Medical_Concept 31993 32001	diabetes
+T694	Medical_Concept 32007 32032	metabolismo dos glicu00EDdios
+T695	Medical_Concept 32162 32189	diabetes mellitus do tipo 1
+T696	Medical_Concept 32367 32378	transplante
+T697	Medical_Concept 32476 32490	hospitalizau00E7u00E3o
+T698	Medical_Concept 32544 32551	cu00E9lulas
+T699	Medical_Concept 32618 32626	doadores
+T700	Medical_Concept 32667 32674	cu00E9lulas
+T701	Medical_Concept 32927 32942	Diabetes Melito
+T702	Medical_Concept 32986 33004	Controle Glicu00EAmico
+T703	Medical_Concept 33149 33171	Fatores imunogenu00E9ticos
+T704	Medical_Concept 33186 33213	diabetes mellitus do tipo 1
+T705	Medical_Concept 33539 33567	metabolismo dos carboidratos
+T706	Medical_Concept 33585 33606	metabolismo glicu00EDdico
+T707	Medical_Concept 33784 33803	CONTROLO METABu00D3LICO
+T708	Medical_Concept 33825 33846	COMPLICAu00C7u00D5ES CRu00D3NICAS
+T709	Medical_Concept 33865 33873	DIABETES
+T710	Medical_Concept 34011 34035	diabetes mellitus tipo 2
+T711	Medical_Concept 34163 34185	diabetes melito tipo 1
+T712	Medical_Concept 34138 34159	Aspectos imunolu00F3gicos

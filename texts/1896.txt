@@ -1,0 +1,42 @@
+espectro IV do dimetilsulfóxido em uma célula de líquidos (circle cell)
+
+A espectroscopia de infravermelho (espectroscopia IV) é um tipo de espectroscopia de absorção a qual usa a região do infravermelho do espectro eletromagnético .
+
+Como as demais técnicas espectroscópicas , ela pode ser usada para identificar um composto ou investigar a composição de uma amostra.
+
+A espectroscopia no infravermelho se baseia no fato de que as ligações químicas das substâncias possuem freqüências de vibração específicas, as quais correspondem a níveis de energia da molécula (chamados nesse caso de níveis vibracionais). Tais freqüências dependem da forma da superfície de energia potencial da molécula, da geometria molecular , das massas dos átomos e eventualmente do acoplamento vibrônico .
+
+Se a molécula receber radiação eletromagnética com 'exatamente' a mesma energia de uma dessas vibrações, então a luz será absorvida desde que sejam atendidos a determinadas condições. Para que uma vibração apareça no espectro IV, a molécula precisa sofrer uma variação no seu momento dipolar durante essa vibração. Em particular, na aproximação de Born-Oppenheimer e aproximações harmônicas, isto é, quando o hamiltoniano molecular correspondente ao estado padrão eletrônico pode ser aproximado por um oscilador harmônico quântico nas vizinhanças da geometria molecular de equilíbrio, as freqüências vibracionais de ressonância são determinadas pelos modos normais correspondentes à superfície de energia potencial do estado eletrônico padrão. Não obstante, as freqüências de ressonância podem ser em uma primeira aproximação relacionadas ao comprimento da ligação e às massas dos átomos em cada ponta dela. As ligações podem vibrar de seis modos: estiramento simétrico, estiramento assimétrico, tesoura, torção (twist), balanço (wag) e rotação, que se encontram representados a seguir:
+
+A fim de se fazer medidas em uma amostra, um feixe de radiação infravermelha passa pela amostra, e a quantidade de energia transmitida é registrada. Repetindo-se esta operação ao longo de uma faixa de comprimentos de onda de interesse (normalmente 4000-400 cm-1 ) um gráfico pode ser construído, com "número de onda" em cm-1 no eixo horizontal e transmitância em % no eixo vertical. Quando olhando para o gráfico de uma substância, um usuário experiente pode identificar informações dessa substância nele.
+
+Esta técnica trabalha quase que exclusivamente em ligações covalentes , e é de largo uso na Química , especialmente na Química orgânica . Gráficos bem resolvidos podem ser produzidos com amostras de uma única substância com elevada pureza. Contudo a técnica costuma ser usada para a identificação de misturas bem complexas.
+
+As amostras líquidas podem ser prensadas entre duas placas de um sal de alta pureza como o cloreto de sódio . Essas placas têm de ser transparente à luz infravermelha e, dessa forma, não introduzirem nenhuma linha no espectro da amostra. Essas placas obviamente são bem solúveis em água , então a amostra, os reagentes de lavagem e o meio precisam ser anídros (isto é, sem água),
+
+As amostras sólidas normalmente são preparadas misturando-se uma certa quantidade da amostra com um sal altamente purificado (geralmente brometo de potássio ). Essa mistura é triturada e prensada a fim de se formar uma pastilha pela qual a luz pode passar. Essa pastilha precisa ser prensada a altas pressões a fim de garantir de que ela seja translúcida, mas isso não pode ser alcançado sem um equipamento apropriado (como uma prensa hidráulica). Da mesma forma que o cloreto de sódio, o brometo de potássio não absorve radiação infravermelha, então as únicas linhas espectrais a aparecer virão do analito.
+
+Um feixe de luz infravermelha é produzido e dividido em dois raios separados. Um passa pela a amostra, e o outro por uma referência que é normalmente a substância na qual a mostra está dissolvida ou misturada. Ambos os feixes são refletidos de volta ao detector, porém primeiro eles passam por divisor que rapidamente alterna qual dos dois raios entra no detector. Os dois sinais são comparados e então os dados são coletados.
+
+Previne que flutuações da energia elétrica da saída da fonte afetem os resultados finais, uma vez que tanto a amostra quanto a referência são afetadas da mesma forma
+
+Por essa mesma razão, também previne a influência de variações no resultado final devido ao fato de que a fonte não necessariamente emite a mesma intensidade de luz para todos os comprimentos de onda
+
+Permite que os efeitos do solvente sejam cancelados, já que a referência é normalmente a forma pura do solvente na qual ela se encontra.
+
+Tabela detalhada das absorções das ligações em moléculas orgânicas[ editar ]
+
+1520, 1350 cm-1 (conjugação normalmente reduz o número de onda)
+
+As absorções nessa faixa não se aplicam apenas a ligações em moléculas orgânicas. A espectroscopia IV também é útil quando se trata na análise de compostos inorgânicos (como complexos metálicos ).
+
+A espectroscopia no infravermelho é largamente usada tanto na indústria quanto na pesquisa científica pois ela é uma técnica rápida e confiável para medidas, controle de qualidade e análises dinâmicas. Os instrumentos agora são pequenos, e podem ser transportados, mesmo para medidas de campo. Com a crescente tecnologia em filtragem computacional e manipulação de resultados, agora as amostras em solução podem ser medidas com precisão (a água produz uma banda larga de absorbância na faixa de interesse, o que daria um espectro ilegível sem esse tratamento computacional). Algumas máquinas até mesmo dirão automaticamente que substância está sendo analisada a partir de milhares de espectros de referência armazenados na memória.
+
+Medindo-se a uma freqüência específica ao longo do tempo, mudanças no caráter ou na quantidade de uma ligação em particular podem ser medidas, isso é especialmente útil na medida do grau de polimerização na manufatura de polímeros . As máquinas modernas podem tirar medidas na faixa de interesse freqüentemente, como 32 vezes por segundo. Isso pode ser feito enquanto se fazem medidas simultâneas com outras técnicas. Isso faz com que as observações de reações químicas sejam processadas mais rapidamente, de forma mais precisa e mais exata.
+
+A Espectroscopia no infravermelho por transformada de Fourier (FTIV) é uma técnica de análise para colher o espectro infravermelho mais rapidamente. Em vez de se coletar os dados variando-se a freqüência da radiação infravermelha, a radiação IV (com todos os comprimentos de onda da faixa usada) é guiada através de um interferômetro. Depois de passar pela amostra o sinal medido é o interferograma. Realizando-se uma transformada de Fourier no sinal resulta-se em um espectro idêntico ao da espectroscopia IV convencional (dispersiva).
+
+Os espectrofotômetros FTIV são mais baratos do que os convencionais porque é mais simples construir um interferômetro do que um monocromador. Em adição, a medida de um único espectro é bem mais rápida nessa técnica porque as informações de todas as freqüências são colhidas simultaneamente. Isso permite que se faça múltiplas leituras de uma mesma amostra e se tire a média delas, aumentando assim a sensibilidade da análise. Devido às suas várias vantagens, virtualmente todos os espectrofotômetros de infravermelho modernos são de FTIV;
+
+Esta página foi modificada pela última vez à(s) 02h27min de 24 de abril de 2013.
+

@@ -1,0 +1,27 @@
+T1	Automatic-Concept 165 175	eukaryota
+T2	Automatic-Concept 180 190	citocromo
+T3	Automatic-Concept 624 631	enzima
+T4	Medical_Concept 0 14	Citocromo P450
+T5	Medical_Concept 26 29	CYP
+T6	Medical_Concept 116 129	hemoproteu00EDnas
+T7	Medical_Concept 144 152	bactu00E9ria
+T8	Medical_Concept 155 162	archaea
+T9	Medical_Concept 267 286	reau00E7u00F5es enzimu00E1ticas
+T10	Medical_Concept 237 246	endu00F3genos
+T11	Medical_Concept 226 234	exu00F3genos
+T12	Medical_Concept 453 467	citocromo P450
+T13	Medical_Concept 474 494	reau00E7u00E3o monooxigenase
+T14	Medical_Concept 759 771	urochordatas
+T15	Medical_Concept 745 756	echinoideas
+T16	Medical_Concept 784 790	fungos
+T17	Medical_Concept 793 803	mycetozoas
+T18	Medical_Concept 806 815	bactu00E9rias
+T19	Medical_Concept 818 826	archaeas
+T20	Medical_Concept 867 870	CYP
+T21	Medical_Concept 956 960	P450
+T22	Medical_Concept 1009 1023	citocromo P450
+T23	Medical_Concept 1057 1076	proteu00EDnas celulares
+T24	Medical_Concept 1268 1272	hemo
+T25	Medical_Concept 1395 1408	METABOLIZAu00C7u00C3O
+T26	Medical_Concept 1425 1445	ENZIMAS IMUNOLu00D3GICAS
+T27	Medical_Concept 1516 1530	Citocromo P450

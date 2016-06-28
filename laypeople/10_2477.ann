@@ -1,0 +1,243 @@
+T1	Medical_Concept 2 10	medicina
+T2	Medical_Concept 313 321	medicina
+T3	Medical_Concept 167 174	doenu00E7a
+T4	Medical_Concept 395 403	medicina
+T5	Medical_Concept 501 508	doenu00E7a
+T6	Medical_Concept 978 986	medicina
+T7	Medical_Concept 1223 1231	medicina
+T8	Medical_Concept 1291 1299	medicina
+T9	Medical_Concept 1069 1076	doenu00E7a
+T10	Medical_Concept 1184 1191	doenu00E7a
+T11	Medical_Concept 1528 1537	paciente
+T12	Medical_Concept 1718 1726	medicina
+T13	Medical_Concept 1783 1791	medicina
+T14	Medical_Concept 1861 1869	medicina
+T15	Medical_Concept 2003 2010	doenu00E7a
+T16	Medical_Concept 2029 2037	medicina
+T17	Medical_Concept 2307 2314	doenu00E7a
+T18	Medical_Concept 2724 2736	diagnu00F3stico
+T19	Medical_Concept 2927 2938	ginecologia
+T20	Medical_Concept 2372 2380	medicina
+T21	Medical_Concept 2651 2659	medicina
+T22	Medical_Concept 2845 2853	medicina
+T23	Medical_Concept 2916 2924	cirurgia
+T24	Medical_Concept 4144 4152	medicina
+T25	Medical_Concept 4610 4617	doenu00E7a
+T26	Medical_Concept 4695 4703	medicina
+T27	Medical_Concept 4876 4884	medicina
+T28	Medical_Concept 5366 5374	medicina
+T29	Medical_Concept 5634 5642	medicina
+T30	Medical_Concept 5921 5929	medicina
+T31	Medical_Concept 6147 6155	medicina
+T32	Medical_Concept 6539 6547	medicina
+T33	Medical_Concept 6583 6591	medicina
+T34	Medical_Concept 6723 6731	medicina
+T35	Medical_Concept 7272 7280	medicina
+T36	Medical_Concept 7443 7451	medicina
+T37	Medical_Concept 7507 7515	medicina
+T38	Medical_Concept 7569 7577	medicina
+T39	Medical_Concept 8330 8338	medicina
+T40	Medical_Concept 8573 8582	patologia
+T41	Medical_Concept 8700 8708	medicina
+T42	Medical_Concept 8788 8796	medicina
+T43	Medical_Concept 8913 8921	medicina
+T44	Medical_Concept 9085 9096	diagnu00F3stico
+T45	Medical_Concept 8993 9001	medicina
+T46	Medical_Concept 9102 9109	terapia
+T47	Medical_Concept 9206 9214	genu00E9tica
+T48	Medical_Concept 9825 9831	doenu00E7a
+T49	Medical_Concept 10362 10370	medicina
+T50	Medical_Concept 10232 10239	doenu00E7a
+T51	Medical_Concept 10656 10664	medicina
+T52	Medical_Concept 11412 11418	anemia
+T53	Medical_Concept 11001 11010	brucelose
+T54	Medical_Concept 11362 11374	febre aftosa
+T55	Medical_Concept 11240 11253	gripe aviu00E1ria
+T56	Medical_Concept 11129 11139	listeriose
+T57	Medical_Concept 11438 11457	doenu00E7a de newcastle
+T58	Medical_Concept 11052 11063	salmonelose
+T59	Medical_Concept 11037 11049	toxoplasmose
+T60	Medical_Concept 11013 11024	tuberculose
+T61	Medical_Concept 11095 11107	leptospirose
+T62	Medical_Concept 10949 10956	doenu00E7a
+T63	Medical_Concept 11292 11299	doenu00E7a
+T64	Medical_Concept 11598 11606	zoonose
+T65	Medical_Concept 12010 12017	doenu00E7a
+T66	Medical_Concept 12636 12644	zoonose
+T67	Medical_Concept 12115 12123	medicina
+T68	Medical_Concept 14139 14147	medicina
+T69	Medical_Concept 14298 14306	medicina
+T70	Medical_Concept 14381 14389	medicina
+T71	Medical_Concept 14955 14963	medicina
+T72	Medical_Concept 15139 15147	medicina
+T73	Medical_Concept 15300 15308	medicina
+T74	Medical_Concept 15401 15409	medicina
+T75	Medical_Concept 15924 15933	patologia
+T76	Medical_Concept 15701 15709	medicina
+T77	Medical_Concept 16483 16491	medicina
+T78	Medical_Concept 16501 16509	medicina
+T79	Medical_Concept 16881 16890	patologia
+T80	Medical_Concept 18427 18436	patologia
+T81	Medical_Concept 16592 16600	medicina
+T82	Medical_Concept 16610 16618	medicina
+T83	Medical_Concept 16937 16945	medicina
+T84	Medical_Concept 16978 16986	medicina
+T85	Medical_Concept 17035 17043	medicina
+T86	Medical_Concept 17402 17410	medicina
+T87	Medical_Concept 18005 18013	medicina
+T88	Medical_Concept 18022 18030	medicina
+T89	Medical_Concept 18540 18548	medicina
+T90	Medical_Concept 18741 18749	medicina
+T91	Medical_Concept 18880 18888	medicina
+T92	Medical_Concept 19240 19248	medicina
+T93	Medical_Concept 19780 19788	medicina
+T94	Medical_Concept 20520 20528	medicina
+T95	Medical_Concept 511 523	traumatismos
+T96	Medical_Concept 1146 1154	anatomia
+T97	Medical_Concept 1157 1167	fisiologia
+T98	Medical_Concept 2533 2543	fisiologia
+T99	Medical_Concept 17558 17568	fisiologia
+T100	Medical_Concept 17433 17443	fisiologia
+T101	Medical_Concept 16797 16807	fisiologia
+T102	Medical_Concept 17584 17594	fisiologia
+T103	Medical_Concept 15896 15906	fisiologia
+T104	Medical_Concept 17500 17510	fisiologia
+T105	Medical_Concept 9236 9246	fisiologia
+T106	Medical_Concept 17606 17616	fisiologia
+T107	Medical_Concept 20941 20951	fisiologia
+T108	Medical_Concept 2283 2295	diagnosticar
+T109	Medical_Concept 2490 2503	microbiologia
+T110	Medical_Concept 2522 2530	anatomia
+T111	Medical_Concept 2460 2468	biologia
+T112	Medical_Concept 10122 10130	biologia
+T113	Medical_Concept 2680 2685	sau00FAde
+T114	Medical_Concept 99 104	sau00FAde
+T115	Medical_Concept 2955 2960	sau00FAde
+T116	Medical_Concept 9350 9355	sau00FAde
+T117	Medical_Concept 266 271	sau00FAde
+T118	Medical_Concept 794 799	sau00FAde
+T119	Medical_Concept 2618 2623	sau00FAde
+T120	Medical_Concept 551 556	sau00FAde
+T121	Medical_Concept 1015 1020	sau00FAde
+T122	Medical_Concept 9455 9460	sau00FAde
+T123	Medical_Concept 9474 9479	sau00FAde
+T124	Medical_Concept 9534 9539	sau00FAde
+T125	Medical_Concept 9622 9627	sau00FAde
+T126	Medical_Concept 9655 9660	sau00FAde
+T127	Medical_Concept 9927 9932	sau00FAde
+T128	Medical_Concept 10436 10441	sau00FAde
+T129	Medical_Concept 10846 10851	sau00FAde
+T130	Medical_Concept 16182 16187	sau00FAde
+T131	Medical_Concept 18405 18410	sau00FAde
+T132	Medical_Concept 19989 19994	sau00FAde
+T133	Medical_Concept 20611 20616	sau00FAde
+T134	Medical_Concept 2739 2750	tratamentos
+T135	Medical_Concept 2941 2952	obstetru00EDcia
+T136	Medical_Concept 7468 7480	Farmacu00EAutico
+T137	Medical_Concept 7518 7526	Farmu00E1cia
+T138	Medical_Concept 10478 10496	doenu00E7as epidu00EAmicas
+T139	Medical_Concept 10795 10811	doenu00E7as exu00F3ticas
+T140	Medical_Concept 10912 10929	doenu00E7as endu00EAmicas
+T141	Medical_Concept 11027 11034	tenu00EDase
+T142	Medical_Concept 11080 11093	clostridioses
+T143	Medical_Concept 11066 11078	colibacilose
+T144	Medical_Concept 11110 11127	campilobacteriose
+T145	Medical_Concept 11141 11146	raiva
+T146	Medical_Concept 11159 11192	encefalopatia espongiforme bovina
+T147	Medical_Concept 11219 11236	influenza aviu00E1ria
+T148	Medical_Concept 11281 11289	zoonoses
+T149	Medical_Concept 10039 10047	zoonoses
+T150	Medical_Concept 11460 11478	doenu00E7a de Aujezski
+T151	Medical_Concept 11488 11495	doenu00E7as
+T152	Medical_Concept 11625 11652	doenu00E7as infecto-contagiosas
+T153	Medical_Concept 12435 12443	nutriu00E7u00E3o
+T154	Medical_Concept 12446 12454	genu00E9tica
+T155	Medical_Concept 12859 12867	fenu00F3tipo
+T156	Medical_Concept 12924 12932	genu00F3tipo
+T157	Medical_Concept 13162 13170	genu00E9tica
+T158	Medical_Concept 13689 13701	reprodutivos
+T159	Medical_Concept 13721 13731	reproduu00E7u00E3o
+T160	Medical_Concept 13752 13761	anestesia
+T161	Medical_Concept 13768 13791	intervenu00E7u00F5es ciru00FArgicas
+T162	Medical_Concept 13994 14013	pru00F3teses de quadril
+T163	Medical_Concept 14015 14036	cirurgias de catarata
+T164	Medical_Concept 14038 14059	marcapassos cardu00EDacos
+T165	Medical_Concept 14252 14258	mu00E9dico
+T166	Medical_Concept 14399 14411	oftalmologia
+T167	Medical_Concept 14414 14423	ortopedia
+T168	Medical_Concept 14426 14435	oncologia
+T169	Medical_Concept 14438 14452	endocrinologia
+T170	Medical_Concept 14455 14467	dermatologia
+T171	Medical_Concept 14470 14480	acupuntura
+T172	Medical_Concept 15010 15023	farmacolu00F3gica
+T173	Medical_Concept 15026 15033	quu00EDmica
+T174	Medical_Concept 15036 15045	biolu00F3gica
+T175	Medical_Concept 15836 15844	anatomia
+T176	Medical_Concept 15847 15857	bioquu00EDmica
+T177	Medical_Concept 15860 15868	genu00E9tica
+T178	Medical_Concept 15871 15881	histologia
+T179	Medical_Concept 15884 15893	biofu00EDsica
+T180	Medical_Concept 15909 15921	farmacologia
+T181	Medical_Concept 15936 15949	parasitologia
+T182	Medical_Concept 15952 15961	virologia
+T183	Medical_Concept 15964 15984	microbiologia mu00E9dica
+T184	Medical_Concept 16123 16140	clu00EDnica ciru00FArgica
+T185	Medical_Concept 16143 16157	clu00EDnica mu00E9dica
+T186	Medical_Concept 16159 16179	molu00E9stias infecciosas
+T187	Medical_Concept 16353 16359	mu00E9dica
+T188	Medical_Concept 16784 16794	bioquu00EDmica
+T189	Medical_Concept 16810 16820	histologia
+T190	Medical_Concept 16823 16831	anatomia
+T191	Medical_Concept 16834 16846	farmacologia
+T192	Medical_Concept 16849 16862	microbiologia
+T193	Medical_Concept 16865 16878	epidemiologia
+T194	Medical_Concept 16893 16904	hematologia
+T195	Medical_Concept 17091 17098	doenu00E7as
+T196	Medical_Concept 17685 17711	fisiologia cardio-pulmonar
+T197	Medical_Concept 17755 17765	histologia
+T198	Medical_Concept 17821 17829	anatomia
+T199	Medical_Concept 18051 18059	anatomia
+T200	Medical_Concept 18102 18130	anatomia mu00FAsculo-esquelu00E9tica
+T201	Medical_Concept 18133 18143	artrologia
+T202	Medical_Concept 18146 18160	esplancnologia
+T203	Medical_Concept 18163 18173	angiologia
+T204	Medical_Concept 18176 18186	neurologia
+T205	Medical_Concept 18207 18220	Microbiologia
+T206	Medical_Concept 18240 18249	virologia
+T207	Medical_Concept 18333 18340	doenu00E7as
+T208	Medical_Concept 18392 18399	doenu00E7as
+T209	Medical_Concept 18354 18367	Epidemiologia
+T210	Medical_Concept 18481 18499	sistemas de u00F3rgu00E3os
+T211	Medical_Concept 18716 18723	clu00EDnica
+T212	Medical_Concept 18869 18877	cirurgia
+T213	Medical_Concept 19009 19028	cirurgia ortopu00E9dica
+T214	Medical_Concept 19030 19067	ginecolu00F3gica e obstu00E9tricia ciru00FArgicas
+T215	Medical_Concept 19069 19090	cirurgias intestinais
+T216	Medical_Concept 19092 19116	cirurgia urolu00F3gica menor
+T217	Medical_Concept 19118 19133	cirurgias orais
+T218	Medical_Concept 19146 19172	cirurgias cu00E1rdio-toru00E1cicas
+T219	Medical_Concept 19289 19296	mu00E9dicos
+T220	Medical_Concept 19903 19915	traumatismos
+T221	Medical_Concept 19884 19896	enfermidades
+T222	Medical_Concept 20193 20204	cardiologia
+T223	Medical_Concept 20206 20218	dermatologia
+T224	Medical_Concept 20220 20231	odontologia
+T225	Medical_Concept 20233 20245	oftalmologia
+T226	Medical_Concept 20247 20256	ortopedia
+T227	Medical_Concept 20259 20272	traumatologia
+T228	Medical_Concept 20473 20487	microbiolu00F3gico
+T229	Medical_Concept 20554 20567	sau00FAde pu00FAblica
+T230	Medical_Concept 20569 20582	epidemiologia
+T231	Medical_Concept 20584 20592	zoonoses
+T232	Medical_Concept 20625 20644	doenu00E7as infecciosas
+T233	Medical_Concept 20647 20659	parasitu00E1rias
+T234	Medical_Concept 20685 20695	Reproduu00E7u00E3o
+T235	Medical_Concept 20740 20750	andrologia
+T236	Medical_Concept 20766 20771	su00EAmen
+T237	Medical_Concept 20774 20796	inseminau00E7u00E3o artificial
+T238	Medical_Concept 20798 20823	ginecologia e obstetru00EDcia
+T239	Medical_Concept 20867 20875	embriu00F5es
+T240	Medical_Concept 20894 20902	embriu00F5es
+T241	Medical_Concept 20904 20912	clonagem
+T242	Medical_Concept 20921 20939	transgu00EAnese animal
+T243	Medical_Concept 20961 20972	reprodutivo

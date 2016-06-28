@@ -1,0 +1,144 @@
+T1	Automatic-Concept 304 312	medicina
+T2	Automatic-Concept 1031 1040	depressu00E3o
+T3	Automatic-Concept 1317 1326	depressu00E3o
+T4	Automatic-Concept 1454 1461	doenu00E7a
+T5	Automatic-Concept 1014 1023	ansiedade
+T6	Automatic-Concept 1305 1314	ansiedade
+T7	Automatic-Concept 3422 3428	trauma
+T8	Automatic-Concept 6028 6057	hormu00F4nio adrenocorticotru00F3fico
+T9	Automatic-Concept 6165 6173	cortisol
+T10	Automatic-Concept 5991 5999	hipu00F3fise
+T11	Automatic-Concept 6240 6249	proteu00EDna
+T12	Automatic-Concept 6577 6586	proteu00EDna
+T13	Automatic-Concept 6554 6562	inibiu00E7u00E3o
+T14	Automatic-Concept 6591 6599	inibiu00E7u00E3o
+T15	Automatic-Concept 6264 6269	osso
+T16	Automatic-Concept 6385 6391	fu00EDgado
+T17	Automatic-Concept 6362 6368	sangue
+T18	Automatic-Concept 6458 6464	sangue
+T19	Automatic-Concept 6201 6217	su00EDntese proteica
+T20	Automatic-Concept 6254 6262	mu00FAsculo
+T21	Automatic-Concept 6872 6879	doenu00E7a
+T22	Automatic-Concept 7069 7078	depressu00E3o
+T23	Automatic-Concept 7124 7132	cortisol
+T24	Automatic-Concept 7054 7066	testosterona
+T25	Automatic-Concept 7153 7165	testosterona
+T26	Automatic-Concept 9341 9347	doenu00E7a
+T27	Automatic-Concept 9313 9330	transtorno mental
+T28	Automatic-Concept 9691 9702	resiliu00EAncia
+T29	Medical-Concept 399 407	Estresse
+T30	Medical-Concept 757 765	Estresse
+T31	Medical-Concept 983 991	Estresse
+T32	Medical-Concept 1206 1214	Estresse
+T33	Medical-Concept 1507 1515	Estresse
+T34	Medical-Concept 1786 1794	Estresse
+T35	Medical-Concept 2173 2181	Estresse
+T36	Medical-Concept 2301 2309	Estresse
+T37	Medical-Concept 4062 4070	Estresse
+T38	Medical-Concept 4237 4245	Estresse
+T39	Medical-Concept 4419 4427	Estresse
+T40	Medical-Concept 4558 4566	Estresse
+T41	Medical-Concept 5112 5120	Estresse
+T42	Medical-Concept 6823 6831	Estresse
+T43	Medical-Concept 7282 7290	Estresse
+T44	Medical-Concept 7319 7327	Estresse
+T45	Medical-Concept 7998 8006	Estresse
+T46	Medical-Concept 8438 8446	Estresse
+T47	Medical-Concept 8857 8865	Estresse
+T48	Medical-Concept 8999 9007	Estresse
+T49	Medical-Concept 9271 9279	Estresse
+T50	Medical-Concept 9571 9579	Estresse
+T51	Medical-Concept 9654 9662	Estresse
+T52	Medical-Concept 9755 9763	Estresse
+T53	Medical-Concept 436 443	stresse
+T54	Medical-Concept 577 588	estressores
+T55	Medical-Concept 3236 3247	estressores
+T56	Medical-Concept 5763 5774	estressores
+T57	Medical-Concept 2659 2670	estressores
+T58	Medical-Concept 3435 3446	estressores
+T59	Medical-Concept 3882 3893	estressores
+T60	Medical-Concept 7525 7536	estressores
+T61	Medical-Concept 8488 8499	estressores
+T62	Medical-Concept 8629 8640	estressores
+T63	Medical-Concept 9499 9510	estressores
+T64	Medical-Concept 619 625	humano
+T65	Medical-Concept 8900 8906	humano
+T66	Medical-Concept 712 718	mental
+T67	Medical-Concept 703 709	fu00EDsico
+T68	Medical-Concept 1068 1082	estilo de vida
+T69	Medical-Concept 1194 1202	sintomas
+T70	Medical-Concept 1477 1493	cardiovasculares
+T71	Medical-Concept 1798 1807	eustresse
+T72	Medical-Concept 1809 1817	eustress
+T73	Medical-Concept 1937 1946	distresse
+T74	Medical-Concept 1948 1956	distress
+T75	Medical-Concept 1961 1972	esgotamento
+T76	Medical-Concept 6786 6797	esgotamento
+T77	Medical-Concept 2103 2112	distresse
+T78	Medical-Concept 8720 8729	distresse
+T79	Medical-Concept 2239 2245	fu00EDsico
+T80	Medical-Concept 2320 2329	estressor
+T81	Medical-Concept 5336 5345	estressor
+T82	Medical-Concept 2333 2342	esgotador
+T83	Medical-Concept 2474 2480	coping
+T84	Medical-Concept 2521 2530	adaptau00E7u00E3o
+T85	Medical-Concept 2633 2642	adaptau00E7u00E3o
+T86	Medical-Concept 2750 2759	adaptau00E7u00E3o
+T87	Medical-Concept 5364 5373	adaptau00E7u00E3o
+T88	Medical-Concept 6883 6892	adaptau00E7u00E3o
+T89	Medical-Concept 7716 7725	adaptau00E7u00E3o
+T90	Medical-Concept 8019 8028	adaptau00E7u00E3o
+T91	Medical-Concept 8182 8191	adaptau00E7u00E3o
+T92	Medical-Concept 8257 8266	adaptau00E7u00E3o
+T93	Medical-Concept 2511 2517	coping
+T94	Medical-Concept 2555 2568	disfuncionais
+T95	Medical-Concept 2541 2551	funcionais
+T96	Medical-Concept 2698 2708	nocividade
+T97	Medical-Concept 3248 3259	traumu00E1ticos
+T98	Medical-Concept 3382 3403	capacidade adaptativa
+T99	Medical-Concept 3894 3902	cru00F4nicos
+T100	Medical-Concept 4050 4058	cru00F4nicas
+T101	Medical-Concept 4696 4718	teoria da luta ou fuga
+T102	Medical-Concept 4721 4736	fight-or-flight
+T103	Medical-Concept 4930 4937	humanos
+T104	Medical-Concept 4939 4956	Estudos empu00EDricos
+T105	Medical-Concept 5008 5022	busca de apoio
+T106	Medical-Concept 5141 5155	busca de apoio
+T107	Medical-Concept 5025 5042	tend-and-befriend
+T108	Medical-Concept 5211 5236	general adaption syndrome
+T109	Medical-Concept 5550 5561	relaxamento
+T110	Medical-Concept 5648 5659	relaxamento
+T111	Medical-Concept 5810 5821	relaxamento
+T112	Medical-Concept 5962 5978	Reau00E7u00E3o de alarme
+T113	Medical-Concept 5982 5990	glu00E2ndula
+T114	Medical-Concept 6000 6007	secreta
+T115	Medical-Concept 6075 6084	glu00E2ndulas
+T116	Medical-Concept 6836 6845	glu00E2ndulas
+T117	Medical-Concept 6085 6097	supra-renais
+T118	Medical-Concept 6846 6858	supra-renais
+T119	Medical-Concept 6129 6155	hormu00F4nios glicocorticu00F3ides
+T120	Medical-Concept 6276 6294	tecidos linfu00E1ticos
+T121	Medical-Concept 6347 6358	aminou00E1cidos
+T122	Medical-Concept 6411 6418	glucose
+T123	Medical-Concept 6566 6573	su00EDntese
+T124	Medical-Concept 6603 6622	sistema imunolu00F3gico
+T125	Medical-Concept 6671 6679	secreu00E7u00E3o
+T126	Medical-Concept 6683 6696	somatotrofina
+T127	Medical-Concept 6702 6713	corticu00F3ides
+T128	Medical-Concept 6758 6769	infecciosas
+T129	Medical-Concept 6981 6991	estressora
+T130	Medical-Concept 7017 7027	adrenalina
+T131	Medical-Concept 7038 7051	noradrenalina
+T132	Medical-Concept 7211 7220	cognitivo
+T133	Medical-Concept 7258 7265	mentais
+T134	Medical-Concept 523 530	mentais
+T135	Medical-Concept 7435 7445	cognitivos
+T136	Medical-Concept 8427 8436	eustresse
+T137	Medical-Concept 8598 8609	auto-estima
+T138	Medical-Concept 9348 9354	fu00EDsica
+T139	Medical-Concept 791 797	fu00EDsica
+T140	Medical-Concept 9398 9420	predisposiu00E7u00E3o genu00E9tica
+T141	Medical-Concept 9527 9540	predisposiu00E7u00E3o
+T142	Medical-Concept 9810 9822	salutogu00EAnese
+T143	Medical-Concept 9868 9880	fuga-ou-luta
+T144	Medical-Concept 10091 10109	neurotransmissores

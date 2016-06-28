@@ -1,0 +1,80 @@
+T1	Automatic-Concept 739 744	urina
+T2	Automatic-Concept 905 915	cosmu00E9tico
+T3	Automatic-Concept 730 736	sangue
+T4	Automatic-Concept 1106 1121	farmacocinu00E9tica
+T5	Automatic-Concept 756 762	saliva
+T6	Automatic-Concept 1381 1390	cadu00E1ver
+T7	Automatic-Concept 1470 1479	paralisia
+T8	Automatic-Concept 1483 1490	mu00FAsculo
+T9	Automatic-Concept 2418 2423	tumor
+T10	Automatic-Concept 2953 2960	enzima
+T11	Automatic-Concept 3076 3082	enzima
+T12	Automatic-Concept 2934 2942	genu00E9tica
+T13	Automatic-Concept 2758 2764	fu00EDgado
+T14	Automatic-Concept 2818 2824	fu00EDgado
+T15	Automatic-Concept 2964 2970	fu00EDgado
+T16	Automatic-Concept 3086 3092	fu00EDgado
+T17	Automatic-Concept 3277 3284	enzima
+T18	Automatic-Concept 3288 3294	fu00EDgado
+T19	Medical_Concept 2 13	toxicologia
+T20	Medical_Concept 1532 1543	toxicologia
+T21	Medical_Concept 310 321	toxicologia
+T22	Medical_Concept 846 857	toxicologia
+T23	Medical_Concept 99 119	substu00E2ncias quu00EDmicas
+T24	Medical_Concept 1685 1705	substu00E2ncias quu00EDmicas
+T25	Medical_Concept 403 418	efeitos tu00F3xicos
+T26	Medical_Concept 443 456	agente tu00F3xico
+T27	Medical_Concept 478 482	DL50
+T28	Medical_Concept 186 205	toxicologia clu00EDnica
+T29	Medical_Concept 717 727	biolu00F3gicas
+T30	Medical_Concept 747 753	cabelo
+T31	Medical_Concept 765 773	vu00EDsceras
+T32	Medical_Concept 890 902	medicamentos
+T33	Medical_Concept 1142 1149	clu00EDnica
+T34	Medical_Concept 1222 1228	veneno
+T35	Medical_Concept 1330 1344	bacterialmente
+T36	Medical_Concept 1345 1356	contaminado
+T37	Medical_Concept 1394 1410	venenos vegetais
+T38	Medical_Concept 1440 1445	morte
+T39	Medical_Concept 1483 1499	mu00FAsculo cardu00EDaco
+T40	Medical_Concept 1505 1528	musculatura esquelu00E9tica
+T41	Medical_Concept 1623 1643	funu00E7u00F5es fisiolu00F3gicas
+T42	Medical_Concept 1656 1671	efeitos nocivos
+T43	Medical_Concept 2060 2066	veneno
+T44	Medical_Concept 2085 2091	veneno
+T45	Medical_Concept 2149 2155	veneno
+T46	Medical_Concept 3328 3334	veneno
+T47	Medical_Concept 2283 2296	geneticamente
+T48	Medical_Concept 2347 2355	molu00E9cula
+T49	Medical_Concept 3315 3323	molu00E9cula
+T50	Medical_Concept 2388 2394	cu00E9lula
+T51	Medical_Concept 2516 2523	dosagem
+T52	Medical_Concept 2102 2109	dosagem
+T53	Medical_Concept 3482 3489	dosagem
+T54	Medical_Concept 2581 2590	venenosas
+T55	Medical_Concept 2595 2602	tu00F3xicas
+T56	Medical_Concept 2646 2663	u00E1lcool de madeira
+T57	Medical_Concept 2668 2675	metanol
+T58	Medical_Concept 2691 2699	venenoso
+T59	Medical_Concept 2736 2747	formaldeu00EDdo
+T60	Medical_Concept 2748 2754	tu00F3xico
+T61	Medical_Concept 2786 2796	narcu00F3ticos
+T62	Medical_Concept 2773 2782	molu00E9culas
+T63	Medical_Concept 3137 3146	molu00E9culas
+T64	Medical_Concept 2849 2862	acetaminophen
+T65	Medical_Concept 2865 2876	paracetamol
+T66	Medical_Concept 2909 2915	u00E1lcool
+T67	Medical_Concept 2980 2990	toxicidade
+T68	Medical_Concept 3157 3164	tu00F3xicas
+T69	Medical_Concept 506 513	tu00F3xicas
+T70	Medical_Concept 2807 2814	tu00F3xicas
+T71	Medical_Concept 3237 3248	toxicu00F3logos
+T72	Medical_Concept 3357 3364	tu00F3xicos
+T73	Medical_Concept 3465 3469	LD50
+T74	Medical_Concept 3580 3597	animais de testes
+T75	Medical_Concept 3624 3634	toxicidade
+T76	Medical_Concept 1760 1770	toxicidade
+T77	Medical_Concept 3497 3514	substu00E2ncia tu00F3xica
+T78	Medical_Concept 1961 1966	corpo
+T79	Medical-Concept 222 243	pacientes intoxicados
+T80	Medical-Concept 603 624	toxicologia analu00EDtica

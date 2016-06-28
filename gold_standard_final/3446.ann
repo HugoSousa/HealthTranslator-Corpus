@@ -1,0 +1,100 @@
+T1	Medical-Concept 30 39	proteínas
+T2	Medical-Concept 1421 1436	arteriosclerose
+T3	Medical-Concept 880 888	proteína
+T4	Medical-Concept 608 614	fígado
+T5	Medical-Concept 1245 1251	fígado
+T6	Medical-Concept 1727 1736	proteínas
+T7	Medical-Concept 2687 2691	soro
+T8	Medical-Concept 2414 2423	proteínas
+T9	Medical-Concept 2319 2325	fígado
+T10	Medical-Concept 2916 2925	proteínas
+T11	Medical-Concept 2953 2961	proteína
+T12	Medical-Concept 0 12	Lipoproteína
+T13	Medical-Concept 1860 1872	Lipoproteína
+T14	Medical-Concept 42 50	lipídeos
+T15	Medical-Concept 101 109	lipídeos
+T16	Medical-Concept 127 135	lipídeos
+T17	Medical-Concept 115 121	plasma
+T18	Medical-Concept 169 175	plasma
+T19	Medical-Concept 1654 1660	plasma
+T20	Medical-Concept 2997 3003	plasma
+T21	Medical-Concept 235 247	apoproteínas
+T22	Medical-Concept 254 269	fração lipídica
+T23	Medical-Concept 201 216	fração protéica
+T24	Medical-Concept 186 197	meio aquoso
+T25	Medical-Concept 290 300	Colesterol
+T26	Medical-Concept 303 317	Triglicerídeos
+T27	Medical-Concept 981 995	Triglicerídeos
+T28	Medical-Concept 673 687	Triglicerídeos
+T29	Medical-Concept 1840 1854	Triglicerídeos
+T30	Medical-Concept 2355 2369	Triglicerídeos
+T31	Medical-Concept 2506 2520	Triglicerídeos
+T32	Medical-Concept 2804 2818	Triglicerídeos
+T33	Medical-Concept 320 336	Fosfoglicerídeos
+T34	Medical-Concept 375 406	características físico-químicas
+T35	Medical-Concept 411 423	quilomícrons
+T36	Medical-Concept 426 430	VLDL
+T37	Medical-Concept 433 436	IDL
+T38	Medical-Concept 439 442	LDL
+T39	Medical-Concept 445 448	HDL
+T40	Medical-Concept 472 482	Bioquímica
+T41	Medical-Concept 547 560	lipoproteínas
+T42	Medical-Concept 620 637	intestino delgado
+T43	Medical-Concept 643 654	transportam
+T44	Medical-Concept 657 667	colesterol
+T45	Medical-Concept 962 972	colesterol
+T46	Medical-Concept 1228 1238	colesterol
+T47	Medical-Concept 2378 2388	colesterol
+T48	Medical-Concept 1664 1674	colesterol
+T49	Medical-Concept 1890 1900	colesterol
+T50	Medical-Concept 2536 2546	colesterol
+T51	Medical-Concept 699 717	corrente sangüínea
+T52	Medical-Concept 745 776	características físico-químicas
+T53	Medical-Concept 778 809	Lipoproteínas de Alta Densidade
+T54	Medical-Concept 812 815	HDL
+T55	Medical-Concept 819 822	HDL
+T56	Medical-Concept 1024 1027	HDL
+T57	Medical-Concept 904 916	Apo A I e II
+T58	Medical-Concept 940 945	Apo C
+T59	Medical-Concept 948 953	Apo E
+T60	Medical-Concept 2466 2471	Apo E
+T61	Medical-Concept 1008 1020	fosfolipídio
+T62	Medical-Concept 1077 1082	HDL 2
+T63	Medical-Concept 1085 1090	HDL 3
+T64	Medical-Concept 1176 1188	apoproteínas
+T65	Medical-Concept 1346 1350	VLDL
+T66	Medical-Concept 1314 1327	lipoproteínas
+T67	Medical-Concept 1280 1301	ésteres de colesterol
+T68	Medical-Concept 1373 1378	HDL 2
+T69	Medical-Concept 1402 1417	desenvolvimento
+T70	Medical-Concept 1441 1473	Lipoproteínas de Baixa Densidade
+T71	Medical-Concept 1476 1479	LDL
+T72	Medical-Concept 1482 1485	LDL
+T73	Medical-Concept 1519 1532	lipoproteínas
+T74	Medical-Concept 1533 1544	circulantes
+T75	Medical-Concept 1705 1708	LDL
+T76	Medical-Concept 1753 1762	Apo B-100
+T77	Medical-Concept 1789 1794	Apo C
+T78	Medical-Concept 1964 1982	função fisiológica
+T79	Medical-Concept 2075 2093	lipoproteínas VLDL
+T80	Medical-Concept 2099 2118	concentração sérica
+T81	Medical-Concept 2167 2178	aterogênese
+T82	Medical-Concept 2183 2221	Lipoproteínas de Muito Baixa Densidade
+T83	Medical-Concept 2224 2228	VLDL
+T84	Medical-Concept 2292 2304	quilomícrons
+T85	Medical-Concept 2391 2404	fosfolipídios
+T86	Medical-Concept 2440 2449	Apo B-100
+T87	Medical-Concept 2451 2456	Apo C
+T88	Medical-Concept 2521 2530	endógenos
+T89	Medical-Concept 2555 2574	tecidos periféricos
+T90	Medical-Concept 2649 2661	quilomícrons
+T91	Medical-Concept 2696 2708	Quilomícrons
+T92	Medical-Concept 2749 2768	células intestinais
+T93	Medical-Concept 2839 2846	exógeno
+T94	Medical-Concept 2890 2903	fosfolipídios
+T95	Medical-Concept 2871 2887	colesterol livre
+T96	Medical-Concept 2003 2024	síntese de esteróides
+T97	Medical-Concept 2945 2952	lipídio
+T98	Medical-Concept 1824 1837	fosfolipídios
+T99	Medical-Concept 2966 2978	quilomícrons
+T100	Medical-Concept 592 604	sintetizados

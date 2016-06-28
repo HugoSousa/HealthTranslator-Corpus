@@ -1,0 +1,56 @@
+T1	Automatic-Concept 1051 1072	infecu00E7u00E3o respiratu00F3ria
+T2	Automatic-Concept 206 215	anestesia
+T3	Automatic-Concept 3 11	medicina
+T4	Automatic-Concept 978 985	doenu00E7a
+T5	Automatic-Concept 341 350	expirau00E7u00E3o
+T6	Automatic-Concept 328 338	inspirau00E7u00E3o
+T7	Automatic-Concept 486 492	sangue
+T8	Automatic-Concept 418 426	hemu00E1cia
+T9	Automatic-Concept 1566 1576	barotrauma
+T10	Automatic-Concept 1506 1514	paciente
+T11	Automatic-Concept 1681 1689	paciente
+T12	Automatic-Concept 2659 2667	paciente
+T13	Automatic-Concept 3319 3327	paciente
+T14	Medical_Concept 16 35	ventilau00E7u00E3o mecu00E2nica
+T15	Medical_Concept 87 106	ventilau00E7u00E3o mecu00E2nica
+T16	Medical_Concept 138 166	ressuscitau00E7u00E3o cardiopulmonar
+T17	Medical_Concept 169 201	medicina de tratamento intensivo
+T18	Medical_Concept 27 290	ciclo respiratu00F3rio
+T19	Medical_Concept 363 370	pulmu00F5es
+T20	Medical_Concept 40 409	alvu00E9olos
+T21	Medical_Concept 442 462	capilares pulmonares
+T22	Medical_Concept 52 539	u00E1trio esquerdo
+T23	Medical_Concept 546 562	veias pulmonares
+T24	Medical_Concept 591 610	ventru00EDculo esquerdo
+T25	Medical_Concept 646 665	su00EDstole ventricular
+T26	Medical_Concept 693 712	oxigenau00E7u00E3o tecidual
+T27	Medical_Concept 716 735	ventilau00E7u00E3o mecu00E2nica
+T28	Medical_Concept 859 879	ciclos ventilatu00F3rios
+T29	Medical_Concept 912 924	funu00E7u00E3o vital
+T30	Medical_Concept 1074 1077	PAV
+T31	Medical_Concept 1080 1121	Pneumonia associada a Ventilau00E7u00E3o Mecu00E2nica
+T32	Medical_Concept 1215 1232	fase inspiratu00F3ria
+T33	Medical_Concept 125 1285	valor de volume corrente ajustado
+T34	Medical_Concept 1369 1387	fluxo inspiratu00F3rio
+T35	Medical_Concept 1391 1411	pressu00E3o inspiratu00F3ria
+T36	Medical_Concept 1449 1502	resistu00EAncia e da complacu00EAncia do sistema respiratu00F3rio
+T37	Medical_Concept 1658 1673	volume corrente
+T38	Medical_Concept 1764 1769	PaCO2
+T39	Medical_Concept 1780 1829	pacientes portadores de hipertensu00E3o intracraniana
+T40	Medical_Concept 1836 1853	fase inspiratu00F3ria
+T41	Medical_Concept 196 1984	fluxo inspiratu00F3rio
+T42	Medical_Concept 2002 2020	tempo inspiratu00F3rio
+T43	Medical_Concept 2231 2255	fu00EDstulas bronco-pleurais
+T44	Medical_Concept 2247 2255	pleurais
+T45	Medical_Concept 2488 2518	transiu00E7u00E3o inspirau00E7u00E3o/expirau00E7u00E3o
+T46	Medical_Concept 2543 2561	tempo inspiratu00F3rio
+T47	Medical_Concept 2596 2655	caracteru00EDsticas elu00E1stico-resistivas do sistema respiratu00F3rio
+T48	Medical_Concept 2800 2820	pressu00E3o inspiratu00F3ria
+T49	Medical_Concept 2984 2999	volume corrente
+T50	Medical_Concept 3030 3047	pressu00E3o de escape
+T51	Medical_Concept 3061 3073	complacu00EAncia
+T52	Medical_Concept 3079 3097	tempo inspiratu00F3rio
+T53	Medical_Concept 3139 3157	tempo inspiratu00F3rio
+T54	Medical_Concept 3182 3200	fluxo inspiratu00F3rio
+T55	Medical_Concept 3358 3385	tempo e fluxo inspiratu00F3rios
+T56	Medical_Concept 3396 3411	volume corrente

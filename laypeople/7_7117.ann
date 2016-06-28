@@ -1,0 +1,92 @@
+T1	Automatic-Concept 304 312	medicina
+T2	Automatic-Concept 1031 1040	depressu00E3o
+T3	Automatic-Concept 1317 1326	depressu00E3o
+T4	Automatic-Concept 1454 1461	doenu00E7a
+T5	Automatic-Concept 1014 1023	ansiedade
+T6	Automatic-Concept 1305 1314	ansiedade
+T7	Automatic-Concept 3422 3428	trauma
+T8	Automatic-Concept 6028 6057	hormu00F4nio adrenocorticotru00F3fico
+T9	Automatic-Concept 6165 6173	cortisol
+T10	Automatic-Concept 6240 6249	proteu00EDna
+T11	Automatic-Concept 6577 6586	proteu00EDna
+T12	Automatic-Concept 6554 6562	inibiu00E7u00E3o
+T13	Automatic-Concept 6591 6599	inibiu00E7u00E3o
+T14	Automatic-Concept 6264 6269	osso
+T15	Automatic-Concept 6385 6391	fu00EDgado
+T16	Automatic-Concept 6362 6368	sangue
+T17	Automatic-Concept 6458 6464	sangue
+T18	Automatic-Concept 6201 6217	su00EDntese proteica
+T19	Automatic-Concept 6254 6262	mu00FAsculo
+T20	Automatic-Concept 6872 6879	doenu00E7a
+T21	Automatic-Concept 7069 7078	depressu00E3o
+T22	Automatic-Concept 7124 7132	cortisol
+T23	Automatic-Concept 7054 7066	testosterona
+T24	Automatic-Concept 7153 7165	testosterona
+T25	Automatic-Concept 9341 9347	doenu00E7a
+T26	Automatic-Concept 9412 9420	genu00E9tica
+T27	Automatic-Concept 9313 9330	transtorno mental
+T28	Automatic-Concept 9691 9702	resiliu00EAncia
+T29	Medical_Concept 694 718	desgaste fu00EDsico e mental
+T30	Medical_Concept 399 407	Estresse
+T31	Medical_Concept 757 765	Estresse
+T32	Medical_Concept 2301 2309	Estresse
+T33	Medical_Concept 983 991	Estresse
+T34	Medical_Concept 1507 1515	Estresse
+T35	Medical_Concept 2173 2181	Estresse
+T36	Medical_Concept 4062 4070	Estresse
+T37	Medical_Concept 1786 1794	Estresse
+T38	Medical_Concept 4237 4245	Estresse
+T39	Medical_Concept 4419 4427	Estresse
+T40	Medical_Concept 4558 4566	Estresse
+T41	Medical_Concept 5112 5120	Estresse
+T42	Medical_Concept 6823 6831	Estresse
+T43	Medical_Concept 7282 7290	Estresse
+T44	Medical_Concept 7319 7327	Estresse
+T45	Medical_Concept 7998 8006	Estresse
+T46	Medical_Concept 8438 8446	Estresse
+T47	Medical_Concept 8857 8865	Estresse
+T48	Medical_Concept 8999 9007	Estresse
+T49	Medical_Concept 9271 9279	Estresse
+T50	Medical_Concept 9571 9579	Estresse
+T51	Medical_Concept 9654 9662	Estresse
+T52	Medical_Concept 9755 9763	Estresse
+T53	Medical_Concept 436 443	stresse
+T54	Medical_Concept 1194 1214	sintomas de estresse
+T55	Medical_Concept 1339 1359	mecanismos de defesa
+T56	Medical_Concept 1477 1493	cardiovasculares
+T57	Medical_Concept 2974 3000	reau00E7u00F5es afetivo-emocionais
+T58	Medical_Concept 3236 3259	estressores traumu00E1ticos
+T59	Medical_Concept 3702 3720	problemas de sau00FAde
+T60	Medical_Concept 3435 3458	estressores quotidianos
+T61	Medical_Concept 3882 3902	estressores cru00F4nicos
+T62	Medical_Concept 5336 5345	estressor
+T63	Medical_Concept 2320 2329	estressor
+T64	Medical_Concept 5477 5501	resistu00EAncia do organismo
+T65	Medical_Concept 5518 5524	tensu00E3o
+T66	Medical_Concept 5540 5561	estado de relaxamento
+T67	Medical_Concept 5690 5709	manutenu00E7u00E3o da sau00FAde
+T68	Medical_Concept 5722 5731	organismo
+T69	Medical_Concept 4788 4797	organismo
+T70	Medical_Concept 5492 5501	organismo
+T71	Medical_Concept 5386 5395	organismo
+T72	Medical_Concept 5601 5610	organismo
+T73	Medical_Concept 5302 5311	organismo
+T74	Medical_Concept 5810 5821	relaxamento
+T75	Medical_Concept 5550 5561	relaxamento
+T76	Medical_Concept 5648 5659	relaxamento
+T77	Medical_Concept 5982 5999	glu00E2ndula hipu00F3fise
+T78	Medical_Concept 6075 6097	glu00E2ndulas supra-renais
+T79	Medical_Concept 6836 6858	glu00E2ndulas supra-renais
+T80	Medical_Concept 6129 6155	hormu00F4nios glicocorticu00F3ides
+T81	Medical_Concept 6276 6294	tecidos linfu00E1ticos
+T82	Medical_Concept 6338 6358	nu00EDvel de aminou00E1cidos
+T83	Medical_Concept 6411 6418	glucose
+T84	Medical_Concept 6515 6530	choque corporal
+T85	Medical_Concept 6439 6463	nu00EDvel de au00E7u00FAcar no sangue
+T86	Medical_Concept 6671 6696	secreu00E7u00E3o de somatotrofina
+T87	Medical_Concept 6702 6713	corticu00F3ides
+T88	Medical_Concept 6938 6955	reau00E7u00F5es corporais
+T89	Medical_Concept 7017 7027	adrenalina
+T90	Medical_Concept 7038 7051	noradrenalina
+T91	Medical_Concept 7716 7739	adaptau00E7u00E3o do organismos
+T92	Medical_Concept 9487 9510	exposiu00E7u00E3o a estressores

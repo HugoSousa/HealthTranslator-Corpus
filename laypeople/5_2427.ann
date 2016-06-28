@@ -1,0 +1,284 @@
+T1	Medical_Concept 194 203	eutanu00E1sia
+T2	Medical_Concept 379 388	eutanu00E1sia
+T3	Medical_Concept 693 702	eutanu00E1sia
+T4	Medical_Concept 1013 1022	eutanu00E1sia
+T5	Medical_Concept 1121 1130	eutanu00E1sia
+T6	Medical_Concept 1248 1257	eutanu00E1sia
+T7	Medical_Concept 1387 1396	eutanu00E1sia
+T8	Medical_Concept 1484 1490	doenu00E7a
+T9	Medical_Concept 2259 2268	eutanu00E1sia
+T10	Medical_Concept 2513 2522	eutanu00E1sia
+T11	Medical_Concept 2759 2768	eutanu00E1sia
+T12	Medical_Concept 2821 2824	dor
+T13	Medical_Concept 3360 3369	eutanu00E1sia
+T14	Medical_Concept 4349 4352	dor
+T15	Medical_Concept 4520 4523	dor
+T16	Medical_Concept 5253 5261	paciente
+T17	Medical_Concept 6056 6065	eutanu00E1sia
+T18	Medical_Concept 6153 6162	eutanu00E1sia
+T19	Medical_Concept 6715 6724	eutanu00E1sia
+T20	Medical_Concept 7005 7013	medicina
+T21	Medical_Concept 6819 6827	paciente
+T22	Medical_Concept 7418 7427	eutanu00E1sia
+T23	Medical_Concept 7538 7546	suicu00EDdio
+T24	Medical_Concept 9366 9370	boca
+T25	Medical_Concept 7666 7675	eutanu00E1sia
+T26	Medical_Concept 7827 7836	eutanu00E1sia
+T27	Medical_Concept 8032 8041	eutanu00E1sia
+T28	Medical_Concept 8395 8404	eutanu00E1sia
+T29	Medical_Concept 8578 8587	eutanu00E1sia
+T30	Medical_Concept 8936 8945	eutanu00E1sia
+T31	Medical_Concept 10016 10025	eutanu00E1sia
+T32	Medical_Concept 10561 10570	eutanu00E1sia
+T33	Medical_Concept 10590 10599	eutanu00E1sia
+T34	Medical_Concept 7774 7779	dor
+T35	Medical_Concept 7918 7921	dor
+T36	Medical_Concept 10648 10662	doenu00E7a cru00F4nica
+T37	Medical_Concept 10982 10991	patologia
+T38	Medical_Concept 11257 11263	doenu00E7a
+T39	Medical_Concept 12126 12135	eutanu00E1sia
+T40	Medical_Concept 12678 12689	analgu00E9sico
+T41	Medical_Concept 12631 12640	eutanu00E1sia
+T42	Medical_Concept 12748 12754	doenu00E7a
+T43	Medical_Concept 12955 12960	olho
+T44	Medical_Concept 13076 13085	eutanu00E1sia
+T45	Medical_Concept 13129 13138	eutanu00E1sia
+T46	Medical_Concept 13738 13744	doenu00E7a
+T47	Medical_Concept 13969 13978	eutanu00E1sia
+T48	Medical_Concept 14817 14826	eutanu00E1sia
+T49	Medical_Concept 15075 15084	hospital
+T50	Medical_Concept 14979 14987	crianu00E7a
+T51	Medical_Concept 16330 16339	eutanu00E1sia
+T52	Medical_Concept 15754 15771	esperanu00E7a de vida
+T53	Medical_Concept 15648 15655	doenu00E7a
+T54	Medical_Concept 15696 15703	doenu00E7a
+T55	Medical_Concept 17024 17033	eutanu00E1sia
+T56	Medical_Concept 17484 17494	enfermagem
+T57	Medical_Concept 19337 19346	eutanu00E1sia
+T58	Medical_Concept 19887 19893	doenu00E7a
+T59	Medical_Concept 22417 22426	eutanu00E1sia
+T60	Medical_Concept 22653 22662	eutanu00E1sia
+T61	Medical_Concept 22878 22887	eutanu00E1sia
+T62	Medical_Concept 22730 22733	dor
+T63	Medical_Concept 22737 22745	paciente
+T64	Medical_Concept 22911 22920	eutanu00E1sia
+T65	Medical_Concept 23370 23380	enfermagem
+T66	Medical_Concept 25508 25517	eutanu00E1sia
+T67	Medical_Concept 26066 26075	eutanu00E1sia
+T68	Medical_Concept 26426 26435	paciente
+T69	Medical_Concept 26715 26724	eutanu00E1sia
+T70	Medical_Concept 26909 26918	eutanu00E1sia
+T71	Medical_Concept 301 318	enfermo incuru00E1vel
+T72	Medical_Concept 437 445	biou00E9tica
+T73	Medical_Concept 8802 8810	biou00E9tica
+T74	Medical_Concept 448 458	biodireito
+T75	Medical_Concept 595 600	sau00FAde
+T76	Medical_Concept 628 638	sofrimento
+T77	Medical_Concept 1443 1453	sofrimento
+T78	Medical_Concept 2682 2692	sofrimento
+T79	Medical_Concept 2829 2839	sofrimento
+T80	Medical_Concept 4354 4364	sofrimento
+T81	Medical_Concept 7709 7719	sofrimento
+T82	Medical_Concept 7862 7872	sofrimento
+T83	Medical_Concept 7925 7935	sofrimento
+T84	Medical_Concept 11684 11694	sofrimento
+T85	Medical_Concept 12724 12734	sofrimento
+T86	Medical_Concept 13231 13241	sofrimento
+T87	Medical_Concept 15882 15892	sofrimento
+T88	Medical_Concept 16180 16190	sofrimento
+T89	Medical_Concept 17721 17731	sofrimento
+T90	Medical_Concept 20747 20757	sofrimento
+T91	Medical_Concept 22540 22550	sofrimento
+T92	Medical_Concept 653 658	morte
+T93	Medical_Concept 246 251	morte
+T94	Medical_Concept 1169 1174	morte
+T95	Medical_Concept 1433 1438	morte
+T96	Medical_Concept 1856 1861	morte
+T97	Medical_Concept 2136 2141	morte
+T98	Medical_Concept 2408 2413	morte
+T99	Medical_Concept 3232 3237	morte
+T100	Medical_Concept 3384 3389	morte
+T101	Medical_Concept 3492 3497	morte
+T102	Medical_Concept 5180 5185	morte
+T103	Medical_Concept 6696 6701	morte
+T104	Medical_Concept 7699 7704	morte
+T105	Medical_Concept 7844 7849	morte
+T106	Medical_Concept 8084 8089	morte
+T107	Medical_Concept 8127 8132	morte
+T108	Medical_Concept 8136 8141	morte
+T109	Medical_Concept 8151 8156	morte
+T110	Medical_Concept 8297 8302	morte
+T111	Medical_Concept 8432 8437	morte
+T112	Medical_Concept 8898 8903	morte
+T113	Medical_Concept 8927 8932	morte
+T114	Medical_Concept 11084 11089	morte
+T115	Medical_Concept 11985 11990	morte
+T116	Medical_Concept 12900 12905	morte
+T117	Medical_Concept 14459 14464	morte
+T118	Medical_Concept 14882 14887	morte
+T119	Medical_Concept 15637 15642	morte
+T120	Medical_Concept 16104 16109	morte
+T121	Medical_Concept 16887 16892	morte
+T122	Medical_Concept 17560 17565	morte
+T123	Medical_Concept 20255 20260	morte
+T124	Medical_Concept 20323 20328	morte
+T125	Medical_Concept 22116 22121	morte
+T126	Medical_Concept 24712 24717	morte
+T127	Medical_Concept 25062 25067	morte
+T128	Medical_Concept 25584 25589	morte
+T129	Medical_Concept 1132 1142	distanu00E1sia
+T130	Medical_Concept 1145 1156	ortotanu00E1sia
+T131	Medical_Concept 25520 25531	ortotanu00E1sia
+T132	Medical_Concept 1179 1195	dignidade humana
+T133	Medical_Concept 17522 17538	dignidade humana
+T134	Medical_Concept 1295 1310	eutanu00E1sia ativa
+T135	Medical_Concept 1595 1610	eutanu00E1sia ativa
+T136	Medical_Concept 2155 2170	eutanu00E1sia ativa
+T137	Medical_Concept 1794 1811	eutanu00E1sia passiva
+T138	Medical_Concept 1493 1500	cru00F4nico
+T139	Medical_Concept 1514 1523	incuru00E1vel
+T140	Medical_Concept 7753 7762	incuru00E1vel
+T141	Medical_Concept 7973 7982	incuru00E1vel
+T142	Medical_Concept 10676 10685	incuru00E1vel
+T143	Medical_Concept 1559 1576	sofrimento fu00EDsico
+T144	Medical_Concept 1579 1587	psu00EDquico
+T145	Medical_Concept 1732 1738	doente
+T146	Medical_Concept 1951 1967	cuidados mu00E9dicos
+T147	Medical_Concept 1969 1983	farmacolu00F3gicos
+T148	Medical_Concept 1997 2003	doente
+T149	Medical_Concept 2383 2389	doente
+T150	Medical_Concept 6381 6387	doente
+T151	Medical_Concept 7217 7223	doente
+T152	Medical_Concept 7725 7731	doente
+T153	Medical_Concept 12022 12028	doente
+T154	Medical_Concept 12062 12068	doente
+T155	Medical_Concept 12195 12201	doente
+T156	Medical_Concept 12329 12335	doente
+T157	Medical_Concept 16549 16555	doente
+T158	Medical_Concept 17833 17839	doente
+T159	Medical_Concept 18316 18322	doente
+T160	Medical_Concept 18403 18409	doente
+T161	Medical_Concept 22137 22143	doente
+T162	Medical_Concept 22554 22560	doente
+T163	Medical_Concept 22991 22997	doente
+T164	Medical_Concept 24316 24322	doente
+T165	Medical_Concept 24421 24427	doente
+T166	Medical_Concept 24590 24596	doente
+T167	Medical_Concept 2220 2230	distanu00E1sia
+T168	Medical_Concept 2488 2498	distanu00E1sia
+T169	Medical_Concept 2526 2536	distanu00E1sia
+T170	Medical_Concept 16344 16354	distanu00E1sia
+T171	Medical_Concept 2273 2291	suicu00EDdio assistido
+T172	Medical_Concept 2854 2867	fase terminal
+T173	Medical_Concept 24348 24361	fase terminal
+T174	Medical_Concept 24492 24505	fase terminal
+T175	Medical_Concept 24600 24613	fase terminal
+T176	Medical_Concept 4369 4380	esgotamento
+T177	Medical_Concept 4623 4640	qualidade de vida
+T178	Medical_Concept 2875 2892	qualidade de vida
+T179	Medical_Concept 16515 16532	qualidade de vida
+T180	Medical_Concept 17974 17991	qualidade de vida
+T181	Medical_Concept 23763 23780	qualidade de vida
+T182	Medical_Concept 24162 24179	qualidade de vida
+T183	Medical_Concept 5189 5206	tratamento mu00E9dico
+T184	Medical_Concept 25071 25088	tratamento mu00E9dico
+T185	Medical_Concept 5212 5233	intervenu00E7u00E3o ciru00FArgica
+T186	Medical_Concept 25094 25115	intervenu00E7u00E3o ciru00FArgica
+T187	Medical_Concept 5285 5306	procedimentos mu00E9dicos
+T188	Medical_Concept 5439 5457	integridade fu00EDsica
+T189	Medical_Concept 20169 20187	integridade fu00EDsica
+T190	Medical_Concept 5460 5465	moral
+T191	Medical_Concept 8735 8740	moral
+T192	Medical_Concept 5741 5752	tratamentos
+T193	Medical_Concept 22460 22471	tratamentos
+T194	Medical_Concept 25379 25390	tratamentos
+T195	Medical_Concept 5806 5810	vida
+T196	Medical_Concept 290 294	vida
+T197	Medical_Concept 517 521	vida
+T198	Medical_Concept 994 998	vida
+T199	Medical_Concept 1678 1682	vida
+T200	Medical_Concept 2091 2095	vida
+T201	Medical_Concept 2611 2615	vida
+T202	Medical_Concept 2968 2972	vida
+T203	Medical_Concept 3209 3213	vida
+T204	Medical_Concept 3352 3356	vida
+T205	Medical_Concept 4395 4399	vida
+T206	Medical_Concept 4568 4572	vida
+T207	Medical_Concept 6202 6206	vida
+T208	Medical_Concept 6291 6295	vida
+T209	Medical_Concept 6452 6456	vida
+T210	Medical_Concept 6616 6620	vida
+T211	Medical_Concept 7484 7488	vida
+T212	Medical_Concept 6685 6689	vida
+T213	Medical_Concept 7939 7943	vida
+T214	Medical_Concept 10509 10513	vida
+T215	Medical_Concept 12522 12526	vida
+T216	Medical_Concept 13327 13331	vida
+T217	Medical_Concept 15335 15339	vida
+T218	Medical_Concept 15482 15486	vida
+T219	Medical_Concept 16030 16034	vida
+T220	Medical_Concept 16528 16532	vida
+T221	Medical_Concept 17395 17399	vida
+T222	Medical_Concept 18351 18355	vida
+T223	Medical_Concept 18636 18640	vida
+T224	Medical_Concept 18948 18952	vida
+T225	Medical_Concept 22399 22403	vida
+T226	Medical_Concept 22622 22626	vida
+T227	Medical_Concept 22823 22827	vida
+T228	Medical_Concept 23754 23758	vida
+T229	Medical_Concept 23776 23780	vida
+T230	Medical_Concept 23835 23839	vida
+T231	Medical_Concept 23904 23908	vida
+T232	Medical_Concept 23970 23974	vida
+T233	Medical_Concept 24153 24157	vida
+T234	Medical_Concept 24509 24513	vida
+T235	Medical_Concept 25444 25448	vida
+T236	Medical_Concept 25829 25833	vida
+T237	Medical_Concept 6531 6543	u00E9tica mu00E9dica
+T238	Medical_Concept 6657 6663	mu00E9dico
+T239	Medical_Concept 6765 6771	mu00E9dico
+T240	Medical_Concept 23005 23011	mu00E9dico
+T241	Medical_Concept 26089 26095	mu00E9dico
+T242	Medical_Concept 7503 7523	homicu00EDdio voluntu00E1rio
+T243	Medical_Concept 7552 7561	homicu00EDdio
+T244	Medical_Concept 6739 6748	homicu00EDdio
+T245	Medical_Concept 8489 8498	homicu00EDdio
+T246	Medical_Concept 10612 10621	homicu00EDdio
+T247	Medical_Concept 9275 9282	doentes
+T248	Medical_Concept 9354 9361	narinas
+T249	Medical_Concept 9565 9572	eugenia
+T250	Medical_Concept 8384 8391	eugenia
+T251	Medical_Concept 10693 10708	estado terminal
+T252	Medical_Concept 12799 12814	estado terminal
+T253	Medical_Concept 17843 17858	estado terminal
+T254	Medical_Concept 10765 10782	sofrimento fu00EDsico
+T256	Medical_Concept 10785 10793	psu00EDquico
+T257	Medical_Concept 11712 11720	psu00EDquica
+T258	Medical_Concept 15965 15973	psu00EDquica
+T259	Medical_Concept 11724 11730	social
+T260	Medical_Concept 15192 15198	social
+T261	Medical_Concept 12094 12105	sentimentos
+T262	Medical_Concept 18161 18172	sentimentos
+T263	Medical_Concept 12429 12445	distu00FArbio mental
+T264	Medical_Concept 12699 12707	fu00E1rmacos
+T265	Medical_Concept 13764 13772	cuidados
+T266	Medical_Concept 15119 15127	cuidados
+T267	Medical_Concept 14122 14129	fu00EDsicos
+T268	Medical_Concept 14132 14141	psu00EDquicos
+T269	Medical_Concept 15010 15027	processos de luto
+T270	Medical_Concept 15089 15092	lar
+T271	Medical_Concept 15577 15607	acidentes vasculares cerebrais
+T272	Medical_Concept 15659 15674	foro oncolu00F3gico
+T273	Medical_Concept 16476 16495	cuidados paliativos
+T274	Medical_Concept 17547 17557	nascimento
+T275	Medical_Concept 17771 17777	cuidar
+T276	Medical_Concept 17797 17806	holu00EDstico
+T277	Medical_Concept 17938 17958	cuidados de conforto
+T278	Medical_Concept 19865 19883	deficiu00EAncia fu00EDsica
+T279	Medical_Concept 27030 27049	Incapacidade Fu00EDsica
+T280	Medical_Concept 27127 27142	Doente Terminal
+T281	Medical_Concept 27305 27316	Biomedicina
+T282	Medical-Concept 1317 1334	eutanu00E1sia passiva
+T283	Medical-Concept 3586 3595	psu00EDquicas
+T284	Medical-Concept 18237 18258	profissional de sau00FAde
+T285	Medical-Concept 18260 18268	cuidador

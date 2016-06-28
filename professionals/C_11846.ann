@@ -1,0 +1,36 @@
+T1	Medical-Concept 164 171	glicose
+T2	Automatic-Concept 259 270	diagnu00F3stico
+T3	Medical-Concept 492 500	insulina
+T4	Medical-Concept 679 687	insulina
+T5	Automatic-Concept 604 613	obesidade
+T6	Automatic-Concept 437 446	paciente
+T7	Automatic-Concept 618 627	paciente
+T8	Medical-Concept 831 838	glicose
+T9	Medical-Concept 1169 1176	glicose
+T10	Automatic-Concept 853 858	jejum
+T11	Automatic-Concept 1033 1042	paciente
+T12	Medical-Concept 1408 1416	insulina
+T13	Automatic-Concept 2229 2245	cordu00E3o umbilical
+T14	Medical-Concept 1982 1995	hiperglicemia
+T15	Medical-Concept 2362 2374	hipoglicemia
+T16	Medical-Concept 1724 1731	glicose
+T17	Medical-Concept 1834 1841	glicose
+T18	Medical-Concept 2285 2292	glicose
+T19	Medical-Concept 1713 1721	insulina
+T20	Medical-Concept 1950 1958	insulina
+T21	Medical-Concept 2138 2146	insulina
+T22	Medical-Concept 2334 2342	insulina
+T23	Automatic-Concept 1845 1851	sangue
+T24	Automatic-Concept 2207 2212	parto
+T25	Automatic-Concept 1596 1605	paciente
+T26	Automatic-Concept 1787 1796	paciente
+T27	Automatic-Concept 1014 1033	diabetes gestacional
+T28	Medical-Concept 83 112	Diabetes mellitus gestacional
+T29	Medical-Concept 14 31	diabetes mellitus
+T30	Automatic-Concept 787 795	gru00E1vidas
+T31	Automatic-Concept 1368 1377	glicu00EAmico
+T32	Medical-Concept 1427 1443	hipoglicemiantes
+T33	Medical-Concept 2055 2063	glicemia
+T34	Automatic-Concept 1490 1498	gestante
+T35	Medical-Concept 1008 1028	diabetes gestacional
+T36	Medical-Concept 387 411	Diabetes Mellitus tipo 2

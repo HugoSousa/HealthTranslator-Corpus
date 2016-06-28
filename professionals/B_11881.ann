@@ -1,0 +1,96 @@
+T1	Automatic-Concept 101 113	protozou00E1rio
+T2	Automatic-Concept 435 441	sangue
+T3	Automatic-Concept 710 716	doenu00E7a
+T4	Automatic-Concept 746 752	doenu00E7a
+T5	Automatic-Concept 1069 1081	protozou00E1rio
+T6	Automatic-Concept 1103 1109	doenu00E7a
+T7	Automatic-Concept 1421 1427	sangue
+T8	Automatic-Concept 2715 2723	infecu00E7u00E3o
+T9	Automatic-Concept 3045 3056	protozou00E1rio
+T10	Automatic-Concept 3422 3438	doenu00E7a de chagas
+T11	Automatic-Concept 3472 3483	protozou00E1rio
+T12	Automatic-Concept 3446 3452	doenu00E7a
+T13	Automatic-Concept 3675 3685	patologia
+T14	Automatic-Concept 3795 3801	doenu00E7a
+T15	Automatic-Concept 4237 4243	doenu00E7a
+T16	Medical-Concept 3 16	tripanossomas
+T17	Medical-Concept 25 36	Trypanosoma
+T18	Medical-Concept 43 57	Kinetoplastida
+T19	Medical-Concept 65 73	Protista
+T20	Medical-Concept 186 199	tripanossomos
+T21	Medical-Concept 200 209	parasitas
+T22	Medical-Concept 408 420	tripanossomo
+T23	Medical-Concept 450 471	Trypanosoma sanguinis
+T24	Medical-Concept 512 530	Trypanosoma evansi
+T25	Medical-Concept 542 554	doenu00E7a fatal
+T26	Medical-Concept 602 607	surra
+T27	Medical-Concept 661 674	tripanossomos
+T28	Medical-Concept 675 693	Trypanosoma brucei
+T29	Medical-Concept 699 706	agentes
+T30	Medical-Concept 733 739	nagana
+T31	Medical-Concept 832 860	Trypanosoma brucei gambiense
+T32	Medical-Concept 874 898	tripanossomu00EDase africana
+T33	Medical-Concept 902 916	doenu00E7a do sono
+T34	Medical-Concept 1026 1039	hematozou00E1rios
+T35	Medical-Concept 1157 1170	quebra-bundas
+T36	Medical-Concept 1174 1189	mal-de-cadeiras
+T37	Medical-Concept 1210 1222	tripanossomo
+T38	Medical-Concept 1307 1326	Trypanosoma equ00FCinum
+T39	Medical-Concept 1394 1406	tripanossomo
+T40	Medical-Concept 1511 1523	tripanossomo
+T41	Medical-Concept 3190 3202	tripanossomo
+T42	Medical-Concept 1479 1500	Trypanosoma minasense
+T43	Medical-Concept 1623 1643	parasitos da malu00E1ria
+T44	Medical-Concept 1754 1775	Trypanosoma prowazeki
+T45	Medical-Concept 1875 1893	Triatoma infestans
+T46	Medical-Concept 1970 1993	protozou00E1rios flagelados
+T47	Medical-Concept 2023 2034	parasitados
+T48	Medical-Concept 2156 2173	Trypanosoma cruzi
+T49	Medical-Concept 2307 2320	tripanossomos
+T50	Medical-Concept 2532 2560	Trypanosoma brucei gambiense
+T51	Medical-Concept 2564 2605	agente da tripanossomu00EDase humana africana
+T52	Medical-Concept 2631 2639	parasito
+T53	Medical-Concept 2761 2780	formas metacu00EDclicas
+T54	Medical-Concept 2785 2804	glu00E2ndulas salivares
+T55	Medical-Concept 2820 2831	infecciosas
+T56	Medical-Concept 2953 2963	infectados
+T57	Medical-Concept 2975 2984	infectada
+T58	Medical-Concept 2989 3006	Trypanosoma cruzi
+T59	Medical-Concept 3027 3041	patogenicidade
+T60	Medical-Concept 3107 3116	parasitas
+T61	Medical-Concept 3203 3224	Trypanosoma minasense
+T62	Medical-Concept 3240 3248	endu00EAmica
+T63	Medical-Concept 3274 3284	patogu00EAnica
+T64	Medical-Concept 3352 3369	Trypanosoma cruzi
+T65	Medical-Concept 3382 3406	tripanosomu00EDase americana
+T66	Medical-Concept 3577 3595	Triatoma infestans
+T67	Medical-Concept 3699 3707	sintomas
+T68	Medical-Concept 3746 3760	doenu00E7a do sono
+T69	Medical-Concept 3764 3788	tripanossomu00EDase africana
+T70	Medical-Concept 3836 3844	parasita
+T71	Medical-Concept 3845 3855	unicelular
+T72	Medical-Concept 3817 3822	fatal
+T73	Medical-Concept 549 554	fatal
+T74	Medical-Concept 3856 3874	Trypanosoma brucei
+T75	Medical-Concept 3974 4002	Trypanosoma brucei gambiense
+T76	Medical-Concept 4021 4028	cru00F4nica
+T77	Medical-Concept 4093 4123	Trypanosoma brucei rhodesiense
+T78	Medical-Concept 4131 4136	aguda
+T79	Medical-Concept 4147 4156	parasitas
+T80	Medical-Concept 4324 4341	Trypanosoma vivax
+T81	Medical-Concept 4344 4366	Trypanosoma congolense
+T82	Medical-Concept 4367 4375	infectam
+T83	Medical-Concept 4531 4548	Trypanosoma vivax
+T84	Medical-Concept 4556 4563	infecta
+T85	Medical-Concept 122 130	infectar
+T86	Medical-Concept 1792 1807	protozoologista
+T87	Medical-Concept 1717 1724	espu00E9cie
+T88	Medical-Concept 1286 1293	espu00E9cie
+T89	Medical-Concept 2111 2118	espu00E9cie
+T90	Medical-Concept 3232 3239	espu00E9cie
+T91	Medical-Concept 3324 3331	espu00E9cie
+T92	Medical-Concept 3631 3642	subespu00E9cies
+T93	Medical-Concept 3720 3728	espu00E9cies
+T94	Medical-Concept 923 930	acomete
+T95	Medical-Concept 1114 1121	acomete
+T96	Medical-Concept 2295 2303	espu00E9cies

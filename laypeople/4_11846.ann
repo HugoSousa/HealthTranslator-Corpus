@@ -1,0 +1,65 @@
+T1	Automatic-Concept 14 31	diabetes mellitus
+T2	Automatic-Concept 259 270	diagnu00F3stico
+T3	Automatic-Concept 604 613	obesidade
+T4	Automatic-Concept 618 627	paciente
+T5	Automatic-Concept 1033 1042	paciente
+T6	Automatic-Concept 1408 1416	insulina
+T7	Automatic-Concept 1982 1995	hiperglicemia
+T8	Automatic-Concept 2362 2374	hipoglicemia
+T9	Automatic-Concept 1724 1731	glicose
+T10	Automatic-Concept 1950 1958	insulina
+T11	Automatic-Concept 2138 2146	insulina
+T12	Automatic-Concept 2207 2212	parto
+T13	Medical_Concept 83 112	Diabetes mellitus gestacional
+T14	Medical_Concept 114 117	DMG
+T15	Medical_Concept 149 171	intoleru00E2ncia a glicose
+T16	Medical_Concept 216 224	gravidez
+T17	Medical_Concept 274 277	DMG
+T18	Medical_Concept 349 352	DMG
+T19	Medical_Concept 355 375	fisiopatologicamente
+T20	Medical_Concept 387 411	Diabetes Mellitus tipo 2
+T21	Medical_Concept 437 454	pacientes com DMG
+T22	Medical_Concept 463 500	deficiu00EAncia de receptores de insulina
+T23	Medical_Concept 511 519	gestau00E7u00E3o
+T24	Medical_Concept 530 539	DM tipo 2
+T25	Medical_Concept 571 574	DMG
+T26	Medical_Concept 591 600	sobrepeso
+T27	Medical_Concept 635 652	apetite aumentado
+T28	Medical_Concept 668 687	excesso de insulina
+T29	Medical_Concept 699 736	cu00EDrculo vicioso de excesso de apetite
+T30	Medical_Concept 744 757	ganho de peso
+T31	Medical_Concept 811 858	exame de dosagem de glicose plasmu00E1tica em jejum
+T32	Medical_Concept 860 863	GPJ
+T33	Medical_Concept 877 898	consulta de pru00E9-natal
+T34	Medical_Concept 920 923	GPJ
+T35	Medical_Concept 1008 1028	diabetes gestacional
+T36	Medical_Concept 1060 1063	GPJ
+T37	Medical_Concept 1142 1176	Teste Oral de Toleru00E2ncia a Glicose
+T38	Medical_Concept 1213 1235	confirmau00E7u00E3o diagnu00F3stica
+T39	Medical_Concept 1267 1272	dieta
+T40	Medical_Concept 1275 1284	exercu00EDcio
+T41	Medical_Concept 1312 1317	dieta
+T42	Medical_Concept 1322 1331	exercu00EDcio
+T43	Medical_Concept 1359 1377	controle glicu00EAmico
+T44	Medical_Concept 1427 1449	hipoglicemiantes orais
+T45	Medical_Concept 1478 1486	gravidez
+T46	Medical_Concept 1490 1498	gestante
+T47	Medical_Concept 1524 1547	pru00E9-natal de alto risco
+T48	Medical_Concept 1555 1560	bebu00EAs
+T49	Medical_Concept 1596 1623	pacientes portadoras de DMG
+T50	Medical_Concept 1683 1687	Bebu00EA
+T51	Medical_Concept 1705 1721	taxa de insulina
+T52	Medical_Concept 1747 1751	bebu00EA
+T53	Medical_Concept 1767 1782	aumento de peso
+T54	Medical_Concept 1787 1814	pacientes portadoras da DMG
+T55	Medical_Concept 1823 1851	excesso de glicose no sangue
+T56	Medical_Concept 1915 1919	bebu00EA
+T57	Medical_Concept 2006 2014	gravidez
+T58	Medical_Concept 2047 2071	taxa de glicemia materna
+T59	Medical_Concept 2091 2111	padru00F5es gestacionais
+T60	Medical_Concept 2163 2167	bebu00EA
+T61	Medical_Concept 2220 2245	corte do cordu00E3o umbilical
+T62	Medical_Concept 2271 2292	alto nu00EDvel de glicose
+T63	Medical_Concept 2320 2342	alto nu00EDvel de insulina
+T64	Medical_Concept 2402 2406	bebu00EA
+T65	Medical_Concept 2393 2398	morte

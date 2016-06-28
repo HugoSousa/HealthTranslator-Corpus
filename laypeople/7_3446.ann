@@ -1,0 +1,94 @@
+T1	Automatic-Concept 30 39	proteu00EDna
+T2	Automatic-Concept 1421 1436	arteriosclerose
+T3	Automatic-Concept 880 888	proteu00EDna
+T4	Automatic-Concept 1280 1287	u00E9ster
+T5	Automatic-Concept 608 614	fu00EDgado
+T6	Automatic-Concept 1245 1251	fu00EDgado
+T7	Automatic-Concept 1727 1736	proteu00EDna
+T8	Automatic-Concept 1864 1872	proteu00EDna
+T9	Automatic-Concept 2687 2691	soro
+T10	Automatic-Concept 2414 2423	proteu00EDna
+T11	Automatic-Concept 2319 2325	fu00EDgado
+T12	Automatic-Concept 2916 2925	proteu00EDna
+T13	Automatic-Concept 2953 2961	proteu00EDna
+T14	Medical_Concept 0 12	Lipoproteu00EDna
+T15	Medical_Concept 42 50	lipu00EDdeos
+T16	Medical_Concept 101 109	lipu00EDdeos
+T17	Medical_Concept 127 135	lipu00EDdeos
+T18	Medical_Concept 115 121	plasma
+T19	Medical_Concept 169 175	plasma
+T20	Medical_Concept 1654 1660	plasma
+T21	Medical_Concept 2997 3003	plasma
+T22	Medical_Concept 201 216	frau00E7u00E3o protu00E9ica
+T23	Medical_Concept 235 247	apoproteu00EDnas
+T24	Medical_Concept 254 269	frau00E7u00E3o lipu00EDdica
+T25	Medical_Concept 290 300	Colesterol
+T26	Medical_Concept 303 317	Trigliceru00EDdeos
+T27	Medical_Concept 673 687	Trigliceru00EDdeos
+T28	Medical_Concept 320 336	Fosfogliceru00EDdeos
+T29	Medical_Concept 426 430	VLDL
+T30	Medical_Concept 2355 2369	Trigliceru00EDdeos
+T31	Medical_Concept 433 436	IDL
+T32	Medical_Concept 2804 2818	Trigliceru00EDdeos
+T33	Medical_Concept 981 995	Trigliceru00EDdeos
+T34	Medical_Concept 1840 1854	Trigliceru00EDdeos
+T35	Medical_Concept 445 448	HDL
+T36	Medical_Concept 439 442	LDL
+T37	Medical_Concept 547 560	lipoproteu00EDnas
+T38	Medical_Concept 575 591	macromoleculares
+T39	Medical_Concept 657 667	colesterol
+T40	Medical_Concept 2378 2388	colesterol
+T41	Medical_Concept 2536 2546	colesterol
+T42	Medical_Concept 2871 2881	colesterol
+T43	Medical_Concept 1890 1900	colesterol
+T44	Medical_Concept 1228 1238	colesterol
+T45	Medical_Concept 1664 1674	colesterol
+T46	Medical_Concept 1291 1301	colesterol
+T47	Medical_Concept 962 972	colesterol
+T48	Medical_Concept 620 637	intestino delgado
+T49	Medical_Concept 699 717	corrente sangu00FCu00EDnea
+T50	Medical_Concept 778 809	Lipoproteu00EDnas de Alta Densidade
+T51	Medical_Concept 812 815	HDL
+T52	Medical_Concept 819 822	HDL
+T53	Medical_Concept 904 911	Apo A I
+T54	Medical_Concept 914 916	II
+T55	Medical_Concept 940 945	Apo C
+T56	Medical_Concept 948 953	Apo E
+T57	Medical_Concept 1008 1020	fosfolipu00EDdio
+T58	Medical_Concept 1024 1027	HDL
+T59	Medical_Concept 1077 1082	HDL 2
+T60	Medical_Concept 1085 1090	HDL 3
+T61	Medical_Concept 1176 1188	apoproteu00EDnas
+T62	Medical_Concept 1314 1327	lipoproteu00EDnas
+T63	Medical_Concept 1346 1350	VLDL
+T64	Medical_Concept 1373 1378	HDL 2
+T65	Medical_Concept 1441 1473	Lipoproteu00EDnas de Baixa Densidade
+T66	Medical_Concept 1476 1479	LDL
+T67	Medical_Concept 1482 1485	LDL
+T68	Medical_Concept 1705 1708	LDL
+T69	Medical_Concept 1519 1544	lipoproteu00EDnas circulantes
+T70	Medical_Concept 1753 1762	Apo B-100
+T71	Medical_Concept 1789 1794	Apo C
+T72	Medical_Concept 1824 1837	fosfolipu00EDdios
+T73	Medical_Concept 2391 2404	fosfolipu00EDdios
+T74	Medical_Concept 2890 2903	fosfolipu00EDdios
+T75	Medical_Concept 1964 1982	funu00E7u00E3o fisiolu00F3gica
+T76	Medical_Concept 2003 2024	su00EDntese de esteru00F3ides
+T77	Medical_Concept 2075 2093	lipoproteu00EDnas VLDL
+T78	Medical_Concept 2099 2118	concentrau00E7u00E3o su00E9rica
+T79	Medical_Concept 2167 2178	aterogu00EAnese
+T80	Medical_Concept 2183 2221	Lipoproteu00EDnas de Muito Baixa Densidade
+T81	Medical_Concept 2224 2228	VLDL
+T82	Medical_Concept 2277 2304	partu00EDculas dos quilomu00EDcrons
+T83	Medical_Concept 2440 2449	Apo B-100
+T84	Medical_Concept 2451 2456	Apo C
+T85	Medical_Concept 2466 2471	Apo E
+T86	Medical_Concept 2506 2530	trigliceru00EDdeos endu00F3genos
+T87	Medical_Concept 2555 2574	tecidos perifu00E9ricos
+T88	Medical_Concept 2649 2661	quilomu00EDcrons
+T89	Medical_Concept 411 423	quilomu00EDcrons
+T90	Medical_Concept 2292 2304	quilomu00EDcrons
+T91	Medical_Concept 2696 2708	quilomu00EDcrons
+T92	Medical_Concept 2966 2978	quilomu00EDcrons
+T93	Medical_Concept 2749 2768	cu00E9lulas intestinais
+T94	Medical_Concept 2945 2952	lipu00EDdio

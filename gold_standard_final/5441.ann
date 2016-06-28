@@ -1,0 +1,113 @@
+T1	Medical-Concept 391 398	abdómen
+T2	Medical-Concept 374 380	cabeça
+T3	Medical-Concept 2372 2378	cabeça
+T4	Medical-Concept 2401 2407	cabeça
+T5	Medical-Concept 2547 2557	mandíbulas
+T6	Medical-Concept 2666 2671	lábio
+T7	Medical-Concept 3427 3445	aparelho digestivo
+T8	Medical-Concept 4131 4136	fezes
+T9	Medical-Concept 3833 3837	ânus
+T10	Medical-Concept 3825 3829	boca
+T11	Medical-Concept 4432 4440	artérias
+T12	Medical-Concept 4393 4400	coração
+T13	Medical-Concept 4487 4494	coração
+T14	Medical-Concept 4315 4335	sistema circulatório
+T15	Medical-Concept 4670 4676	cabeça
+T16	Medical-Concept 4567 4582	sistema nervoso
+T17	Medical-Concept 5620 5628	embriões
+T18	Medical-Concept 5382 5396	recém-nascidos
+T19	Medical-Concept 5665 5675	reprodução
+T20	Medical-Concept 5762 5779	dimorfismo sexual
+T21	Medical-Concept 5960 5971	cromossomos
+T22	Medical-Concept 6085 6096	metamorfose
+T23	Medical-Concept 6231 6242	metamorfose
+T24	Medical-Concept 6246 6257	metamorfose
+T25	Medical-Concept 6271 6282	metamorfose
+T26	Medical-Concept 6456 6460	pele
+T27	Medical-Concept 6399 6404	larva
+T28	Medical-Concept 6587 6592	larva
+T29	Medical-Concept 7281 7292	metamorfose
+T30	Medical-Concept 7792 7800	músculos
+T31	Medical-Concept 7979 7987	músculos
+T32	Medical-Concept 8029 8037	músculos
+T33	Medical-Concept 8607 8612	larva
+T34	Medical-Concept 8391 8402	metamorfose
+T35	Medical-Concept 8522 8533	metamorfose
+T36	Medical-Concept 9731 9738	doenças
+T37	Medical-Concept 10317 10325	simbiose
+T38	Medical-Concept 11277 11286	hospitais
+T39	Medical-Concept 11090 11096	larvas
+T40	Medical-Concept 12438 12446	medicina
+T41	Medical-Concept 12758 12768	reprodução
+T42	Medical-Concept 12892 12902	reprodução
+T43	Medical-Concept 383 388	tórax
+T44	Medical-Concept 722 733	Entomologia
+T45	Medical-Concept 852 866	entomologistas
+T46	Medical-Concept 2381 2386	tórax
+T47	Medical-Concept 2389 2395	abdome
+T48	Medical-Concept 4804 4810	abdome
+T49	Medical-Concept 2570 2577	maxilas
+T50	Medical-Concept 2582 2593	hipofaringe
+T51	Medical-Concept 2725 2734	maxilares
+T52	Medical-Concept 3248 3255	abdômen
+T53	Medical-Concept 3388 3395	abdômen
+T54	Medical-Concept 3448 3460	respiratório
+T55	Medical-Concept 3463 3471	excretor
+T56	Medical-Concept 3566 3573	genital
+T57	Medical-Concept 3659 3667	genitais
+T58	Medical-Concept 3765 3782	sistema digestivo
+T59	Medical-Concept 3871 3890	túbulos de Malpighi
+T60	Medical-Concept 3963 3977	osmorregulação
+T61	Medical-Concept 4062 4066	Íons
+T62	Medical-Concept 4067 4069	K+
+T63	Medical-Concept 4072 4075	Na+
+T64	Medical-Concept 4215 4224	traquéias
+T65	Medical-Concept 4297 4311	trocas gasosas
+T66	Medical-Concept 4469 4475	órgãos
+T67	Medical-Concept 4411 4420	hemolinfa
+T68	Medical-Concept 4512 4521	hemolinfa
+T69	Medical-Concept 4617 4625	gânglios
+T70	Medical-Concept 5678 5693	desenvolvimento
+T71	Medical-Concept 4995 5010	desenvolvimento
+T72	Medical-Concept 6136 6151	desenvolvimento
+T73	Medical-Concept 8016 8021	tórax
+T74	Medical-Concept 8103 8120	impulsos nervosos
+T75	Medical-Concept 9143 9150	olfacto
+T76	Medical-Concept 9856 9870	entomologistas
+T77	Medical-Concept 12478 12489	Entomologia
+T78	Medical-Concept 1832 1838	bucais
+T79	Medical-Concept 5733 5745	polimorfismo
+T80	Medical-Concept 4694 4708	massa cerebral
+T81	Medical-Concept 2126 2135	anatômico
+T82	Medical-Concept 2875 2881	bucais
+T83	Medical-Concept 2642 2647	bucal
+T84	Medical-Concept 2528 2534	bucais
+T85	Medical-Concept 3936 3955	intestino posterior
+T86	Medical-Concept 3991 4010	intestino posterior
+T87	Medical-Concept 5884 5888	sexo
+T88	Medical-Concept 5904 5908	sexo
+T89	Medical-Concept 7408 7427	segmentos torácicos
+T90	Medical-Concept 6338 6351	ciclo de vida
+T91	Medical-Concept 4741 4753	rede nervosa
+T92	Medical-Concept 4757 4774	gânglios ventrais
+T93	Medical-Concept 5542 5559	óvulo fertilizado
+T94	Medical-Concept 10363 10375	reproduzirem
+T95	Medical-Concept 1865 1885	segmentos abdominais
+T96	Medical-Concept 7541 7560	sucesso reprodutivo
+T97	Medical-Concept 3522 3538	segmento genital
+T98	Medical-Concept 5814 5829	hermafroditismo
+T99	Medical-Concept 5512 5525	poliembrionia
+T100	Medical-Concept 4934 4938	ovos
+T101	Medical-Concept 5212 5216	ovos
+T102	Medical-Concept 5406 5410	ovos
+T103	Medical-Concept 3691 3695	ovos
+T104	Medical-Concept 8226 8230	ovos
+T105	Medical-Concept 1706 1726	biologia comparativa
+T106	Medical-Concept 9180 9189	feromonas
+T107	Medical-Concept 1505 1513	anatomia
+T108	Medical-Concept 2439 2449	sensoriais
+T109	Medical-Concept 11140 11159	feridas gangrenadas
+T110	Medical-Concept 4242 4250	cutícula
+T111	Medical-Concept 3842 3858	sistema excretor
+T112	Medical-Concept 2699 2706	labiais
+T113	Medical-Concept 3474 3506	estruturas internas reprodutivas

@@ -1,0 +1,35 @@
+T1	Automatic-Concept 76 84	paciente
+T2	Automatic-Concept 677 686	ansiedade
+T3	Automatic-Concept 641 649	paciente
+T4	Automatic-Concept 748 756	paciente
+T5	Automatic-Concept 850 858	paciente
+T6	Automatic-Concept 1020 1032	respirador
+T7	Automatic-Concept 1451 1464	ar comprimido
+T8	Automatic-Concept 1501 1510	paciente
+T9	Automatic-Concept 1998 2003	maca
+T10	Automatic-Concept 2163 2176	sinais vitais
+T11	Automatic-Concept 1793 1802	paciente
+T12	Automatic-Concept 2626 2632	doenu00E7a
+T13	Automatic-Concept 2676 2685	paciente
+T14	Automatic-Concept 2333 2341	paciente
+T15	Automatic-Concept 2443 2451	paciente
+T16	Automatic-Concept 2571 2579	paciente
+T17	Medical_Concept 32 35	OHB
+T18	Medical_Concept 99 124	inalau00E7u00E3o de oxigu00EAnio puro
+T19	Medical_Concept 293 311	cu00E2mara hiperbu00E1rica
+T20	Medical_Concept 342 345	OHB
+T21	Medical_Concept 906 924	cu00E2mara hiperbu00E1rica
+T22	Medical_Concept 704 717	claustrofobia
+T23	Medical_Concept 761 781	cu00E2maras hiperbu00E1ricas
+T24	Medical_Concept 996 1018	ventiladores mecu00E2nicos
+T25	Medical_Concept 1035 1063	bombas para infusu00F5es venosas
+T26	Medical_Concept 1065 1076	transfusu00F5es
+T27	Medical_Concept 1172 1192	ambiente hiperbu00E1rico
+T28	Medical_Concept 1568 1595	oxigenioterapia hiperbu00E1rica
+T29	Medical_Concept 1678 1703	enfermeiras hiperbaristas
+T30	Medical_Concept 1715 1734	mu00E9dico hiperbarista
+T31	Medical_Concept 2049 2067	pacientes cru00EDticos
+T32	Medical_Concept 2180 2196	pacientes graves
+T33	Medical_Concept 2254 2288	compressu00E3o direta de oxigu00EAnio puro
+T34	Medical-Concept 350 368	cu00E2mara hiperbu00E1rica
+T35	Medical-Concept 2 28	Oxigenoterapia Hiperbu00E1rica

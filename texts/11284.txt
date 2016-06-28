@@ -1,0 +1,32 @@
+Este artigo ou se(c)ção cita uma ou mais fontes fiáveis e independentes, mas ela(s) não cobre(m) todo o texto
+
+Os corpos cetônicos são três substâncias solúveis em água que são produtos derivados da quebra dos ácidos gordos , a quebra ocorre no figado. São usados como fonte de energia no coração , no cérebro e no tecido muscular. No cérebro são fonte vital de energia durante o jejum .
+
+Ao contrário do que o nome "corpos" pode sugerir, eles são componentes solúveis, não partículas. São três os corpos cetônicos:
+
+Os corpos cetônicos são produzidos a partir do acetil-CoA (veja cetogênese ) principalmente na matriz mitocondrial das células do fígado quando os carboidratos estão tão escassos que a energia deve ser obtida através da quebra dos ácidos graxos .
+
+A acetona é formada a partir da descarboxilação espontânea do acetoacetato. De uma maneira correspondente, os níveis de acetona são muito menores do que ou níveis dos outros dois tipos de corpos cetônicos. E ao contrário dos outros dois, a acetona não pode ser convertida de volta a acetil-CoA, então ela é excretada na urina e exalada (ela pode ser exalada devido a sua alta pressão de vapor e conseqüentemente evapora facilmente). A exalação de acetona é responsável por um odor característico na respiração de pessoas em estados cetóticos.
+
+O cérebro recebe sua energia a partir de corpos cetônicos quando uma quantidade insuficiente de glicose está disponível, isso geralmente ocorre em jejum, após alguns dias sem se alimentar. Quando o nível de glicose no sangue (glicemia) está baixo, a maioria dos outros tecidos tem fontes adicionais de energia além dos corpos cetônicos (como os ácidos graxos), mas o cérebro, ao contrário, não tem.
+
+Depois de uma dieta de baixo nível glicêmico durante 3 dias, o cérebro recebe 30% de sua energia a partir dos corpos cetônicos. Após 4 dias, este nível sobe para 70% (durante os estágios iniciais o cérebro não queima as cetonas, já que elas são um importante substrato para a síntese de lipídios no cérebro), nesse estágio o cérebro torna-se mais permeável às gorduras e corpos cetônicos e passa a consumir esses substratos energéticos. 1
+
+O cérebro ainda mantém uma certa necessidade pela glicose, porque os corpos cetônicos somente na mitocôndria podem ser quebrados para fornecer energia, e os axônios das células cerebrais estão muito longe da mitocôndria.[ carece de fontes ?]
+
+Os corpos cetônicos são exportados do fígado através da corrente sanguínea para diferentes tecidos. O objetivo da produção de corpos cetônicos é permitir o transporte da energia obtida pela oxidação dos ácidos graxos aos tecido periféricos, para lá serem utilizados na síntese de ATP . Córtex renal e coração são estruturas que preferem o acetoacetato à glicose. 2
+
+A disponibilidade de oxaloacetato para fazer com que o acetil-CoA entre no ciclo do ácido cítrico, vai determinar qual via metabólica o acetil-CoA vai seguir. Em algumas situações, como no caso de um jejum, as moléculas de oxaloacetato vão ser destinadas para a produção de glicose pela gliconeogênese . Com isso a quantidade de oxaloacetato disponível vai estar diminuída, e conseqüentemente pouco acetil-CoA vai entrar no ciclo de Krebs e vai haver uma maior produção de corpos cetônicos. A produção dos corpos cetônicos pelo fígado e sua liberação para os tecidos em geral vai permitir a β-oxidação de ácidos graxos mesmo quando o acetil-CoA não está sendo oxidado pelo ciclo de Krebs, já que vai haver a liberação da Coenzima A quando houver a condensação de duas moléculas de acetil.
+
+Normalmente a quantidade de corpos cetônicos no sangue é baixa, mas em situações como o jejum prolongado ou o " diabetes mellitus ", suas concentrações podem aumentar muito, levando o indivíduo a um estado de "Cetose" que pode ser fatal. 2
+
+O coração recebe muito de suas energias a partir dos corpos cetônicos, embora ele também utilize bastantes ácidos graxos.
+
+Qualquer produção destes compostos é chamada de cetogênese , e ela é necessária em pequenas quantidades.
+
+Mas, quando corpos cetônicos em excesso se acumulam, é chamado de cetose este estado anormal (mas não necessariamente perigoso).
+
+Quando ainda mais corpos cetônicos se acumulam de forma que o pH do corpo é baixado a níveis ácidos perigosos, este estado é chamado de cetoacidose . O que é comum no diabetes mellitus.
+
+Esta página foi modificada pela última vez à(s) 17h50min de 18 de julho de 2013.
+

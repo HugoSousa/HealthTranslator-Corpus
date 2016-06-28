@@ -1,0 +1,163 @@
+T1	Automatic-Concept 450 458	embriu00E3o
+T2	Automatic-Concept 600 606	nervo
+T3	Automatic-Concept 929 944	medula espinhal
+T4	Automatic-Concept 918 925	trauma
+T5	Automatic-Concept 787 794	doenu00E7a
+T6	Automatic-Concept 895 902	doenu00E7a
+T7	Automatic-Concept 765 773	terapia
+T8	Automatic-Concept 592 597	osso
+T9	Automatic-Concept 535 556	diferenciau00E7u00E3o celular
+T10	Automatic-Concept 620 626	sangue
+T11	Automatic-Concept 609 617	mu00FAsculo
+T12	Automatic-Concept 1083 1090	trauma
+T13	Automatic-Concept 1073 1080	doenu00E7a
+T14	Automatic-Concept 1474 1491	lu00EDquido amniu00F3tico
+T15	Automatic-Concept 1396 1412	cordu00E3o umbilical
+T16	Automatic-Concept 1418 1430	medula u00F3ssea
+T17	Automatic-Concept 1544 1552	medicina
+T18	Automatic-Concept 1448 1454	fu00EDgado
+T19	Automatic-Concept 1436 1442	sangue
+T20	Automatic-Concept 1460 1468	placenta
+T21	Automatic-Concept 2477 2484	embriu00E3o
+T22	Automatic-Concept 2572 2593	diferenciau00E7u00E3o celular
+T23	Automatic-Concept 2962 2978	cordu00E3o umbilical
+T24	Automatic-Concept 2929 2941	medula u00F3ssea
+T25	Automatic-Concept 2953 2959	fu00EDgado
+T26	Automatic-Concept 2944 2950	sangue
+T27	Automatic-Concept 2981 2989	placenta
+T28	Automatic-Concept 3779 3791	medula u00F3ssea
+T29	Automatic-Concept 3657 3664	doenu00E7a
+T30	Automatic-Concept 3797 3811	tecido adiposo
+T31	Automatic-Concept 3862 3870	clonagem
+T32	Automatic-Concept 3957 3965	embriu00E3o
+T33	Automatic-Concept 3979 3987	clonagem
+T34	Automatic-Concept 4173 4181	embriu00E3o
+T35	Automatic-Concept 4257 4265	embriu00E3o
+T36	Automatic-Concept 4323 4331	embriu00E3o
+T37	Automatic-Concept 4298 4305	terapia
+T38	Automatic-Concept 4694 4702	embriu00E3o
+T39	Automatic-Concept 4716 4724	clonagem
+T40	Automatic-Concept 4788 4796	embriu00E3o
+T41	Automatic-Concept 4741 4747	coreia
+T42	Automatic-Concept 4810 4818	clonagem
+T43	Automatic-Concept 4931 4939	embriu00E3o
+T44	Automatic-Concept 5153 5161	clonagem
+T45	Automatic-Concept 5305 5313	embriu00E3o
+T46	Automatic-Concept 5347 5355	clonagem
+T47	Automatic-Concept 5445 5453	embriu00E3o
+T48	Automatic-Concept 5468 5476	clonagem
+T49	Automatic-Concept 5648 5656	embriu00E3o
+T50	Automatic-Concept 5670 5678	clonagem
+T51	Automatic-Concept 5768 5776	clonagem
+T52	Automatic-Concept 5833 5841	embriu00E3o
+T53	Automatic-Concept 5855 5863	clonagem
+T54	Automatic-Concept 5923 5931	embriu00E3o
+T55	Automatic-Concept 5945 5953	clonagem
+T56	Automatic-Concept 6007 6015	embriu00E3o
+T57	Automatic-Concept 6047 6055	clonagem
+T58	Automatic-Concept 6227 6235	embriu00E3o
+T59	Medical-Concept 260 274	cu00E9lulas-tronco
+T60	Medical-Concept 432 446	cu00E9lulas-tronco
+T61	Medical-Concept 662 676	cu00E9lulas-tronco
+T62	Medical-Concept 1003 1017	cu00E9lulas-tronco
+T63	Medical-Concept 1203 1217	cu00E9lulas-tronco
+T64	Medical-Concept 1260 1274	cu00E9lulas-tronco
+T65	Medical-Concept 3037 3051	cu00E9lulas-tronco
+T66	Medical-Concept 2373 2387	cu00E9lulas-tronco
+T67	Medical-Concept 3188 3202	cu00E9lulas-tronco
+T68	Medical-Concept 3874 3888	cu00E9lulas-tronco
+T69	Medical-Concept 4102 4116	cu00E9lulas-tronco
+T70	Medical-Concept 4219 4233	cu00E9lulas-tronco
+T71	Medical-Concept 4988 5002	cu00E9lulas-tronco
+T72	Medical-Concept 5271 5285	cu00E9lulas-tronco
+T73	Medical-Concept 6139 6153	cu00E9lulas-tronco
+T74	Medical-Concept 6359 6373	cu00E9lulas-tronco
+T75	Medical-Concept 6490 6504	cu00E9lulas-tronco
+T76	Medical-Concept 6749 6763	cu00E9lulas-tronco
+T77	Medical-Concept 276 288	cu00E9lulas-mu00E3es
+T78	Medical-Concept 292 310	cu00E9lulas estaminais
+T79	Medical-Concept 2630 2648	cu00E9lulas estaminais
+T80	Medical-Concept 315 322	cu00E9lulas
+T81	Medical-Concept 569 576	tecidos
+T82	Medical-Concept 795 811	cardiovasculares
+T83	Medical-Concept 814 832	neurodegenerativas
+T84	Medical-Concept 835 859	Diabetes mellitus tipo 1
+T85	Medical-Concept 862 892	acidentes vasculares cerebrais
+T86	Medical-Concept 903 916	hematolu00F3gicas
+T87	Medical-Concept 947 958	nefropatias
+T88	Medical-Concept 1043 1050	tecidos
+T89	Medical-Concept 2604 2611	tecidos
+T90	Medical-Concept 2913 2920	tecidos
+T91	Medical-Concept 3144 3151	tecidos
+T92	Medical-Concept 3349 3356	tecidos
+T93	Medical-Concept 3448 3455	tecidos
+T94	Medical-Concept 1188 1198	tratamento
+T95	Medical-Concept 6734 6744	tratamento
+T96	Medical-Concept 1338 1358	cu00E9lulas embrionu00E1rias
+T97	Medical-Concept 1710 1719	estaminal
+T98	Medical-Concept 2129 2142	diferenciau00E7u00E3o
+T99	Medical-Concept 2160 2169	celulares
+T100	Medical-Concept 2145 2159	especializau00E7u00E3o
+T101	Medical-Concept 2189 2210	cu00E9lulas pluripotentes
+T102	Medical-Concept 2253 2264	unipotentes
+T103	Medical-Concept 2409 2421	mesenquimais
+T104	Medical-Concept 2425 2437	embrionu00E1rias
+T105	Medical-Concept 2399 2406	adultas
+T106	Medical-Concept 2443 2455	Embrionu00E1rias
+T107	Medical-Concept 2517 2529	totipotentes
+T108	Medical-Concept 2533 2546	pluripotentes
+T109	Medical-Concept 2649 2661	embrionu00E1rias
+T110	Medical-Concept 2690 2701	tratamentos
+T111	Medical-Concept 2675 2687	investigau00E7u00E3o
+T112	Medical-Concept 2755 2767	investigau00E7u00E3o
+T113	Medical-Concept 2875 2882	Adultas
+T114	Medical-Concept 6505 6512	Adultas
+T115	Medical-Concept 3091 3104	diferenciau00E7u00E3o
+T116	Medical-Concept 535 548	diferenciau00E7u00E3o
+T117	Medical-Concept 2572 2585	diferenciau00E7u00E3o
+T118	Medical-Concept 3173 3185	Mesenquimais
+T119	Medical-Concept 3203 3215	mesenquimais
+T120	Medical-Concept 3245 3252	estroma
+T121	Medical-Concept 3256 3262	tecido
+T122	Medical-Concept 3374 3386	plasticidade
+T123	Medical-Concept 3394 3401	cu00E9lulas
+T124	Medical-Concept 3473 3478	u00F3sseo
+T125	Medical-Concept 3480 3493	cartilaginoso
+T126	Medical-Concept 3495 3503	hepu00E1tico
+T127	Medical-Concept 3505 3513	cardu00EDaco
+T128	Medical-Concept 3516 3522	neural
+T129	Medical-Concept 3542 3549	cu00E9lulas
+T130	Medical-Concept 3584 3600	imunossupressora
+T131	Medical-Concept 3665 3678	imunomediadas
+T132	Medical-Concept 3688 3699	auto-imunes
+T133	Medical-Concept 3713 3738	rejeiu00E7u00F5es aos transplantes
+T134	Medical-Concept 3988 3999	terapu00EAutica
+T135	Medical-Concept 722 733	terapu00EAutica
+T136	Medical-Concept 4725 4736	terapu00EAutica
+T137	Medical-Concept 4819 4830	terapu00EAutica
+T138	Medical-Concept 5162 5173	terapu00EAutica
+T139	Medical-Concept 5356 5367	terapu00EAutica
+T140	Medical-Concept 5477 5488	terapu00EAutica
+T141	Medical-Concept 5679 5690	terapu00EAutica
+T142	Medical-Concept 5777 5788	terapu00EAutica
+T143	Medical-Concept 5864 5875	terapu00EAutica
+T144	Medical-Concept 5954 5965	terapu00EAutica
+T145	Medical-Concept 6056 6067	terapu00EAutica
+T146	Medical-Concept 4089 4098	linhagens
+T147	Medical-Concept 4266 4273	humanos
+T148	Medical-Concept 4940 4947	humanos
+T149	Medical-Concept 6236 6243	humanos
+T150	Medical-Concept 4332 4341	inviu00E1veis
+T151	Medical-Concept 4423 4436	consentimento
+T152	Medical-Concept 4477 4486	biolu00F3gico
+T153	Medical-Concept 4975 4984	linhagens
+T154	Medical-Concept 5247 5256	linhagens
+T155	Medical-Concept 5286 5298	embrionu00E1rias
+T156	Medical-Concept 5550 5566	cu00E9lulas - tronco
+T157	Medical-Concept 5567 5579	embrionu00E1rias
+T158	Medical-Concept 5580 5587	humanas
+T159	Medical-Concept 6072 6086	cu00E9lulas tronco
+T160	Medical-Concept 6154 6166	embrionu00E1rias
+T161	Medical-Concept 6374 6386	embrionu00E1rias
+T162	Medical-Concept 6544 6557	consentimento
+T163	Medical-Concept 6597 6603	doador

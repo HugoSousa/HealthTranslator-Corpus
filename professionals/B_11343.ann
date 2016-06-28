@@ -1,0 +1,124 @@
+T1	Automatic-Concept 2 10	nefru00F3nio
+T2	Automatic-Concept 353 361	nefru00F3nio
+T3	Automatic-Concept 407 415	nefru00F3nio
+T4	Automatic-Concept 315 320	urina
+T5	Automatic-Concept 37 40	rim
+T6	Automatic-Concept 387 390	rim
+T7	Automatic-Concept 117 123	sangue
+T8	Automatic-Concept 102 113	metabolismo
+T9	Automatic-Concept 256 272	pressu00E3o arterial
+T10	Automatic-Concept 490 507	cu00E1psula de bowman
+T11	Automatic-Concept 565 582	cu00E1psula de bowman
+T12	Automatic-Concept 515 524	glomu00E9rulo
+T13	Automatic-Concept 551 560	glomu00E9rulo
+T14	Automatic-Concept 466 474	nefru00F3nio
+T15	Automatic-Concept 865 871	sangue
+T16	Automatic-Concept 981 998	cu00E1psula de bowman
+T17	Automatic-Concept 965 974	glomu00E9rulo
+T18	Automatic-Concept 1097 1106	filtrau00E7u00E3o
+T19	Automatic-Concept 1194 1203	arteru00EDola
+T20	Automatic-Concept 1573 1582	arteru00EDola
+T21	Automatic-Concept 1380 1397	cu00E1psula de bowman
+T22	Automatic-Concept 1539 1556	cu00E1psula de bowman
+T23	Automatic-Concept 1123 1132	glomu00E9rulo
+T24	Automatic-Concept 1890 1894	veia
+T25	Automatic-Concept 1482 1485	rim
+T26	Automatic-Concept 1650 1655	reto
+T27	Automatic-Concept 1340 1346	sangue
+T28	Automatic-Concept 1414 1420	sangue
+T29	Automatic-Concept 1460 1466	sangue
+T30	Automatic-Concept 1615 1621	sangue
+T31	Automatic-Concept 1965 1982	cu00E1psula de bowman
+T32	Automatic-Concept 2235 2243	epitu00E9lio
+T33	Automatic-Concept 2033 2042	glomu00E9rulo
+T34	Automatic-Concept 2287 2296	glomu00E9rulo
+T35	Automatic-Concept 2134 2143	podu00F3cito
+T36	Automatic-Concept 2341 2350	podu00F3cito
+T37	Automatic-Concept 2442 2447	urina
+T38	Automatic-Concept 2277 2283	sangue
+T39	Automatic-Concept 2543 2552	glomu00E9rulo
+T40	Medical-Concept 15 21	Nu00E9fron
+T41	Medical-Concept 59 71	microscu00F3pica
+T42	Medical-Concept 135 164	equilu00EDbrio hidroelectrolu00EDtico
+T43	Medical-Concept 167 179	u00E1cido-bu00E1sico
+T44	Medical-Concept 189 195	humano
+T45	Medical-Concept 284 293	hormu00F4nios
+T46	Medical-Concept 275 283	secretar
+T47	Medical-Concept 445 452	funu00E7u00F5es
+T48	Medical-Concept 453 459	renais
+T49	Medical-Concept 615 637	corpu00FAsculo de Malpighi
+T50	Medical-Concept 648 654	nu00E9fron
+T51	Medical-Concept 1063 1069	nu00E9fron
+T52	Medical-Concept 1110 1116	nu00E9fron
+T53	Medical-Concept 2421 2427	nu00E9fron
+T54	Medical-Concept 2482 2488	nu00E9fron
+T55	Medical-Concept 2677 2683	nu00E9fron
+T56	Medical-Concept 3322 3328	nu00E9fron
+T57	Medical-Concept 3409 3415	nu00E9fron
+T58	Medical-Concept 683 692	filtrante
+T59	Medical-Concept 706 722	corpu00FAsculo renal
+T60	Medical-Concept 805 821	corpu00FAsculo renal
+T61	Medical-Concept 1003 1019	corpu00FAsculo renal
+T62	Medical-Concept 772 780	secreu00E7u00E3o
+T63	Medical-Concept 759 769	reabsoru00E7u00E3o
+T64	Medical-Concept 786 798	tu00FAbulo renal
+T65	Medical-Concept 2455 2467	tu00FAbulo renal
+T66	Medical-Concept 2579 2591	tu00FAbulo renal
+T67	Medical-Concept 3052 3064	tu00FAbulo renal
+T68	Medical-Concept 822 828	filtra
+T69	Medical-Concept 914 928	tu00FAbulos renais
+T70	Medical-Concept 533 547	tu00FAbulos renais
+T71	Medical-Concept 2691 2705	tu00FAbulos renais
+T72	Medical-Concept 1024 1046	corpu00FAsculo de Malpighi
+T73	Medical-Concept 1143 1150	capilar
+T74	Medical-Concept 1166 1186	suprimento sanguu00EDneo
+T75	Medical-Concept 1204 1212	aferente
+T76	Medical-Concept 1216 1226	circulau00E7u00E3o
+T77	Medical-Concept 1928 1938	circulau00E7u00E3o
+T78	Medical-Concept 1227 1232	renal
+T79	Medical-Concept 1895 1900	renal
+T80	Medical-Concept 2797 2802	renal
+T81	Medical-Concept 1237 1254	pressu00E3o sanguu00EDnea
+T82	Medical-Concept 1255 1265	glomerular
+T83	Medical-Concept 1515 1525	glomerular
+T84	Medical-Concept 2511 2521	glomerular
+T85	Medical-Concept 2365 2375	glomerular
+T86	Medical-Concept 1317 1326	filtrados
+T87	Medical-Concept 1583 1591	eferente
+T88	Medical-Concept 1644 1649	vasos
+T89	Medical-Concept 1665 1674	capilares
+T90	Medical-Concept 1675 1684	coletores
+T91	Medical-Concept 1704 1711	tu00FAbulos
+T92	Medical-Concept 533 540	tu00FAbulos
+T93	Medical-Concept 914 921	tu00FAbulos
+T94	Medical-Concept 2691 2698	tu00FAbulos
+T95	Medical-Concept 1735 1754	espau00E7o intersticial
+T96	Medical-Concept 1769 1780	substu00E2ncias
+T97	Medical-Concept 1781 1793	reabsorvidas
+T98	Medical-Concept 1859 1868	eferentes
+T99	Medical-Concept 1851 1858	vu00EAnulas
+T100	Medical-Concept 1879 1886	nu00E9frons
+T101	Medical-Concept 3452 3459	nu00E9frons
+T102	Medical-Concept 1939 1948	sanguu00EDnea
+T103	Medical-Concept 2003 2021	cu00E1psula glomerular
+T104	Medical-Concept 2081 2089	visceral
+T105	Medical-Concept 2329 2337	visceral
+T106	Medical-Concept 2102 2109	cu00E9lulas
+T107	Medical-Concept 2209 2216	cu00E9lulas
+T108	Medical-Concept 2167 2175	parietal
+T109	Medical-Concept 2235 2259	epitu00E9lio escamoso simples
+T110	Medical-Concept 2635 2651	ductos coletores
+T111	Medical-Concept 3264 3280	ductos coletores
+T112	Medical-Concept 2881 2894	Tu00FAbulo distal
+T113	Medical-Concept 2924 2934	pars recta
+T114	Medical-Concept 2988 3002	pars convoluta
+T115	Medical-Concept 3009 3022	alu00E7a de Henle
+T116	Medical-Concept 3108 3114	tu00FAbulo
+T117	Medical-Concept 3115 3123	proximal
+T118	Medical-Concept 3137 3150	intermediu00E1rio
+T119	Medical-Concept 3130 3136	tu00FAbulo
+T120	Medical-Concept 731 737	tu00FAbulo
+T121	Medical-Concept 3233 3239	tu00FAbulo
+T122	Medical-Concept 3240 3246	distal
+T123	Medical-Concept 3309 3318	anatu00F4mica
+T124	Medical-Concept 3345 3356	embrionu00E1ria

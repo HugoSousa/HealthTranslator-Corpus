@@ -1,0 +1,71 @@
+T1	Automatic-Concept 417 423	sangue
+T2	Automatic-Concept 1039 1046	infarto
+T3	Automatic-Concept 730 738	prolapso
+T4	Automatic-Concept 771 786	febre reumu00E1tica
+T5	Automatic-Concept 1021 1036	febre reumu00E1tica
+T6	Automatic-Concept 1431 1439	artu00E9ria
+T7	Automatic-Concept 1508 1516	prolapso
+T8	Automatic-Concept 1399 1405	sangue
+T9	Automatic-Concept 1484 1493	paciente
+T10	Automatic-Concept 2068 2087	regurgitau00E7u00E3o mitral
+T11	Medical-Concept 53 71	su00EDndrome de Barlow
+T12	Medical-Concept 73 96	vu00E1lvula mitral flexu00EDvel
+T13	Medical-Concept 98 125	su00EDndrome do click sistu00F3lico
+T14	Medical-Concept 128 153	vu00E1lvula mitral mixomatosa
+T15	Medical-Concept 212 221	protrusu00E3o
+T16	Medical-Concept 295 302	vu00E1lvula
+T17	Medical-Concept 310 324	u00E1trio esquerdo
+T18	Medical-Concept 335 356	contrau00E7u00E3o ventricular
+T19	Medical-Concept 431 445	u00E1trio esquerdo
+T20	Medical-Concept 485 509	doenu00E7a cardu00EDaca valvular
+T21	Medical-Concept 511 516	Afeta
+T22	Medical-Concept 589 608	"fechamento" errado
+T23	Medical-Concept 612 626	vu00E1lvula mitral
+T24	Medical-Concept 639 645	escape
+T25	Medical-Concept 687 695	tonturas
+T26	Medical-Concept 717 725	desmaios
+T27	Medical-Concept 698 712	dores no peito
+T28	Medical-Concept 813 818	causa
+T29	Medical-Concept 821 829	primu00E1ria
+T30	Medical-Concept 847 869	alterau00E7u00E3o inflamatu00F3ria
+T31	Medical-Concept 871 882	hereditu00E1ria
+T32	Medical-Concept 927 941	vu00E1lvula mitral
+T33	Medical-Concept 977 987	secundu00E1ria
+T34	Medical-Concept 997 1014	doenu00E7as cardu00EDacas
+T35	Medical-Concept 1075 1092	cirurgia valvular
+T36	Medical-Concept 1099 1113	vu00E1lvula mitral
+T37	Medical-Concept 1131 1145	u00E1trio esquerdo
+T38	Medical-Concept 1168 1187	ventru00EDculo esquerdo
+T39	Medical-Concept 1229 1237	folhetos
+T40	Medical-Concept 1298 1313	fluxo do sangue
+T41	Medical-Concept 1338 1343	u00E1trio
+T42	Medical-Concept 1351 1361	ventru00EDculo
+T43	Medical-Concept 1366 1385	ventru00EDculo esquerdo
+T44	Medical-Concept 1414 1422	oxigu00EAnio
+T45	Medical-Concept 1494 1504	portadores
+T46	Medical-Concept 1520 1534	vu00E1lvula mitral
+T47	Medical-Concept 1551 1559	folhetos
+T48	Medical-Concept 1592 1610	mu00FAsculos papilares
+T49	Medical-Concept 1618 1628	cordoalhas
+T50	Medical-Concept 1678 1691	anel valvular
+T51	Medical-Concept 1704 1718	ecocardiograma
+T52	Medical-Concept 1724 1739	exame de imagem
+T53	Medical-Concept 1765 1783	alterau00E7u00E3o valvular
+T54	Medical-Concept 1800 1817	ausculta cardu00EDaca
+T55	Medical-Concept 1831 1844	som de estalo
+T56	Medical-Concept 1856 1875	click mesosistu00F3lico
+T57	Medical-Concept 1899 1922	contrau00E7u00E3o do ventru00EDculo
+T58	Medical-Concept 1950 1957	pressu00E3o
+T59	Medical-Concept 1976 1993	folhetos anormais
+T60	Medical-Concept 1997 2011	vu00E1lvula mitral
+T61	Medical-Concept 2022 2029	su00EDstole
+T62	Medical-Concept 2031 2054	contrau00E7u00E3o do ventru00EDculo
+T63	Medical-Concept 2099 2116	refluxo de sangue
+T64	Medical-Concept 2124 2138	u00E1trio esquerdo
+T65	Medical-Concept 2169 2176	vu00E1lvula
+T66	Medical-Concept 2181 2186	sopro
+T67	Medical-Concept 2196 2206	auscultado
+T68	Medical-Concept 2219 2224	click
+T69	Medical-Concept 2 28	prolapso de vu00E1lvula mitral
+T70	Medical-Concept 161 182	anormalidade cardu00EDaca
+T71	Medical-Concept 183 192	congu00EAnita

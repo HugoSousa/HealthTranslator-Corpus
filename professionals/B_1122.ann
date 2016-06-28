@@ -1,0 +1,83 @@
+T1	Automatic-Concept 2 9	insu00F4nia
+T2	Automatic-Concept 678 685	insu00F4nia
+T3	Automatic-Concept 150 158	sensau00E7u00E3o
+T4	Automatic-Concept 73 81	dissonia
+T5	Automatic-Concept 357 364	induu00E7u00E3o
+T6	Automatic-Concept 138 142	sono
+T7	Automatic-Concept 400 404	sono
+T8	Automatic-Concept 524 528	sono
+T9	Automatic-Concept 664 673	paciente
+T10	Automatic-Concept 750 761	diagnu00F3stico
+T11	Automatic-Concept 737 745	paciente
+T12	Automatic-Concept 974 981	insu00F4nia
+T13	Automatic-Concept 1167 1174	insu00F4nia
+T14	Automatic-Concept 1067 1073	doenu00E7a
+T15	Automatic-Concept 1119 1125	doenu00E7a
+T16	Automatic-Concept 1508 1515	insu00F4nia
+T17	Automatic-Concept 1927 1934	insu00F4nia
+T18	Automatic-Concept 2080 2087	insu00F4nia
+T19	Automatic-Concept 2284 2293	depressu00E3o
+T20	Automatic-Concept 2398 2405	insu00F4nia
+T21	Automatic-Concept 2439 2446	insu00F4nia
+T22	Automatic-Concept 2643 2650	insu00F4nia
+T23	Automatic-Concept 2755 2762	insu00F4nia
+T24	Automatic-Concept 2905 2912	insu00F4nia
+T25	Automatic-Concept 3166 3175	depressu00E3o
+T26	Automatic-Concept 3112 3119	insu00F4nia
+T27	Automatic-Concept 3264 3271	insu00F4nia
+T28	Automatic-Concept 3203 3215	psicoterapia
+T29	Medical-Concept 38 45	insu00F3nia
+T30	Medical-Concept 307 323	polissonogru00E1fico
+T31	Medical-Concept 173 187	sono reparador
+T32	Medical-Concept 479 494	desenvolvimento
+T33	Medical-Concept 495 502	cru00F4nico
+T34	Medical-Concept 510 520	transtorno
+T35	Medical-Concept 584 607	clu00EDnicas especializadas
+T36	Medical-Concept 611 621	tratamento
+T37	Medical-Concept 625 642	problemas do sono
+T38	Medical-Concept 697 712	depressu00E3o maior
+T39	Medical-Concept 765 781	insu00F4nia primu00E1ria
+T40	Medical-Concept 883 889	queixa
+T41	Medical-Concept 901 919	sono nu00E3o reparador
+T42	Medical-Concept 934 960	dicionu00E1rio de sau00FAde mental
+T43	Medical-Concept 963 969	DSM IV
+T44	Medical-Concept 1009 1017	primu00E1ria
+T45	Medical-Concept 1033 1041	primu00E1ria
+T46	Medical-Concept 1251 1259	primu00E1ria
+T47	Medical-Concept 1021 1031	secundu00E1ria
+T48	Medical-Concept 1076 1086	secundu00E1ria
+T49	Medical-Concept 1102 1109	sintoma
+T50	Medical-Concept 1129 1163	efeito colateral de um medicamento
+T51	Medical-Concept 1180 1187	sintoma
+T52	Medical-Concept 1197 1220	transtorno psiquiu00E1trico
+T53	Medical-Concept 1269 1307	Classificau00E7u00E3o Internacional de Doenu00E7as
+T54	Medical-Concept 1310 1316	CID 10
+T55	Medical-Concept 1346 1360	causa orgu00E2nica
+T56	Medical-Concept 1376 1398	causa psicofisiolu00F3gica
+T57	Medical-Concept 1432 1439	clu00EDnico
+T58	Medical-Concept 1442 1458	polissonogru00E1fico
+T59	Medical-Concept 1496 1504	subtipos
+T60	Medical-Concept 1527 1533	causas
+T61	Medical-Concept 1534 1543	orgu00E2nicas
+T62	Medical-Concept 1546 1563	psicofisiolu00F3gicas
+T63	Medical-Concept 1610 1652	insu00F4nias de transiente ou de curta durau00E7u00E3o
+T64	Medical-Concept 1731 1739	estresse
+T65	Medical-Concept 2042 2062	insu00F4nia intermitente
+T66	Medical-Concept 1980 1984	sono
+T67	Medical-Concept 2097 2116	ajustado pela idade
+T68	Medical-Concept 2163 2200	insu00F4nias de longa durau00E7u00E3o ou cru00F4nicas
+T69	Medical-Concept 2265 2273	estresse
+T70	Medical-Concept 2296 2321	abuso de u00E1lcool ou drogas
+T71	Medical-Concept 2382 2389	cafeu00EDna
+T72	Medical-Concept 2324 2343	hu00E1bitos inadequados
+T73	Medical-Concept 2700 2721	Estudos populacionais
+T74	Medical-Concept 3089 3099	tratamento
+T75	Medical-Concept 3124 3152	medicamentos antidepressivos
+T76	Medical-Concept 3187 3199	medicamentos
+T77	Medical-Concept 3035 3082	modificau00E7u00E3o dos hu00E1bitos inadequados para dormir
+T78	Medical-Concept 3255 3260	causa
+T79	Medical-Concept 3312 3328	Insu00F4nia primu00E1ria
+T80	Medical-Concept 3330 3353	diagnu00F3stico diferencial
+T81	Medical-Concept 3356 3366	tratamento
+T82	Medical-Concept 2364 2379	excesso de cafu00E9
+T83	Medical-Concept 2987 2997	tratamento

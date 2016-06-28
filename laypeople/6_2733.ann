@@ -1,0 +1,213 @@
+T1	Medical_Concept 145 153	progeria
+T2	Medical_Concept 244 250	doenu00E7a
+T3	Medical_Concept 225 234	paciente
+T4	Medical_Concept 132 140	paciente
+T5	Medical_Concept 1142 1146	pele
+T6	Medical_Concept 255 263	progeria
+T7	Medical_Concept 1077 1085	su00EDndrome
+T8	Medical_Concept 721 727	doenu00E7a
+T9	Medical_Concept 801 807	doenu00E7a
+T10	Medical_Concept 838 852	envelhecimento
+T11	Medical_Concept 495 503	paciente
+T12	Medical_Concept 1232 1240	progeria
+T13	Medical_Concept 1349 1363	envelhecimento
+T14	Medical_Concept 1416 1424	progeria
+T15	Medical_Concept 1535 1541	doenu00E7a
+T16	Medical_Concept 1901 1907	doenu00E7a
+T17	Medical_Concept 2249 2257	su00EDndrome
+T18	Medical_Concept 2468 2474	doenu00E7a
+T19	Medical_Concept 2719 2727	proteu00EDna
+T20	Medical_Concept 3524 3532	proteu00EDna
+T21	Medical_Concept 3274 3278	gene
+T22	Medical_Concept 2588 2596	mutau00E7u00E3o
+T23	Medical_Concept 2633 2640	mutau00E7u00E3o
+T24	Medical_Concept 3659 3666	mutau00E7u00E3o
+T25	Medical_Concept 3856 3863	mutau00E7u00E3o
+T26	Medical_Concept 2974 2986	fosforilau00E7u00E3o
+T27	Automatic-Concept 3989 4004	heterocromatina
+T28	Medical_Concept 3794 3803	cromatina
+T29	Medical_Concept 4069 4076	mutau00E7u00E3o
+T30	Medical_Concept 4401 4409	progeria
+T31	Medical_Concept 4485 4496	cromossomo
+T32	Medical_Concept 4264 4273	telu00F4mero
+T33	Medical_Concept 4599 4608	telu00F4mero
+T34	Medical_Concept 4551 4559	telu00F4mero
+T35	Medical_Concept 4660 4674	envelhecimento
+T36	Medical_Concept 4803 4811	progeria
+T37	Medical_Concept 5878 5883	derme
+T38	Medical_Concept 5771 5775	pele
+T39	Medical_Concept 5420 5425	urina
+T40	Medical_Concept 6156 6161	aorta
+T41	Medical_Concept 5666 5677	osteoporose
+T42	Medical_Concept 5079 5087	progeria
+T43	Medical_Concept 5608 5616	progeria
+T44	Medical_Concept 5679 5688	escoliose
+T45	Medical_Concept 5064 5075	diagnu00F3stico
+T46	Medical_Concept 5343 5354	diagnu00F3stico
+T47	Medical_Concept 6029 6043	tecido adiposo
+T48	Automatic-Concept 6349 6356	atrofia
+T49	Medical_Concept 6269 6277	fibrose
+T50	Medical_Concept 6279 6287	isquemia
+T51	Automatic-Concept 6414 6423	paciente
+T52	Automatic-Concept 7463 7468	gripe
+T53	Automatic-Concept 6455 6463	progeria
+T54	Automatic-Concept 6678 6686	progeria
+T55	Automatic-Concept 7395 7403	progeria
+T56	Automatic-Concept 7646 7654	progeria
+T57	Automatic-Concept 7733 7741	progeria
+T58	Automatic-Concept 8006 8014	progeria
+T59	Automatic-Concept 8057 8065	progeria
+T60	Automatic-Concept 6693 6701	su00EDndrome
+T61	Automatic-Concept 7123 7146	hormu00F4nio do crescimento
+T62	Automatic-Concept 7367 7376	proteu00EDna
+T63	Automatic-Concept 7600 7608	proteu00EDna
+T64	Automatic-Concept 6580 6591	diagnu00F3stico
+T65	Automatic-Concept 6560 6566	doenu00E7a
+T66	Automatic-Concept 7346 7350	gene
+T67	Automatic-Concept 7416 7420	gene
+T68	Automatic-Concept 7381 7390	paciente
+T69	Automatic-Concept 6595 6603	paciente
+T70	Medical_Concept 192 212	nu00FAcleo celular norma
+T71	Medical_Concept 360 374	Su00EDndrome do ET
+T72	Medical_Concept 387 404	desordem genu00E9tica
+T73	Medical_Concept 520 548	ausu00EAncia congu00EAnita de cabelo
+T74	Medical_Concept 557 565	infu00E2ncia
+T75	Medical_Concept 955 974	crianu00E7as portadoras
+T76	Medical_Concept 1049 1069	infarto no miocu00E1rdio
+T77	Medical_Concept 1117 1123	u00F3rgu00E3os
+T78	Medical_Concept 1126 1134	sistemas
+T79	Medical_Concept 1148 1159	esquelu00E9tico
+T80	Medical_Concept 1162 1184	sistema cardiovascular
+T81	Medical_Concept 1247 1257	tratamento
+T82	Medical_Concept 1478 1495	literatura mu00E9dica
+T83	Medical_Concept 1515 1531	baixa incidu00EAncia
+T84	Medical_Concept 1575 1586	nascimentos
+T85	Medical_Concept 1602 1616	sexo masculino
+T86	Medical_Concept 1649 1657	feminino
+T87	Medical_Concept 1771 1779	sintomas
+T88	Medical_Concept 2100 2113	sexo feminino
+T89	Medical_Concept 2209 2216	mu00E9dicos
+T90	Medical_Concept 2239 2244	causa
+T91	Medical_Concept 2316 2344	idade mu00E9dia paterna avanu00E7ada
+T92	Medical_Concept 2371 2387	mutau00E7u00E3o genu00E9tica
+T93	Medical_Concept 2395 2422	doenu00E7a autossu00F4mica dominante
+T94	Medical_Concept 2395 2422	doenu00E7a autossu00F4mica dominante
+T95	Medical_Concept 2476 2494	Teoria da Helicase
+T96	Medical_Concept 2497 2517	Teoria dos Telu00F4meros
+T97	Medical_Concept 2520 2545	Teoria dos Genes Mutantes
+T98	Medical_Concept 2669 2678	gene LMNA
+T99	Medical_Concept 2762 2770	Lu00E2mina A
+T100	Medical_Concept 2729 2740	Prelamina A
+T101	Medical_Concept 2795 2803	lu00E2mina A
+T102	Medical_Concept 2853 2859	nu00FAcleo
+T103	Medical_Concept 2870 2876	mitose
+T104	Medical_Concept 2881 2889	processo
+T105	Medical_Concept 2961 2967	cu00E9lula
+T106	Medical_Concept 2989 3004	desfosforilau00E7u00E3o
+T107	Medical_Concept 3008 3027	proteu00EDnas nucleares
+T108	Medical_Concept 3033 3037	au00E7u00E3o
+T109	Medical_Concept 3045 3052	quinase
+T110	Medical_Concept 3067 3079	Cdc2 quinase
+T111	Medical_Concept 3081 3110	quinase dependente de ciclina
+T112	Medical_Concept 3114 3117	CDK
+T113	Medical_Concept 3130 3149	proteu00EDna reguladora
+T114	Medical_Concept 3170 3191	eucariotos superiores
+T115	Medical_Concept 3224 3232	espu00E9cies
+T116	Medical_Concept 3240 3257	filogeneticamente
+T117	Medical_Concept 3289 3303	Grupo Farnesyl
+T118	Medical_Concept 3314 3340	estrutura carboxi-terminal
+T119	Medical_Concept 3365 3372	ligau00E7u00E3o
+T120	Medical_Concept 3376 3387	Prelamina A
+T121	Medical_Concept 3390 3403	borda nuclear
+T122	Medical_Concept 3457 3465	Citosina
+T123	Medical_Concept 3474 3480	Timina
+T124	Medical_Concept 3548 3557	Progerina
+T125	Medical_Concept 3536 3544	Lu00E2mina A
+T126	Medical_Concept 3561 3572	Prelamina A
+T127	Medical_Concept 3594 3615	proteu00EDnas estruturais
+T128	Medical_Concept 3619 3645	envoltu00F3rio nuclear interno
+T129	Medical_Concept 3670 3674	LMNA
+T130	Medical_Concept 3678 3686	Farnesyl
+T131	Medical_Concept 3713 3722	Progerina
+T132	Medical_Concept 3747 3765	envoltu00F3rio nuclear
+T133	Medical_Concept 3820 3836	envelope nuclear
+T134	Medical_Concept 3883 3902	divisu00E3o das cu00E9lulas
+T135	Medical_Concept 3931 3941	herniau00E7u00F5es
+T136	Medical_Concept 3944 3951	lu00F3bulos
+T137	Medical_Concept 4100 4115	enzima Helicase
+T138	Medical_Concept 4165 4182	replicau00E7u00E3o do DNA
+T139	Medical_Concept 4314 4336	cromossomos essenciais
+T140	Medical_Concept 4424 4438	envelhecimento
+T141	Medical_Concept 4454 4461	cu00E9lulas
+T142	Medical_Concept 4470 4480	replicau00E7u00E3o
+T143	Medical_Concept 4485 4518	cromossomos das cu00E9lulas somu00E1ticas
+T144	Medical_Concept 4530 4539	sequu00EAncia
+T145	Medical_Concept 4626 4657	crianu00E7as portadoras de progeria
+T146	Medical_Concept 4717 4727	nascimento
+T147	Medical_Concept 4935 4940	morte
+T148	Medical_Concept 4970 4988	Estrutura corpu00F3rea
+T149	Medical_Concept 5107 5114	clu00EDnico
+T150	Medical_Concept 5177 5183	doenu00E7a
+T151	Medical_Concept 5255 5260	exame
+T152	Medical_Concept 5064 5087	diagnu00F3stico da progeria
+T153	Medical_Concept 5277 5300	diagnu00F3stico de progeria
+T154	Medical_Concept 5321 5327	exames
+T155	Medical_Concept 5387 5416	excreu00E7u00E3o de u00E1cido hialuru00F4nico
+T156	Medical_Concept 5492 5511	eventos metabu00F3licos
+T157	Medical_Concept 5546 5584	sinais radiolu00F3gicos e histopatolu00F3gicos
+T158	Medical_Concept 5632 5655	alterau00E7u00F5es radiolu00F3gicas
+T159	Medical_Concept 5694 5726	caracteru00EDsticas histopatolu00F3gicas
+T160	Medical_Concept 5735 5753	alterau00E7u00F5es da pele
+T161	Medical_Concept 5817 5825	epiderme
+T162	Medical_Concept 5771 5782	pele normal
+T163	Medical_Concept 5839 5858	aumento de melanina
+T164	Medical_Concept 5862 5874	camada basal
+T165	Medical_Concept 5906 5950	u00E1reas de desorganizau00E7u00E3o das fibras colu00E1genas
+T166	Medical_Concept 5953 5974	u00E1reas de hialinizau00E7u00E3o
+T167	Medical_Concept 5988 6005	tecido subcutu00E2neo
+T168	Medical_Concept 6054 6068	cardiovascular
+T169	Medical_Concept 6082 6101	placas ateromatosas
+T170	Medical_Concept 6132 6151	artu00E9rias coronu00E1rias
+T171	Medical_Concept 6168 6180	mesentu00E9ricas
+T172	Medical_Concept 6203 6246	calcificau00E7u00F5es das vu00E1lvulas au00F3rtica e mitral
+T173	Medical_Concept 314 345	Su00EDndrome de Huntchinson-Gilford
+T174	Medical_Concept 6290 6310	infarto do miocu00E1rdio
+T175	Medical_Concept 6316 6336	glu00E2ndulas endu00F3crinas
+T176	Medical_Concept 6361 6370	tireu00F3ides
+T177	Medical_Concept 6388 6403	espermatogu00E9nese
+T178	Medical_Concept 6441 6451	tratamento
+T179	Medical_Concept 6494 6502	sintomas
+T180	Medical_Concept 6647 6669	profissionais da sau00FAde
+T181	Medical_Concept 6721 6729	sistemas
+T182	Medical_Concept 6731 6738	Estudos
+T183	Medical_Concept 6823 6835	medicamentos
+T184	Medical_Concept 6853 6875	envelhecimento precoce
+T185	Medical_Concept 6879 6899	ratos de laboratu00F3rio
+T186	Medical_Concept 6972 6984	medicamentos
+T187	Medical_Concept 6988 6995	humanos
+T188	Medical_Concept 7011 7023	medicamentos
+T189	Medical_Concept 7040 7061	Complexos vitamu00EDnicos
+T190	Medical_Concept 7063 7077	co-enzima Q-10
+T191	Medical_Concept 7079 7092	u00E1cidos-Gordos
+T192	Medical_Concept 7094 7104	vitamina E
+T193	Medical_Concept 7107 7121	anti-Oxidantes
+T194	Medical_Concept 7148 7162	nitroglicerina
+T195	Medical_Concept 7165 7173	aspirina
+T196	Medical_Concept 7176 7182	cu00E1lcio
+T197	Medical_Concept 7185 7192	morfina
+T198	Medical_Concept 7262 7272	tratamento
+T199	Medical_Concept 7299 7313	terapia gu00EAnica
+T200	Medical_Concept 7437 7442	vu00EDrus
+T201	Medical_Concept 7492 7497	vetor
+T202	Medical_Concept 7664 7672	progerin
+T203	Medical_Concept 7710 7717	cu00E9lulas
+T204	Medical_Concept 7747 7755	molu00E9cula
+T205	Medical_Concept 7765 7779	farnesyl group
+T206	Medical_Concept 7799 7816	proteu00EDna progerin
+T207	Medical_Concept 7821 7854	inibidores de farnesyltransferase
+T208	Medical_Concept 7856 7893	farnesyltransferase inhibitors u2013 FTIs
+T209	Medical_Concept 7913 7940	ligau00E7u00E3o da u201Cfarnesyl groupu201D
+T210	Medical_Concept 7943 7960	proteu00EDna progerin
+T211	Medical_Concept 8024 8032	progerin
+T212	Medical-Concept 1367 1377	ser humano
+T213	Medical-Concept 5465 5487	transtornos endu00F3crinos

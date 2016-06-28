@@ -1,0 +1,41 @@
+T1	Automatic-Concept 307 318	clostridium
+T2	Automatic-Concept 567 575	diarreia
+T3	Automatic-Concept 331 339	yersinia
+T4	Automatic-Concept 1460 1465	fezes
+T5	Medical_Concept 2 23	intoxicau00E7u00E3o alimentar
+T6	Medical_Concept 29 44	gastrintestinal
+T7	Medical_Concept 184 197	contaminantes
+T8	Medical_Concept 218 227	bactu00E9rias
+T9	Medical_Concept 246 255	Salmonela
+T10	Medical_Concept 258 266	Shigella
+T11	Medical_Concept 269 281	stafilococos
+T12	Medical_Concept 284 304	Campylobacter jejuni
+T13	Medical_Concept 321 328	E. coli
+T14	Medical_Concept 386 391	vu00EDrus
+T15	Medical_Concept 397 406	parasitas
+T16	Medical_Concept 409 415	vermes
+T17	Medical_Concept 423 430	toxinas
+T18	Medical_Concept 435 456	intoxicau00E7u00E3o alimentar
+T19	Medical_Concept 481 515	desconforto gastrintestinal severo
+T20	Medical_Concept 537 555	cu00F3licas abdominais
+T21	Medical_Concept 557 564	vu00F3mitos
+T22	Medical_Concept 582 603	intoxicau00E7u00E3o alimentar
+T23	Medical_Concept 824 845	intoxicau00E7u00E3o alimentar
+T24	Medical_Concept 907 928	intoxicau00E7u00E3o alimentar
+T25	Medical_Concept 972 999	intoxicau00E7u00E3o gastrintestinal
+T26	Medical_Concept 1086 1113	intoxicau00E7u00E3o gastrintestinal
+T27	Medical_Concept 2100 2127	intoxicau00E7u00E3o gastrintestinal
+T28	Medical_Concept 1143 1155	contaminante
+T29	Medical_Concept 1161 1167	toxina
+T30	Medical_Concept 2058 2064	toxina
+T31	Medical_Concept 1186 1195	organismo
+T32	Medical_Concept 1211 1218	mu00E9dicos
+T33	Medical_Concept 1255 1263	sintomas
+T34	Medical_Concept 1271 1279	sintomas
+T35	Medical_Concept 1972 1980	sintomas
+T36	Medical_Concept 1346 1362	amostra de fezes
+T37	Medical_Concept 1383 1397	exame de fezes
+T38	Medical_Concept 1404 1410	mu00E9dico
+T39	Medical_Concept 1441 1458	amostra de sangue
+T40	Medical_Concept 1552 1583	crescimento dos microorganismos
+T41	Medical_Concept 1664 1693	intoxicau00E7u00F5es gastrintestinais

@@ -1,0 +1,51 @@
+T1	Automatic-Concept 314 326	metamorfose
+T2	Automatic-Concept 1379 1387	medicina
+T3	Automatic-Concept 1697 1706	paciente
+T4	Automatic-Concept 3390 3399	epilepsia
+T5	Automatic-Concept 3401 3409	histeria
+T6	Automatic-Concept 3834 3842	neurose
+T7	Automatic-Concept 3845 3853	psicose
+T8	Automatic-Concept 3412 3419	psicose
+T9	Automatic-Concept 4367 4374	doenu00E7a
+T10	Automatic-Concept 5046 5058	metamorfose
+T11	Automatic-Concept 5938 5944	lu00EDngua
+T12	Automatic-Concept 6849 6855	vu00F4mito
+T13	Automatic-Concept 6797 6806	massagem
+T14	Automatic-Concept 6830 6836	doenu00E7a
+T15	Automatic-Concept 6581 6586	jejum
+T16	Automatic-Concept 8239 8251	antropologia
+T17	Automatic-Concept 9009 9017	medicina
+T18	Automatic-Concept 9000 9007	doenu00E7a
+T19	Automatic-Concept 9375 9387	psicoterapia
+T20	Medical-Concept 1662 1667	corpo
+T21	Medical-Concept 1784 1816	estados alterados de consciu00EAncia
+T22	Medical-Concept 2469 2477	psu00EDquica
+T23	Medical-Concept 2455 2461	fu00EDsica
+T24	Medical-Concept 2090 2103	doenu00E7a fu00EDsica
+T25	Medical-Concept 2107 2113	mental
+T26	Medical-Concept 2917 2940	distu00FArbios psicolu00F3gicos
+T27	Medical-Concept 3223 3229	mu00E9dico
+T28	Medical-Concept 3261 3271	sofrimento
+T29	Medical-Concept 3368 3384	distu00FArbio mental
+T30	Medical-Concept 3552 3574	distu00FArbios patolu00F3gicos
+T31	Medical-Concept 3706 3728	distu00FArbios patolu00F3gicos
+T32	Medical-Concept 3955 3979	disposiu00E7u00F5es psicopu00E1ticas
+T33	Medical-Concept 4947 4954	ouvidos
+T34	Medical-Concept 5675 5683	feminina
+T35	Medical-Concept 6588 6609	restriu00E7u00F5es dietu00E9ticas
+T36	Medical-Concept 6623 6629	doente
+T37	Medical-Concept 6652 6673	pru00E1ticas terapu00EAuticas
+T38	Medical-Concept 6696 6702	tabaco
+T39	Medical-Concept 6744 6763	plantas psicoativas
+T40	Medical-Concept 6818 6826	extrau00E7u00E3o
+T41	Medical-Concept 6841 6847	sucu00E7u00E3o
+T42	Medical-Concept 6874 6879	tu00F3rax
+T43	Medical-Concept 6882 6899	locais inflamados
+T44	Medical-Concept 6910 6916	dentes
+T45	Medical-Concept 6250 6255	Sau00FAde
+T46	Medical-Concept 7663 7697	estados modificados de consciu00EAncia
+T47	Medical-Concept 7778 7801	substancias psicoativas
+T48	Medical-Concept 7882 7902	composiu00E7u00E3o molecular
+T49	Medical-Concept 7905 7922	efeito bioquu00EDmico
+T50	Medical-Concept 8829 8841	alucinu00F3genos
+T51	Medical-Concept 9020 9028	remu00E9dios

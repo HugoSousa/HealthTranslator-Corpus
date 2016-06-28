@@ -1,0 +1,105 @@
+T1	Medical-Concept 506 513	doenças
+T2	Medical-Concept 4314 4319	olhos
+T3	Medical-Concept 4434 4440	doença
+T4	Medical-Concept 4025 4033	crianças
+T5	Medical-Concept 4262 4277	acuidade visual
+T6	Medical-Concept 4815 4819	olho
+T7	Medical-Concept 4773 4781	nistagmo
+T8	Medical-Concept 4786 4795	fotofobia
+T9	Medical-Concept 4712 4727	acuidade visual
+T10	Medical-Concept 5062 5070	nistagmo
+T11	Medical-Concept 5074 5083	fotofobia
+T12	Medical-Concept 5026 5041	acuidade visual
+T13	Medical-Concept 5373 5388	córtex cerebral
+T14	Medical-Concept 5313 5323	diencéfalo
+T15	Medical-Concept 5353 5364	mesencéfalo
+T16	Medical-Concept 5397 5404	cérebro
+T17	Medical-Concept 5492 5507	tronco cerebral
+T18	Medical-Concept 5717 5732	córtex cerebral
+T19	Medical-Concept 5786 5790	olho
+T20	Medical-Concept 5668 5678	daltonismo
+T21	Medical-Concept 5841 5851	hemorragia
+T22	Medical-Concept 5776 5782	retina
+T23	Medical-Concept 5826 5839	trauma físico
+T24	Medical-Concept 6220 6228	mutações
+T25	Medical-Concept 406 418	acromatopsia
+T26	Medical-Concept 593 600	agnosia
+T27	Medical-Concept 614 635	acromatopsia cerebral
+T28	Medical-Concept 775 790	acuidade visual
+T29	Medical-Concept 859 867	síndrome
+T30	Medical-Concept 953 963	daltonismo
+T31	Medical-Concept 433 441	síndrome
+T32	Medical-Concept 1118 1127	acromatas
+T33	Medical-Concept 1225 1234	acromatas
+T34	Medical-Concept 2375 2384	acromatas
+T35	Medical-Concept 1266 1271	genes
+T36	Medical-Concept 1317 1325	sintomas
+T37	Medical-Concept 1433 1442	genéticas
+T38	Medical-Concept 1529 1541	diagnosticar
+T39	Medical-Concept 1666 1681	acuidade visual
+T40	Medical-Concept 1763 1774	hemeralopia
+T41	Medical-Concept 1778 1786	cegueira
+T42	Medical-Concept 1813 1820	sintoma
+T43	Medical-Concept 2064 2072	síndrome
+T44	Medical-Concept 2138 2145	médicos
+T45	Medical-Concept 2148 2168	neuro-oftalmológicos
+T46	Medical-Concept 2343 2353	daltônicos
+T47	Medical-Concept 2388 2399	acromatopes
+T48	Medical-Concept 2483 2493	protanopes
+T49	Medical-Concept 2495 2507	deuteranopes
+T50	Medical-Concept 2511 2523	tetartanopes
+T51	Medical-Concept 2558 2570	acromatopsia
+T52	Medical-Concept 1833 1845	acromatopsia
+T53	Medical-Concept 2076 2088	acromatopsia
+T54	Medical-Concept 4578 4590	acromatopsia
+T55	Medical-Concept 4883 4895	acromatopsia
+T56	Medical-Concept 4998 5010	acromatopsia
+T57	Medical-Concept 4930 4942	acromatopsia
+T58	Medical-Concept 5238 5250	acromatopsia
+T59	Medical-Concept 5631 5643	acromatopsia
+T60	Medical-Concept 5927 5939	acromatopsia
+T61	Medical-Concept 2601 2613	monocromacia
+T62	Medical-Concept 2671 2680	congênita
+T63	Medical-Concept 5940 5949	congênita
+T64	Medical-Concept 2764 2783	eletrorretinografia
+T65	Medical-Concept 3058 3067	Ambliopia
+T66	Medical-Concept 3321 3326	olhos
+T67	Medical-Concept 3392 3396	Olho
+T68	Medical-Concept 3511 3519	Nistagmo
+T69	Medical-Concept 3587 3618	condições normais e patológicos
+T70	Medical-Concept 3681 3700	condição patológica
+T71	Medical-Concept 3756 3761	olhos
+T72	Medical-Concept 3884 3893	Fotofobia
+T73	Medical-Concept 3953 3964	hemeralopia
+T74	Medical-Concept 3413 3424	Hemeralopia
+T75	Medical-Concept 4759 4770	hemeralopia
+T76	Medical-Concept 3972 3980	síndrome
+T77	Medical-Concept 4105 4113	nistagmo
+T78	Medical-Concept 4117 4125	nistagmo
+T79	Medical-Concept 4189 4197	síndrome
+T80	Medical-Concept 5220 5230	bastonetes
+T81	Medical-Concept 5471 5477	tálamo
+T82	Medical-Concept 5343 5349	tálamo
+T83	Medical-Concept 5580 5586	tálamo
+T84	Medical-Concept 5765 5772	células
+T85	Medical-Concept 5544 5563	crescimento tumoral
+T86	Medical-Concept 5998 6020	fototransdução retinal
+T87	Medical-Concept 1846 1860	discromatopsia
+T88	Medical-Concept 2089 2103	discromatopsia
+T89	Medical-Concept 5412 5433	acromatopsia talâmica
+T90	Medical-Concept 5434 5448	discromatopsia
+T91	Medical-Concept 2619 2645	daltonismo total congênito
+T92	Medical-Concept 3310 3316	óptico
+T93	Medical-Concept 3635 3653	sistema oculomotor
+T94	Medical-Concept 6157 6173	hiperpolarização
+T95	Medical-Concept 3126 3155	déficit da acuidade monocular
+T96	Medical-Concept 4420 4430	congênitas
+T97	Medical-Concept 1952 1966	sistema visual
+T98	Medical-Concept 3232 3252	condição neurológica
+T99	Medical-Concept 3340 3358	iluminação nominal
+T100	Medical-Concept 2832 2848	causas genéticas
+T101	Medical-Concept 6179 6195	causas genéticas
+T102	Medical-Concept 5872 5887	tecido do tumor
+T103	Medical-Concept 2540 2550	tritanopes
+T104	Medical-Concept 3490 3498	cegueira
+T105	Medical-Concept 3426 3443	Capacidade visual

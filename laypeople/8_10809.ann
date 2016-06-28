@@ -1,0 +1,145 @@
+T1	Automatic-Concept 211 219	medicina
+T2	Automatic-Concept 374 388	vaso sanguu00EDneo
+T3	Automatic-Concept 346 353	cemento
+T4	Automatic-Concept 321 328	dentina
+T5	Automatic-Concept 392 397	nervo
+T6	Automatic-Concept 401 406	coroa
+T7	Automatic-Concept 433 450	tecido conjuntivo
+T8	Automatic-Concept 635 642	cemento
+T9	Automatic-Concept 730 744	polpa dentu00E1ria
+T10	Automatic-Concept 420 427	dentina
+T11	Automatic-Concept 571 578	dentina
+T12	Automatic-Concept 845 852	dentina
+T13	Automatic-Concept 990 997	dentina
+T14	Automatic-Concept 2353 2360	cemento
+T15	Automatic-Concept 2290 2297	dentina
+T16	Automatic-Concept 2301 2308	dentina
+T17	Automatic-Concept 2655 2662	dentina
+T18	Automatic-Concept 2344 2348	osso
+T19	Automatic-Concept 2912 2919	dentina
+T20	Automatic-Concept 2777 2790	odontoblasto
+T21	Automatic-Concept 3009 3021	odontoblasto
+T22	Automatic-Concept 3222 3229	dentina
+T23	Automatic-Concept 3547 3554	dentina
+T24	Automatic-Concept 3803 3815	odontoblasto
+T25	Automatic-Concept 3938 3945	dentina
+T26	Automatic-Concept 4093 4100	dentina
+T27	Automatic-Concept 4378 4385	dentina
+T28	Automatic-Concept 4394 4401	dentina
+T29	Automatic-Concept 4489 4496	dentina
+T30	Automatic-Concept 4744 4751	dentina
+T31	Automatic-Concept 4726 4739	odontoblasto
+T32	Automatic-Concept 4972 4979	dentina
+T33	Automatic-Concept 5049 5056	dentina
+T34	Automatic-Concept 5105 5112	dentina
+T35	Automatic-Concept 5061 5066	coroa
+T36	Automatic-Concept 5518 5525	dentina
+T37	Automatic-Concept 5704 5711	dentina
+T38	Automatic-Concept 5370 5374	feto
+T39	Automatic-Concept 5665 5672	molar
+T40	Automatic-Concept 5544 5556	calcificau00E7u00E3o
+T41	Automatic-Concept 5573 5585	calcificau00E7u00E3o
+T42	Automatic-Concept 5773 5780	dentina
+T43	Automatic-Concept 5812 5824	odontoblasto
+T44	Automatic-Concept 6371 6378	dentina
+T45	Automatic-Concept 6415 6422	dentina
+T46	Automatic-Concept 6513 6520	dentina
+T47	Automatic-Concept 6635 6642	dentina
+T48	Automatic-Concept 8948 8955	cemento
+T49	Automatic-Concept 6743 6750	dentina
+T50	Automatic-Concept 6905 6912	dentina
+T51	Automatic-Concept 6938 6945	dentina
+T52	Automatic-Concept 7691 7698	dentina
+T53	Automatic-Concept 7776 7783	dentina
+T54	Automatic-Concept 8445 8452	dentina
+T55	Automatic-Concept 8556 8563	dentina
+T56	Automatic-Concept 8922 8929	dentina
+T57	Automatic-Concept 8940 8947	dentina
+T58	Automatic-Concept 9136 9143	dentina
+T59	Automatic-Concept 7051 7064	odontoblasto
+T60	Automatic-Concept 7379 7392	odontoblasto
+T61	Automatic-Concept 7551 7564	odontoblasto
+T62	Automatic-Concept 7844 7857	odontoblasto
+T63	Automatic-Concept 7867 7885	fosfatase alcalina
+T64	Automatic-Concept 6727 6739	calcificau00E7u00E3o
+T65	Automatic-Concept 8304 8316	calcificau00E7u00E3o
+T66	Automatic-Concept 9845 9852	cemento
+T67	Automatic-Concept 9945 9952	cemento
+T68	Automatic-Concept 10050 10057	cemento
+T69	Automatic-Concept 9531 9538	dentina
+T70	Automatic-Concept 9766 9773	dentina
+T71	Automatic-Concept 9918 9925	dentina
+T72	Automatic-Concept 9657 9670	odontoblasto
+T73	Automatic-Concept 9889 9899	periodonto
+T74	Medical_Concept 309 316	Esmalte
+T75	Medical_Concept 336 341	Polpa
+T76	Medical_Concept 358 370	tecido u00F3sseo
+T77	Medical_Concept 410 414	Raiz
+T78	Medical_Concept 451 460	avascular
+T79	Medical_Concept 511 516	dente
+T80	Medical_Concept 560 567	esmalte
+T81	Medical_Concept 596 603	esmalte
+T82	Medical_Concept 618 627	coronu00E1ria
+T83	Medical_Concept 646 662	poru00E7u00E3o radicular
+T84	Medical_Concept 698 713	cavidade pulpar
+T85	Medical_Concept 757 768	tecido vivo
+T86	Medical_Concept 795 817	cu00E9lulas especializadas
+T87	Medical_Concept 820 843	substu00E2ncia intercelular
+T88	Medical_Concept 855 860	polpa
+T89	Medical_Concept 898 909	topogru00E1fica
+T90	Medical_Concept 911 923	embriolu00F3gica
+T91	Medical_Concept 926 935	funcional
+T92	Medical_Concept 950 976	caracteru00EDsticas biolu00F3gicas
+T93	Medical_Concept 1115 1120	dente
+T94	Medical_Concept 1694 1701	clu00EDnica
+T95	Medical_Concept 1947 1977	prolongamentos odontoblu00E1sticos
+T96	Medical_Concept 2422 2429	esmalte
+T97	Medical_Concept 2503 2519	fibras colu00E1genas
+T98	Medical_Concept 2610 2617	esmalte
+T99	Medical_Concept 2644 2651	frature
+T100	Medical_Concept 2822 2827	polpa
+T101	Medical_Concept 2839 2864	projeu00E7u00F5es citoplasmu00E1ticas
+T102	Medical_Concept 2932 2951	tu00FAbulos dentinu00E1rios
+T103	Medical_Concept 3026 3056	prolongamentos odontoblu00E1sticos
+T104	Medical_Concept 3088 3103	amelodentinu00E1rio
+T105	Medical_Concept 3245 3275	prolongamentos odontoblu00E1sticos
+T106	Medical_Concept 3356 3364	incisais
+T107	Medical_Concept 3367 3375	cu00FAspides
+T108	Medical_Concept 3465 3476	canalu00EDculos
+T109	Medical_Concept 3508 3513	dente
+T110	Medical_Concept 3533 3543	canalu00EDculo
+T111	Medical_Concept 3597 3602	polpa
+T112	Medical_Concept 3771 3781	canalu00EDculo
+T113	Medical_Concept 3844 3852	tissular
+T114	Medical_Concept 3899 3929	prolongamentos odontoblu00E1sticos
+T115	Medical_Concept 3873 3891	trocas metabu00F3licas
+T116	Medical_Concept 3962 3978	parede do tu00FAbulo
+T117	Medical_Concept 4042 4048	dentes
+T118	Medical_Concept 4117 4122	polpa
+T119	Medical_Concept 4162 4167	dente
+T120	Medical_Concept 4191 4210	tu00FAbulos dentinu00E1rios
+T121	Medical_Concept 4221 4240	dentina peritubular
+T122	Medical_Concept 4419 4441	canalu00EDculos da dentina
+T123	Medical_Concept 4445 4465	dentina intertubular
+T124	Medical_Concept 4617 4625	colu00E1geno
+T125	Medical_Concept 4790 4803	dentinogu00EAnese
+T126	Medical_Concept 5125 5144	aposiu00E7u00E3o dentinu00E1ria
+T127	Medical_Concept 5222 5232	distu00FArbios
+T128	Medical_Concept 5327 5340	dentinogu00EAnese
+T129	Medical_Concept 8891 8898	cu00E9lulas
+T130	Medical_Concept 8689 8710	material extracelular
+T131	Medical_Concept 8021 8051	capilares sangu00FCu00EDneos da papila
+T132	Medical_Concept 8163 8181	fibrilas colu00E1genas
+T133	Medical_Concept 9334 9350	hipocalcificadas
+T134	Medical_Concept 9380 9397	dentina coronu00E1ria
+T135	Medical_Concept 9480 9493	eixo do dente
+T136	Medical_Concept 9545 9556	canalu00EDculos
+T137	Medical_Concept 9733 9753	atividade metabu00F3lica
+T138	Medical_Concept 9797 9814	dentina radicular
+T139	Medical_Concept 9965 9987	zona granular de Tomes
+T140	Medical_Concept 10004 10015	canalu00EDculos
+T141	Medical_Concept 10019 10035	poru00E7u00E3o radicular
+T142	Medical_Concept 10160 10182	zona granular de Tomes
+T143	Medical_Concept 10225 10248	canalu00EDculos radiculares
+T144	Medical_Concept 10271 10282	Odontologia
+T145	Medical_Concept 2051 2064	glicoproteica

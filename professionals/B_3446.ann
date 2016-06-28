@@ -1,0 +1,104 @@
+T1	Automatic-Concept 30 39	proteu00EDna
+T2	Automatic-Concept 1421 1436	arteriosclerose
+T3	Automatic-Concept 880 888	proteu00EDna
+T4	Automatic-Concept 608 614	fu00EDgado
+T5	Automatic-Concept 1245 1251	fu00EDgado
+T6	Automatic-Concept 1727 1736	proteu00EDna
+T7	Automatic-Concept 2687 2691	soro
+T8	Automatic-Concept 2414 2423	proteu00EDna
+T9	Automatic-Concept 2319 2325	fu00EDgado
+T10	Automatic-Concept 2916 2925	proteu00EDna
+T11	Automatic-Concept 2953 2961	proteu00EDna
+T12	Medical-Concept 0 12	Lipoproteu00EDna
+T13	Medical-Concept 1860 1872	Lipoproteu00EDna
+T14	Medical-Concept 42 50	lipu00EDdeos
+T15	Medical-Concept 86 96	transporte
+T16	Medical-Concept 101 109	lipu00EDdeos
+T17	Medical-Concept 127 135	lipu00EDdeos
+T18	Medical-Concept 115 121	plasma
+T19	Medical-Concept 169 175	plasma
+T20	Medical-Concept 1654 1660	plasma
+T21	Medical-Concept 2997 3003	plasma
+T22	Medical-Concept 235 247	apoproteu00EDnas
+T23	Medical-Concept 254 269	frau00E7u00E3o lipu00EDdica
+T24	Medical-Concept 201 216	frau00E7u00E3o protu00E9ica
+T25	Medical-Concept 186 197	meio aquoso
+T26	Medical-Concept 290 300	Colesterol
+T27	Medical-Concept 303 317	Trigliceru00EDdeos
+T28	Medical-Concept 981 995	Trigliceru00EDdeos
+T29	Medical-Concept 673 687	Trigliceru00EDdeos
+T30	Medical-Concept 1840 1854	Trigliceru00EDdeos
+T31	Medical-Concept 2355 2369	Trigliceru00EDdeos
+T32	Medical-Concept 2506 2520	Trigliceru00EDdeos
+T33	Medical-Concept 2804 2818	Trigliceru00EDdeos
+T34	Medical-Concept 320 336	Fosfogliceru00EDdeos
+T35	Medical-Concept 375 406	caracteru00EDsticas fu00EDsico-quu00EDmicas
+T36	Medical-Concept 411 423	quilomu00EDcrons
+T37	Medical-Concept 426 430	VLDL
+T38	Medical-Concept 433 436	IDL
+T39	Medical-Concept 439 442	LDL
+T40	Medical-Concept 445 448	HDL
+T41	Medical-Concept 472 482	Bioquu00EDmica
+T42	Medical-Concept 547 560	lipoproteu00EDnas
+T43	Medical-Concept 565 591	complexos macromoleculares
+T44	Medical-Concept 592 604	sintetizados
+T45	Medical-Concept 620 637	intestino delgado
+T46	Medical-Concept 643 654	transportam
+T47	Medical-Concept 657 667	colesterol
+T48	Medical-Concept 962 972	colesterol
+T49	Medical-Concept 1228 1238	colesterol
+T50	Medical-Concept 2378 2388	colesterol
+T51	Medical-Concept 1664 1674	colesterol
+T52	Medical-Concept 1890 1900	colesterol
+T53	Medical-Concept 2536 2546	colesterol
+T54	Medical-Concept 699 717	corrente sangu00FCu00EDnea
+T55	Medical-Concept 745 776	caracteru00EDsticas fu00EDsico-quu00EDmicas
+T56	Medical-Concept 778 809	Lipoproteu00EDnas de Alta Densidade
+T57	Medical-Concept 812 815	HDL
+T58	Medical-Concept 819 822	HDL
+T59	Medical-Concept 1024 1027	HDL
+T60	Medical-Concept 904 916	Apo A I e II
+T61	Medical-Concept 940 945	Apo C
+T62	Medical-Concept 948 953	Apo E
+T63	Medical-Concept 2466 2471	Apo E
+T64	Medical-Concept 1008 1020	fosfolipu00EDdio
+T65	Medical-Concept 1077 1082	HDL 2
+T66	Medical-Concept 1085 1090	HDL 3
+T67	Medical-Concept 1176 1188	apoproteu00EDnas
+T68	Medical-Concept 1346 1350	VLDL
+T69	Medical-Concept 1314 1327	lipoproteu00EDnas
+T70	Medical-Concept 1280 1301	u00E9steres de colesterol
+T71	Medical-Concept 1373 1378	HDL 2
+T72	Medical-Concept 1390 1398	proteu00E7u00E3o
+T73	Medical-Concept 1402 1417	desenvolvimento
+T74	Medical-Concept 1441 1473	Lipoproteu00EDnas de Baixa Densidade
+T75	Medical-Concept 1476 1479	LDL
+T76	Medical-Concept 1482 1485	LDL
+T77	Medical-Concept 1519 1532	lipoproteu00EDnas
+T78	Medical-Concept 1533 1544	circulantes
+T79	Medical-Concept 1705 1708	LDL
+T80	Medical-Concept 1753 1762	Apo B-100
+T81	Medical-Concept 1789 1794	Apo C
+T82	Medical-Concept 1964 1982	funu00E7u00E3o fisiolu00F3gica
+T83	Medical-Concept 2003 2010	su00EDntese
+T84	Medical-Concept 2014 2024	esteru00F3ides
+T85	Medical-Concept 2075 2093	lipoproteu00EDnas VLDL
+T86	Medical-Concept 2099 2118	concentrau00E7u00E3o su00E9rica
+T87	Medical-Concept 2126 2140	relau00E7u00E3o direta
+T88	Medical-Concept 2147 2163	aumento do risco
+T89	Medical-Concept 2167 2178	aterogu00EAnese
+T90	Medical-Concept 2183 2221	Lipoproteu00EDnas de Muito Baixa Densidade
+T91	Medical-Concept 2224 2228	VLDL
+T92	Medical-Concept 2292 2304	quilomu00EDcrons
+T93	Medical-Concept 2391 2404	fosfolipu00EDdios
+T94	Medical-Concept 2440 2449	Apo B-100
+T95	Medical-Concept 2451 2456	Apo C
+T96	Medical-Concept 2521 2530	endu00F3genos
+T97	Medical-Concept 2555 2574	tecidos perifu00E9ricos
+T98	Medical-Concept 2649 2661	quilomu00EDcrons
+T99	Medical-Concept 2696 2708	Quilomu00EDcrons
+T100	Medical-Concept 2749 2768	cu00E9lulas intestinais
+T101	Medical-Concept 2839 2846	exu00F3geno
+T102	Medical-Concept 2832 2837	dieta
+T103	Medical-Concept 2890 2903	fosfolipu00EDdios
+T104	Medical-Concept 2871 2887	colesterol livre

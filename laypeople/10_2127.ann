@@ -1,0 +1,76 @@
+T1	Automatic-Concept 391 398	corau00E7u00E3o
+T2	Automatic-Concept 401 408	nu00E1usea
+T3	Automatic-Concept 71 80	ansiedade
+T4	Automatic-Concept 734 743	ansiedade
+T5	Automatic-Concept 857 862	fobia
+T6	Automatic-Concept 1413 1419	cabeu00E7a
+T7	Automatic-Concept 1241 1256	hiperventilau00E7u00E3o
+T8	Automatic-Concept 1156 1163	nu00E1usea
+T9	Automatic-Concept 1636 1641	dor
+T10	Medical_Concept 1892 1917	sistema nervoso simpu00E1tico
+T11	Automatic-Concept 2280 2287	asfixia
+T12	Medical_Concept 2012 2024	dor toru00E1cica
+T13	Automatic-Concept 1974 1982	dispneia
+T14	Automatic-Concept 2223 2238	hiperventilau00E7u00E3o
+T15	Automatic-Concept 2157 2164	nu00E1usea
+T16	Automatic-Concept 2241 2251	parestesia
+T17	Automatic-Concept 2180 2188	vertigem
+T18	Medical_Concept 2652 2663	diagnu00F3stico
+T19	Medical_Concept 2732 2749	eletrocardiograma
+T20	Medical_Concept 2602 2609	doenu00E7a
+T21	Medical_Concept 2769 2781	sau00FAde mental
+T22	Automatic-Concept 2383 2386	dor
+T23	Medical_Concept 3031 3038	doenu00E7a
+T24	Medical_Concept 3049 3055	doenu00E7a
+T25	Medical_Concept 2857 2866	ansiedade
+T26	Medical_Concept 2995 3004	ansiedade
+T27	Medical_Concept 3244 3249	fobia
+T28	Medical_Concept 3819 3826	terapia
+T29	Medical_Concept 3792 3798	fobia
+T30	Medical_Concept 4391 4398	cu00E9rebro
+T31	Medical_Concept 43 58	crise de pu00E2nico
+T32	Medical_Concept 151 159	sintomas
+T33	Medical_Concept 252 260	tremores
+T34	Medical_Concept 1963 1971	tremores
+T35	Medical_Concept 262 271	calafrios
+T36	Medical_Concept 376 387	palpitau00E7u00F5es
+T37	Medical_Concept 411 418	tontura
+T38	Medical_Concept 423 431	desordem
+T39	Medical_Concept 458 467	ansiedade
+T40	Medical_Concept 487 503	ataque de pu00E2nico
+T41	Medical_Concept 3 19	ataque de pu00E2nico
+T42	Medical_Concept 3466 3482	ataque de pu00E2nico
+T43	Medical_Concept 1857 1873	ataque de pu00E2nico
+T44	Medical_Concept 2805 2821	ataque de pu00E2nico
+T45	Medical_Concept 3174 3190	ataque de pu00E2nico
+T46	Medical_Concept 636 652	ataque de pu00E2nico
+T47	Medical_Concept 2630 2646	ataque de pu00E2nico
+T48	Medical_Concept 903 909	crises
+T49	Medical_Concept 1099 1114	ataque cardu00EDaco
+T50	Medical_Concept 1147 1154	desmaio
+T51	Automatic-Concept 1177 1186	dormu00EAncia
+T52	Medical_Concept 1205 1215	respirau00E7u00E3o
+T53	Medical_Concept 1291 1305	visu00E3o de tu00FAnel
+T54	Medical_Concept 1317 1333	visu00E3o perifu00E9rica
+T55	Medical_Concept 1389 1404	fluxo de sangue
+T56	Medical_Concept 1654 1665	falta de ar
+T57	Medical_Concept 1724 1732	sintomas
+T58	Medical_Concept 1798 1807	hormu00F4nios
+T59	Medical_Concept 1836 1846	adrenalina
+T60	Medical_Concept 1998 2009	palpitau00E7u00F5es
+T61	Medical_Concept 2146 2154	sudorese
+T62	Medical_Concept 2166 2175	tonturas
+T63	Medical_Concept 2212 2220	tonturas
+T64	Medical_Concept 2496 2511	ataque cardu00EDaco
+T65	Medical_Concept 3101 3116	desordem mental
+T66	Medical_Concept 3444 3461	ansiedade cru00F4nica
+T67	Medical_Concept 3733 3741	sintomas
+T68	Medical_Concept 1928 1936	sintomas
+T69	Medical_Concept 2403 2411	sintomas
+T70	Medical_Concept 2566 2574	sintomas
+T71	Medical_Concept 4263 4271	sintomas
+T72	Medical_Concept 3753 3765	medicamentos
+T73	Medical_Concept 4143 4158	sintomas agudos
+T74	Medical_Concept 4209 4227	neurotransmissores
+T75	Medical_Concept 4300 4315	antidepressivos
+T76	Medical_Concept 4377 4387	serotonina

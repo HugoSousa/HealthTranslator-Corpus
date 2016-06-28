@@ -1,0 +1,263 @@
+T1	Automatic-Concept 114 121	corau00E7u00E3o
+T2	Automatic-Concept 240 246	sangue
+T3	Automatic-Concept 309 315	sangue
+T4	Automatic-Concept 336 352	pressu00E3o arterial
+T5	Automatic-Concept 470 482	desidratau00E7u00E3o
+T6	Automatic-Concept 598 609	endotoxina
+T7	Automatic-Concept 448 459	hemorragia
+T8	Automatic-Concept 502 508	sangue
+T9	Automatic-Concept 621 634	vasodilatau00E7u00E3o
+T10	Automatic-Concept 536 552	pressu00E3o arterial
+T11	Automatic-Concept 1187 1212	sistema nervoso simpu00E1tico
+T12	Automatic-Concept 884 895	taquicardia
+T13	Automatic-Concept 1110 1118	hormona
+T14	Automatic-Concept 903 912	ansiedade
+T15	Automatic-Concept 1072 1086	vasoconstriu00E7u00E3o
+T16	Automatic-Concept 1149 1156	reflexo
+T17	Automatic-Concept 1318 1323	olho
+T18	Automatic-Concept 1273 1279	mucosa
+T19	Automatic-Concept 1281 1285	pele
+T20	Automatic-Concept 1309 1315	lu00E1bio
+T21	Automatic-Concept 1257 1264	palidez
+T22	Automatic-Concept 1338 1344	sangue
+T23	Automatic-Concept 1382 1398	pressu00E3o arterial
+T24	Automatic-Concept 1232 1240	paciente
+T25	Automatic-Concept 2176 2183	corau00E7u00E3o
+T26	Automatic-Concept 1659 1663	pele
+T27	Automatic-Concept 2156 2163	cu00E9rebro
+T28	Automatic-Concept 1689 1693	rim
+T29	Automatic-Concept 2147 2151	rim
+T30	Automatic-Concept 2225 2231	fu00EDgado
+T31	Automatic-Concept 1544 1560	pressu00E3o arterial
+T32	Automatic-Concept 2513 2535	insuficiu00EAncia cardu00EDaca
+T33	Automatic-Concept 2489 2499	hemorragia
+T34	Automatic-Concept 2480 2486	trauma
+T35	Automatic-Concept 2571 2582	hemorragia
+T36	Automatic-Concept 2625 2638	trauma fu00EDsico
+T37	Automatic-Concept 2645 2657	desidratau00E7u00E3o
+T38	Automatic-Concept 2748 2756	crianu00E7a
+T39	Automatic-Concept 2816 2820	suor
+T40	Automatic-Concept 2948 2954	cu00F3lera
+T41	Automatic-Concept 2852 2860	diarreia
+T42	Automatic-Concept 2927 2934	doenu00E7a
+T43	Automatic-Concept 3006 3010	pele
+T44	Automatic-Concept 3154 3163	intestino
+T45	Automatic-Concept 3092 3112	obstruu00E7u00E3o intestinal
+T46	Automatic-Concept 3324 3349	sistema nervoso simpu00E1tico
+T47	Automatic-Concept 3595 3600	urina
+T48	Automatic-Concept 3547 3549	pu00E9
+T49	Automatic-Concept 3472 3482	hipotensu00E3o
+T50	Automatic-Concept 3620 3624	rim
+T51	Automatic-Concept 3313 3320	palidez
+T52	Automatic-Concept 3929 3936	palidez
+T53	Automatic-Concept 3281 3292	taquicardia
+T54	Automatic-Concept 3915 3926	taquicardia
+T55	Automatic-Concept 3409 3418	ansiedade
+T56	Automatic-Concept 3513 3519	sangue
+T57	Automatic-Concept 3656 3667	hematu00F3crito
+T58	Automatic-Concept 4643 4650	pescou00E7o
+T59	Automatic-Concept 4428 4432	pele
+T60	Automatic-Concept 4458 4468	dedo do pu00E9
+T61	Automatic-Concept 4634 4639	veia
+T62	Automatic-Concept 4359 4366	palidez
+T63	Automatic-Concept 4609 4620	diagnu00F3stico
+T64	Automatic-Concept 4490 4498	paciente
+T65	Automatic-Concept 4918 4922	soro
+T66	Automatic-Concept 4963 4974	hemorragia
+T67	Automatic-Concept 5032 5038	sangue
+T68	Automatic-Concept 5072 5078	sangue
+T69	Automatic-Concept 5282 5302	hipertensu00E3o arterial
+T70	Automatic-Concept 5185 5211	infarto agudo do miocu00E1rdio
+T71	Automatic-Concept 5421 5428	pescou00E7o
+T72	Automatic-Concept 5412 5417	veia
+T73	Automatic-Concept 5675 5682	corau00E7u00E3o
+T74	Automatic-Concept 5726 5737	hipertrofia
+T75	Automatic-Concept 5443 5454	diagnu00F3stico
+T76	Automatic-Concept 5638 5653	ecocardiografia
+T77	Automatic-Concept 5475 5492	eletrocardiograma
+T78	Automatic-Concept 5561 5568	doenu00E7a
+T79	Automatic-Concept 5623 5634	radiografia
+T80	Automatic-Concept 6066 6088	insuficiu00EAncia cardu00EDaca
+T81	Automatic-Concept 6110 6117	corau00E7u00E3o
+T82	Automatic-Concept 6305 6310	veia
+T83	Automatic-Concept 6190 6196	sangue
+T84	Automatic-Concept 6233 6239	sangue
+T85	Automatic-Concept 6273 6289	pressu00E3o arterial
+T86	Automatic-Concept 6620 6627	corau00E7u00E3o
+T87	Automatic-Concept 6665 6669	veia
+T88	Automatic-Concept 6657 6662	aorta
+T89	Automatic-Concept 6432 6438	pleura
+T90	Automatic-Concept 6357 6368	pneumotu00F3rax
+T91	Automatic-Concept 6690 6698	drenagem
+T92	Automatic-Concept 6739 6747	paciente
+T93	Automatic-Concept 6836 6843	corau00E7u00E3o
+T94	Automatic-Concept 6908 6915	corau00E7u00E3o
+T95	Automatic-Concept 6813 6823	pericu00E1rdio
+T96	Automatic-Concept 6847 6857	pericu00E1rdio
+T97	Automatic-Concept 6754 6775	tamponamento cardu00EDaco
+T98	Automatic-Concept 6780 6790	hemorragia
+T99	Automatic-Concept 6931 6940	diafragma
+T100	Automatic-Concept 7068 7075	pescou00E7o
+T101	Automatic-Concept 7059 7064	veia
+T102	Automatic-Concept 7171 7178	corau00E7u00E3o
+T103	Automatic-Concept 7591 7595	pele
+T104	Automatic-Concept 7243 7267	sistema nervoso autu00F4nomo
+T105	Automatic-Concept 7288 7313	sistema nervoso simpu00E1tico
+T106	Automatic-Concept 7776 7786	hipotensu00E3o
+T107	Automatic-Concept 7716 7722	sangue
+T108	Automatic-Concept 7645 7658	vasodilatau00E7u00E3o
+T109	Automatic-Concept 7662 7675	vasodilatau00E7u00E3o
+T110	Automatic-Concept 7598 7606	mu00FAsculo
+T111	Automatic-Concept 7842 7866	lesu00E3o da medula espinhal
+T112	Automatic-Concept 8150 8154	pele
+T113	Automatic-Concept 8199 8210	bradicardia
+T114	Automatic-Concept 8118 8125	palidez
+T115	Automatic-Concept 8010 8021	taquicardia
+T116	Automatic-Concept 8169 8180	taquicardia
+T117	Automatic-Concept 8034 8048	vasoconstriu00E7u00E3o
+T118	Automatic-Concept 8083 8096	vasodilatau00E7u00E3o
+T119	Automatic-Concept 7987 7995	paciente
+T120	Automatic-Concept 8353 8359	droga
+T121	Automatic-Concept 8286 8295	anestesia
+T122	Automatic-Concept 8261 8269	paciente
+T123	Automatic-Concept 8443 8451	infecu00E7u00E3o
+T124	Automatic-Concept 8551 8559	infecu00E7u00E3o
+T125	Automatic-Concept 8488 8494	sangue
+T126	Automatic-Concept 8774 8792	sistema imunitu00E1rio
+T127	Automatic-Concept 8692 8700	membrana
+T128	Automatic-Concept 8759 8769	endotoxina
+T129	Automatic-Concept 8922 8932	inflamau00E7u00E3o
+T130	Automatic-Concept 8913 8918	edema
+T131	Automatic-Concept 9363 9368	edema
+T132	Automatic-Concept 8621 8629	su00EDndrome
+T133	Automatic-Concept 8844 8853	infecu00E7u00E3o
+T134	Automatic-Concept 8897 8910	vasodilatau00E7u00E3o
+T135	Automatic-Concept 9035 9048	vasodilatau00E7u00E3o
+T136	Automatic-Concept 9513 9517	pele
+T137	Automatic-Concept 9544 9555	taquicardia
+T138	Automatic-Concept 10341 10354	catecolamina
+T139	Automatic-Concept 10670 10683	catecolamina
+T140	Automatic-Concept 10375 10385	receptor
+T141	Automatic-Concept 10688 10696	crianu00E7a
+T142	Automatic-Concept 11291 11295	feto
+T143	Automatic-Concept 11344 11354	hipotermia
+T144	Automatic-Concept 11389 11399	hipotermia
+T145	Automatic-Concept 11572 11582	hipotermia
+T146	Automatic-Concept 11418 11425	trauma
+T147	Automatic-Concept 11489 11496	terapia
+T148	Automatic-Concept 11357 11366	paciente
+T149	Automatic-Concept 11772 11783	taquicardia
+T150	Automatic-Concept 11843 11854	taquicardia
+T151	Automatic-Concept 11660 11671	marca-passo
+T152	Automatic-Concept 11695 11706	marca-passo
+T153	Automatic-Concept 11682 11690	paciente
+T154	Automatic-Concept 12088 12104	artu00E9ria pulmonar
+T155	Medical-Concept 124 129	vasos
+T156	Medical-Concept 166 173	tecidos
+T157	Medical-Concept 1958 1965	tecidos
+T158	Medical-Concept 265 272	tecidos
+T159	Medical-Concept 4435 4442	tecidos
+T160	Medical-Concept 9128 9135	tecidos
+T161	Medical-Concept 9330 9337	tecidos
+T162	Medical-Concept 177 182	corpo
+T163	Medical-Concept 187 195	oxigu00E9nio
+T164	Medical-Concept 327 332	vasos
+T165	Medical-Concept 647 652	vasos
+T166	Medical-Concept 4879 4884	vasos
+T167	Medical-Concept 6642 6647	vasos
+T168	Medical-Concept 10427 10432	vasos
+T169	Medical-Concept 360 366	choque
+T170	Medical-Concept 2 8	choque
+T171	Medical-Concept 424 430	choque
+T172	Medical-Concept 42 48	choque
+T173	Medical-Concept 556 562	choque
+T174	Medical-Concept 1448 1454	choque
+T175	Medical-Concept 796 802	choque
+T176	Medical-Concept 1462 1468	choque
+T177	Medical-Concept 1802 1808	choque
+T178	Medical-Concept 2004 2010	choque
+T179	Medical-Concept 2262 2268	choque
+T180	Medical-Concept 2386 2392	choque
+T181	Medical-Concept 4597 4603	choque
+T182	Medical-Concept 4684 4690	choque
+T183	Medical-Concept 4074 4080	choque
+T184	Medical-Concept 4945 4951	choque
+T185	Medical-Concept 5385 5391	choque
+T186	Medical-Concept 5790 5796	choque
+T187	Medical-Concept 7799 7805	choque
+T188	Medical-Concept 7032 7038	choque
+T189	Medical-Concept 8380 8386	choque
+T190	Medical-Concept 8229 8235	choque
+T191	Medical-Concept 9146 9152	choque
+T192	Medical-Concept 9443 9449	choque
+T193	Medical-Concept 9642 9648	choque
+T194	Medical-Concept 9927 9933	choque
+T195	Medical-Concept 9986 9992	choque
+T196	Medical-Concept 10197 10203	choque
+T197	Medical-Concept 10503 10509	choque
+T198	Medical-Concept 11138 11144	choque
+T199	Medical-Concept 11858 11864	choque
+T200	Medical-Concept 431 443	hipovolu00EAmico
+T201	Medical-Concept 563 570	su00E9ptico
+T202	Medical-Concept 579 588	bactu00E9rias
+T203	Medical-Concept 8456 8465	bactu00E9rias
+T204	Medical-Concept 8593 8602	bactu00E9rias
+T205	Medical-Concept 9764 9773	bactu00E9rias
+T206	Medical-Concept 680 699	choque cardiogu00E9nico
+T207	Medical-Concept 710 718	cardu00EDaca
+T208	Medical-Concept 738 743	u00F3rgu00E3o
+T209	Medical-Concept 830 847	sinais e sintomas
+T210	Medical-Concept 976 984	sintomas
+T211	Medical-Concept 3235 3243	sintomas
+T212	Medical-Concept 7000 7008	sintomas
+T213	Medical-Concept 5353 5361	sintomas
+T214	Medical-Concept 1046 1063	pressu00E3o sanguu00EDnea
+T215	Medical-Concept 756 773	pressu00E3o sanguu00EDnea
+T216	Medical-Concept 1127 1137	adrenalina
+T217	Medical-Concept 1142 1145	ADH
+T218	Medical-Concept 1512 1532	colapso hemodinu00E2mico
+T219	Medical-Concept 1568 1587	frequ00FCu00EAncia cardu00EDaca
+T220	Medical-Concept 10219 10238	frequ00FCu00EAncia cardu00EDaca
+T221	Medical-Concept 9879 9898	frequ00FCu00EAncia cardu00EDaca
+T222	Medical-Concept 10935 10954	frequ00FCu00EAncia cardu00EDaca
+T223	Medical-Concept 11029 11048	frequ00FCu00EAncia cardu00EDaca
+T224	Medical-Concept 11269 11288	frequ00FCu00EAncia cardu00EDaca
+T225	Medical-Concept 1599 1619	batimentos cardu00EDacos
+T226	Medical-Concept 10763 10783	batimentos cardu00EDacos
+T227	Medical-Concept 1711 1716	pulso
+T228	Medical-Concept 9574 9579	pulso
+T229	Medical-Concept 1910 1915	morte
+T230	Medical-Concept 1929 1934	morte
+T231	Medical-Concept 4342 4347	morte
+T232	Medical-Concept 6730 6735	morte
+T233	Medical-Concept 1975 1983	isquu00E9mia
+T234	Medical-Concept 2114 2120	u00F3rgu00E3os
+T235	Medical-Concept 2188 2212	sistema gastrointestinal
+T236	Medical-Concept 2278 2290	hemorru00E1gicos
+T237	Medical-Concept 2297 2309	hemorru00E1gicos
+T238	Medical-Concept 2408 2414	doente
+T239	Medical-Concept 3695 3701	doente
+T240	Medical-Concept 3852 3858	doente
+T241	Medical-Concept 4236 4244	cardu00EDaca
+T242	Medical-Concept 5149 5157	cardu00EDaca
+T243	Medical-Concept 5586 5594	cardu00EDaca
+T244	Medical-Concept 5526 5534	cardu00EDaca
+T245	Medical-Concept 7534 7542	cardu00EDaca
+T246	Medical-Concept 10412 10420	cardu00EDaca
+T247	Medical-Concept 10919 10927	cardu00EDaca
+T248	Medical-Concept 2841 2848	vu00F3mitos
+T249	Medical-Concept 2897 2908	eletru00F3litos
+T250	Medical-Concept 2979 2990	queimaduras
+T251	Medical-Concept 3083 3087	u00CDleo
+T252	Medical-Concept 3205 3221	volume sanguu00EDneo
+T253	Medical-Concept 3295 3308	vasocontriu00E7u00E3o
+T254	Medical-Concept 3378 3388	adrenalina
+T255	Medical-Concept 3502 3509	pressu00E3o
+T256	Medical-Concept 298 305	pressu00E3o
+T257	Medical-Concept 9557 9564	pressu00E3o
+T258	Medical-Concept 12126 12133	pressu00E3o
+T259	Medical-Concept 3566 3574	tonturas
+T260	Medical-Concept 3672 3691	anu00E1lises sanguu00EDneas
+T261	Medical-Concept 3707 3717	consciente
+T262	Medical-Concept 3995 4006	hipertensu00E3o
+T263	Medical-Concept 73 101	insuficiu00EAncia cardiovascular

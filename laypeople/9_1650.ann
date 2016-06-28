@@ -1,0 +1,55 @@
+T1	Automatic-Concept 118 124	doenu00E7a
+T2	Automatic-Concept 2 14	exame fu00EDsico
+T3	Automatic-Concept 338 346	paciente
+T4	Automatic-Concept 412 424	exame fu00EDsico
+T5	Automatic-Concept 491 499	paciente
+T6	Automatic-Concept 874 880	doenu00E7a
+T7	Automatic-Concept 642 654	exame fu00EDsico
+T8	Automatic-Concept 706 722	esfigmomanu00F4metro
+T9	Automatic-Concept 691 703	estetoscu00F3pio
+T10	Automatic-Concept 725 735	termu00F4metro
+T11	Automatic-Concept 1221 1227	cabeu00E7a
+T12	Automatic-Concept 959 971	exame fu00EDsico
+T13	Automatic-Concept 2089 2101	estetoscu00F3pio
+T14	Medical-Concept 78 83	sau00FAde
+T15	Medical-Concept 191 196	sau00FAde
+T16	Medical-Concept 381 394	exame clu00EDnico
+T17	Medical-Concept 427 435	anamnese
+T18	Medical-Concept 629 637	anamnese
+T19	Medical-Concept 1026 1034	inspeu00E7u00E3o
+T20	Medical-Concept 1246 1254	inspeu00E7u00E3o
+T21	Medical-Concept 1036 1044	ausculta
+T22	Medical-Concept 1944 1952	ausculta
+T23	Medical-Concept 1047 1055	palpau00E7u00E3o
+T24	Medical-Concept 1441 1449	palpau00E7u00E3o
+T25	Medical-Concept 1058 1067	percussu00E3o
+T26	Medical-Concept 1195 1210	cu00E9falo-podu00E1lico
+T27	Medical-Concept 1236 1239	pu00E9s
+T28	Medical-Concept 1289 1294	visu00E3o
+T29	Medical-Concept 1324 1334	dismorfias
+T30	Medical-Concept 1336 1365	distu00FArbios do desenvolvimento
+T31	Medical-Concept 1367 1382	lesu00F5es cutu00E2neas
+T32	Medical-Concept 1396 1405	catu00E9teres
+T33	Medical-Concept 1620 1629	Percussu00E3o
+T34	Medical-Concept 2018 2027	Percussu00E3o
+T35	Medical-Concept 1850 1859	timpu00E2nico
+T36	Medical-Concept 1895 1903	pulmonar
+T37	Medical-Concept 2136 2142	mu00E9dica
+T38	Medical-Concept 427 435	anamnese
+T39	Medical-Concept 629 637	anamnese
+T40	Medical-Concept 1036 1044	ausculta
+T41	Medical-Concept 1047 1055	palpau00E7u00E3o
+T42	Medical-Concept 1236 1239	pu00E9s
+T43	Medical-Concept 1195 1210	cu00E9falo-podu00E1lico
+T44	Medical-Concept 1324 1334	dismorfias
+T45	Medical-Concept 1336 1365	distu00FArbios do desenvolvimento
+T46	Medical-Concept 1367 1382	lesu00F5es cutu00E2neas
+T47	Medical-Concept 1441 1449	Palpau00E7u00E3o
+T48	Medical-Concept 1804 1822	hemorragia interna
+T49	Medical-Concept 1944 1952	Ausculta
+T50	Medical-Concept 2124 2134	Semiologia
+T51	Medical-Concept 1026 1034	inspeu00E7u00E3o
+T52	Medical-Concept 1058 1067	percussu00E3o
+T53	Medical-Concept 1620 1629	percussu00E3o
+T54	Medical-Concept 2018 2027	percussu00E3o
+T55	Medical-Concept 1246 1254	Inspeu00E7u00E3o

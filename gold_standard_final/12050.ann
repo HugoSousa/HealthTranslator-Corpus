@@ -1,0 +1,48 @@
+T1	Medical-Concept 272 278	doença
+T2	Medical-Concept 341 347	doença
+T3	Medical-Concept 920 925	gripe
+T4	Medical-Concept 750 760	hospedeiro
+T5	Medical-Concept 1100 1110	hospedeiro
+T6	Medical-Concept 1620 1625	gripe
+T7	Medical-Concept 1329 1342	neuraminidase
+T8	Medical-Concept 1365 1373	mutações
+T9	Medical-Concept 0 16	Influenzavirus A
+T10	Medical-Concept 227 243	Influenzavirus A
+T11	Medical-Concept 68 84	Influenzavirus A
+T12	Medical-Concept 1240 1256	Influenzavirus A
+T13	Medical-Concept 1707 1723	Influenzavirus A
+T14	Medical-Concept 421 426	vírus
+T15	Medical-Concept 941 946	vírus
+T16	Medical-Concept 194 202	estirpes
+T17	Medical-Concept 1404 1412	estirpes
+T18	Medical-Concept 1551 1559	estirpes
+T19	Medical-Concept 1575 1583	estirpes
+T20	Medical-Concept 322 333	Influenza A
+T21	Medical-Concept 112 123	Influenza A
+T22	Medical-Concept 1875 1886	Influenza A
+T23	Medical-Concept 124 129	virus
+T24	Medical-Concept 512 517	surto
+T25	Medical-Concept 533 542	pandemias
+T26	Medical-Concept 691 699	linhagem
+T27	Medical-Concept 847 851	H5N1
+T28	Medical-Concept 877 887	letalidade
+T29	Medical-Concept 1037 1047	gripe H3N2
+T30	Medical-Concept 1021 1033	gripe humana
+T31	Medical-Concept 1006 1019	gripe fujiana
+T32	Medical-Concept 1135 1143	endémica
+T33	Medical-Concept 1125 1132	estirpe
+T34	Medical-Concept 1657 1664	estirpe
+T35	Medical-Concept 1295 1308	hemaglutinina
+T36	Medical-Concept 1459 1470	patogénicos
+T37	Medical-Concept 1503 1514	patogénicos
+T38	Medical-Concept 1632 1636	H3N2
+T39	Medical-Concept 1680 1698	gripe de Hong Kong
+T40	Medical-Concept 969 987	A/Fujiano/411/2002
+T41	Medical-Concept 988 992	H3N2
+T42	Medical-Concept 1428 1446	perfis patogénicos
+T43	Medical-Concept 781 802	vírus da gripe humana
+T44	Medical-Concept 1728 1737	vírus ARN
+T45	Medical-Concept 1846 1859	antigénios NA
+T46	Medical-Concept 1803 1816	antigénios HA
+T47	Medical-Concept 43 65	vírus Orthomyxoviridae
+T48	Medical-Concept 546 558	gripe humana

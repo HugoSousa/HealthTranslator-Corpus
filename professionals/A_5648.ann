@@ -1,0 +1,144 @@
+T1	Automatic-Concept 121 136	sistema nervoso
+T2	Automatic-Concept 601 608	cu00E9rebro
+T3	Automatic-Concept 947 958	alucinau00E7u00E3o
+T4	Automatic-Concept 513 519	droga
+T5	Automatic-Concept 669 675	droga
+T6	Automatic-Concept 929 935	droga
+T7	Automatic-Concept 884 892	psicose
+T8	Automatic-Concept 1314 1325	alucinau00E7u00E3o
+T9	Automatic-Concept 1603 1614	alucinau00E7u00E3o
+T10	Automatic-Concept 1557 1564	psicose
+T11	Automatic-Concept 1988 1997	meditau00E7u00E3o
+T12	Automatic-Concept 2225 2229	sono
+T13	Automatic-Concept 2800 2807	cu00E9rebro
+T14	Automatic-Concept 2915 2926	analgu00E9sico
+T15	Automatic-Concept 4666 4676	incidu00EAncia
+T16	Automatic-Concept 4412 4429	psicofarmacologia
+T17	Automatic-Concept 4489 4496	psicose
+T18	Automatic-Concept 4615 4628	esquizofrenia
+T19	Automatic-Concept 4908 4923	espermatozoide
+T20	Automatic-Concept 5193 5200	aborto
+T21	Automatic-Concept 4926 4937	fertilidade
+T22	Automatic-Concept 5128 5139	cromossomo
+T23	Automatic-Concept 7552 7559	vu00F4mito
+T24	Automatic-Concept 7814 7820	vu00F4mito
+T25	Automatic-Concept 8052 8065	esquizofrenia
+T26	Automatic-Concept 8551 8564	esquizofrenia
+T27	Automatic-Concept 8654 8663	depressu00E3o
+T28	Automatic-Concept 9266 9276	receptor
+T29	Automatic-Concept 9430 9439	depressu00E3o
+T30	Automatic-Concept 9442 9452	alcoolismo
+T31	Automatic-Concept 10155 10167	psicoterapia
+T32	Automatic-Concept 10323 10329	droga
+T33	Automatic-Concept 10554 10564	psicologia
+T34	Automatic-Concept 10464 10476	psicoterapia
+T35	Automatic-Concept 10525 10532	psicose
+T36	Automatic-Concept 10627 10633	droga
+T37	Automatic-Concept 10823 10830	cu00E9rebro
+T38	Automatic-Concept 11126 11138	psicoterapia
+T39	Automatic-Concept 11188 11205	psicofarmacologia
+T40	Automatic-Concept 11520 11526	droga
+T41	Medical-Concept 14 33	drogas alucinu00F3genas
+T42	Medical-Concept 244 267	substu00E2ncias psicoativas
+T43	Medical-Concept 319 330	Dislu00E9pticas
+T44	Medical-Concept 436 444	Lu00E9pticos
+T45	Medical-Concept 464 475	Analu00E9pticos
+T46	Medical-Concept 578 586	sentidos
+T47	Medical-Concept 620 632	concentrau00E7u00E3o
+T48	Medical-Concept 637 648	pensamentos
+T49	Medical-Concept 653 664	comunicau00E7u00E3o
+T50	Medical-Concept 855 878	efeito similar ao sonho
+T51	Medical-Concept 976 988	alucinu00F3genos
+T52	Medical-Concept 1012 1023	visu00E3o dupla
+T53	Medical-Concept 1038 1058	intoxicau00E7u00E3o alcou00F3lica
+T54	Medical-Concept 1084 1088	cafu00E9
+T55	Medical-Concept 1159 1178	drogas alucinu00F3genas
+T56	Medical-Concept 1193 1213	drogas alucinogu00E9nias
+T57	Medical-Concept 1348 1374	visu00F5es irreais ou onu00EDricas
+T58	Medical-Concept 1489 1505	Psicotomimu00E9ticos
+T59	Medical-Concept 1508 1522	Psicotogu00EAnicos
+T60	Medical-Concept 1590 1600	alucinoses
+T61	Medical-Concept 1630 1642	Psicodu00E9licos
+T62	Medical-Concept 1694 1707	psique oculta
+T63	Medical-Concept 1972 1984	concentrau00E7u00E3o
+T64	Medical-Concept 2059 2084	alterau00E7u00F5es da consciu00EAncia
+T65	Medical-Concept 2112 2131	eletroencefalograma
+T66	Medical-Concept 2209 2216	vigu00EDlia
+T67	Medical-Concept 2262 2274	psicolu00F3gicas
+T68	Medical-Concept 2278 2292	psicanalu00EDticas
+T69	Medical-Concept 2324 2347	modificau00E7u00E3o das emou00E7u00F5es
+T70	Medical-Concept 2350 2363	personalidade
+T71	Medical-Concept 2634 2650	Psicodislu00E9pticos
+T72	Medical-Concept 2690 2702	estimulantes
+T73	Medical-Concept 2705 2716	depressores
+T74	Medical-Concept 2767 2785	neurotransmissores
+T75	Medical-Concept 2820 2855	anticonvulsivantes nu00E3o barbitu00FAricos
+T76	Medical-Concept 2858 2895	relaxantes da musculatura esquelu00E9tica
+T77	Medical-Concept 2896 2912	narcoanalgu00E9sicos
+T78	Medical-Concept 2929 2956	antitu00E9rmicos psicotogu00EAnicos
+T79	Medical-Concept 3128 3143	Cannabis sativa
+T80	Medical-Concept 3146 3152	haxixe
+T81	Medical-Concept 3253 3262	muscarina
+T82	Medical-Concept 4212 4224	homeopu00E1ticos
+T83	Medical-Concept 4276 4290	farmacolu00F3gicos
+T84	Medical-Concept 4771 4780	seguranu00E7a
+T85	Medical-Concept 4793 4802	gestantes
+T86	Medical-Concept 4817 4837	potencial mutagu00EAnico
+T87	Medical-Concept 4840 4852	teratogu00EAnico
+T88	Medical-Concept 4960 4967	maconha
+T89	Medical-Concept 5104 5116	clastogu00EAnico
+T90	Medical-Concept 5356 5368	psicodu00E9licas
+T91	Medical-Concept 5412 5424	alucinu00F3genas
+T92	Medical-Concept 5432 5442	Serotonina
+T93	Medical-Concept 5452 5465	Noradrenalina
+T94	Medical-Concept 5575 5596	nu00FAcleo indoletilamina
+T95	Medical-Concept 5609 5618	Mescalina
+T96	Medical-Concept 5624 5650	derivado da feniletilamina
+T97	Medical-Concept 5527 5530	LSD
+T98	Medical-Concept 5744 5753	mescalina
+T99	Medical-Concept 5831 5842	bioquu00EDmicos
+T100	Medical-Concept 6024 6055	inibidores da monoamina-oxidase
+T101	Medical-Concept 6066 6083	composto indu00F3lico
+T102	Medical-Concept 6094 6111	Dimetiltriptamina
+T103	Medical-Concept 6466 6486	N-dimethyltryptamine
+T104	Medical-Concept 6699 6710	triptaminas
+T105	Medical-Concept 7028 7039	triptaminas
+T106	Medical-Concept 7091 7101	psicoativo
+T107	Medical-Concept 7318 7329	psicodu00E9lico
+T108	Medical-Concept 7333 7348	psicodislu00E9ptico
+T109	Medical-Concept 7446 7456	toleru00E2ncia
+T110	Medical-Concept 7459 7477	toleru00E2ncia cruzada
+T111	Medical-Concept 7492 7515	dependu00EAncia fisiolu00F3gica
+T112	Medical-Concept 7565 7581	efeito colateral
+T113	Medical-Concept 7702 7725	cu00E9lulas enterocromafins
+T114	Medical-Concept 7729 7751	trato gastrointestinal
+T115	Medical-Concept 7823 7830	postura
+T116	Medical-Concept 7834 7839	bulbo
+T117	Medical-Concept 7883 7891	sedativo
+T118	Medical-Concept 7866 7880	neuro-hormu00F4nio
+T119	Medical-Concept 7897 7912	au00E7u00E3o depressiva
+T120	Medical-Concept 7941 7954	clorpromazina
+T121	Medical-Concept 8026 8043	serontoninu00E9rgicas
+T122	Medical-Concept 8082 8108	antagonistas da serotonina
+T123	Medical-Concept 8117 8129	alucinu00F3genos
+T124	Medical-Concept 8380 8390	serotonina
+T125	Medical-Concept 8474 8496	receptores da Dopamina
+T126	Medical-Concept 8533 8547	dopaminu00E9rgicas
+T127	Medical-Concept 8589 8603	antipsicu00F3ticos
+T128	Medical-Concept 8639 8647	dopamina
+T129	Medical-Concept 8669 8702	Distu00FArbios Obsessivos Compulsivos
+T130	Medical-Concept 8747 8757	serotonina
+T131	Medical-Concept 8769 8793	quadros psicopatolu00F3gicos
+T132	Medical-Concept 8870 8906	bloqueadores de recaptau00E7u00E3o sinu00E1ptica
+T133	Medical-Concept 8908 8918	fluoxetina
+T134	Medical-Concept 8935 8945	serotonina
+T135	Medical-Concept 8998 9014	anti-depressivos
+T136	Medical-Concept 9015 9030	anti-psicu00F3ticos
+T137	Medical-Concept 9154 9170	neurotransmissor
+T138	Medical-Concept 9174 9187	comportamento
+T139	Medical-Concept 9203 9216	agressividade
+T140	Medical-Concept 9232 9242	serotonina
+T141	Medical-Concept 9345 9356	psicodu00E9lico
+T142	Medical-Concept 9388 9412	substu00E2ncias alucinu00F3genas
+T143	Medical-Concept 9462 9473	drogadiu00E7u00F5es
+T144	Medical-Concept 804 842	confusu00E3o da nou00E7u00E3o de tempo e de espau00E7o

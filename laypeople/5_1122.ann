@@ -1,0 +1,75 @@
+T1	Medical_Concept 2 9	insu00F4nia
+T2	Medical_Concept 678 685	insu00F4nia
+T3	Medical_Concept 150 158	sensau00E7u00E3o
+T4	Medical_Concept 73 81	dissonia
+T5	Medical_Concept 357 364	induu00E7u00E3o
+T6	Medical_Concept 138 142	sono
+T7	Medical_Concept 400 404	sono
+T8	Medical_Concept 524 528	sono
+T9	Medical_Concept 638 642	sono
+T10	Medical_Concept 664 673	paciente
+T11	Medical_Concept 750 761	diagnu00F3stico
+T12	Medical_Concept 901 905	sono
+T13	Medical_Concept 737 745	paciente
+T14	Medical_Concept 974 981	insu00F4nia
+T15	Medical_Concept 1167 1174	insu00F4nia
+T16	Medical_Concept 1067 1073	doenu00E7a
+T17	Medical_Concept 1119 1125	doenu00E7a
+T18	Medical_Concept 948 960	sau00FAde mental
+T19	Medical_Concept 1508 1515	insu00F4nia
+T20	Medical_Concept 1300 1307	doenu00E7a
+T21	Medical_Concept 1927 1934	insu00F4nia
+T22	Medical_Concept 1980 1984	sono
+T23	Medical_Concept 2080 2087	insu00F4nia
+T24	Medical_Concept 2284 2293	depressu00E3o
+T25	Medical_Concept 2163 2171	insu00F4nia
+T26	Medical_Concept 2315 2321	droga
+T27	Medical_Concept 2398 2405	insu00F4nia
+T28	Medical_Concept 2439 2446	insu00F4nia
+T29	Medical_Concept 2492 2500	crianu00E7a
+T30	Medical_Concept 2643 2650	insu00F4nia
+T31	Medical_Concept 2755 2762	insu00F4nia
+T32	Medical_Concept 2905 2912	insu00F4nia
+T33	Medical_Concept 3166 3175	depressu00E3o
+T34	Medical_Concept 3112 3119	insu00F4nia
+T35	Medical_Concept 3264 3271	insu00F4nia
+T36	Medical_Concept 3203 3215	psicoterapia
+T37	Medical_Concept 38 45	insu00F3nia
+T38	Medical_Concept 173 187	sono reparador
+T39	Medical_Concept 307 323	polissonogru00E1fico
+T40	Medical_Concept 1442 1458	polissonogru00E1fico
+T41	Medical_Concept 479 502	desenvolvimento cru00F4nico
+T42	Medical_Concept 510 520	transtorno
+T43	Medical_Concept 611 621	tratamento
+T44	Medical_Concept 2987 2997	tratamento
+T45	Medical_Concept 3089 3099	tratamento
+T46	Medical_Concept 3356 3366	tratamento
+T47	Medical_Concept 697 712	depressu00E3o maior
+T48	Medical_Concept 765 781	insu00F4nia primu00E1ria
+T49	Medical_Concept 3312 3328	insu00F4nia primu00E1ria
+T50	Medical_Concept 1102 1109	sintoma
+T51	Medical_Concept 1180 1187	sintoma
+T52	Medical_Concept 1129 1145	efeito colateral
+T53	Medical_Concept 1152 1163	medicamento
+T54	Medical_Concept 1197 1220	transtorno psiquiu00E1trico
+T55	Medical_Concept 1346 1360	causa orgu00E2nica
+T56	Medical_Concept 1376 1397	causa psicofisiolu00F3gica
+T57	Medical_Concept 1546 1563	psicofisiolu00F3gicas
+T58	Medical_Concept 1731 1739	estresse
+T59	Medical_Concept 2265 2273	estresse
+T60	Medical_Concept 1785 1790	sau00FAde
+T61	Medical_Concept 1817 1821	luto
+T62	Medical_Concept 1825 1842	perda substancial
+T63	Medical_Concept 2042 2062	insu00F4nia intermitente
+T64	Medical_Concept 2296 2311	abuso de u00E1lcool
+T65	Medical_Concept 2503 2515	adolescentes
+T66	Medical_Concept 2539 2545	adulto
+T67	Medical_Concept 428 434	adulto
+T68	Medical_Concept 2628 2634	idosos
+T69	Medical_Concept 2725 2732	adultos
+T70	Medical_Concept 2428 2435	adultos
+T71	Medical_Concept 3124 3152	medicamentos antidepressivos
+T72	Medical_Concept 3187 3199	medicamentos
+T73	Medical_Concept 3330 3353	diagnu00F3stico diferencial
+T74	Medical-Concept 1527 1543	causas orgu00E2nicas
+T75	Medical-Concept 1610 1632	insu00F4nias de transiente

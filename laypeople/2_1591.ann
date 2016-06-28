@@ -1,0 +1,59 @@
+T1	Automatic-Concept 1277 1285	cisteu00EDna
+T2	Automatic-Concept 1333 1341	cisteu00EDna
+T3	Automatic-Concept 1802 1808	fadiga
+T4	Automatic-Concept 6790 6794	pele
+T5	Automatic-Concept 6828 6834	sangue
+T6	Automatic-Concept 7615 7625	glomu00E9rulo
+T7	Automatic-Concept 7587 7591	rim
+T8	Automatic-Concept 7825 7829	rim
+T9	Automatic-Concept 7386 7392	fu00EDgado
+T10	Automatic-Concept 7524 7530	fu00EDgado
+T11	Automatic-Concept 8377 8386	diarreia
+T12	Automatic-Concept 8367 8374	vu00F4mito
+T13	Automatic-Concept 8709 8713	rim
+T14	Automatic-Concept 8865 8868	dor
+T15	Automatic-Concept 9148 9164	cu00E2ncer de pulmu00E3o
+T16	Automatic-Concept 9735 9750	sistema nervoso
+T17	Automatic-Concept 9696 9706	testu00EDculo
+T18	Automatic-Concept 9685 9691	fu00EDgado
+T19	Automatic-Concept 9755 9761	sangue
+T20	Medical_Concept 856 872	funu00E7u00E3o biolu00F3gica
+T21	Medical_Concept 1190 1200	toxicidade
+T22	Medical_Concept 4913 4920	humanos
+T23	Medical_Concept 4991 4999	via oral
+T24	Medical_Concept 5065 5073	inalau00E7u00E3o
+T25	Medical_Concept 5169 5182	u00F3rgu00E3os vitais
+T26	Medical_Concept 5273 5292	graves enfermidades
+T27	Medical_Concept 5374 5408	mecanismos de toxicidade do cu00E1dmio
+T28	Medical_Concept 5467 5480	agente tu00F3xico
+T29	Medical_Concept 6593 6611	corrente sanguu00EDnea
+T30	Medical_Concept 6616 6654	absoru00E7u00E3o no estu00F4mago ou nos intestinos
+T31	Medical_Concept 6707 6727	absoru00E7u00E3o nos pulmu00F5es
+T32	Medical_Concept 6881 6889	via oral
+T33	Medical_Concept 6933 6940	inalado
+T34	Medical_Concept 7361 7379	corrente sanguu00EDnea
+T35	Medical_Concept 7361 7379	corrente sanguu00EDnea
+T36	Medical_Concept 7538 7556	corrente sanguu00EDnea
+T37	Medical_Concept 7880 7898	corrente sanguu00EDnea
+T38	Medical_Concept 7413 7445	proteu00EDna de baixo peso molecular
+T39	Medical_Concept 7475 7499	complexo proteu00EDna-cu00E1dmio
+T40	Medical_Concept 7681 7707	cu00E9lulas tubulares dos rins
+T41	Medical_Concept 7721 7726	u00F3rgu00E3o
+T42	Medical_Concept 7902 7916	excreu00E7u00E3o fecal
+T43	Medical_Concept 7986 8010	sistema gastrointestinal
+T44	Medical_Concept 8045 8059	vida biolu00F3gica
+T45	Medical_Concept 8325 8355	severas irritau00E7u00F5es no estu00F4mago
+T46	Medical_Concept 8409 8438	graves irritau00E7u00F5es nos pulmu00F5es
+T47	Medical_Concept 8787 8807	formau00E7u00E3o de cu00E1lculos
+T48	Medical_Concept 8826 8839	sistema u00F3sseo
+T49	Medical_Concept 8871 8881	debilidade
+T50	Medical_Concept 8720 8737	enfermidade renal
+T51	Medical_Concept 9026 9043	enfisema pulmonar
+T52	Medical_Concept 9291 9306	cu00E2ncer pulmonar
+T53	Medical_Concept 9407 9413	cu00E2ncer
+T54	Medical_Concept 9448 9469	alta pressu00E3o arterial
+T55	Medical_Concept 9565 9583	hipertensu00E3o humana
+T56	Medical_Concept 9711 9730	sistema imunolu00F3gico
+T57	Medical_Concept 9764 9806	Efeitos na reproduu00E7u00E3o e no desenvolvimento
+T58	Medical_Concept 10453 10459	cu00E2ncer
+T59	Medical_Concept 10462 10504	enfermidades renais, hepu00E1ticas, pulmonares

@@ -1,0 +1,60 @@
+T1	Medical-Concept 259 270	diagnóstico
+T2	Medical-Concept 492 500	insulina
+T3	Medical-Concept 604 613	obesidade
+T4	Medical-Concept 618 627	pacientes
+T5	Medical-Concept 831 838	glicose
+T6	Medical-Concept 853 858	jejum
+T7	Medical-Concept 1033 1042	pacientes
+T8	Medical-Concept 1408 1416	insulina
+T9	Medical-Concept 2229 2245	cordão umbilical
+T10	Medical-Concept 1982 1995	hiperglicemia
+T11	Medical-Concept 2362 2374	hipoglicemia
+T12	Medical-Concept 1724 1731	glicose
+T13	Medical-Concept 1834 1841	glicose
+T14	Medical-Concept 1950 1958	insulina
+T15	Medical-Concept 2138 2146	insulina
+T16	Medical-Concept 1845 1851	sangue
+T17	Medical-Concept 2207 2212	parto
+T19	Medical-Concept 83 112	Diabetes mellitus gestacional
+T20	Medical-Concept 14 31	diabetes mellitus
+T21	Medical-Concept 787 795	grávidas
+T22	Medical-Concept 2055 2063	glicemia
+T23	Medical-Concept 1490 1498	gestante
+T24	Medical-Concept 1008 1028	diabetes gestacional
+T25	Medical-Concept 387 411	Diabetes Mellitus tipo 2
+T26	Medical-Concept 114 117	DMG
+T27	Medical-Concept 274 277	DMG
+T28	Medical-Concept 349 352	DMG
+T29	Medical-Concept 571 574	DMG
+T30	Medical-Concept 1213 1236	confirmação diagnóstica
+T31	Medical-Concept 2320 2342	alto nível de insulina
+T32	Medical-Concept 2271 2292	alto nível de glicose
+T33	Medical-Concept 877 898	consulta de pré-natal
+T34	Medical-Concept 1478 1486	gravidez
+T35	Medical-Concept 216 224	gravidez
+T36	Medical-Concept 2006 2014	gravidez
+T37	Medical-Concept 1596 1623	pacientes portadoras de DMG
+T38	Medical-Concept 1787 1814	pacientes portadoras da DMG
+T39	Medical-Concept 1359 1377	controle glicêmico
+T40	Medical-Concept 355 375	fisiopatologicamente
+T41	Medical-Concept 1427 1449	hipoglicemiantes orais
+T42	Medical-Concept 2091 2111	padrões gestacionais
+T43	Medical-Concept 668 687	excesso de insulina
+T44	Medical-Concept 149 171	intolerância a glicose
+T45	Medical-Concept 1267 1272	dieta
+T46	Medical-Concept 1312 1317	dieta
+T47	Medical-Concept 1524 1547	pré-natal de alto risco
+T48	Medical-Concept 1705 1721	taxa de insulina
+T49	Medical-Concept 1555 1560	bebês
+T50	Medical-Concept 1747 1751	bebê
+T51	Medical-Concept 1915 1919	bebê
+T52	Medical-Concept 2163 2167	bebê
+T53	Medical-Concept 2402 2406	bebê
+T54	Medical-Concept 1683 1687	Bebê
+T55	Medical-Concept 511 519	gestação
+T56	Medical-Concept 860 863	GPJ
+T57	Medical-Concept 920 923	GPJ
+T58	Medical-Concept 1060 1063	GPJ
+T59	Medical-Concept 437 454	pacientes com DMG
+T60	Medical-Concept 530 539	DM tipo 2
+T61	Medical-Concept 1142 1176	Teste Oral de Tolerância a Glicose

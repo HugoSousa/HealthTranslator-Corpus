@@ -1,0 +1,56 @@
+T1	Medical-Concept 76 84	paciente
+T2	Medical-Concept 677 686	ansiedade
+T3	Medical-Concept 641 649	paciente
+T4	Medical-Concept 748 756	paciente
+T5	Medical-Concept 850 858	paciente
+T6	Medical-Concept 1020 1032	respiradores
+T7	Medical-Concept 1451 1464	ar comprimido
+T8	Medical-Concept 1501 1510	pacientes
+T9	Medical-Concept 1998 2003	macas
+T10	Medical-Concept 2163 2176	sinais vitais
+T11	Medical-Concept 1643 1653	enfermagem
+T12	Medical-Concept 1793 1802	pacientes
+T13	Medical-Concept 2626 2632	doença
+T14	Medical-Concept 2676 2685	pacientes
+T15	Medical-Concept 2333 2341	paciente
+T16	Medical-Concept 2443 2451	paciente
+T17	Medical-Concept 2571 2579	paciente
+T18	Medical-Concept 2 28	Oxigenoterapia Hiperbárica
+T19	Medical-Concept 53 64	terapêutica
+T20	Medical-Concept 99 107	inalação
+T21	Medical-Concept 2353 2361	inalação
+T22	Medical-Concept 111 119	oxigênio
+T23	Medical-Concept 1474 1482	oxigênio
+T24	Medical-Concept 2275 2283	oxigênio
+T25	Medical-Concept 293 311	câmara hiperbárica
+T26	Medical-Concept 350 368	câmara hiperbárica
+T27	Medical-Concept 906 924	câmara hiperbárica
+T28	Medical-Concept 704 717	claustrofobia
+T29	Medical-Concept 761 781	câmaras hiperbáricas
+T30	Medical-Concept 956 970	multipacientes
+T31	Medical-Concept 1208 1222	multipacientes
+T32	Medical-Concept 996 1018	ventiladores mecânicos
+T33	Medical-Concept 1047 1063	infusões venosas
+T34	Medical-Concept 1065 1076	transfusões
+T35	Medical-Concept 1181 1192	hiperbárico
+T36	Medical-Concept 1327 1337	enfermeiro
+T37	Medical-Concept 1341 1347	médico
+T38	Medical-Concept 1715 1721	médico
+T39	Medical-Concept 1632 1639	técnico
+T40	Medical-Concept 1400 1410	tratamento
+T41	Medical-Concept 1568 1595	oxigenioterapia hiperbárica
+T42	Medical-Concept 1690 1703	hiperbaristas
+T43	Medical-Concept 1678 1689	enfermeiras
+T44	Medical-Concept 1722 1734	hiperbarista
+T45	Medical-Concept 1923 1935	medicamentos
+T46	Medical-Concept 2118 2136	Câmaras multiplace
+T47	Medical-Concept 1609 1627	Câmaras multiplace
+T48	Medical-Concept 2207 2217	tratamento
+T49	Medical-Concept 520 530	tratamento
+T50	Medical-Concept 2035 2045	tratamento
+T51	Medical-Concept 2548 2558	tratamento
+T52	Medical-Concept 2600 2610	tratamento
+T53	Medical-Concept 2049 2067	pacientes críticos
+T54	Medical-Concept 2180 2196	pacientes graves
+T55	Medical-Concept 2504 2523	câmara monopaciente
+T56	Medical-Concept 2701 2720	câmara monopaciente
